@@ -1,0 +1,483 @@
+# Rohtranskription Hofenbitzer Band 1 — S.7–8, 10, 16–19
+
+Prüfstatus: Am 25.06.2026 durch Codex anhand der Quellfotos roh transkribiert. Einzelne Tabellen- und Bildbeschriftungen bleiben prüfbedürftig; keine fachliche Freigabe.
+
+Quellfotos:
+- S.7: `Photos-3-001 2/20260617_155834.jpg`
+- S.8: `Photos-3-001 2/20260617_155838.jpg`
+- S.10: `Photos-3-001 2/20260617_155845.jpg`
+- S.16: `Photos-3-001 2/20260617_155933.jpg`
+- S.17: `Photos-3-001 2/20260617_155937.jpg`
+- S.18: `Photos-3-001 2/20260617_160002.jpg`
+- S.19: `Photos-3-001 2/20260617_160007.jpg`
+
+---
+
+## S.7
+
+### Einführung — Zur Verwendung des Buches
+
+#### Ziel des Buches
+
+Dieses Buch soll Ihnen helfen, Grund- und Modellschnittkonstruktionen im Selbststudium zu erstellen, um Ihre Modelle zuzuschneiden und anfertigen zu können. Das Buch zeigt Modellentwicklungen auf und soll Ihnen Mut machen, eigene Ideen und völlig neue Kreationen mit Hilfe dieser Prinzipien zu realisieren.
+
+#### Fachsprache und Abkürzungen
+
+Das Buch verwendet eine Fachsprache mit den ihr eigenen Begriffen. Diese werden im Text und in den Konstruktionsanweisungen zumeist erläutert, gehen aber auch häufig aus dem Zusammenhang hervor. Oft tauchen sperrige und zusammenhängende Begriffkombinationen auf, die üblicherweise abgekürzt werden. In diesem Buch werden die Abkürzungen systematisch und eindeutig verwendet. Erläuterungen hierzu und verschiedene Auflistungen sowie Beispiele sind unten und auf den folgenden Seiten aufgeführt.
+
+#### Farbe ist Information
+
+In allen Konstruktionen sind verschiedene Farben verwendet, die für bestimmte Informationen stehen. Flächen, Linien, Begriffe und Abkürzungen sowie Zahlenwerte in bestimmten Farben erleichtern eine schnelle visuelle Wahrnehmung. So kann man eine grüne Futterfläche eindeutig von einem gelben Beleg unterscheiden oder eine dicke schwarze Umfangslinie von einer gestrichelten grünen Bemaßungslinie. Alle Linienarten sind in diesem Kapitel auf Seite 11 erläutert. Seitenverweise erleichtern das Auffinden von Details.
+
+Bei der Arbeit mit diesem Buch werden Sie schnell diese Informationen erkennen und schätzen lernen.
+
+#### Reihenfolgen
+
+Sie finden nach einleitenden Informationen und dem Maßnehmen zunächst Formulare, die Ihre Daten übersichtlich und vollständig sammeln. Diese Formulare sind auch online verfügbar.
+
+Es folgen nach dem einfachen Rockgrundschnitt Modelle, die aus diesem Grundschnitt entwickelt werden können.
+
+Die dargestellten Konstruktionen sind größtenteils selbsterklärend. Optimalerweise sollten die Skizzen für eine erfolgreiche Konstruktion genügen. Ergänzende Beschreibungen erläutern mit Infos und Tipps zusätzlich nahezu jede Konstruktion.
+
+Komplexe Modelle und Schnitte sind in Teilschritte unterteilt, z.B. in „Modellgestaltung“, „Kragenkonstruktion“ usw. Diese nummerierten Teilschritte werden Punkt für Punkt, durch blaue Punkte mit Zahlen, in optimaler Reihenfolge beschrieben. Diese Punkte befinden sich im Text und an den Skizzen.
+
+#### Standards
+
+Die am Ende des Einführungskapitels beschriebenen Standards für Schnittkonstruktionen werden für den Anfänger vermutlich erst nach einigen Erfahrungen wirklich nutzbar sein. Es sind prinzipielle Verfahrenstechniken erläutert, die bei der Schnitterstellung immer wieder angewandt werden.
+
+---
+
+## S.8
+
+### Abkürzungen und Symbole — Systematik, Eigenschaften, Beträge, Werte, Operanden, Aktionen
+
+#### Systematik der Abkürzungen
+
+- Die Systematik soll es ermöglichen, einfache und verständliche neue Abkürzungskombinationen selber zusammenzustellen.
+- Die Abkürzungen werden gelesen, wie man die Begriffskombinationen spricht.
+- Bei Abkürzungskombinationen werden die Kurzzeichen ohne Zwischenraum oder Punkt verbunden.
+- Doppelte Bedeutungen sind sehr selten und lassen sich durch den Zusammenhang klären: AlT = Armlochtiefe, TB = Taschenbreite, Tb = Taschenbeutel. Abkürzungen für Beträge und Werte, z.B. T = Tiefe, stehen immer am Ende einer Abkürzung.
+- Kombinationen mit ausgeschriebenen Begriffen können durch einen Bindestrich getrennt sein, z.B. Kr-Steg = „Kragensteg“.
+- Ein Bindestrich ersetzt auch eine Präposition oder modale Konjugation, z.B. vM-N = vordere Mitte als Naht oder 2x-p OSt = Zuschnitt von zwei Schnittteilen paarig, also spiegelsymmetrisch, aus Oberstoff.
+- Richtungen, Positionen und Eigenschaften werden durch Kleinbuchstaben symbolisiert, der immer am Anfang einer Abkürzungskombination steht. Ausnahme: „geschlossen“ und „offen“, hier werden zwei Kleinbuchstaben verwendet, z.B. geW = geschlossene Weite.
+- Messbeträge und Werte werden durch einen Großbuchstaben symbolisiert, außer „Radius“ = r, weil mathematisch, und stehen immer am Ende einer Abkürzungskombination.
+- Schnitttechnische Begriffe werden mit einem Großbuchstaben, zwei Großbuchstaben oder mit einem Großbuchstaben plus einem oder zwei Kleinbuchstaben symbolisiert, z.B. N = Naht, OT = Oberteil, Stb = Stoffbruch.
+- Körperbereiche werden mit einem Großbuchstaben plus einem Kleinbuchstaben symbolisiert, z.B. Hl = Halsloch.
+
+#### Eigenschaften / Richtungen und Positionen
+
+| Abkürzung | Bedeutung |
+| --- | --- |
+| a | außen, äußere/r/s |
+| g | gemessen/e/r |
+| h | hinten, hintere/r/s |
+| i | innen, innere/r/s |
+| l | links, linke/r/s |
+| m | mittig, mittlere/r/s |
+| o | oben, obere/r/s |
+| p | paarig, spiegel- bzw. symmetrisch |
+| r | rechts, rechte/r/s |
+| s | seitlich, seitliche/r/s |
+| t | tiefste/r/s |
+| u | unten, untere/r/s |
+| v | vorne, vordere/r/s |
+
+#### Beträge und Werte
+
+| Abkürzung | Bedeutung |
+| --- | --- |
+| A | Abstand |
+| α | Alpha = Gesäßwinkel |
+| B | Breite |
+| D | Durchmesser |
+| F | Faktor, mathematisch |
+| H | Höhe |
+| I | Inhalt |
+| L | Länge |
+| r | Radius, mathematisch |
+| T | Tiefe |
+| U | Umfang |
+| W | Weite |
+| Wi | Winkel |
+| Z | Anzahl |
+| Σ | Sigma = Summe |
+
+#### Operanden
+
+| Zeichen | Bedeutung |
+| --- | --- |
+| + | plus |
+| - | minus |
+| : | geteilt durch |
+| · | mal, in Berechnungen |
+| × | mal, im Text |
+| = | ist gleich |
+| ≠ | ungleich |
+| ≙ | entspricht |
+| < | kleiner |
+| > | größer |
+| % | Prozent |
+
+#### Aktionen
+
+| Abkürzung | Bedeutung |
+| --- | --- |
+| auf | aufdrehen, öffnen, sperren |
+| üb | übertragen |
+| me | messen |
+| zu | zudrehen, schließen, kneifen |
+
+Weitere wichtige Symbole und Abkürzungen sind auf Seite 30 und ab der Seite 507 abgedruckt.
+
+#### Einige wichtige Symbole
+
+| Symbol / Abkürzung | Bedeutung |
+| --- | --- |
+| 99 | Seitenverweise auf Grundschnitte, Details und Anleitungen |
+| 1 | Nummerierung der Konstruktionsreihenfolge und Zuordnung der Beschreibungen im Text. Die Punkte sind meistens blau; in anderen Farben symbolisieren sie Alternativen und Varianten. |
+| 46 | Nummerierung von Varianten, z.B. Ärmel, Abnäher usw. |
+| ! | Hinweis zur besonderen Beachtung |
+| AP | Anlagepunkt |
+| ZP | Zirkelpunkt, Drehpunkt |
+| Scherensymbol | Hier wird für eine weitere Behandlung eingeschnitten. |
+| rechter Winkel | Das Zeichen für einen rechten Winkel, 90°. |
+
+#### Fertigungsinformationen
+
+Zuschnittzeichen geben an, wie das gekennzeichnete Produktionsschnittteil zugeschnitten wird.
+
+Der Zuschnitt erfolgt an der hinteren Mitte (hM) gespiegelt, also an der Symmetrielinie ohne Naht bzw. für den Einzelzuschnitt „im Stoffbruch“.
+
+Dressierzeichen geben an, wo und wie die flache Stofffläche vor dem Nähen durch Bügeln dauerhaft zu formen ist.
+
+Beim Dehnen werden z.B. Nahtzugaben, Nähte oder Bereiche innerhalb der Zuschnittfläche ausgedehnt. Hierdurch erhält der Stoff Länge oder Weite, je nach Dehnrichtung.
+
+Beim Einhalten wird der Stoff gestaucht bzw. kurzgehalten. Die Weite oder Länge wird reduziert.
+
+Kräuselzeichen zeigen an, in welchem Bereich die Mehrweite einer Naht durch eine geeignete Methode in kleine, unregelmäßige Fältchen gekräuselt wird.
+
+---
+
+## S.10
+
+### Einführung — Einführung in die Schnitttechnik
+
+#### Was ist ein Schnitt?
+
+„Das Kleid hat einen hervorragenden Schnitt!“ hören wir eine Vertreterin auf der Modemesse schwärmen oder „Der Blazer ist Ihnen wie auf den Leib geschnitten!“ bemerkt die charmante Verkäuferin. Was meinen sie damit?
+
+Im ersten Fall scheint das Kleid in der Gestaltung außerordentlich interessant und dem modischen Trend entsprechend produziert worden zu sein.
+
+Im zweiten Fall meint die Verkäuferin die gute Passform des Blazers an der Kundin.
+
+Der „Schnitt“ bezeichnet also die Formgestaltung der Stoffteile, aus denen die Kleidungsstücke zusammengenäht werden. Hierbei muss die zweidimensionale Fläche des Stoffs auf die dreidimensionale Körperform gebracht werden.
+
+Die Schnitt-Technik ist das passform- und modellgerechte Konstruieren der Flächen, also Schnittmuster, für die Stoffteile, aus denen ein Kleidungsstück besteht.
+
+Dabei entsteht der Schnitt. Die Schnittteile werden aus Stoff zugeschnitten und durch Nähen wieder zusammengefügt, so dass der Körper wie gewünscht umhüllt ist.
+
+Am Anfang stehen die Bedürfnisse der Kund/-innen und die Ideen der Designer/-innen. Letztere leiten ihre Skizzen und Modellbeschreibungen an die Schnitttechniker/-innen bzw. Modellmacher/-innen weiter.
+
+Auch sie sind maßgeblich an der Gestaltung des Produkts beteiligt. Sie wählen den Grundschnitt, formen Nähte, Kanten oder Ausschnitte, geben Weite in die Kleidungsstücke und positionieren Taschen und Kleinteile. Sie sind somit verantwortlich für den „guten Schnitt“ und die optimale Passform. Und sie sind Techniker/-innen, die sich an Regeln halten müssen, damit der Schnitt lesbar und produktionsgerecht wird.
+
+Ein Schnitt ist ein Plan aus Papier oder Pappe, für den automatischen Zuschnitt auch in digitaler Form, zum Zuschneiden einer Stofffläche. Er muss von Zuschneider/-innen interpretiert werden können, die vielleicht eine andere Sprache sprechen. Die Informationen auf dem Schnitt müssen klar und eindeutig sein.
+
+Die Schnittkonstruktion ist also eine anspruchsvolle und verantwortungsvolle Arbeit zwischen Design und Produktion. Sie erfordert Kreativität, ein gutes Gefühl für Form und Proportion und viel fertigungstechnisches Verständnis für die Herstellung von Bekleidung.
+
+#### Manuelles Schnittzeichnen
+
+Die Kundin/der Kunde wird vermessen, die Körpermaße werden in einer Maßtabelle gesammelt. Die Industrie arbeitet mit Maßen aus Größentabellen.
+
+Für die Konstruktion eines Grundschnitts wird ein Maßsatz erstellt. Hier werden zu den Körpermaßen die notwendigen Weitenzugaben addiert, um die Konstruktionsmaße zu erhalten.
+
+Der Grundschnitt soll den Körper optimal umhüllen. Er wird mit den Konstruktionsmaßen nach verschiedenen Konstruktionsregeln erstellt. Die Passform wird durch Probenähen kontrolliert.
+
+Für die Konstruktion des Erstschnitts eines Modells wird die Fläche des Grundschnitts so verändert, dass am Ende die einzelnen Schnittteile eines Modellschnitts vorliegen. Dieser wird zur Anprobe gefertigt. In der Bekleidungsindustrie überprüfen Designer/-innen und Schnitttechniker/-innen die Passform und die Schnittführung.
+
+Der Modellschnitt ist das Produkt aller weiteren Veränderungen des Erstschnitts.
+
+Am fertigen Produktionsschnitt sind zusätzlich alle Nahtzugaben, Markierungen und Beschriftungen angebracht.
+
+#### Werkzeuge
+
+Die zur Verwendung kommenden Werkzeuge der Schnitterstellung sind verschiedene Winkel- und Kurvenlineale, Stifte, Bleistifte und Radiergummi, Maßbänder, Zirkel, Papierscheren, Gewichte, Stecknadeln, Kopierrädchen, Stanzeisen, Knipszangen und Aufhänger für die Schnitte.
+
+#### CAD
+
+Die manuelle Schnitterstellung wurde in der Bekleidungsindustrie fast vollständig durch moderne CAD-Systeme ersetzt. Ein CAD-System besteht im Wesentlichen aus Rechner, CAD-Software, Digitalisier-Tablett und Plotter. Schnitte und ganze Schnittlagenbilder werden digital per Email rund um den Globus gesendet und sind somit ohne Zeitverlust in der Zuschneiderei am anderen Ende der Welt verfügbar.
+
+#### Gradierung
+
+Der Erstschnitt im Konfektionsbetrieb wird in einer Basisgröße erstellt. Ausgehend von Schnittteilen eines Modells werden die Modellschnitt-Teile kleinerer und größerer Größen durch proportionales Verkleinern oder Vergrößern, also Gradieren, ermittelt. Man unterscheidet manuelles Gradieren, halbautomatisches und digitales Gradieren mit Hilfe eines CAD-Programms.
+
+#### Methoden des Zuschnitts
+
+Der Produktionsschnitt besteht normalerweise aus mehreren Schnittteilen. Diese werden unter Beachtung verschiedener Regeln auf den Stoff gelegt. Danach werden die Stoffteile ausgeschnitten, markiert und zusammengenäht, so dass das gewünschte Kleidungsstück entsteht.
+
+Für die verschiedenen Fertigungsmethoden gibt es auch unterschiedliche Zuschneidemethoden:
+
+##### Traditioneller Einzelzuschnitt
+
+Der Stoff wird doubliert, rechte auf rechte Warenseite gelegt, die Modellschnittteile werden aufgesteckt. Der Nahtverlauf wird entlang des Schnittpapiers mit Schneiderkreide auf den Stoff gezeichnet. Dann werden parallel hierzu die Naht- und die Saumzugaben angezeichnet, an denen entlang ausgeschnitten wird. Nahtlinien und Markierungen werden mit Heftgarn übertragen bzw. „durchgeschlagen“, das Stück wird zur Anprobe geheftet.
+
+##### Rationelle handwerkliche Methode
+
+Schnittschablonen werden mit oder ohne Nahtzugaben erstellt, auf den Stoff gelegt, festgesteckt oder mit Gewichten beschwert. Die Nahtlinien werden nicht markiert, sondern die Schnittteile werden mit exakten Nahtzugaben zugeschnitten. Kantenmarkierungen werden mit Knipsen an die Schnittkante gezwickt, Flächenmarkierungen erfolgen durch Bohrpunkte. Das Stück kann zur Anprobe genäht oder ohne Anprobe sofort fertig gestellt werden.
+
+##### Industrielle Methoden
+
+Produktionsschnitte werden mit Nahtzugaben konstruiert. Für diese Schablonen wird ein optimiertes, Abfall sparendes Schnittbild erstellt. In der Regel werden mehrere Stofflagen auf einer langen Bahn ausgelegt. Auf diese Bahn wird das Schnittbild ausgelegt. Die Schnittteile werden mit Zuschneidemaschinen ausgeschnitten, Knipse und Bohrlöcher mit speziellen Geräten angebracht. Die einzelnen Schnittteile werden etikettiert, sortiert und in die Produktion transportiert.
+
+Moderne Betriebe konstruieren ihre Schnitte mit einem CAD-Programm, optimieren die Schnittbild-Legung ebenfalls mit einem Computerprogramm und plotten, also drucken, das Schnittbild auf einer breiten Papierbahn entsprechend der Stoffbahn aus. Zuschnitt und Markierung erfolgt wie oben erwähnt.
+
+Viele Betriebe gehen dazu über, auf das Ausplotten des Schnittbildes in 1:1 zu verzichten und den Zuschnitt wie auch die Markierungen mit computergesteuerten Zuschneideautomaten „online“ zu erledigen.
+
+---
+
+## S.16
+
+### Körpermaße und Maßnehmen (5)
+
+#### 29 Hüfttiefe — HüT
+
+Mit dem Maßband wird der Abstand zwischen Unterkante des Taillenbandes und der stärksten Stelle an der seitlichen Hüfte entlang der Körperrundung gemessen.
+
+#### 30 Schritthöhe — SrH
+
+Das Maß zwischen Schritt und Standfläche wird mit einem Schritt-Maßband gemessen, aber häufig bei Damen auch nur berechnet.
+
+#### 31 Sitzhöhe — SiH
+
+Die Sitzhöhe wird im Sitzen auf einer ebenen Fläche gemessen. Das Taillenband muss hierbei waagerecht liegen, siehe Taillenhöhen. Das Maß wird links und rechts von der Unterkante des Taillenmaßbandes bis zur Ebene der Sitzfläche entlang der seitlichen Körperrundung gemessen. Man verwendet das mittlere oder kürzere gemessene Maß. Geeignetes Messgerät ist das Lotband.
+
+Bildbeschriftungen:
+
+- □9 Maße unterhalb der Taille.
+- □10 Sitzhöhe von der waagerechten Taille.
+- □11 Spezielle Hosenmaße.
+
+Beschriftungen in den Zeichnungen: Taille, Hüfte, Standebene, 29 HüT, 30 SrH, 31 SiH, 32 OsU, 33 KnU, 34 uKnU, 35 WaU, 36 FeU, 37 RiU, 38 UlU.
+
+#### 32 Oberschenkelumfang — OsU
+
+Das Maß wird über der stärksten Stelle der Oberschenkel gemessen.
+
+#### 33 Knieumfang — KnU
+
+Das Maß wird über die stärkste Stelle des Knies gemessen.
+
+#### 34 Unterknieumfang — uKnU
+
+Das Maß wird über der engsten Stelle unter dem Knie gemessen.
+
+#### 35 Wadenumfang — WaU
+
+Das Maß wird über der stärksten Stelle der Wade gemessen.
+
+#### 36 Fesselumfang — FeU
+
+Das Maß wird über der stärksten Stelle der Fußknöchel gemessen.
+
+#### 37 Fersen-/Ristumfang — RiU
+
+Das Maß wird unter der Ferse und über dem Rist, also Fußrücken, bei gestrecktem Fuß gemessen.
+
+#### 38 Unterleibumfang — UlU
+
+Das Maß wird entlang der vorderen und der hinteren Mitte zwischen den Beinen jeweils zur Unterkante des Taillenbandes extrem eng am Körper gemessen.
+
+---
+
+## S.17
+
+### Hinweise zum Maßnehmen und zur Maßtabelle (1)
+
+#### Gemessene Maße
+
+Die Maße, z.B. der Taillenumfang, werden gemessen und in der Maßtabelle, folgende Seite bzw. Kopiervorlagen im Anhang, notiert.
+
+#### Berechnete Maße
+
+Manche Konstruktionsmaße kann man nur berechnen, wie z.B. die Halslochbreite (HlB), die aus dem Halsansatz-Umfang (HaU) berechnet wird. Die Formeln stehen in der Maßtabelle, die Werte sind ebenfalls dort zu notieren.
+
+#### Kontrollmaße
+
+Zur Kontrolle werden bestimmte Maße anhand anderer Maße errechnet und somit kontrolliert, wie z.B. die Armlochtiefe (AlT). Hier kann bei starker Abweichung das gemessene Maß an den Wert des Kontrollmaßes angepasst werden.
+
+#### Beide Körperseiten
+
+Die Brusttiefe (gBrT) wird z.B. an beiden Körperseiten gemessen. Hier wird in der Regel der Durchschnitt errechnet, um die endgültige Brusttiefe (BrT) zu bestimmen.
+
+#### Figurbedingte Korrekturen
+
+Für die korrekten Maße der Rückenlänge (RüL) und der Vorderlänge (VL) muss man zusätzlich die Lage des Taillenbandes beobachten, das, von der Seite aus betrachtet, optimalerweise waagerecht liegen sollte.
+
+□1 Liegt das Taillenband hinten z.B. um 1 cm tiefer, muss der Wert der gemessenen Rückenlänge (gRüL) um 1 cm gekürzt werden, da es zu lang ist. Steigt z.B. das Taillenband vorne an, muss hier die gemessene Vorderlänge (gVL) entsprechend verlängert werden.
+
+Die Taillenschräglage ist nur für die korrekte Messung von RüL und VL notwendig. Es hat zunächst nichts mit der Lage eines Bundes an der Bundposition bzw. mit den gemessenen Bundabständen zu tun!
+
+□2 Größere Probleme können bei Figuren entstehen, an denen sich das Taillenmaßband nicht waagerecht legen lässt. Dies beobachtet man manchmal bei stärkeren Figuren. Bei diesen ist es zudem schwierig, die korrekte Höhe der Taille zu bestimmen, da die unteren Rippenbögen und die Hüftknochen schwer zu ertasten sind.
+
+Hier rutscht das Taillenmaßband gerne in die Bauchfalte, d.h. an die Bundposition, und das Band fällt von der Seite aus nach vorne hin ab. Die korrekte Position des Taillenmaßbandes muss hier erzwungen werden!
+
+#### Kontrolle der Balance von RüL und VL
+
+Bei den Maßen in der Größentabelle stehen die Rückenlänge (RüL) und Vorderlänge (VL) bei jeder einzelnen Größe in optimaler Balance zueinander.
+
+Bei individuell gemessenen Maßen ist jedoch unbedingt eine Kontrolle der Balance, in der Maßtabelle unten rechts, vorzunehmen.
+
+#### Individuelle Balance
+
+RüL und VL werden also zum waagerechten Taillenmaßband gemessen bzw. um eine Taillenschräglage korrigiert. Nun kann die Differenz von VL minus RüL ermittelt werden. Dies ist die individuelle Balance.
+
+#### Optimale Balance
+
+Die Werte von VL und RüL müssen bei waagerechtem Taillenumfang eine bestimmte Differenz aufweisen. Man findet die Werte in der Maßtabelle im roten Rahmen.
+
+#### Balance-Problem
+
+Die Differenz zwischen individueller und optimaler Balance stellt das Balance-Problem dar, das es ggf. zu korrigieren gilt.
+
+#### TIPP
+
+Stellt man ein Balance-Problem fest, das sich an der Figur zunächst nicht beobachten lässt, ist es immer ratsam, noch einmal die Lage des Taillenmaßbandes zu kontrollieren und die RüL und die VL nachzumessen.
+
+#### Figurbeobachtung, -Abweichung
+
+□1+2 Bei der Figurbeobachtung werden die Haltung und die besonderen Proportionen einer Figur analysiert, siehe Seiten 174+175. Dies ist neben dem Messen der Körpermaße die andere wichtige Aufgabe beim Maßnehmen.
+
+Ist die gVL zu lang, könnte es sich z.B. um eine Figur mit großem Busen oder mit sehr geradem Rücken handeln.
+
+Ist die gRüL zu lang, könnte es sich z.B. um eine Figur mit kleinem Busen oder mit rundem Rücken handeln.
+
+Dies sind einige Möglichkeiten, wie solche Maßabweichungen interpretiert werden können. Nur durch eine gründliche Figurbeobachtung können sie zweifelsfrei bestimmt und der Schnitt passformgerecht optimiert werden. Hierzu sei auf Band 2 „Maßschnitte und Passform“ verwiesen.
+
+Bildbeschriftungen:
+
+- □1 Taillenschräglage hinten wegen Hohlkreuz.
+- □2 Taillenproblem an starker Figur.
+
+---
+
+## S.18
+
+### Hinweise zur Maßtabelle und zum Maßnehmen (2)
+
+#### Maßoptimierung, Schnittkonstruktion und Schnittoptimierung
+
+Für die Grundschnittkonstruktion müssen nun die VL und/oder die RüL entsprechend der Figurbeobachtung so korrigiert werden, dass die optimale Balance zwischen VL und RüL hergestellt ist. Dies wird, wenn notwendig, in der Konstruktionstabelle notiert, siehe Seite 177.
+
+Nach der Grundschnitt-Konstruktion in optimaler Balance werden die Beträge der Maßänderungen an RüL und/oder VL nach bestimmten Regeln am Grundschnitt rückgängig gemacht, wodurch der Grundschnitt optimiert wird.
+
+Ist z.B. die gemessene RüL bei einem runden Rücken zu lang, siehe □7, wird das Konstruktionsmaß RüL für die Schnitterstellung verringert, damit die Balance passt. Nach der Konstruktion fehlt jetzt Länge im Rückteil. Nun wird der Rücken aufgeschnitten und die zuvor gekürzte RüL wieder in den Schnitt gegeben. Die RüL besitzt jetzt wieder das gemessene Maß. Durch das Öffnen am Rücken vergrößert sich der Schulterabnäher, wodurch das Rückteil die notwendige Form für die entsprechende Figur erhält.
+
+#### Probleme unterhalb der Taille
+
+□1+2 Figurabweichungen unterhalb der Taille sind ebenfalls durch eine Figurbeobachtung zu analysieren. Hier erklärt sich z.B. in □2 eine längere hTaH durch das starke Gesäß. Auch hier ist zum waagerechten Taillenband zu messen.
+
+Der Rock- und Hosen-Grundschnitt ist entsprechend anzupassen.
+
+Leider würde es den Rahmen dieses Buches sprengen, alle Problemfiguren zu besprechen und Lösungen aufzuzeigen. Der vorliegende Band 1 behandelt ausschließlich die Grundlagen der Schnittkonstruktion.
+
+Trotzdem sei hier die Problematik kurz erläutert, um einen Hinweis zu geben, dass Probleme auftreten können. Zudem sei darauf hingewiesen, wo Lösungen zu Problemen bei individuellen Konstruktionen zu finden sind.
+
+Umfangreiche Informationen und Schritt-für-Schritt-Anleitungen zur Behandlung von Passformproblemen finden sich in Band 2 „Maßschnitte und Passform“.
+
+Bildbeschriftungen und Stichworte:
+
+- □1 Flaches Gesäß.
+- □2 Starkes Gesäß.
+- Die vTaH ist korrekt.
+- Die hTaH ist wegen des flachen Gesäßes kürzer.
+- Die hTaH ist wegen des starken Gesäßes länger.
+- □3 Großer Busen.
+- Die VL ist durch den großen Busen zu lang.
+- Die RüL ist korrekt.
+- □4 Aufrechte Haltung, vorgedrückte Brust.
+- Die VL ist wegen der vorgedrückten Brust zu lang.
+- Die RüL ist wegen der aufrechten Haltung zu kurz.
+- □5 Flacher Busen.
+- Die VL ist durch den flachen Busen zu kurz.
+- Die RüL ist korrekt.
+- □6 Runder Rücken.
+- Die VL ist wegen des eingefallenen Brustkorbs zu kurz.
+- Die RüL ist wegen des runden Rückens zu lang.
+- Die grün gestrichelten Linien verdeutlichen die Normalfigur.
+
+---
+
+## S.19
+
+### Maßtabelle
+
+Randhinweis: Formulare sind auch unter folgendem Link zu finden: `www.europa-lehrmittel.de/62369`
+
+Felder: Name, Datum, Körpermaße, Bemerkungen.
+
+#### Körpermaße und Rechenfelder
+
+| Abkürzung | Bezeichnung / Feld | Rechen- oder Zusatzfelder |
+| --- | --- | --- |
+| KöH | Körperhöhe |  |
+| gBrU | gemessener Brustumfang |  |
+| TaU | Taillenumfang waagerecht | 1/2, 1/4 |
+| HüU | Hüftumfang waagerecht | 1/2, 1/4 |
+| BuU | Bundumfang | 1/2, 1/4 |
+| BuA | Bundabstände -> Ta-Band | v, h, r, l |
+| TaH | Taillenhöhen vom Boden zum Taillen-Band | v, h, r, l; optimale mTaH, sTaH |
+| HaU | Halsansatzumfang | HaU : 6 + 0,5 cm = Halslochbreite HlB |
+| gRüL | gemessene Rückenlänge | ± Taillenschräglage hinten = Rückenlänge RüL |
+| gBrT | gemessene Brusttiefe | r, l, Ø; gBrT - HlB = Brusttiefe BrT |
+| gVL | gemessene Vorderlänge | r, l, Ø; gVL - HlB; ± Taillenschräglage vorne = Vorderlänge VL |
+| gAlT | gemessene Armlochtiefe | Kontrolle: (KöH + BrU) : 10 - 6 cm = Armlochtiefe AlT |
+| gRüB | gemessene Rückenbreite | gRüB : 2 = RüB |
+| gArD | gemessener Armdurchmesser | r, l, Ø; ArD |
+| gBrB | gemessene Brustbreite | gBrB : 2 = BrB |
+| BrU | Brustumfang waagerecht | RüB + ArD + BrB = 1/2 BrU; Σ; · 2 = BrU |
+| oRüB | obere Rückenbreite | 1/2 |
+| oBrB | obere Brustbreite | 1/2 |
+| oBrA | Oberbrustabstand -> BrP |  |
+| uBrU | Unterbrustumfang | 1/2 |
+| uBrA | Unterbrustabstand -> BrP |  |
+| SuWi | Schulterwinkel | r, l |
+| ArL | Armlänge |  |
+| OaU | Oberarmumfang |  |
+| HagU | Handgelenkumfang |  |
+| HaU | Handumfang |  |
+| AraU | Armansatzumfang |  |
+| SuB | Schulterbreite |  |
+
+Hinweis zu den Bundabständen: Vorsicht, die Taillenabstände sind nicht unbedingt identisch mit der Taillenschräglage.
+
+#### Maße unterhalb der Taille / spezielle Hosenmaße
+
+| Abkürzung | Bezeichnung |
+| --- | --- |
+| HüT | Hüfttiefe |
+| SiH | Sitzhöhe |
+| OsU | Oberschenkelumfang |
+| KnU | Knieumfang |
+| uKnU | unterer Knieumfang |
+| WaU | Wadenumfang |
+| FeU | Fesselumfang |
+| RiU | Ristumfang |
+| UlU | Unterleibumfang |
+
+#### Balance
+
+| Brustumfang BrU | optimale Balance Bal |
+| --- | --- |
+| 80 bis 89 | + 3,5 |
+| 90 bis 99 | + 4,0 |
+| 100 bis 109 | (BrU - 100) : 10 + 4,5 |
+| 110 bis 119 | (BrU - 100) : 10 + 5,0 |
+| 120 bis 129 | (BrU - 100) : 10 + 5,5 |
+| 130 bis 150 | (BrU - 100) : 10 + 6,0 |
+
+Rechenfelder:
+
+- VL minus RüL = individuelle Balance.
+- Bal minus individuelle Balance = Balance-Problem.
+- Abweichungen von der optimalen Balance bis zu 1 cm können vernachlässigt werden, wenn kein Figurproblem beobachtet werden kann.
+- Bei Zweifeln sollten die Messungen zum waagerechten Taillenmaßband wiederholt werden.
+- Die endgültigen Konstruktionswerte für RüL und VL sind durch Figurbeobachtung zu ermitteln, siehe Band 2.

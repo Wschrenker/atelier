@@ -23,5 +23,5 @@ GitHub-Repo launchen
 
 ---
 Aktiv steuert: Wschrenker + Munkhuu
-KI-Partner: Claude   
+KI-Partner: Hermes   
 
