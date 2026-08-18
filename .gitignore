@@ -1,1 +1,15 @@
-/hofenbitzer/
+# Buchfotos bleiben draußen — ca. 2,1 GB, gehören nicht ins Repo.
+# Sie liegen lokal unter hofenbitzer/ und sind über die Transkripte referenziert.
+hofenbitzer/**/*.jpg
+hofenbitzer/**/*.jpeg
+hofenbitzer/**/*.png
+
+# Die Transkripte selbst werden ausdrücklich versioniert.
+# Sie sind die Quelle der Engine und dürfen nicht verloren gehen.
+
+# Werkzeug-Ablagen
+.hermes/
+
+# Windows
+desktop.ini
+Thumbs.db
