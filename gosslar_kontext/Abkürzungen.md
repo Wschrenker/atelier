@@ -61,3 +61,16 @@
 | ueb | uebertragen |
 | me | messen |
 | zu | zudrehen, schliessen, kneifen |
+
+## Systematik der Abkuerzungen
+
+- Die Systematik soll es ermoeglichen, einfache und verstaendliche neue Abkuerzungskombinationen selber zusammenzustellen.
+- Die Abkuerzungen werden gelesen, wie man die Begriffskombinationen spricht.
+- Bei Abkuerzungskombinationen werden die Kurzzeichen ohne Zwischenraum oder Punkt verbunden.
+- Doppelte Bedeutungen sind sehr selten und lassen sich durch den Zusammenhang klaeren: AlT = Armlochtiefe, TB = Taschenbreite, Tb = Taschenbeutel. Abkuerzungen fuer Betraege und Werte (z.B. T = Tiefe) stehen immer am Ende einer Abkuerzung.
+- Kombinationen mit ausgeschriebenen Begriffen koennen durch einen Bindestrich getrennt sein, z.B. Kr-Steg = Kragensteg.
+- Ein Bindestrich ersetzt auch eine Praeposition oder modale Konjugation, z.B. vM-N = vordere Mitte als Naht oder 2x-p OSt = Zuschnitt von zwei Schnittteilen paarig (spiegelsymmetrisch) aus Oberstoff.
+- Richtungen, Positionen und Eigenschaften werden durch Kleinbuchstaben symbolisiert, der immer am Anfang einer Abkuerzungskombination steht. Ausnahme: Geschlossen und offen; hier werden zwei Kleinbuchstaben verwendet: z.B. geW = geschlossene Weite.
+- Mess-Betraege und Werte werden durch einen Grossbuchstaben symbolisiert, ausser Radius = r, weil mathematisch, und stehen immer am Ende einer Abkuerzungskombination.
+- Schnitttechnische Begriffe werden mit einem Grossbuchstaben (N = Naht), mit zwei Grossbuchstaben (OT = Oberteil) oder mit einem Grossbuchstaben plus einem oder zwei Kleinbuchstaben (Stb = Stoffbruch) symbolisiert.
+- Koerperbereiche werden mit einem Grossbuchstaben plus einem Kleinbuchstaben symbolisiert, z.B. Hl = Halsloch.
