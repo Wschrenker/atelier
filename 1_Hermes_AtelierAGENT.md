@@ -96,9 +96,8 @@ Nichts entsteht auf Vorrat. Wenn das Kleid steht, ist der Scope zu.
 **Das Repo wächst organisch.** Ordner entstehen, wenn das erste Stück Inhalt
 sie braucht — nicht vorher. Leere Ordner sind bewusst gelöscht worden.
 
-## Die eiserne Regel
-Nicht vorsorglich verallgemeinern. Erst das zweite Kleid zeigt, was wirklich
-ein Parameter sein muss.
+## Nicht vorsorglich verallgemeinern
+Erst das zweite Kleid zeigt, was wirklich ein Parameter sein muss.
 
 ## Arbeitsweise pro Buchseite
 1. Seite lesen → neue Begriffe nach **Gosslar**

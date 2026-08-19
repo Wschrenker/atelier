@@ -61,3 +61,16 @@ Verworfenes bleibt stehen. Sonst schlagen wir es in vier Wochen wieder vor.
 
 Bei jedem Chatwechsel. Wenn `777` zu groß wird, entscheiden wir dann, wie
 geteilt wird — nicht vorher.
+
+## `Unbenannt*.txt` — nicht lesen
+
+Dateien namens `Unbenannt*.txt` sind **rohe Chatkopien**. Werner sammelt sie,
+das ist alles. Sie sind keine Anweisung, keine Quelle und kein Prüfwert.
+
+> **Beim Start nicht anschauen.** Was aus einem Chat gilt, steht in `777`, `888`
+> oder `999` — dorthin ist es bewusst übertragen worden. Steht es nur im
+> Rohchat, gilt es nicht.
+
+Sie liegen deshalb **nicht im Git** (`.gitignore`, global und ohne Pfad).
+Nur wenn Werner ausdrücklich darauf zeigt, wird darin gelesen.
+
