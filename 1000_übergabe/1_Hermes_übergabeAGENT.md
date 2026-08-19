@@ -18,6 +18,24 @@ die jemand hat, der neu dazukommt, Mensch wie KI.
 Dieser Ordner ist **keine Arbeitsstufe**. Er steht neben der Kette
 100 → 200 → 300 → 400, nicht darin. Deshalb die 1000.
 
+## Diese Datei allein reicht nicht
+
+Wer diese Datei geladen hat, kennt die **Regeln** des Ordners — aber noch keinen
+einzigen **Inhalt**. Die Regeln ohne die Übergabe sind wertlos.
+
+> **Ist dieser AGENT geladen, werden `777`, `888` und `999` mitgelesen.**
+> Ohne Nachfrage, in dieser Reihenfolge.
+
+| Datei | wird gelesen |
+|---|---|
+| `777_vergangenheit.md` | ja |
+| `888_Gegenwart.md` | ja |
+| `999_zukunft.md` | ja |
+| `Unbenannt*.txt` | **nein** — siehe unten |
+
+Das gilt nur für diesen Ordner. Die Ladeliste in `CLAUDE.md` entscheidet, **ob**
+dieser AGENT geladen wird — was danach dazugehört, entscheidet diese Datei.
+
 ---
 
 ## 777 — Vergangenheit darf nicht zum zweiten Git werden
