@@ -23,3 +23,17 @@
 | **Vorgehen bei externer Änderung durch Werner:** er sagt Bescheid → KI liest → KI sucht, was daran hängt → Meldung unter *Meta* mit Stufe → KI ändert erst auf sein Wort. | Ohne Meldung schreibt die KI irgendwann über seine Arbeit, ohne dass es jemand merkt (*Lost Update*). Und er muss die Tragweite kennen, bevor er entscheidet. | Werner |
 | **Stufen heißen folgenlos / nachziehen / Entscheidung — keine Ampelfarben.** | Rot, Gelb und Grün sind im Atelier schon als Modi vergeben. Ein Zeichen mit zwei Bedeutungen ist derselbe Fehler wie „Die eiserne Regel". | Claude, bestätigt Werner |
 | **In die `1000er` wird nur auf den Befehl *Chatübergabe* geschrieben, nicht laufend.** | Sonst entsteht nebenher Text, den Werner gegenlesen muss — genau der Drift, den wir abstellen. | Werner |
+
+---
+
+## Chat 3 — 2026-08-19 · Werner + Claude · Thema: Übergabe-AGENT kürzen, Zeilenenden
+
+| Entscheidung | Warum | Wer |
+|---|---|---|
+| **Ein angekreuzter `übergabeAGENT` zieht `777`, `888` und `999` mit.** | Wer nur den AGENT lädt, kennt die **Regeln** des Ordners und keinen einzigen **Stand**. Die Ladeliste in `CLAUDE.md` bleibt damit kurz, der Ordner regelt seinen eigenen Umfang. Ersetzt den Chat-2-Eintrag „eigene Zeilen für `777`/`888`/`999`" in `999`. | Werner |
+| **Diese Mitlese-Regel gilt **nur** für `1000_übergabe`, nicht für `100`–`400`.** | Der Übergabeordner ist eine Zeitachse und nur vollständig sinnvoll; die Arbeitsstufen sind einzeln zu holen. Claude hatte sie als Muster für alle AGENT-Dateien vorgeschlagen — **abgelehnt**. Ein Kreuz in der Ladeliste soll nicht unbemerkt teuer werden. | Werner |
+| **Im AGENT steht Mechanik, das Warum steht in `777`/`888`/`999`.** | Werner kürzte den `übergabeAGENT` von 94 auf 66 Zeilen und nahm die Begründungen heraus. Die Datei sagt jetzt, **wie** es läuft, nicht mehr, **warum**. Das ist Absicht und keine Auslassung. | Werner |
+| **Ausnahme davon: der Status `verworfen` behält seine Begründung in der Tabelle.** | „Verworfen kann in vier Wochen wertvoll sein." Die Marke ohne ihren Zweck wird zur Formalie — dann wird sie gepflegt statt verstanden, und der abgelehnte Vorschlag kommt wieder. Der Halbsatz steht dort, wo die Regel ohnehin gelesen wird. | Werner |
+| **`Unbenannt*.txt` ersatzlos gestrichen — Leseverbot im AGENT **und** Eintrag in `.gitignore`.** | Werner legt die rohen Chatkopien nicht mehr an. Eine Schutzregel für etwas, das es physisch nicht mehr gibt, ist kein Schutz, sondern Ballast — und der nächste Leser sucht nach Dateien, die nie kommen. | Werner |
+| **`.gitattributes` mit `* text=auto eol=lf` statt nur `text=auto`.** | `core.autocrlf` steht auf `true` und rechnet weiter in CRLF um; `text=auto` allein hätte die Warnung nicht abgestellt. **Eine Regel, die ihre eigene Voraussetzung nicht kennt, sieht richtig aus und wirkt nicht.** Die Dauerwarnung „LF will be replaced by CRLF" stand bei jeder Datei und verdeckte echte Meldungen. | Claude, bestätigt Werner |
+| **Branch `grundlagen-block1` liegt jetzt auf GitHub.** | Er existierte nur lokal — ein Rechnerschaden hätte Chat 2 und 3 vollständig gelöscht. Backup vor Schönheit. | Werner |
