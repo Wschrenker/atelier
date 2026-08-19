@@ -17,7 +17,8 @@ Dieser Ordner ist **keine Arbeitsstufe**. Er steht neben der Kette
 
 ## Diese Datei allein reicht nicht
 
-> **Ist dieser AGENT geladen, werden `777`, `888` und `999` mitgelesen.**
+> **Ist dieser AGENT geladen, werden `777` und `888` mitgelesen.**
+> `999` nicht — es steht als eigene Zeile in der Ladeliste.
 
 Das gilt nur für diesen Ordner. Die Ladeliste in `CLAUDE.md` entscheidet, **ob**
 dieser AGENT geladen wird.

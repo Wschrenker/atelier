@@ -11,6 +11,7 @@ Nur die **angekreuzten** Dateien lesen. Nicht angekreuzt heißt: nicht laden.
 - [ ] `300_module/1_Hermes_ModulAGENT.md`
 - [ ] `400_pattern/1_Hermes_PatternAGENT.md`
 - [ x] `1000_übergabe/1_Hermes_übergabeAGENT.md`
+- [ ] `1000_übergabe/999_zukunft.md`
 
 ## Kommunikation
 
