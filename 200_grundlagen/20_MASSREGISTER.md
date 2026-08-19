@@ -2,11 +2,11 @@
 
 **Quelle:** Hofenbitzer Band 1, S. 11–15 („Der menschliche Körper",
 „Körpermaße und Maßnehmen (1)–(4)")
-**Transkript:** `hofenbitzer/transskript/s11-15_rohtranskription.md`
+**Transkript:** `100_quellen/110_hofenbitzer/transskript/s11-15_rohtranskription.md`
 (am 21.06.2026 durch Codex bildweise gegen die fünf Quellfotos geprüft —
 Transkriptionsprüfung, **keine fachliche Freigabe**)
 
-Stand: 2026-08-18 · eingepflegt durch Claude (Coder)
+Stand: 2026-08-19 · eingepflegt durch Claude (Coder)
 Status: **wartet auf Werners Prüfung** — offene Punkte am Ende der Datei
 
 ---
@@ -73,7 +73,7 @@ werden berechnet.** Das ist die Trennlinie des künftigen `masse`-Moduls.
 
 | Nr | Kürzel | Name | Art | Messanweisung (gekürzt) |
 |---:|---|---|---|---|
-| 9 | **HaU** ⚠️ | Halsansatzumfang | Körpermaß | hinten über den 7. Halswirbel, vorne entlang des Schlüsselbeins durch die Kuhle unterhalb des Adamsapfels |
+| 9 | **HaU** | Halsansatzumfang | Körpermaß | hinten über den 7. Halswirbel, vorne entlang des Schlüsselbeins durch die Kuhle unterhalb des Adamsapfels |
 | 10 | **gRüL** | gemessene Rückenlänge | Körpermaß | 7. HW entlang der Wirbelsäule bis Unterkante des **waagerechten** Taillenbandes |
 | 11 | **gBrT** | gemessene Brusttiefe | Körpermaß | 7. HW eng um den Hals bis zum Brustpunkt (BrP); **beide Körperhälften** messen. Konstruktionsmaß **BrT wird berechnet** |
 | 12 | **gVL** | gemessene Vorderlänge | Körpermaß | 7. HW über den Hals, über den Brustpunkt, senkrecht bis Unterkante des exakt waagerechten Taillenbandes; beidseitig. Konstruktionsmaß **VL wird berechnet**. ⚠️ **nicht** zur natürlichen Taille messen |
@@ -105,7 +105,7 @@ werden berechnet.** Das ist die Trennlinie des künftigen `masse`-Moduls.
 | 23 | **ArL** | Armlänge | Körpermaß | Schulterpunkt über leicht angewinkelte Ellenbogenspitze bis äußerer Handgelenkknöchel; Winkel **max. 45°** |
 | 24 | **OaU** | Oberarmumfang | Körpermaß | waagerecht an der stärksten Stelle unterhalb der Achselhöhle |
 | 25 | **HagU** | Handgelenkumfang | Körpermaß | über die stärkste Stelle der Handgelenk-Knöchel |
-| 26 | **HaU** ⚠️ | Handumfang | Körpermaß | über die stärkste Stelle der **geschlossenen** Hand |
+| 26 | **HdU** ⚡ | Handumfang | Körpermaß | über die stärkste Stelle der **geschlossenen** Hand |
 | 27 | **AraU** | Armansatzumfang | Körpermaß | mit dünnem Maßband oder Kordel unter der Achsel durch über die seitliche Schulter |
 | 28 | **SuWi** | Schulterwinkel | Körpermaß | Winkelmesser zwischen Halsansatz und Schulterpunkt. **Normalwert 20°.** Bei unterschiedlichen Werten links/rechts **immer den kleineren verwenden** |
 
@@ -153,24 +153,39 @@ Einpflegen der jeweiligen Seite nachgetragen werden:
 
 ---
 
+## ⚡ Bewusste Abweichungen vom Buch
+
+Hier stehen die Stellen, an denen die Engine absichtlich anders schreibt oder
+rechnet als Hofenbitzer. Jede Abweichung braucht einen Grund und eine Freigabe.
+Alles, was hier **nicht** steht, folgt dem Buch.
+
+### A1 — `HdU` statt `HaU` für den Handumfang
+
+**Im Buch steht `HaU` zweimal** — das ist korrekt so und kein Transkriptionsfehler:
+
+- **Nr. 9 — Halsansatzumfang `HaU`** (S. 13)
+- **Nr. 26 — Handumfang `HaU`** (S. 15)
+
+Für den Menschen ist das über den Zusammenhang lösbar; die Abkürzungs-Systematik
+des Buchs sieht das ausdrücklich vor. **Für Code nicht** — zwei Größen können
+nicht denselben Variablennamen tragen.
+
+**Festlegung (Werner, 19.08.2026):**
+
+| | Buch | Engine |
+|---|---|---|
+| Halsansatzumfang | `HaU` | `HaU` — unverändert |
+| Handumfang | `HaU` | **`HdU`** |
+
+Das Buch bleibt Quelle, die Engine wird eindeutig. Beim Lesen einer Buchseite
+gilt: steht dort `HaU` im Zusammenhang mit der Hand, wird es beim Einpflegen zu
+`HdU`.
+
+**Erste bewusste Abweichung des Projekts.** Weitere kommen hier darunter.
+
+---
+
 ## ⚠️ Offene Punkte — bitte am Buch prüfen
-
-### P1 — Namenskollision `HaU` (kritisch für den Code)
-
-`HaU` steht im Register **zweimal**:
-
-- **Nr. 9 — Halsansatzumfang** (S. 13)
-- **Nr. 26 — Handumfang** (S. 15)
-
-Für den Menschen lösbar über den Zusammenhang — die Abkürzungen-Systematik
-sagt das ausdrücklich. **Für den Code nicht.** Zwei Größen können nicht denselben
-Variablennamen tragen.
-
-*Bitte am Buch nachsehen, ob eines der beiden anders geschrieben ist
-(z.B. `HdU` für Handumfang oder `HalsU`).* Wenn das Buch wirklich beide gleich
-schreibt, brauchen wir eine eigene Engine-Konvention — und die muss dann
-irgendwo vom Buch abweichen. Das wäre die erste bewusste Abweichung überhaupt
-und gehört dokumentiert.
 
 ### P2 — Zwei Wege zur Brustbreite
 

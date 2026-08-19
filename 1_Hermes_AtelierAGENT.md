@@ -10,19 +10,75 @@ Schnittmusterprogramm aus Formeln. Ausgabe: DXF, SVG, PDF, JSON.
 Gleichrangiges zweites Ziel: Werner und Munkhuu verstehen jede Konstruktion,
 die der Code ausführt.
 
-## Quelle
-**Guido Hofenbitzer — Grundschnitte und Modellentwicklungen.
-Schnittkonstruktion für Damenmode.** Europa-Lehrmittel.
-Band 1 (3. Auflage 2024) und Band 2 (Noch nicht transskripiert und im desktop).
-
-Das Buch ist die einzige fachliche Quelle der Engine. Jede Konstruktion,
-jede Formel und jeder Prüfwert stammt daraus und trägt eine Seitenzahl.
-Transkripte und Fotos liegen unter `hofenbitzer/`.
-
 ## Versionen
 - **Engine:** eine Ziffer — `v1`, `v2`, `v3`. Aktuell **v2**.
 - **Kleider:** drei Ziffern — `v001`, `v002`, `v003`.
 - **Module:** noch offen, evtl. `v01`. Nicht dringend.
+
+## Die Ordnung: die Nummer sagt die Art, der Name sagt die Sache
+
+### Ordner — sie folgen der Arbeitsrichtung
+
+| Ordner | Inhalt |
+|---|---|
+| `100_quellen` | Bücher. Unveränderlich, wird nur gelesen. |
+| `200_grundlagen` | Was wir aus den Quellen ziehen: Sprache, Zeichen, Maße. |
+| `300_module` | Konstruktionen. Wiederverwendbar und **kleidblind**. |
+| `400_pattern` | Die Kleider. Sie **benutzen** Module, sie besitzen keine. |
+
+Die Reihenfolge ist der Fluss der Arbeit:
+**Quelle → Grundlage → Modul → Kleid.**
+Hunderterschritte lassen Platz für Ebenen dazwischen.
+
+### Dateien — in jedem Ordner nach demselben Schlüssel
+
+| Nummer | Art |
+|---|---|
+| `1` | Agentenanweisung — was gilt hier drin |
+| `10er` | Zeichen und Sprache |
+| `20er` | Maße |
+| `30er` | Formeln und Konstruktion |
+| `888` | zu bearbeiten, offen, Test |
+| `999` | Glossar und Ablage |
+
+**Lücken sind Absicht.** Zwischen zwei Arten bleibt Platz; innerhalb einer Art
+darf dicht nummeriert werden (10, 11, 12, 13).
+
+### Die Kontenplan-Regel
+
+Die Ordnung ist wie ein Kontenplan gebaut und wird auch so behandelt:
+
+| Regel | Bedeutung |
+|---|---|
+| Die Nummer trägt die Bedeutung | man findet, ohne zu lesen |
+| **Eine Nummer wird nie umgewidmet** | wenn `20` einmal „Maße" heißt, heißt sie das für immer |
+| **Es wird nie umnummeriert** | Neues bekommt eine freie Nummer — deshalb die Lücken |
+| Derselbe Schlüssel überall | jeder Ordner liest sich gleich |
+
+Falsch einsortiert wird durch eine **neue Nummer** geheilt, nicht durch
+Verschieben und Umnummerieren. Eine Ordnung, in der Nummern wandern, versteht
+nach einem Jahr niemand mehr.
+
+### Die eine Ausnahme: `1000_übergabe`
+
+Der Dateischlüssel oben gilt in den **Arbeitsordnern 100–400**.
+
+`1000_übergabe` ist kein Arbeitsordner, sondern eine **Zeitachse**, und hat
+deshalb einen eigenen Schlüssel:
+
+| Nummer | Arbeitsordner 100–400 | `1000_übergabe` |
+|---|---|---|
+| `777` | — | Vergangenheit — **warum** wir etwas entschieden haben |
+| `888` | zu bearbeiten, offen, Test | Gegenwart — woran wir **jetzt** arbeiten |
+| `999` | Glossar und Ablage | Zukunft — was im Raum steht, **nicht entschieden** |
+
+Diese Ausnahme steht hier und nur hier — direkt neben der Regel, die sie
+bricht. **Ungeschriebene Ausnahmen sind die, die Ordnungen kaputtmachen.**
+
+### Jeder Ordner trägt seine eigene `1_…AGENT.md`
+Sie sagt, **was hier drin gilt** — nicht, was im ganzen Projekt gilt.
+Wer in einem Ordner arbeitet, liest dessen Agentendatei, nicht das ganze Repo.
+Was oben steht, wird unten **nicht wiederholt**.
 
 ## Weg
 Nicht das ganze Buch bauen. **Ein Kleid definieren** → daraus folgt die Roadmap
@@ -30,23 +86,6 @@ Nicht das ganze Buch bauen. **Ein Kleid definieren** → daraus folgt die Roadma
 
 Pro Baustein: **Transkript → Mathe → Python → Modul**
 Dann: Kleid coden → CLO 3D ansehen → drucken → nähen.
-
-## Grundlagen zuerst
-Bedarfsgetrieben heißt: keine **Modelle** auf Vorrat bauen.
-Es heißt **nicht**, die Grundlagen zu überspringen.
-
-Vor der ersten Konstruktion werden eingepflegt:
-1. **Abkürzungen und Maße** (S. 9, 11–15) — das Vokabular für alles Weitere
-2. **Standards und Zeichen** (S. 21–31) — Linienarten, Nahtzugaben, Knipse,
-   Bohrlöcher, Beschriftung
-3. **Größentabelle** (S. 20) — liefert die Zahlen für jeden Test
-
-Grund: die Begriffe müssen verstanden sein, die Konstruktion baut darauf auf,
-und die Formeln sollen von Anfang an nachvollziehbar sein.
-
-**Die Schnittzeichen sind kein Lernmaterial, sondern eine Ausgabe-Anforderung.**
-Knips, Bohrloch, Fadenlauf, Stoffbruch und Beschriftung müssen am Ende im DXF
-und im PDF stehen, sonst ist der Schnitt nicht produktionsfähig.
 
 ## Bauen von unten, auswählen von oben
 Die Baureihenfolge bleibt down-to-up: Geometrie trägt Konstruktion,
@@ -58,16 +97,6 @@ Nichts entsteht auf Vorrat. Wenn das Kleid steht, ist der Scope zu.
 sie braucht — nicht vorher. Leere Ordner sind bewusst gelöscht worden.
 
 ## Die eiserne Regel
-**Ein Modul darf nie wissen, welches Kleid gerade gebaut wird.**
-„Abnäher schließen" kennt Geometrie und sonst nichts.
-Universalität entsteht nicht dadurch, dass man groß baut, sondern dadurch,
-was ein Modul nicht wissen darf.
-
-Daraus folgt die Schichtung:
-- **Geometrie** und **Ausgabe** wissen nichts von Mode.
-- **Konstruktion** weiß nichts von DXF.
-- **Kleid** kennt Module — aber kein Modul kennt das Kleid.
-
 Nicht vorsorglich verallgemeinern. Erst das zweite Kleid zeigt, was wirklich
 ein Parameter sein muss.
 
@@ -86,12 +115,6 @@ ein Parameter sein muss.
 
 Schritt 1–3 macht der Mensch. **Code kommt nie vor den Prüfwerten.**
 
-## Sprache
-Jeder Fachbegriff, den eine KI verwendet und der nicht in **Gosslar** steht,
-ist ein fehlender Glossareintrag — kein Wissensdefizit des Menschen.
-Solche Begriffe wandern nach `gosslar_kontext/BEGRIFFE_OFFEN.md`.
-Begriffe werden beim ersten Gebrauch in einem Halbsatz miterklärt.
-
 ## Zwei Dokumentationsebenen
 - **Modul-Doku** — was rechnet dieses Modul, welche Seite, welche Prüfwerte.
   Entsteht beim Bauen von selbst.
@@ -100,12 +123,6 @@ Begriffe werden beim ersten Gebrauch in einem Halbsatz miterklärt.
   Echtes Atelier-Werkzeug, auch für Munkhuu.
 
 ## Arbeitsteilung mit der KI
-- **Mathe vorcoden: ja.** Kurve durch Punkte, Spiegeln, Zirkelschlag, Drehen,
-  Schnittpunkte, Lot, Parallelversatz. Modeblind, ungefährlich.
-- **Konstruktionen vorcoden: nein.** Sonst steht der Code vor dem Prüfwert,
-  und das Buch wird gegen den Code geprüft statt umgekehrt.
-- Beim Transkribieren erzeugt die KI **strukturierte Formeln, keinen Code**:
-  Eingangsmaße, Ergebnis, Seitenzahl, Beispielzahl.
 - **Skill = Arbeitsweise. Datei = Können.** Was die KI baut, landet als Datei
   im Repo, mit Test, committet — nicht nur im Skill-Speicher.
 
@@ -113,9 +130,6 @@ Begriffe werden beim ersten Gebrauch in einem Halbsatz miterklärt.
 Die Rollen wechseln, die Konstellation bleibt.
 - **Leader** — führt, entscheidet Reihenfolge, committet.
 - **Coder** — baut Module und Tests, entscheidet keinen Scope, meldet nach oben.
-
-Der gemeinsame Stand liegt **im Repo, nicht im Chat**: Kleid-Definition,
-Roadmap und Modulstatus sind Dateien. Nur so kann jede KI kalt einsteigen.
 
 ### Eigene Agenten
 Ein Agent (Ordner + `.md`) wird erst gebaut, **nachdem die Sache zweimal von
@@ -134,27 +148,6 @@ Kandidaten, weil sie sich oft wiederholen werden:
 3. **Genäht** — beweist die Wahrheit.
 
 Keines ersetzt das andere.
-
-## Quellen-Disziplin
-Jedes aus einem Transkript übernommene Stück nimmt **seine Seitenzahl mit**.
-Grund: die Transkripte haben offene Stellen — vermutete Buchfehler, unlesbare
-Passagen, Doppel-Transkription S. 438/439.
-Korrekturen müssen später alle Kopien finden.
-Ein Baustein gilt erst dann als belegt, wenn die Seite von Werner/Munkhuu
-am Buch freigegeben ist.
-
-## Phase jetzt
-1. ✅ **Kleid v001** definiert → `kleid_v001/DEFINITION.md`
-2. ✅ Roadmap abgeleitet → `kleid_v001/ROADMAP.md`
-3. ✅ Transkripte in Git gesichert (Fotos bleiben draußen)
-4. 🔄 Grundlagen Block 1: Abkürzungen und Maße (S. 9, 11–15)
-5. ⬜ Grundlagen Block 2: Standards und Zeichen (S. 21–31)
-6. ⬜ Grundlagen Block 3: Größentabelle (S. 20)
-7. ⬜ Erstes Modul: Tellerrock S. 44
-
-## Nächster Schritt
-Werner prüft Block 1 — besonders die offenen Punkte in
-`gosslar_kontext/MASSREGISTER.md`.
 
 ---
 Aktiv steuert: Wschrenker + Munkhuu

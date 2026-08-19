@@ -1,6 +1,6 @@
 # Kleid v001 — Definition
 
-Stand: 2026-08-18 · Status: **Entwurf, wartet auf Werners Freigabe**
+Stand: 2026-08-19 · Status: **Entwurf, wartet auf Werners Freigabe**
 
 Diese Datei ist das **Scope-Dokument**. Was hier nicht steht, wird nicht gebaut.
 Aus ihr folgt `ROADMAP.md`.
@@ -22,8 +22,8 @@ Beides trägt sich gegenseitig.
 | **Rock** | S. 44 | Echter Glockenrock, Vollglocke (Tellerrock) |
 | **Oberteil** | S. 423, untere Hälfte | Asymmetrische drapierte Wickeloptik, ❑8 / ❑8a / ❑8b |
 
-Fotos: `hofenbitzer/43-130/20260617_160345.jpg` (S. 44) ·
-`hofenbitzer/368-544/20260619_144937.jpg` (S. 423)
+Fotos: `100_quellen/110_hofenbitzer/43-130/20260617_160345.jpg` (S. 44) ·
+`100_quellen/110_hofenbitzer/368-544/20260619_144937.jpg` (S. 423)
 
 ---
 

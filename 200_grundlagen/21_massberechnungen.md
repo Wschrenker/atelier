@@ -1,10 +1,10 @@
 # Formeln — Maßberechnungen S. 11–15
 
 **Quelle:** Hofenbitzer Band 1, S. 11, 13, 14
-**Transkript:** `hofenbitzer/transskript/s11-15_rohtranskription.md`
-**Begriffe:** siehe `gosslar_kontext/MASSREGISTER.md`
+**Transkript:** `100_quellen/110_hofenbitzer/transskript/s11-15_rohtranskription.md`
+**Begriffe:** siehe `200_grundlagen/20_MASSREGISTER.md`
 
-Stand: 2026-08-18 · Status: **strukturiert, noch kein Code**
+Stand: 2026-08-19 · Status: **strukturiert, noch kein Code**
 
 ---
 

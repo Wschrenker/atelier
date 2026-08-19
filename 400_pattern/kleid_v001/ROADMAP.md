@@ -1,6 +1,6 @@
 # Kleid v001 — Roadmap
 
-Stand: 2026-08-18 · abgeleitet aus `DEFINITION.md`
+Stand: 2026-08-19 · abgeleitet aus `DEFINITION.md`
 
 Diese Datei ist der **Modulstatus**. Sie ist der Punkt, an dem eine KI kalt
 einsteigen kann — Leader wie Coder.
@@ -17,10 +17,11 @@ Legende: ✅ fertig · 🔄 läuft · ⬜ offen · 🔒 blockiert
 | A2 | Standards und Schnittzeichen | S. 21–31 | ⬜ | ⬜ |
 | A3 | Größentabelle | S. 20 | ⬜ | ⬜ |
 
-**A1** liegt in `gosslar_kontext/MASSREGISTER.md` und
-`formeln_kontext/s11-15_massberechnungen.md`.
-Offene Punkte P1–P4 dort — **P1 (Namenskollision `HaU`) blockiert das
-spätere `masse`-Modul.**
+**A1** liegt in `200_grundlagen/20_MASSREGISTER.md` und
+`200_grundlagen/21_massberechnungen.md`.
+Offene Punkte P2–P4 dort.
+**A1 (`HdU` statt `HaU` für den Handumfang) ist entschieden** — erste bewusste
+Abweichung vom Buch, festgelegt am 19.08.2026.
 
 **A3** liefert die Zahlen für jeden Test. Ohne A3 gibt es keine Prüfwerte
 außer den wenigen, die in den Konstruktionsseiten selbst stehen.
@@ -84,7 +85,7 @@ Vormodul fehlt. Kein Grund zur Sorge — nur kein Startpunkt.
 | # | Dokument | Status |
 |---:|---|:--:|
 | E1 | Kleid-Anleitung (Schritt für Schritt bis zur Naht) | ⬜ ab C1 mitschreiben |
-| E2 | `gosslar_kontext/BEGRIFFE_OFFEN.md` — Begriffskandidaten | 🔄 |
+| E2 | `200_grundlagen/888_BEGRIFFE_OFFEN.md` — Begriffskandidaten | 🔄 |
 
 ---
 
@@ -108,7 +109,7 @@ Danach ist der Weg für das Oberteil bekannt und nur noch länger, nicht neu.
 
 | # | Blockade | betrifft |
 |---:|---|---|
-| P1 | Namenskollision `HaU` (Halsansatzumfang / Handumfang) | A1, alle Module |
+| ~~P1~~ | ~~Namenskollision `HaU`~~ — **gelöst 19.08.2026: Handumfang = `HdU`** | — |
 | P2 | Welcher Weg zur Brustbreite ist Standard? | C3 |
 | — | Fachnähte 7–10 aus `DEFINITION.md`: welche Buchseiten? | C8, C9 |
 | — | Konflikt S. 438/439 (doppelt und abweichend transkribiert) | C7 |

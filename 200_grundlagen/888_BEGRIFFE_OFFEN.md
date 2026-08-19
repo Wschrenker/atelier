@@ -5,11 +5,11 @@ Jeder Fachbegriff, den eine KI verwendet und der nicht in Gosslar steht, ist ein
 **fehlender Glossareintrag** — kein Wissensdefizit des Menschen.
 Er landet hier, bis er einen sauberen Eintrag mit Seitenzahl hat.
 
-Stand: 2026-08-18
+Stand: 2026-08-19
 
 ---
 
-## Aus dem Gespräch vom 18.08.2026 — von mir benutzt, noch nicht in Gosslar
+## Aus dem Gespräch vom 19.08.2026 — von mir benutzt, noch nicht in Gosslar
 
 ### Schon aus gelesenen Quellen definierbar
 

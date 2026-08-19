@@ -1,11 +1,11 @@
 # Formeln — Echter Glockenrock, Vollglocke (Tellerrock), S. 44
 
 **Quelle:** Hofenbitzer Band 1, S. 44
-**Foto:** `hofenbitzer/43-130/20260617_160345.jpg`
-**Transkript:** `hofenbitzer/transskript/s44_glockenrock.md`
-**Begriffe:** siehe `gosslar_kontext/MASSREGISTER.md`
+**Foto:** `100_quellen/110_hofenbitzer/43-130/20260617_160345.jpg`
+**Transkript:** `100_quellen/110_hofenbitzer/transskript/s44_glockenrock.md`
+**Begriffe:** siehe `200_grundlagen/20_MASSREGISTER.md`
 
-Stand: 2026-08-18 · Status: **Formeln und Prüfwerte erfasst, Modul noch nicht gebaut**
+Stand: 2026-08-19 · Status: **Formeln und Prüfwerte erfasst, Modul noch nicht gebaut**
 Fachliche Freigabe durch Werner/Munkhuu: **steht aus**
 
 ---
@@ -74,24 +74,43 @@ durch Punkte, keine Figurkorrektur.
 
 ---
 
-## ⚠️ π — die erste bewusste Abweichung
+## ⚡ Bewusste Abweichung: π
 
-**Das Buch rechnet mit π = 3,14.**
+**Das Buch rechnet mit π = 3,14. Die Engine rechnet mit exaktem π.**
 
-| Formel | mit 3,14 | mit exaktem π | Differenz |
-|---|---|---|---|
-| r_TaW bei TaW 72 | 11,465 cm | 11,459 cm | 0,006 cm |
-| SaW bei r_SaW 61,5 | 386,22 cm | 386,42 cm | 0,20 cm |
+| Formel | mit 3,14 | mit exaktem π | Differenz absolut | Differenz relativ |
+|---|---|---|---|---|
+| r_TaW bei TaW 72 | 11,4650 cm | 11,4592 cm | 0,006 cm | 0,051 % |
+| SaW bei r_SaW 61,5 | 386,22 cm | 386,42 cm | 0,20 cm | 0,051 % |
+| SaW bei r_SaW 116,5 (bodenlang) | 731,62 cm | 731,99 cm | 0,37 cm | 0,051 % |
 
-**Festlegung für die Engine:** wir rechnen mit **exaktem π** und prüfen die
-Buchwerte mit einer Toleranz von **±0,25 cm**.
+Die absolute Abweichung **wächst mit der Größe des Teils**, die relative bleibt
+konstant. Sie ist immer **0,0507 %** — das ist nichts anderes als der Unterschied
+zwischen 3,14 und π selbst.
 
-Grund: 0,2 cm auf 3,86 m Saum sind in der Fertigung bedeutungslos, aber ein
-exakter Vergleich würde jeden Test rot färben und wir würden einen Fehler
-suchen, der keiner ist.
+**Festlegung (Werner, 19.08.2026):** Prüfwerte aus dem Buch werden mit einer
+**relativen Toleranz von 0,1 %** verglichen — keine feste Zentimeterzahl.
 
-**Diese Abweichung ist bewusst und muss so bleiben.** Wenn ein Test später
-knapp scheitert, ist π der erste Verdächtige.
+```
+|berechnet − Buchwert| ≤ 0,001 · Buchwert
+```
+
+Warum relativ und nicht absolut:
+
+- Eine feste Grenze passt nie überall. 0,25 cm reicht beim Buchfall, wird bei
+  bodenlang knapp; 0,5 cm würde bei kleinen Teilen echte Fehler durchlassen.
+- 0,1 % lässt den π-Unterschied (0,051 %) mit Sicherheitsabstand durch und
+  schließt alles andere aus. Ein Tippfehler oder eine falsche Formel liegt
+  immer um Größenordnungen darüber.
+- Die Grenze wächst automatisch mit — sie muss nie nachgezogen werden, egal wie
+  groß ein Schnittteil wird.
+
+**Diese Abweichung ist bewusst und muss so bleiben.** Wenn ein Test knapp
+scheitert, ist π der erste Verdächtige — aber nur, wenn die Abweichung im
+Bereich um 0,05 % liegt. Alles Größere ist ein echter Fehler.
+
+Zusätzlich zur Toleranz: der Buchwert wird **gerundet notiert** (386,2 statt
+386,22). Beim Vergleich zählt der Wert, wie er im Buch steht.
 
 ---
 
@@ -141,4 +160,4 @@ Bei bodenlang, z.B. `MoL = 105 cm`:
 
 **7,3 Meter Saumweite.** Das ist eine Material- und Kostenentscheidung, keine
 Konstruktionsfrage — aber sie muss vor dem Zuschnitt fallen.
-`MoL` bleibt bis dahin ein offener Parameter (siehe `kleid_v001/DEFINITION.md`).
+`MoL` bleibt bis dahin ein offener Parameter (siehe `400_pattern/kleid_v001/DEFINITION.md`).
