@@ -1,8 +1,5 @@
 # Übergabe — was hier drin gilt
 
-> Projektweites steht in `1_Hermes_AtelierAGENT.md`.
-> Hier steht nur, was **hier** gilt.
-
 ## Wozu dieser Ordner da ist
 
 Ein Chat endet, ein neuer beginnt — mit einer KI, die nichts vom letzten Mal
@@ -20,21 +17,10 @@ Dieser Ordner ist **keine Arbeitsstufe**. Er steht neben der Kette
 
 ## Diese Datei allein reicht nicht
 
-Wer diese Datei geladen hat, kennt die **Regeln** des Ordners — aber noch keinen
-einzigen **Inhalt**. Die Regeln ohne die Übergabe sind wertlos.
-
 > **Ist dieser AGENT geladen, werden `777`, `888` und `999` mitgelesen.**
-> Ohne Nachfrage, in dieser Reihenfolge.
-
-| Datei | wird gelesen |
-|---|---|
-| `777_vergangenheit.md` | ja |
-| `888_Gegenwart.md` | ja |
-| `999_zukunft.md` | ja |
-| `Unbenannt*.txt` | **nein** — siehe unten |
 
 Das gilt nur für diesen Ordner. Die Ladeliste in `CLAUDE.md` entscheidet, **ob**
-dieser AGENT geladen wird — was danach dazugehört, entscheidet diese Datei.
+dieser AGENT geladen wird.
 
 ---
 
@@ -71,24 +57,12 @@ Deshalb trägt jeder Eintrag **Datum und Status**:
 |---|---|
 | `Idee` | einmal genannt, nicht geprüft |
 | `erwogen` | besprochen, offen |
-| `verworfen` | mit Grund — **gehört ausdrücklich hinein** |
-
-Verworfenes bleibt stehen. Sonst schlagen wir es in vier Wochen wieder vor.
+| `verworfen` | mit Grund — **gehört ausdrücklich hinein**, sonst schlagen wir es in vier Wochen wieder vor |
 
 ## Wann geschrieben wird
 
 Bei jedem Chatwechsel. Wenn `777` zu groß wird, entscheiden wir dann, wie
 geteilt wird — nicht vorher.
 
-## `Unbenannt*.txt` — nicht lesen
 
-Dateien namens `Unbenannt*.txt` sind **rohe Chatkopien**. Werner sammelt sie,
-das ist alles. Sie sind keine Anweisung, keine Quelle und kein Prüfwert.
-
-> **Beim Start nicht anschauen.** Was aus einem Chat gilt, steht in `777`, `888`
-> oder `999` — dorthin ist es bewusst übertragen worden. Steht es nur im
-> Rohchat, gilt es nicht.
-
-Sie liegen deshalb **nicht im Git** (`.gitignore`, global und ohne Pfad).
-Nur wenn Werner ausdrücklich darauf zeigt, wird darin gelesen.
 

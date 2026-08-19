@@ -12,11 +12,6 @@
 # Die Transkripte selbst werden ausdrücklich versioniert.
 # Sie sind die Quelle der Engine und dürfen nicht verloren gehen.
 
-# Rohe Chatkopien bleiben draußen — Werners private Sammlung, keine Quelle.
-# Was daraus gilt, steht als Entscheidung in 1000_übergabe/777_vergangenheit.md.
-# Ebenfalls global und ohne Pfad.
-Unbenannt*.txt
-
 # Werkzeug-Ablagen
 .hermes/
 
