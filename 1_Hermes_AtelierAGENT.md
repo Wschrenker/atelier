@@ -1,152 +1,129 @@
-# jijge_bridal_engine_v2
-Arbeitsordner: C:\ATELIER
+# Atelier — oberste Ebene
 
-## Status (2026-08-17)
+Projekt: `jijge_bridal_engine_v2`
+Arbeitsordner: `C:\ATELIER`
+Stand: 2026-08-20 — Struktur umbenannt, Fundament im Aufbau.
 
-Repo steht, Fundament noch leer.
+## Regel dieser Datei
+
+Was **zwei Ordner** betrifft, steht hier.
+Was **einen Ordner** betrifft, steht in dessen `1_…AGENT.md`.
+Was oben steht, wird unten nicht wiederholt.
+
+Wer in einem Ordner arbeitet, liest dessen Agentendatei — nicht das ganze Repo.
 
 ## Ziel
+
 Schnittmusterprogramm aus Formeln. Ausgabe: DXF, SVG, PDF, JSON.
+
 Gleichrangiges zweites Ziel: Werner und Munkhuu verstehen jede Konstruktion,
 die der Code ausführt.
 
-## Versionen
-- **Engine:** eine Ziffer — `v1`, `v2`, `v3`. Aktuell **v2**.
-- **Kleider:** drei Ziffern — `v001`, `v002`, `v003`.
-- **Module:** noch offen, evtl. `v01`. Nicht dringend.
+## Karte der Ebenen
 
-## Die Ordnung: die Nummer sagt die Art, der Name sagt die Sache
+Die Nummern folgen der Arbeitsrichtung. Die dritte Spalte ist bindend.
 
-### Ordner — sie folgen der Arbeitsrichtung
-
-| Ordner | Inhalt |
-|---|---|
-| `100_quellen` | Bücher. Unveränderlich, wird nur gelesen. |
-| `200_grundlagen` | Was wir aus den Quellen ziehen: Sprache, Zeichen, Maße. |
-| `300_module` | Konstruktionen. Wiederverwendbar und **kleidblind**. |
-| `400_pattern` | Die Kleider. Sie **benutzen** Module, sie besitzen keine. |
-
-Die Reihenfolge ist der Fluss der Arbeit:
-**Quelle → Grundlage → Modul → Kleid.**
-Hunderterschritte lassen Platz für Ebenen dazwischen.
-
-### Dateien — in jedem Ordner nach demselben Schlüssel
-
-| Nummer | Art |
-|---|---|
-| `1` | Agentenanweisung — was gilt hier drin |
-| `10er` | Zeichen und Sprache |
-| `20er` | Maße |
-| `30er` | Formeln und Konstruktion |
-| `888` | zu bearbeiten, offen, Test |
-| `999` | Glossar und Ablage |
-
-**Lücken sind Absicht.** Zwischen zwei Arten bleibt Platz; innerhalb einer Art
-darf dicht nummeriert werden (10, 11, 12, 13).
-
-### Die Kontenplan-Regel
-
-Die Ordnung ist wie ein Kontenplan gebaut und wird auch so behandelt:
-
-| Regel | Bedeutung |
-|---|---|
-| Die Nummer trägt die Bedeutung | man findet, ohne zu lesen |
-| **Eine Nummer wird nie umgewidmet** | wenn `20` einmal „Maße" heißt, heißt sie das für immer |
-| **Es wird nie umnummeriert** | Neues bekommt eine freie Nummer — deshalb die Lücken |
-| Derselbe Schlüssel überall | jeder Ordner liest sich gleich |
-
-Falsch einsortiert wird durch eine **neue Nummer** geheilt, nicht durch
-Verschieben und Umnummerieren. Eine Ordnung, in der Nummern wandern, versteht
-nach einem Jahr niemand mehr.
-
-### Die eine Ausnahme: `1000_übergabe`
-
-Der Dateischlüssel oben gilt in den **Arbeitsordnern 100–400**.
-
-`1000_übergabe` ist kein Arbeitsordner, sondern eine **Zeitachse**, und hat
-deshalb einen eigenen Schlüssel:
-
-| Nummer | Arbeitsordner 100–400 | `1000_übergabe` |
+| Ordner | Zuständig für | Darf benutzen |
 |---|---|---|
-| `777` | — | Vergangenheit — **warum** wir etwas entschieden haben |
-| `888` | zu bearbeiten, offen, Test | Gegenwart — woran wir **jetzt** arbeiten |
-| `999` | Glossar und Ablage | Zukunft — was im Raum steht, **nicht entschieden** |
+| `000_sprache` | Abkürzungen, Zeichen, Begriffe. Liegt unter allem — auch die Quelle wird damit gelesen. | — |
+| `100_quellen` | Die Bücher. Unveränderlich, wird nur gelesen. | `000` |
+| `300_formeln` | Was wir aus den Quellen ziehen: Maßregister und Konstruktionsformeln. | `000` `100` |
+| `400_mathematik` | Primitive: Kurve, Lot, Spiegeln, Versatz, Drehung. **Modeblind** und deshalb ohne jede Abhängigkeit. | — |
+| `500_python` | Konstruktionen als Code. Wiederverwendbar und **kleidblind**. | `300` `400` |
+| `600_prozess` | Arbeitslisten und Offenes. Kein Inhalt, nur Buchhaltung. | — |
+| `700_schnitte` | Die Kleider. Sie **benutzen** Module, sie besitzen keine. | `300` `400` `500` |
+| `800_couture` | Die Aufträge. Ein Kleid mit den Maßen einer Braut, dazu die Ausgabe — PDF, DXF, SVG. | `700` und alles darunter |
 
-Diese Ausnahme steht hier und nur hier — direkt neben der Regel, die sie
-bricht. **Ungeschriebene Ausnahmen sind die, die Ordnungen kaputtmachen.**
+`200` ist frei. Die Maßtabellen liegen in `300_formeln/10_masse/`.
+`600_prozess` steht **neben** dem Fluss, nicht darin: es führt Buch, es liefert
+nichts zu.
 
-### Jeder Ordner trägt seine eigene `1_…AGENT.md`
-Sie sagt, **was hier drin gilt** — nicht, was im ganzen Projekt gilt.
-Wer in einem Ordner arbeitet, liest dessen Agentendatei, nicht das ganze Repo.
-Was oben steht, wird unten **nicht wiederholt**.
+## Flussregel
 
-## Weg
-Nicht das ganze Buch bauen. **Ein Kleid definieren** → daraus folgt die Roadmap
-→ daraus folgt, welche Buchseiten Quelle sind.
+**Sprache → Quelle → Formel → Mathematik → Python → Kleid.**
 
-Pro Baustein: **Transkript → Mathe → Python → Modul**
-Dann: Kleid coden → CLO 3D ansehen → drucken → nähen.
+- Niemand greift nach oben. Ein Ordner kennt nur, was in seiner Spalte steht.
+- Der Sprung 500 → 700 ist die Grenze: darunter die **Maschine**, darüber das
+  **Werkstück**. Die Maschine bleibt fest, die Werkstücke werden mehr.
+- **Die eiserne Regel:** Ein Modul darf nie wissen, welches Kleid gerade gebaut
+  wird. Das gilt auch für den Ort — ein Modul liegt in `500_python`, nie im
+  Kleiderordner.
+- Gebaut wird von unten, **ausgewählt von oben**: Was gebaut wird, entscheidet
+  das Kleid — nicht das Inhaltsverzeichnis. Nichts entsteht auf Vorrat.
+  Wenn das Kleid steht, ist der Scope zu.
+- Nicht vorsorglich verallgemeinern. Erst das zweite Kleid zeigt, was wirklich
+  ein Parameter sein muss.
 
-## Bauen von unten, auswählen von oben
-Die Baureihenfolge bleibt down-to-up: Geometrie trägt Konstruktion,
-Konstruktion trägt Kleid.
-Was gebaut wird, entscheidet aber das Kleid — nicht das Inhaltsverzeichnis.
-Nichts entsteht auf Vorrat. Wenn das Kleid steht, ist der Scope zu.
+## Namensregeln — im ganzen Repo gleich
 
-**Das Repo wächst organisch.** Ordner entstehen, wenn das erste Stück Inhalt
-sie braucht — nicht vorher. Leere Ordner sind bewusst gelöscht worden.
+- Erste Ebene: dreistellige Nummer, Unterstrich, kleiner Name — `300_formeln`
+- Zweite Ebene: zweistellige Nummer, Unterstrich, kleiner Name — `10_masse`
+- Keine Umlaute, keine Leerzeichen, keine Großbuchstaben.
+  `ä→ae`, `ö→oe`, `ü→ue`, `ß→ss`
+- Jeder Ordner trägt genau eine `1_Hermes_<ordner>AGENT.md` — Ordnername
+  kleingeschrieben, nur `AGENT` in Versalien
+- Versionen hinten, dreistellig — `10_kleid_v001`
+- Eine vergebene Nummer wird nie neu belegt — auch nicht, wenn der Ordner
+  wieder leer ist
 
-## Nicht vorsorglich verallgemeinern
-Erst das zweite Kleid zeigt, was wirklich ein Parameter sein muss.
+## Kadenz pro Baustein
 
-## Arbeitsweise pro Buchseite
-1. Seite lesen → neue Begriffe nach **Gosslar**
-2. Formeln wörtlich ablegen, **mit Seitenzahl**
+1. Seite lesen → neue Begriffe nach **Gosslar** (`000_sprache`)
+2. Formeln wörtlich ablegen, **mit Seitenzahl** (`300_formeln`)
 3. Beispielzahlen des Buchs notieren → **Prüfwerte**
-3.5 **Mathematik eruieren** — welche Primitive braucht diese Formel?
-   Fehlende bauen (modeblind: Kurve, Spiegeln, Zirkelschlag, Drehen,
-   Schnittpunkt, Lot, Parallelversatz)
-4. **Python-Code generieren** aus Formel + Mathematik.
-   Eine Funktion pro Konstruktionsschritt, Seitenzahl im Kommentar.
-   **Modular abspeichern.**
-5. **Test definieren und umsetzen** — rechnet die Buchzahlen nach.
-   **Tests abspeichern.** Grün = Seite ist drin.
 
 Schritt 1–3 macht der Mensch. **Code kommt nie vor den Prüfwerten.**
 
+Danach: Mathe → Python → Modul.
+Dann: Kleid coden → CLO 3D ansehen → drucken → nähen.
+
+Ein Baustein gilt erst als belegt, wenn die Buchseite von Werner oder Munkhuu
+**am Buch freigegeben** ist.
+
 ## Zwei Dokumentationsebenen
+
 - **Modul-Doku** — was rechnet dieses Modul, welche Seite, welche Prüfwerte.
   Entsteht beim Bauen von selbst.
 - **Kleid-Anleitung** — wie entsteht dieses Kleid, Schritt für Schritt bis zur
   Naht. Eigenes Dokument, wird **parallel zum Bauen** geschrieben.
   Echtes Atelier-Werkzeug, auch für Munkhuu.
 
-## Arbeitsteilung mit der KI
-- **Skill = Arbeitsweise. Datei = Können.** Was die KI baut, landet als Datei
-  im Repo, mit Test, committet — nicht nur im Skill-Speicher.
+Der gemeinsame Stand liegt **im Repo, nicht im Chat**. Was nur im Gespräch
+steht, ist verloren.
 
-### Rollen
-Die Rollen wechseln, die Konstellation bleibt.
-- **Leader** — führt, entscheidet Reihenfolge, committet.
-- **Coder** — baut Module und Tests, entscheidet keinen Scope, meldet nach oben.
+## Was hier nicht steht
 
-### Eigene Agenten
-Ein Agent (Ordner + `.md`) wird erst gebaut, **nachdem die Sache zweimal von
-Hand gemacht wurde.** Vorher kodiert man eine Vermutung statt eines Könnens —
-derselbe Fehler wie ein Modul, das zu viel weiß.
+| Frage | Steht in |
+|---|---|
+| Wie ein Begriff aufgenommen wird | `000_sprache` |
+| Transkriptionsregeln, freigegeben vs. transkribiert | `100_quellen` |
+| Formelnotation, Maßregister, Seitenbeleg | `300_formeln` |
+| Signaturen und Einheiten der Primitive | `400_mathematik` |
+| Modulschnitt, Stil, Tests gegen Prüfwerte | `500_python` |
+| Was offen ist und wer dran ist | `600_prozess` |
+| Aufbau eines Kleiderordners, `DEFINITION.md` und `ROADMAP.md` | `700_schnitte` |
 
-Kandidaten, weil sie sich oft wiederholen werden:
-- „Buchseite einpflegen" (der Fünfschritt oben)
-- „Modul anlegen"
-- „Prüfwerte aus einer Seite ziehen"
+Jede Ordner-Agentendatei hat dasselbe Gerüst:
+**Zweck · Grenze · Nummernschlüssel · Form eines Eintrags · Fertig-Regel.**
 
-## Drei Prüftore
-1. **Buchzahlen** — beweisen, dass richtig gerechnet wird.
-2. **CLO 3D** — zeigt, ob es plausibel aussieht. Beweist nichts:
-   ein in sich stimmiger, aber falscher Abnäher simuliert sauber.
-3. **Genäht** — beweist die Wahrheit.
+Die **Grenze** ist der wichtigste Abschnitt — dort entstehen die Fehler,
+nicht beim Zweck.
 
-Keines ersetzt das andere.
+## Offen
+
+- **Persönliche Daten:** ob `800_couture` mit echten Kundenmaßen ins Git kommt,
+  ist nicht entschieden. Bis dahin keine Maße committen.
+- **Wo der Export liegt** (DXF, SVG, PDF, JSON), ist nicht entschieden — eigener
+  Bereich in `500_python` oder eine eigene Ebene.
+- **Tote Pfade:** `990_prozess` in `700_schnitte/10_kleid_v001/ROADMAP.md`.
+- **Dateinamen gegen die Namensregel:**
+  `000_sprache/10_abkürzungen.md` (Umlaut) ·
+  `000_sprache/20_schnittmuster_Symbole.md` (Großbuchstabe) ·
+  `300_formeln/10_masse/10_MASSREGISTER.md` (Versalien) ·
+  `300_formeln/20_rock/formel_rock_glocke.md` (ohne Nummer) ·
+  `600_prozess/10_BEGRIFFE_OFFEN.md` (Versalien) ·
+  vier Agentendateien mit großem Ordnernamen (`Quellen`, `Formeln`, `Python`,
+  `Schnitte`)
 
 ---
 Aktiv steuert: Wschrenker + Munkhuu
