@@ -144,6 +144,64 @@ Jeder Eintrag folgt diesem Schema:
 - **Varianten:** —
 - **Quelle:** Hofenbitzer, Band 1, S. 9
 
+### Schnittteile & Zuschnitt
+
+#### Produktionsschnittteil (—)
+- **Definition:** Gekennzeichnetes Teil eines Produktionsschnitts, das nach dem Zuschnittzeichen zugeschnitten wird.
+- **Position:** Im Produktionsschnitt.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Symmetrielinie (—)
+- **Definition:** Linie, an der ein Schnittteil gespiegelt wird und keine Naht entsteht.
+- **Position:** Hier an der hinteren Mitte (`hM`).
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** Stoffbruch beim Einzelzuschnitt.
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Stoffbruch (—)
+- **Definition:** Gefaltete Stoffkante für den Einzelzuschnitt ohne Naht an der Faltkante.
+- **Position:** An der Symmetrielinie eines Schnittteils.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Zuschnittfläche (—)
+- **Definition:** Fläche eines Schnittteils, innerhalb der Bereiche dauerhaft geformt oder ausgedehnt werden können.
+- **Position:** Innerhalb des Schnittteils.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Nahtzugabe (—)
+- **Definition:** Zugabe an einer Naht, die beim Dehnen ausgedehnt werden kann.
+- **Position:** An Nähten eines Schnittteils.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Dehnrichtung (—)
+- **Definition:** Richtung, in der der Stoff beim Dehnen ausgedehnt wird; sie bestimmt, ob Länge oder Weite entsteht.
+- **Position:** An den zu dehnenden Bereichen einer Zuschnittfläche.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** Längen- oder Weitenrichtung.
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Mehrweite (—)
+- **Definition:** Weite an einer Naht, die durch Kräuseln in kleine, unregelmäßige Fältchen gelegt wird.
+- **Position:** Im Bereich einer zu kräuselnden Naht.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
 ### Rockformen & Ansatznähte
 
 #### Kreisring (—)

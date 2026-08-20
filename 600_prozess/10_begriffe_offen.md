@@ -28,10 +28,8 @@ Stand: 2026-08-19
 | **aufspringender Abnäher** | S. 423 ❑7 | S. 423 selbst, Definition fehlt |
 | **Schrägfadenlauf** | „Faltenkanten im schrägen Fadenlauf" | Fadenlauf-Grundlagen, vermutlich S. 21–31 |
 | **Beleg** | Ausschnittverarbeitung | Belege-Kapitel |
-| **Stoffbruch (Stb)** | Zuschnitt-Varianten S. 44 | S. 21–31 |
 | **Knips** | Ausgabe-Anforderung | S. 28 (Achtung: Buchwiderspruch 5 mm vs. 6 mm, siehe README) |
 | **Bohrloch** | Ausgabe-Anforderung | S. 28–29 |
-| **Mehrweite** | Ärmelkopf, Kräuseln | ? |
 | **Passe** | steht schon in `Gosslar_test.md`, aber ohne Formeln | S. 58–61 |
 | **Taillenausfall (TaAf)** | Rock-Grundschnitt | S. 33 |
 | **Hüftabstich** | Rock-Grundschnitt | S. 34 |

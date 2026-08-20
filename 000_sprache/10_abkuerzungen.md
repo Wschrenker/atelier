@@ -6,6 +6,7 @@
 | a | aussen/aeussere/r/s |
 | g | gemessen/e/r |
 | h | hinten, hintere/r/s |
+| hM | hintere Mitte |
 | i | innen/innere/r/s |
 | l | links, linke/r/s |
 | m | mittig, mittlere/r/s |
