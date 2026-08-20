@@ -5,8 +5,8 @@
 **Transkript:** `100_quellen/10_hofenbitzer_b1/20_transkript/band_1/s44_glockenrock.md`
 **Begriffe:** siehe `300_formeln/10_masse/10_massregister.md`
 
-Stand: 2026-08-19 · Status: **Formeln und Prüfwerte erfasst, Modul noch nicht gebaut**
-Fachliche Freigabe durch Werner/Munkhuu: **steht aus**
+Stand: 2026-08-20 · Status: **Formeln und Prüfwerte erfasst, Modul noch nicht gebaut**
+Fachliche Freigabe durch Werner/Munkhuu: **erteilt am 2026-06-21**
 
 ---
 

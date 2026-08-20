@@ -34,8 +34,9 @@ Eine Liste pro Datei, in Zehnern:
 | Nummer | Liste |
 |---|---|
 | `10_` | Begriffe offen — Kandidaten für Gosslar |
+| `20_` | Seiten erledigt — vollständig auf Gosslar-Begriffe geprüft |
 
-Neue Art von Offenheit → nächster freier Zehner (`20_`, `30_`).
+Neue Art der Prozessbuchhaltung → nächster freier Zehner (`20_`, `30_`).
 **Eine vergebene Nummer wird nie neu belegt.**
 
 ## Form eines Eintrags
@@ -82,8 +83,9 @@ gelöscht — dort ist die Entscheidung selbst die Information. Hier nicht.
 
 - `10_begriffe_offen.md` entspricht der Namensregel der Wurzel
 - Die Begriffsliste verweist jetzt direkt auf `000_sprache/30_gosslar_test.md`.
-- 11 Begriffe stehen auf **bereit** und könnten sofort nach Gosslar umziehen —
-  sie tun es nur nicht.
+- Zwei Begriffe stehen auf **bereit** und können sofort nach Gosslar umziehen.
+- `20_seiten_erledigt/` führt Seiten, die vollständig auf Gosslar-Begriffe
+  geprüft wurden.
 - Die Grundlagen-Blöcke (S. 9/11–15, S. 21–31, S. 20) und der Projektstand
   „Phase jetzt" haben hier ihren Ort, liegen aber noch außerhalb des Repos im
   Scratchpad.

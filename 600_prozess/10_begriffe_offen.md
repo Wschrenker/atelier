@@ -15,10 +15,6 @@ Stand: 2026-08-19
 
 | Begriff | Kurzdefinition | Quelle | Status |
 |---|---|---|:--:|
-| **Kreisring** | die Grundform des Glockenrocks — Fläche zwischen Taillenkreis und Saumkreis | S. 44 | bereit |
-| **Vollglocke / Tellerrock** | Glockenrock aus einem vollen Kreisring | S. 44 | bereit |
-| **Volant** | wird wie ein Glockenrock konstruiert; statt der Bundnaht gibt es die Volant-Ansatznaht | S. 44 | bereit |
-| **Ansatznaht** | die Naht, an der ein Teil angesetzt wird — beim Rock z.B. Bund, Passe oder Saum | S. 44 | bereit |
 | **Untertritt** | die untenliegende Seite einer Übereinanderführung; beim Wickeloberteil das linke VT | S. 423 | bereit |
 | **Bequemlichkeitszugabe** | in Konstruktionsmaßen ggf. bereits enthaltene Zugabe | S. 12 | bereit |
 

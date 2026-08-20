@@ -144,6 +144,40 @@ Jeder Eintrag folgt diesem Schema:
 - **Varianten:** —
 - **Quelle:** Hofenbitzer, Band 1, S. 9
 
+### Rockformen & Ansatznähte
+
+#### Kreisring (—)
+- **Definition:** Fläche zwischen dem Taillenkreis (innen) und dem Saumkreis (außen).
+- **Position:** Im Glockenrock zwischen Taillenkreis und Saumkreis.
+- **Breite/Länge/Tiefe:** Innenradius `rTaW`, Außenradius `rSaW`.
+- **Formeln:** `300_formeln/20_rock/10_formel_rock_glocke.md`
+- **Varianten:** Vollkreisring oder Kreisringsegment.
+- **Quelle:** Hofenbitzer, Band 1, S. 44
+
+#### Vollglocke / Tellerrock (—)
+- **Definition:** Echter Glockenrock aus einem Vollkreisring.
+- **Position:** Umspielt die Hüften und bildet am Saum weich fallende Glocken.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** `300_formeln/20_rock/10_formel_rock_glocke.md`
+- **Varianten:** Vollglocke, Tellerrock.
+- **Quelle:** Hofenbitzer, Band 1, S. 44
+
+#### Volant (—)
+- **Definition:** Teil, das nach demselben Kreisringprinzip wie ein Glockenrock konstruiert wird.
+- **Position:** Anstelle der Bundnaht liegt die Volant-Ansatznaht.
+- **Breite/Länge/Tiefe:** Volantlänge.
+- **Formeln:** `300_formeln/20_rock/10_formel_rock_glocke.md`
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 44
+
+#### Ansatznaht (—)
+- **Definition:** Naht mit einer Ansatzlänge; beim Kreisring z. B. Bund, Passe oder Saum.
+- **Position:** Am inneren Kreis des Kreisrings.
+- **Breite/Länge/Tiefe:** Ansatzlänge, hier Taillenweite (`TaW`).
+- **Formeln:** `300_formeln/20_rock/10_formel_rock_glocke.md`
+- **Varianten:** Bundnaht, Volant-Ansatznaht.
+- **Quelle:** Hofenbitzer, Band 1, S. 44
+
 ### Kanten & Abschlüsse
 
 #### Saum (Hem)
@@ -162,5 +196,5 @@ Jeder Eintrag folgt diesem Schema:
 
 ---
 
-**Zuletzt aktualisiert:** 2026-08-17
+**Zuletzt aktualisiert:** 2026-08-20
 **Verantwortung:** Wschrenker, Munkhuu
