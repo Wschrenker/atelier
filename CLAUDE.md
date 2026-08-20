@@ -8,7 +8,7 @@ Nur die **angekreuzten** Dateien lesen. Nicht angekreuzt heißt: nicht laden.
 
 - [ x] `1_Hermes_atelierAGENT.md`
 - [x ] `000_sprache/1_Hermes_spracheAGENT.md`
-- [ ] `100_quellen/1_Hermes_quellenAGENT.md`
+- [x ] `100_quellen/1_Hermes_quellenAGENT.md`
 - [ ] `300_formeln/1_Hermes_formelnAGENT.md`
 - [ ] `400_mathematik/1_Hermes_mathematikAGENT.md`
 - [ ] `500_python/1_Hermes_pythonAGENT.md`
