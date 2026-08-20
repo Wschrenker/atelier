@@ -1,0 +1,9 @@
+# Zeilenenden — eine Wahrheit, überall LF.
+#
+# Ohne diese Datei rechnet Git auf Windows beim Auschecken in CRLF um und meldet
+# bei jedem Commit "LF will be replaced by CRLF". Die Warnung ist harmlos, aber
+# sie steht bei jeder Datei und verdeckt echte Meldungen.
+#
+# eol=lf heißt: auch im Arbeitsverzeichnis bleibt LF stehen. Damit wird nichts
+# mehr umgerechnet und nichts mehr gemeldet.
+* text=auto eol=lf

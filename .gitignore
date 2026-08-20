@@ -1,1 +1,20 @@
-/hofenbitzer/
+# Buchfotos bleiben draußen — ca. 2,1 GB, gehören nicht ins Repo.
+# Sie liegen lokal unter 100_quellen/ und sind über die Transkripte referenziert.
+#
+# Bewusst global und ohne Pfad: eine Umbenennung von Ordnern darf diese Regel
+# nie aushebeln. In dieses Repo gehört überhaupt kein Bild.
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Die Transkripte selbst werden ausdrücklich versioniert.
+# Sie sind die Quelle der Engine und dürfen nicht verloren gehen.
+
+# Werkzeug-Ablagen
+.hermes/
+
+# Windows
+desktop.ini
+Thumbs.db
