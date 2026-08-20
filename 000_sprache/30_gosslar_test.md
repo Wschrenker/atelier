@@ -102,6 +102,48 @@ Jeder Eintrag folgt diesem Schema:
 
 ---
 
+### Fertigungsinformationen
+
+#### Zuschnittzeichen (Cutting Symbols)
+- **Definition:** Zeichen, die angeben, wie ein gekennzeichnetes Produktionsschnittteil zugeschnitten wird.
+- **Position:** Am Produktionsschnittteil, insbesondere an der hinteren Mitte (hM).
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** An der hM gespiegelt als Symmetrielinie, ohne Naht; beim Einzelzuschnitt im Stoffbruch.
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Dressierzeichen (Shaping Symbols)
+- **Definition:** Zeichen, die angeben, wo und wie eine flache Stofffläche vor dem Nähen durch Bügeln dauerhaft zu formen ist.
+- **Position:** An den Bereichen der flachen Stofffläche, die vor dem Nähen dauerhaft geformt werden.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Dehnen (Stretching)
+- **Definition:** Nahtzugaben, Nähte oder Bereiche innerhalb der Zuschnittfläche werden ausgedehnt. Der Stoff erhält je nach Dehnrichtung Länge oder Weite.
+- **Position:** An Nahtzugaben, Nähten oder Bereichen innerhalb der Zuschnittfläche.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** Dehnrichtung bestimmt, ob Länge oder Weite entsteht.
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Einhalten (Easing)
+- **Definition:** Der Stoff wird gestaucht beziehungsweise kurzgehalten; Weite oder Länge wird reduziert.
+- **Position:** —
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
+#### Kräuselzeichen (Gathering Symbols)
+- **Definition:** Zeichen, die den Bereich anzeigen, in dem die Mehrweite einer Naht durch eine geeignete Methode in kleine, unregelmäßige Fältchen gekräuselt wird.
+- **Position:** Im Bereich einer Naht mit Mehrweite.
+- **Breite/Länge/Tiefe:** —
+- **Formeln:** —
+- **Varianten:** —
+- **Quelle:** Hofenbitzer, Band 1, S. 9
+
 ### Kanten & Abschlüsse
 
 #### Saum (Hem)

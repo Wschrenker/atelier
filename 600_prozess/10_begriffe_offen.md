@@ -15,11 +15,6 @@ Stand: 2026-08-19
 
 | Begriff | Kurzdefinition | Quelle | Status |
 |---|---|---|:--:|
-| **Zuschnittzeichen** | geben an, wie ein Produktionsschnittteil zugeschnitten wird — z.B. an der hM gespiegelt (Symmetrielinie), also ohne Naht bzw. im Stoffbruch | S. 9 | bereit |
-| **Dressierzeichen** | geben an, wo und wie die flache Stofffläche vor dem Nähen durch Bügeln dauerhaft geformt wird | S. 9 | bereit |
-| **Dehnen** | Nahtzugaben, Nähte oder Flächen werden ausgedehnt; der Stoff erhält Länge oder Weite je nach Dehnrichtung | S. 9 | bereit |
-| **Einhalten** | der Stoff wird gestaucht bzw. kurzgehalten; Weite oder Länge wird reduziert | S. 9 | bereit |
-| **Kräuselzeichen** | zeigt an, in welchem Bereich die Mehrweite einer Naht in kleine, unregelmäßige Fältchen gekräuselt wird | S. 9 | bereit |
 | **Kreisring** | die Grundform des Glockenrocks — Fläche zwischen Taillenkreis und Saumkreis | S. 44 | bereit |
 | **Vollglocke / Tellerrock** | Glockenrock aus einem vollen Kreisring | S. 44 | bereit |
 | **Volant** | wird wie ein Glockenrock konstruiert; statt der Bundnaht gibt es die Volant-Ansatznaht | S. 44 | bereit |

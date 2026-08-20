@@ -12,7 +12,7 @@ Nur die **angekreuzten** Dateien lesen. Nicht angekreuzt heißt: nicht laden.
 - [ ] `300_formeln/1_Hermes_formelnAGENT.md`
 - [ ] `400_mathematik/1_Hermes_mathematikAGENT.md`
 - [ ] `500_python/1_Hermes_pythonAGENT.md`
-- [ ] `600_prozess/1_Hermes_prozessAGENT.md`
+- [x ] `600_prozess/1_Hermes_prozessAGENT.md`
 - [ ] `700_schnitte/1_Hermes_schnitteAGENT.md`
 - [ ] `800_couture/1_Hermes_coutureAGENT.md`
 

@@ -1,6 +1,6 @@
 # Rohtranskription Hofenbitzer Band 1 - Frontmatter S.1-6 und S.9
 
-Status: Codex-Nachtrag vom 2026-07-09. Rohtranskription / Quellenbefund, nicht digital zweitgeprueft, nicht Werner-freigegeben.
+Status: Codex-Nachtrag vom 2026-07-09. Arbeits-S.1–6: Rohtranskription / Quellenbefund, nicht digital zweitgeprueft, nicht Werner-freigegeben. S.9: am Originalbuch von Werner geprueft und freigegeben am 2026-08-20.
 
 ## Quellenlage
 
@@ -20,7 +20,7 @@ Quellfotos:
 ## Pruefstellen
 
 - Frontmatter-Seitenzaehlung pruefen: Die Fotos zeigen Titelblatt, Impressum, Vorwort und Inhaltsverzeichnis, aber keine sicher sichtbaren Seitenzahlen.
-- S.9 pruefen: Foto wurde nachgereicht und ist gut lesbar. Die Rohtranskription ist dennoch D/H-offen; Tabellenzeichen, Sonderzeichen und der untere rechte Fertigungsinfo-Bereich bei Bedarf am Originalbuch kontrollieren.
+- S.9: am 2026-08-20 von Werner am Originalbuch gegen das Transkript geprueft und freigegeben.
 - Inhaltsverzeichnis S.4-6 nur als Rohueberblick verwenden. Fuer fachliche Engine-Arbeit sind die konkreten Konstruktionsseiten massgeblich.
 - Impressumsseite: unterer Rand ist fotografisch lesbar, aber einzelne Layout-/Druckzeilen koennen bei Bedarf am Originalbuch gegengeprueft werden.
 
