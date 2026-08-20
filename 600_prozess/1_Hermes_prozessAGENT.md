@@ -80,10 +80,8 @@ gelöscht — dort ist die Entscheidung selbst die Information. Hier nicht.
 
 ## Offene Stellen
 
-- `10_BEGRIFFE_OFFEN.md` steht in Versalien — gegen die Namensregel der Wurzel
-- Die Liste verweist auf `1_Hermes_AtelierAGENT.md`, Abschnitt „Sprache" —
-  diesen Abschnitt gibt es dort nicht mehr, er stand zuletzt in
-  `300_formeln`. Verweis nachziehen.
+- `10_begriffe_offen.md` entspricht der Namensregel der Wurzel
+- Die Begriffsliste verweist jetzt direkt auf `000_sprache/30_gosslar_test.md`.
 - 11 Begriffe stehen auf **bereit** und könnten sofort nach Gosslar umziehen —
   sie tun es nur nicht.
 - Die Grundlagen-Blöcke (S. 9/11–15, S. 21–31, S. 20) und der Projektstand

@@ -14,10 +14,10 @@ Merksatz: Hier steht, **was ein Wort bedeutet** — nicht, **was man damit rechn
 | Nicht hier | Sondern |
 |---|---|
 | Maßnamen mit Rechenweg | `300_formeln/10_masse/` |
-| Zahlenwerte, Größentabellen | `300_formeln/10_masse/10_MASSREGISTER.md` |
+| Zahlenwerte, Größentabellen | `300_formeln/10_masse/10_massregister.md` |
 | Buchseiten, Abschriften ganzer Kapitel | `100_quellen/` |
 | Konstruktionsschritte und ihre Reihenfolge | `500_python/`, `700_schnitte/` |
-| Begriff ohne Definition oder ohne Seitenzahl | `600_prozess/10_BEGRIFFE_OFFEN.md` |
+| Begriff ohne Definition oder ohne Seitenzahl | `600_prozess/10_begriffe_offen.md` |
 
 Ein Wort darf hier stehen, sobald es **im Buch vorkommt**. Was daraus gerechnet
 wird, gehört nie hierher — auch nicht „nur als Hinweis".
@@ -66,7 +66,7 @@ das Original.
 `| Kurzzeichen | Bedeutung |`
 
 Neue Kurzzeichen werden nicht erfunden, sondern nach der Systematik in
-`10_abkürzungen.md` zusammengesetzt: Kleinbuchstabe für Richtung und Lage steht
+`10_abkuerzungen.md` zusammengesetzt: Kleinbuchstabe für Richtung und Lage steht
 **vorn**, Großbuchstabe für Betrag und Wert steht **hinten** — `AlT` = Armlochtiefe.
 
 ### Zeichen — eine Tabellenzeile plus Bild
@@ -101,7 +101,7 @@ ein fertiger Eintrag. **Nur eine fertige `.md` darf von anderen Ebenen zitiert
 werden.**
 
 Nicht raten, nicht aus Allgemeinwissen füllen — sonst steht Nicht-Hofenbitzer im
-Glossar. Unbelegtes wandert nach `600_prozess/10_BEGRIFFE_OFFEN.md` und wartet
+Glossar. Unbelegtes wandert nach `600_prozess/10_begriffe_offen.md` und wartet
 dort auf die Buchseite.
 
 ## Offene Stellen
@@ -112,6 +112,6 @@ dort auf die Buchseite.
   steht überall auf „Folgen". Nach der Fertig-Regel ist damit noch **kein**
   Eintrag fertig. Erst belegen, dann zitieren.
 
-> Die Umbenennungen dieses Ordners (`10_abkürzungen.md`,
-> `20_schnittmuster_Symbole.md`) stehen repo-weit in
+> Die Umbenennungen dieses Ordners (`10_abkuerzungen.md`,
+> `20_schnittmuster_symbole.md`) stehen repo-weit in
 > `1_Hermes_AtelierAGENT.md` und werden hier nicht wiederholt.

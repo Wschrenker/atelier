@@ -17,7 +17,7 @@ Zahlen und wird eine Sache, die man zuschneiden kann.
 | Wie das Kleid konstruiert ist, seine Entscheidungen | `700_schnitte/<kleid>/` |
 | Module und Code | `500_python/` |
 | Formeln und Buchbelege | `300_formeln/` |
-| Was ein Maß bedeutet und wie es gemessen wird | `300_formeln/10_masse/10_MASSREGISTER.md` |
+| Was ein Maß bedeutet und wie es gemessen wird | `300_formeln/10_masse/10_massregister.md` |
 
 **Diese Ebene ist Endstation.** Nichts weiter unten greift je hier herein — kein
 Modul, keine Formel, kein Kleid kennt einen Auftrag. Wer hier etwas findet, das
@@ -84,10 +84,8 @@ tatsächlich war.
 
 - Der Ordner ist **leer** — der erste Auftrag entsteht, wenn Kleid v001 durch
   `700_schnitte` durch ist.
-- **Persönliche Daten:** Maße einer Kundin gehören einer Person. Ob dieser
-  Ordner ins Git kommt oder lokal bleibt, ist **nicht entschieden**. Bis dahin:
-  keine echten Kundenmaße committen.
-- Ob PDF und DXF ins Git gehören, hängt an derselben Entscheidung. Die Fotos
-  sind über `.gitignore` schon draußen, Ausgabedateien nicht.
-- Wer die Ausgabe **erzeugt**, ist noch offen — siehe `500_python`: dort ist
-  noch nicht festgelegt, wo der Export liegt.
+- **Persönliche Daten:** Echte Kundenmaße bleiben lokal. `MASSE.md` wird über
+  `.gitignore` vom Repo ferngehalten; im Repo werden keine echten Maße abgelegt.
+- Die Exportmodule liegen in `500_python`. Ihre erzeugten Dateien — PDF, DXF,
+  SVG und JSON — werden im jeweiligen `ausgabe/`-Ordner dieses Auftrags abgelegt.
+- Offene Aufgaben werden nicht hier, sondern in `600_prozess` geführt.

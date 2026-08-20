@@ -15,6 +15,11 @@
 # Werkzeug-Ablagen
 .hermes/
 
+# Persönliche Kundendaten bleiben lokal und gehören nicht ins Repo.
+# Die Ausgabedateien liegen getrennt in `ausgabe/` und können bei Bedarf
+# unabhängig davon versioniert oder neu erzeugt werden.
+800_couture/**/MASSE.md
+
 # Windows
 desktop.ini
 Thumbs.db

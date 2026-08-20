@@ -17,7 +17,7 @@ Legende: ✅ fertig · 🔄 läuft · ⬜ offen · 🔒 blockiert
 | A2 | Standards und Schnittzeichen | S. 21–31 | ⬜ | ⬜ |
 | A3 | Größentabelle | S. 20 | ⬜ | ⬜ |
 
-**A1** liegt in `300_formeln/10_masse/10_MASSREGISTER.md` und
+**A1** liegt in `300_formeln/10_masse/10_massregister.md` und
 `300_formeln/10_masse/20_massberechnungen.md`.
 Offene Punkte P2–P4 dort.
 **A1 (`HdU` statt `HaU` für den Handumfang) ist entschieden** — erste bewusste
@@ -85,7 +85,7 @@ Vormodul fehlt. Kein Grund zur Sorge — nur kein Startpunkt.
 | # | Dokument | Status |
 |---:|---|:--:|
 | E1 | Kleid-Anleitung (Schritt für Schritt bis zur Naht) | ⬜ ab C1 mitschreiben |
-| E2 | `990_prozess/10_BEGRIFFE_OFFEN.md` — Begriffskandidaten | 🔄 |
+| E2 | `600_prozess/10_begriffe_offen.md` — Begriffskandidaten | 🔄 |
 
 ---
 

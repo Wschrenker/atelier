@@ -111,19 +111,21 @@ nicht beim Zweck.
 
 ## Offen
 
-- **Persönliche Daten:** ob `800_couture` mit echten Kundenmaßen ins Git kommt,
-  ist nicht entschieden. Bis dahin keine Maße committen.
-- **Wo der Export liegt** (DXF, SVG, PDF, JSON), ist nicht entschieden — eigener
-  Bereich in `500_python` oder eine eigene Ebene.
-- **Tote Pfade:** `990_prozess` in `700_schnitte/10_kleid_v001/ROADMAP.md`.
+- **Persönliche Daten:** entschieden — echte Kundenmaße bleiben lokal. `MASSE.md`
+  unter `800_couture` wird über `.gitignore` vom Repo ferngehalten.
+- **Export-Ort:** entschieden — die Exportmodule gehören nach `500_python`;
+  erzeugte DXF-, SVG-, PDF- und JSON-Dateien liegen im jeweiligen
+  `800_couture/<auftrag>/ausgabe/`-Ordner.
+- **Prozesspfad:** entschieden — offene Aufgaben werden in `600_prozess`
+  geführt.
 - **Dateinamen gegen die Namensregel:**
-  `000_sprache/10_abkürzungen.md` (Umlaut) ·
-  `000_sprache/20_schnittmuster_Symbole.md` (Großbuchstabe) ·
-  `300_formeln/10_masse/10_MASSREGISTER.md` (Versalien) ·
-  `300_formeln/20_rock/formel_rock_glocke.md` (ohne Nummer) ·
-  `600_prozess/10_BEGRIFFE_OFFEN.md` (Versalien) ·
+  `000_sprache/10_abkuerzungen.md` (bereinigt) ·
+  `000_sprache/20_schnittmuster_symbole.md` (bereinigt) ·
+  `300_formeln/10_masse/10_massregister.md` (bereinigt) ·
+  `300_formeln/20_rock/10_formel_rock_glocke.md` (bereinigt) ·
+  `600_prozess/10_begriffe_offen.md` (bereinigt) ·
   vier Agentendateien mit großem Ordnernamen (`Quellen`, `Formeln`, `Python`,
-  `Schnitte`)
+  `Schnitte`) (bereinigt)
 
 ---
 Aktiv steuert: Wschrenker + Munkhuu

@@ -1,6 +1,6 @@
 # Begriffe offen — Kandidatenliste für Gosslar
 
-**Regel** (siehe `1_Hermes_AtelierAGENT.md`, Abschnitt „Sprache"):
+**Regel** (siehe `000_sprache/30_gosslar_test.md`):
 Jeder Fachbegriff, den eine KI verwendet und der nicht in Gosslar steht, ist ein
 **fehlender Glossareintrag** — kein Wissensdefizit des Menschen.
 Er landet hier, bis er einen sauberen Eintrag mit Seitenzahl hat.

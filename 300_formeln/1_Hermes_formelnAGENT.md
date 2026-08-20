@@ -37,7 +37,7 @@ Zehner = Bereich:
 | `30_oberteil` | Oberteilkonstruktionen |
 
 Weitere Bereiche: `40_`, `50_`. Innerhalb eines Bereichs laufen die Dateien
-wieder in Zehnern (`10_MASSREGISTER.md`, `20_massberechnungen.md`).
+wieder in Zehnern (`10_massregister.md`, `20_massberechnungen.md`).
 
 **Eine vergebene Nummer wird nie neu belegt.**
 
@@ -49,7 +49,7 @@ wieder in Zehnern (`10_MASSREGISTER.md`, `20_massberechnungen.md`).
 **Quelle:** Buch, Band, Seiten
 **Foto:** Pfad ins Bilderverzeichnis
 **Transkript:** Pfad nach 100_quellen
-**Begriffe:** siehe 300_formeln/10_masse/10_MASSREGISTER.md
+**Begriffe:** siehe 300_formeln/10_masse/10_massregister.md
 
 Stand: JJJJ-MM-TT · eingepflegt durch …
 Status: … · Fachliche Freigabe durch Werner/Munkhuu: …
@@ -98,7 +98,7 @@ und beim bodenlangen Rock zu knapp.
 
 Der Buchwert wird notiert, **wie er im Buch steht** (386,2 — nicht 386,22).
 
-*Festlegung Werner, 19.08.2026 — siehe `20_rock/formel_rock_glocke.md`.*
+*Festlegung Werner, 19.08.2026 — siehe `20_rock/10_formel_rock_glocke.md`.*
 
 ## Fertig-Regel
 
@@ -126,9 +126,9 @@ die Saumweite bei Brautlänge im Glockenrock.
 
 Struktur, noch nicht aufgeräumt:
 
-- `20_rock/formel_rock_glocke.md` trägt keine Nummer → `10_formel_rock_glocke.md`
+- `20_rock/10_formel_rock_glocke.md` entspricht der Namensregel
 - `30_oberteil` ist leer
-- `10_masse/10_MASSREGISTER.md` steht in Versalien
+- `10_masse/10_massregister.md` ist nach der Namensregel kleingeschrieben
 - Der Wurzeltext, der bis 2026-08-20 in dieser Datei stand (Ziel, Quelle,
   Grundlagen-Blöcke, „Phase jetzt"), gehört in die Wurzel oder nach
   `600_prozess` und ist noch nicht umgezogen.

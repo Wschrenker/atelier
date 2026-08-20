@@ -111,6 +111,6 @@ Scope. **Wenn das Kleid steht, ist der Scope zu.**
 - Offen darin: `MoL` (Kostenentscheidung), Größe und Maße, Lage des
   Reißverschlusses, Futter, Nahtzugaben
 - Fachnähte 7–10 tragen `?` statt einer Buchseite
-- `ROADMAP.md` verweist bei E2 noch auf `990_prozess` — der Ordner heißt
-  `600_prozess`
+- `ROADMAP.md` verweist bei E2 auf `600_prozess/10_begriffe_offen.md` — offene
+  Aufgaben und Begriffskandidaten werden dort geführt
 - `ANLEITUNG.md` gibt es noch nicht — sie beginnt mit C1
