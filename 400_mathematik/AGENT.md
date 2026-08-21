@@ -1,5 +1,18 @@
 # Mathematik — was hier drin gilt
 
+## Navigation — Regel
+
+Diese Datei führt nur zu den direkten Unterordnern von `400_mathematik/`.
+Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
+Agentendatei des jeweiligen Unterordners.
+
+Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
+angekreuzten Agentendateien.
+
+## Navigation
+
+- [ ] `10_mathe_einzupflegen/AGENT.md`
+
 ## Zweck
 
 Die **Primitive**: Punkt, Gerade, Schnittpunkt, Lot, Normale, Kreis, Kurve,

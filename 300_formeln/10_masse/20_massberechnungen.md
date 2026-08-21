@@ -1,7 +1,7 @@
 # Formeln — Maßberechnungen S. 11–15
 
 **Quelle:** Hofenbitzer Band 1, S. 11, 13, 14
-**Transkript:** `100_quellen/10_hofenbitzer_b1/20_transkript/band_1/s11-15_rohtranskription.md`
+**Transkript:** `100_quellen/10_hofenbitzer_b1/2_transkript/band_1/s11-15_rohtranskription.md`
 **Begriffe:** siehe `300_formeln/10_masse/10_massregister.md`
 
 Stand: 2026-08-19 · Status: **strukturiert, noch kein Code**

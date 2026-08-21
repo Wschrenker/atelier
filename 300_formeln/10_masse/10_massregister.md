@@ -2,7 +2,7 @@
 
 **Quelle:** Hofenbitzer Band 1, S. 11–15 („Der menschliche Körper",
 „Körpermaße und Maßnehmen (1)–(4)")
-**Transkript:** `100_quellen/10_hofenbitzer_b1/20_transkript/band_1/s11-15_rohtranskription.md`
+**Transkript:** `100_quellen/10_hofenbitzer_b1/2_transkript/band_1/s11-15_rohtranskription.md`
 (am 21.06.2026 durch Codex bildweise gegen die fünf Quellfotos geprüft —
 Transkriptionsprüfung, **keine fachliche Freigabe**)
 

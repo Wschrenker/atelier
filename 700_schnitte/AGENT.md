@@ -1,5 +1,18 @@
 # Kleider — was hier drin gilt
 
+## Navigation — Regel
+
+Diese Datei führt nur zu den direkten Unterordnern von `700_schnitte/`.
+Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
+Agentendatei des jeweiligen Unterordners.
+
+Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
+angekreuzten Agentendateien.
+
+## Navigation
+
+- [ ] `10_kleid_v001/AGENT.md`
+
 ## Zweck
 
 Ein Ordner pro Kleid.

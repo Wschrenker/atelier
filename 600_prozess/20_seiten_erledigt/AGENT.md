@@ -1,5 +1,14 @@
 # Seiten erledigt — was hier drin gilt
 
+## Navigation — Regel
+
+Diese Datei gilt nur für `600_prozess/20_seiten_erledigt/` und führt zu dessen
+direkten Inhalten. Nur angekreuzte Dateien werden geladen.
+
+## Navigation
+
+- [ ] `10_hofenbitzer_band_1.md`
+
 ## Zweck
 
 Nachweis, welche Buchseiten vollständig auf *Gosslar*-Begriffe durchsucht wurden.

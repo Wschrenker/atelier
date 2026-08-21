@@ -1,5 +1,18 @@
 # Couture — was hier drin gilt
 
+## Navigation — Regel
+
+Diese Datei führt nur zu den direkten Unterordnern von `800_couture/`.
+Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
+Agentendatei des jeweiligen Unterordners.
+
+Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
+angekreuzten Agentendateien.
+
+## Navigation
+
+- [ ] `10_luna_flow/AGENT.md`
+
 ## Zweck
 
 Hier trifft der Schnitt auf einen **Menschen**.
@@ -82,8 +95,8 @@ tatsächlich war.
 
 ## Offene Stellen
 
-- Der Ordner ist **leer** — der erste Auftrag entsteht, wenn Kleid v001 durch
-  `700_schnitte` durch ist.
+- `10_luna_flow/` ist als erster Auftragsordner angelegt. Fachdateien liegen
+  dort noch nicht.
 - **Persönliche Daten:** Echte Kundenmaße bleiben lokal. `MASSE.md` wird über
   `.gitignore` vom Repo ferngehalten; im Repo werden keine echten Maße abgelegt.
 - Die Exportmodule liegen in `500_python`. Ihre erzeugten Dateien — PDF, DXF,

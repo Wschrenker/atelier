@@ -1,5 +1,19 @@
 # Quellen — was hier drin gilt
 
+## Navigation — Regel
+
+Diese Datei führt nur zu den direkten Unterordnern von `100_quellen/`.
+Einzelne Fachdateien und tiefere Unterordner werden hier nicht aufgeführt. Sie
+gehören in die Agentendatei des jeweiligen Unterordners.
+
+Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
+angekreuzten Agentendateien.
+
+## Navigation
+
+- [x ] `10_hofenbitzer_b1/AGENT.md`
+- [ ] `20_lexikon_der_gewebe/AGENT.md`
+
 ## Zweck
 
 Die Bücher. **Unveränderlich — wird nur gelesen, nie bearbeitet.**
@@ -41,8 +55,8 @@ Zweite Stufe — in jedem Buchordner derselbe Aufbau:
 
 | Ordner | Inhalt | Git |
 |---|---|---|
-| `10_Bilder/` | Fotos der Seiten, nach Seitenbereich gebündelt, dazu `index.md` — was wo steht | **draußen** |
-| `20_transkript/` | Die Abschriften, nach Band getrennt | **drin** |
+| `1_Bilder/` | Fotos der Seiten, nach Seitenbereich gebündelt, dazu `index.md` — was wo steht | **draußen** |
+| `2_transkript/` | Die Abschriften, nach Band getrennt | **drin** |
 
 Grund für die Trennung: die Fotos sind rund 2,1 GB und gehören nicht ins Repo.
 Die Transkripte **sind** die Quelle der Engine und dürfen nie verloren gehen.
@@ -90,17 +104,17 @@ später jede Kopie finden können.
 
 ## Offene Stellen
 
-Der Prüfstand steht in `10_hofenbitzer_b1/20_transkript/band_1/README.md`:
+Der Prüfstand steht in `10_hofenbitzer_b1/2_transkript/band_1/README.md`:
 vermutete Buchfehler (A1–A6), unlesbare Stellen (B1–B7), der Doppel-Konflikt
 S. 438/439 (C1) und die noch ausstehende digitale Zweitprüfung (D).
 **Er wird dort gepflegt, nicht hier.**
 
 Struktur, noch nicht aufgeräumt:
 
-- `10_hofenbitzer_b1` heißt „b1", enthält aber auch `20_transkript/band_2/`
+- `10_hofenbitzer_b1` heißt „b1", enthält aber auch `2_transkript/band_2/`
   — entweder Ordner zu `10_hofenbitzer` kürzen oder Band 2 herauslösen
 - `20_lexikon_der_gewebe` ist leer — Buch oder Nummer wieder freigeben
-- Namen gegen die Regel der obersten Ebene: `10_Bilder` (Großbuchstabe),
+- Namen gegen die Regel der obersten Ebene: `1_Bilder` (Großbuchstabe),
   `Photos-3-001 (4)` (Leerzeichen und Klammern), `…_ENTWURF.md` (Versalien)
 - Vier Stufen-Endungen für drei Zustände: `rohtranskription`,
   `codex_transkription`, `codex_v2_mit_pruefstellen`, `ENTWURF` — eine

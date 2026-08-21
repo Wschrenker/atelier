@@ -1,8 +1,8 @@
 # Formeln — Echter Glockenrock, Vollglocke (Tellerrock), S. 44
 
 **Quelle:** Hofenbitzer Band 1, S. 44
-**Foto:** `100_quellen/10_hofenbitzer_b1/10_Bilder/43-130/20260617_160345.jpg`
-**Transkript:** `100_quellen/10_hofenbitzer_b1/20_transkript/band_1/s44_glockenrock.md`
+**Foto:** `100_quellen/10_hofenbitzer_b1/1_Bilder/43-130/20260617_160345.jpg`
+**Transkript:** `100_quellen/10_hofenbitzer_b1/2_transkript/band_1/s44_glockenrock.md`
 **Begriffe:** siehe `300_formeln/10_masse/10_massregister.md`
 
 Stand: 2026-08-20 · Status: **Formeln und Prüfwerte erfasst, Modul noch nicht gebaut**

@@ -12,7 +12,7 @@ Hinweis zur Fotozuordnung: `hofenbitzer/index.md` enthält nur Zuordnungen bis S
 
 ## Prüfstellen
 
-- Prüfstelle S.542: Beide Spalten des Sachwortverzeichnisses vollständig gegen das Foto prüfen, besonders ähnlich gesetzte Begriffe, Bindestriche, Umlaute, Kommas und die Zusätze `f`, `ff`. Die Einträge `Einlagen`, `Etikett`, `Flächenbeispiel Jacken`, `Hebelänge` und `Gollerkragen` sowie ihre Seitenzahlen prüfen. Nach `Jackenfutter, Raglan – 468 ff` ist im Foto links nur die Seitenzahl `263` sicher sichtbar, das zugehörige Stichwort jedoch nicht: `UNLESBAR`. Ebenso die Zeilenfolge am Spaltenwechsel `Jacken…`/`Jackensaum` kontrollieren.
+- Prüfstelle S.542: Beide Spalten des Sachwortverzeichnisses vollständig gegen das Foto prüfen, besonders ähnlich gesetzte Begriffe, Bindestriche, Umlaute, Kommas und die Zusätze `f`, `ff`. Die Einträge `Einlagen`, `Etikett`, `Flächenbeispiel Jacken`, `Hebelänge` und `Gollerkragen` sowie ihre Seitenzahlen prüfen. Werner hat die untere linke Spalte am physischen Buch zeilenweise geprüft: Eine zusätzliche `507` war irrtümlich `Hinterärmel` zugeordnet und verschob alle folgenden Seitenverweise. Korrekt endet die Spalte mit `Jackenfutter, Raglan – 263`. Ebenso die Zeilenfolge am Spaltenwechsel `Jacken…`/`Jackensaum` kontrollieren.
 - Prüfstelle S.543: Beide Spalten des Sachwortverzeichnisses vollständig prüfen, besonders Mehrfachverweise wie `368, 396, 478`, `400 ff, 426 f`, `302 f, 328, 336, 340`, `216, 255, 286` und die unterschiedliche Schreibung `ff`/`ff.`. Die unteren Einträge `Saumweiterter Rock-Grundschnitt – 42`, `Saumweite reduzieren – 379` und `Taschen mit Reißverschluss – 352` gegen das Foto prüfen.
 - Prüfstelle S.544: Sämtliche Stichwörter und Seitenzahlen prüfen, besonders die zwei gleichlautenden Einträge `Zugabentabelle – 537` und `Zugabentabelle – 176`, `Wickelform – 408, 423`, `Zeichenschablonen – 7, 544` sowie `7/8-Ärmel` und `7/8-Hose`. Bei den Produktabbildungen alle aufgedruckten Skalen, Zahlen, Logos und Kleinstbeschriftungen sind wegen ihrer Größe nicht sicher lesbar: `UNLESBAR`; außerdem Anzahl, Form und Anordnung der abgebildeten Zeichenschablonen sowie beide Werbetexte und die URL prüfen.
 
@@ -20,7 +20,7 @@ Hinweis zur Fotozuordnung: `hofenbitzer/index.md` enthält nur Zuordnungen bis S
 
 ## S.542
 
-Prüfstelle S.542: Beide Stichwortspalten, sämtliche Seitenzahlen und `f`-/`ff`-Zusätze prüfen; nach `Jackenfutter, Raglan – 468 ff` ist das Stichwort zur sichtbaren Seitenzahl `263` `UNLESBAR`.
+Prüfstelle S.542: Beide Stichwortspalten, sämtliche Seitenzahlen und `f`-/`ff`-Zusätze prüfen. Die untere linke Spalte wurde von Werner am physischen Buch bestätigt; die zuvor zusätzliche `507` bei `Hinterärmel` entfällt und die folgenden Seitenverweise sind entsprechend korrigiert.
 
 ### Sachwortverzeichnis
 
@@ -93,22 +93,21 @@ Prüfstelle S.542: Beide Stichwortspalten, sämtliche Seitenzahlen und `f`-/`ff`
 | Hemdenstil Overall | 534 |
 | Herren-Shortpants | 505 |
 | Herrenslip | 507 |
-| Hinterärmel | 507 |
-| Hinweise zum Maßnehmen, zur Maßtabelle | 250 |
-| Hoodie | 17 |
-| Hose einfach | 512 ff |
-| Hosenröcke, gerade und saumenerweitert | 494 |
-| Hosenschlitz, Knopfleiste | 46 |
-| Hot-Pants | 497 |
-| Hüftausfall | 159 |
-| Imitierter Ärmelschlitz | 185 |
-| Individuelle Taillenvertiefung | 237 |
-| Innentasche | 50, 120 |
-| Jacke einfach | 369, 469 |
-| Jacken | 466 |
-| Jackenfutter | 465 ff |
-| Jackenfutter, Raglan | 468 ff |
-| UNLESBAR | 263 |
+| Hinterärmel | 250 |
+| Hinweise zum Maßnehmen, zur Maßtabelle | 17 |
+| Hoodie | 512 ff |
+| Hose einfach | 494 |
+| Hosenröcke, gerade und saumenerweitert | 46 |
+| Hosenschlitz, Knopfleiste | 497 |
+| Hot-Pants | 159 |
+| Hüftausfall | 185 |
+| Imitierter Ärmelschlitz | 237 |
+| Individuelle Taillenvertiefung | 50, 120 |
+| Innentasche | 369, 469 |
+| Jacke einfach | 466 |
+| Jacken | 465 ff |
+| Jackenfutter | 468 ff |
+| Jackenfutter, Raglan | 263 |
 
 #### Rechte Spalte
 

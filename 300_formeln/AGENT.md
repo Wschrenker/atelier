@@ -1,5 +1,20 @@
 # Formeln — was hier drin gilt
 
+## Navigation — Regel
+
+Diese Datei führt nur zu den direkten Unterordnern von `300_formeln/`.
+Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
+Agentendatei des jeweiligen Unterordners.
+
+Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
+angekreuzten Agentendateien.
+
+## Navigation
+
+- [ ] `10_masse/AGENT.md`
+- [ ] `20_rock/AGENT.md`
+- [ ] `30_oberteil/AGENT.md`
+
 ## Zweck
 
 Was wir aus den Quellen ziehen: das **Maßregister** und die

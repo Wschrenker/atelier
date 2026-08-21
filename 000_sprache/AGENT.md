@@ -1,5 +1,22 @@
 # Sprache — was hier drin gilt
 
+Bedarfswissen — nur bei Bedarf lesen: `2_sprache_bedarf.md`
+
+## Navigation — Regel
+
+Diese Datei führt nur zu den direkten Unterordnern von `000_sprache/`.
+Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
+Agentendatei des jeweiligen Unterordners.
+
+Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
+angekreuzten Agentendateien.
+
+## Navigation
+
+- [x ] `10_gosslar/AGENT.md`
+- [x ] `20_schnittmuster/AGENT.md`
+- [x ] `30_lexikon/AGENT.md`
+
 ## Zweck
 
 Die gemeinsame Sprache: *Abkürzungen*, *Zeichen*, *Begriffe*.
@@ -66,7 +83,7 @@ das Original.
 `| Kurzzeichen | Bedeutung |`
 
 Neue Kurzzeichen werden nicht erfunden, sondern nach der Systematik in
-`10_abkuerzungen.md` zusammengesetzt: Kleinbuchstabe für Richtung und Lage steht
+`30_lexikon/10_abkuerzungen_systematik_eigenschaften_betraege_werte_operanden_aktionen.md` zusammengesetzt: Kleinbuchstabe für Richtung und Lage steht
 **vorn**, Großbuchstabe für Betrag und Wert steht **hinten** — `AlT` = Armlochtiefe.
 
 ### Zeichen — eine Tabellenzeile plus Bild
@@ -112,6 +129,6 @@ dort auf die Buchseite.
   steht überall auf „Folgen". Nach der Fertig-Regel ist damit noch **kein**
   Eintrag fertig. Erst belegen, dann zitieren.
 
-> Die Umbenennungen dieses Ordners (`10_abkuerzungen.md`,
+> Die Umbenennungen dieses Ordners (`10_abkuerzungen_systematik_eigenschaften_betraege_werte_operanden_aktionen.md`,
 > `20_schnittmuster_symbole.md`) stehen repo-weit in
-> `1_Hermes_AtelierAGENT.md` und werden hier nicht wiederholt.
+> `../2_atelier_bedarf.md` und werden hier nicht wiederholt.

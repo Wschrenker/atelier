@@ -1,5 +1,18 @@
 # Prozess — was hier drin gilt
 
+## Navigation — Regel
+
+Diese Datei führt nur zu den direkten Unterordnern von `600_prozess/`.
+Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
+Agentendatei des jeweiligen Unterordners.
+
+Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
+angekreuzten Agentendateien.
+
+## Navigation
+
+- [ ] `20_seiten_erledigt/AGENT.md`
+
 ## Zweck
 
 Buchhaltung. **Kein Wissen.**
