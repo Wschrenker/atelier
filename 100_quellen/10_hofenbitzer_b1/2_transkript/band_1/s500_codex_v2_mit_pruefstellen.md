@@ -1,0 +1,95 @@
+## S.500
+
+Prüfstelle S.500: Dehnungsberechnung, Schritte 1–15 und Konstruktionstabelle mit schwarzen Ausgangs- und roten Reduktionswerten prüfen; besonders `OsU 72`, `KnU 72`, `RiU → 19,6` und `SaW: FeU → 19,6` kontrollieren.
+
+### Sport · Wäsche · Unisex
+
+### Leggings (1)
+
+#### Grundschnitt
+
+**□1 Leggings**
+
+Der Leggings-Grundschnitt kann als Grundlage für hautenge Hosen und Unterwäsche aus hochelastischem Material (z. B. Maschenwaren mit Elastan-Beimischung) verwendet werden. Der Schnitt sitzt sehr eng an Gesäß und Oberschenkel und hat einen anliegenden Beinverlauf.
+
+Sämtliche Umfangsmaße werden um die materialabhängige prozentuale Dehnung (in %) reduziert. Diese Reduzierung kann, je nach Dehnbarkeit des Materials, zwischen 5 % und 20 % betragen – seltener auch mehr.
+
+Die Körpermaße werden neu ermittelt (siehe die Spalte neben der Konstruktionstabelle auf folgender Seite). Die verwendeten Körpermaße und die daraus resultierenden Werte werden in der Konstruktionstabelle notiert: hier in Rot.
+
+#### Die Bestimmung der Dehnung in %
+
+Die prozentuale Dehnung (in %) muss vor der Schnittkonstruktion für jedes verwendete Material ermittelt werden.
+
+1. Die Breite einer Materialprobe in Schussrichtung ausmessen → Ausgangsbreite.
+2. Materialprobe in Schussrichtung dehnen und
+3. beim Dehnen die Breite des gedehnten Materials messen.
+
+Die aufgewendete Dehnkraft sollte ungefähr so groß sein wie die gewünschte Kompression, die das Material beim Tragen auf den Körper ausüben soll.
+
+- Ausgangsbreite in cm ≙ 100 %
+- Dehnungsbreite in cm
+- Dehnung in cm ≙ x %
+
+##### Beispielrechnung
+
+- Ausgangsbreite = 20 cm ≙ 100 %
+- Dehnungsbreite = 23 cm
+- Dehnung = 23 cm − 20 cm = 3 cm
+- Dehnung in % = (100 % · Dehnung) / Ausgangsbreite
+- = (100 % · 3 cm) / 20 cm = 15 %
+
+#### Alternative: Die enge Hose
+
+Für Modelle mit Seitennaht bzw. für elastische Webwaren kann auch der sehr enge Hosen-Grundschnitt auf Seite 128 verwendet werden.
+
+#### Konstruktion der Leggings
+
+1. Senkrechte mit der Länge TaH zeichnen → Seitenlinie.
+2. Unten an der Seitenlinie um 6 bis 8 cm kürzen und nach links und nach rechts abwinkeln → Saumlinie.
+3. Für die Saumweite den FeU : 2 nach rechts und links abtragen.
+4. Oben an der Seitenlinie 1 bis 1,5 cm kürzen und ebenfalls abwinkeln → Taillenlinie.
+5. Von oben die (reduzierte) SiH abtragen, abwinkeln → Schrittlinie.
+6. Auf dieser nach rechts und links HüU : 4 abtragen und jeweils
+7. hoch zur Taillenlinie abwinkeln.
+8. Die HüLi links (hinten) um HüU : 10
+9. und rechts (vorne) um HüU : 20 + 1 bis 2 cm verlängern.
+10. Von der SrL die KnH nach unten abtragen, abwinkeln → Knielinie.
+11. Von dort die WaH abtragen, abwinkeln → Wadenlinie.
+12. Den WaU : 2 nach links und rechts abtragen.
+3a. An P3 jeweils ca. 3 cm nach oben abwinkeln → P3a.
+13. Von dort Hilfslinien jeweils von P3a nach P12 und jeweils von P12 nach P8 und P9 zeichnen.
+14. An der Knielinie jeweils 2 bis 3 cm einstellen.
+15. Die Innenbeinnähte jeweils von P3a über P12 und P13 nach P8 bzw. nach P9 formen.
+
+#### Konstruktionstabelle – Hose
+
+Modell: Leggings unisex, weitenreduziert  
+Größe: 38
+
+| Kürzel | Maß | Ausgangswert / reduzierter Wert | ½ | ¼ |
+|---|---|---:|---:|---:|
+| TaU | Taillenumfang | 72 | 36 | 18 |
+| HüU | Hüftumfang | 97 → 82,5 | → 41,2 | → 20,6 |
+| BuU | Bundumfang |  |  |  |
+| TaA | Taillenabstände | v 0 · r 0 · l 0 · h 0 |  |  |
+| sTaH | seitliche Taillenhöhe | 106 |  |  |
+| SiH | Sitzhöhe | → 24,7 |  |  |
+
+| Kürzel | Maß | Ausgangswert / reduzierter Wert |
+|---|---|---:|
+| OsU | Oberschenkelumfang | 72 |
+| KnU | Knieumfang | 72 |
+| uKnU | unterer Knieumfang | --- |
+| WaU | Wadenumfang | → 29,8 |
+| FeU | Fesselumfang | 23 |
+| RiU | Ristumfang | → 19,6 |
+
+| Kürzel | Maß | Berechnung | Wert |
+|---|---|---|---:|
+| vHoB | Vorderhosenbreite | ¼ HüU − 1 cm ± | --- |
+| hHoB | Hinterhosenbreite | ¼ HüU + 1 cm ± | --- |
+| SrH | Schritthöhe | sTaH − SiH | 80 |
+| KnH | Kniehöhe | SrH : 10 · 4 | 32 |
+| SaW | Saumweite | enge Hose 32 bis 40; Standardhose 40 bis 48; weite Hose 48 bis 56 | FeU → 19,6 |
+
+Gesäßwinkel α und Zusatz für längs-elastischen Stoff: Tabelle wie auf S.498.

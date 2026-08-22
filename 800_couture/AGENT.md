@@ -17,8 +17,9 @@ angekreuzten Agentendateien.
 
 Hier trifft der Schnitt auf einen **Menschen**.
 
-Ein Ordner pro Auftrag: die **Maße der Braut**, das damit gerechnete Kleid und
-die Dateien, die dabei herauskommen — **PDF zum Drucken**, DXF, SVG.
+Ein Ordner pro Auftrag: die **Maße der Braut** und das damit gerechnete Kleid.
+Als spätere Ausgabeformate sind **PDF, DXF, SVG und JSON** vorgesehen. Wie sie
+genau erzeugt und wo sie abgelegt werden, ist noch offen.
 
 `700_schnitte` beschreibt das Kleid unabhängig von der Person. Hier bekommt es
 Zahlen und wird eine Sache, die man zuschneiden kann.
@@ -58,7 +59,7 @@ wurde. **Eine vergebene Nummer wird nie neu belegt.**
 | Datei | Was sie ist |
 |---|---|
 | `MASSE.md` | die gemessenen Maße dieser Person |
-| `ausgabe/` | die erzeugten Dateien — PDF, DXF, SVG |
+| Ausgabe — Form und Ablage noch offen | Ziel: PDF, DXF, SVG und JSON |
 | `PROTOKOLL.md` | Anproben, Änderungen, was beim Nähen anders kam — ab der ersten Anprobe |
 
 ### `MASSE.md`
@@ -71,10 +72,11 @@ wurde. **Eine vergebene Nummer wird nie neu belegt.**
 - ein nicht gemessenes Maß bleibt **leer**. Kein Tabellenwert als Ersatz, ohne
   dass es dabeisteht.
 
-### `ausgabe/`
+### Ausgabe — noch offen
 
-Jede Datei nennt im Namen oder im Kopf: **Kleid, Fassung, Datum**.
-Beispiel: `kleid_v001_2026-09-03.pdf`.
+PDF, DXF, SVG und JSON geben der Roadmap die Richtung. Dateiaufbau, technische
+Erzeugung, Benennung und Ablage werden erst am ersten realen Exportfall
+festgelegt.
 
 ## Fertig-Regel
 
@@ -99,6 +101,6 @@ tatsächlich war.
   dort noch nicht.
 - **Persönliche Daten:** Echte Kundenmaße bleiben lokal. `MASSE.md` wird über
   `.gitignore` vom Repo ferngehalten; im Repo werden keine echten Maße abgelegt.
-- Die Exportmodule liegen in `500_python`. Ihre erzeugten Dateien — PDF, DXF,
-  SVG und JSON — werden im jeweiligen `ausgabe/`-Ordner dieses Auftrags abgelegt.
+- PDF, DXF, SVG und JSON sind als Ziel bekannt. Ort und Aufbau der Exportmodule
+  sowie die Ablage der erzeugten Dateien sind noch nicht entschieden.
 - Offene Aufgaben werden nicht hier, sondern in `600_prozess` geführt.

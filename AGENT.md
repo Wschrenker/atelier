@@ -29,13 +29,13 @@ Die Nummern folgen der Arbeitsrichtung. Die dritte Spalte ist bindend.
 | Ordner | Zuständig für | Darf benutzen |
 |---|---|---|
 | `000_sprache` | Abkürzungen, Zeichen, Begriffe. Liegt unter allem — auch die Quelle wird damit gelesen. | — |
-| `100_quellen` | Die Bücher. Unveränderlich, wird nur gelesen. | `000` |
+| `100_quellen` | Originalbilder und Buchinhalt sind unveränderlich. Transkripte werden originalgetreu und nachvollziehbar gepflegt. | `000` |
 | `300_formeln` | Was wir aus den Quellen ziehen: Maßregister und Konstruktionsformeln. | `000` `100` |
 | `400_mathematik` | Primitive: Kurve, Lot, Spiegeln, Versatz, Drehung. **Modeblind** und deshalb ohne jede Abhängigkeit. | — |
 | `500_python` | Konstruktionen als Code. Wiederverwendbar und **kleidblind**. | `300` `400` |
 | `600_prozess` | Arbeitslisten und Offenes. Kein Inhalt, nur Buchhaltung. | — |
 | `700_schnitte` | Die Kleider. Sie **benutzen** Module, sie besitzen keine. | `300` `400` `500` |
-| `800_couture` | Die Aufträge. Ein Kleid mit den Maßen einer Braut, dazu die Ausgabe — PDF, DXF, SVG. | `700` und alles darunter |
+| `800_couture` | Die Aufträge. Ein Kleid mit den Maßen einer Braut; Ausgabeziel: PDF, DXF, SVG, JSON. Genaue Erzeugung und Ablage sind noch offen. | `700` und alles darunter |
 
 `200` ist frei. Die Maßtabellen liegen in `300_formeln/10_masse/`.
 `600_prozess` steht **neben** dem Fluss, nicht darin: es führt Buch, es liefert
@@ -60,12 +60,11 @@ Nur die **angekreuzten Agentendateien** automatisch laden. Nicht angekreuzt hei�
 
 ## Ladeliste
 
-- [x] `AGENT.md`
 - [x] `000_sprache/AGENT.md`
 - [x] `100_quellen/AGENT.md`
-- [] `300_formeln/AGENT.md`
-- [] `400_mathematik/AGENT.md`
-- [] `500_python/AGENT.md`
+- [x] `300_formeln/AGENT.md`
+- [x] `400_mathematik/AGENT.md`
+- [x] `500_python/AGENT.md`
 - [] `600_prozess/AGENT.md`
 - [] `700_schnitte/AGENT.md`
 - [] `800_couture/AGENT.md`

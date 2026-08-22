@@ -1,0 +1,92 @@
+## S.49
+
+Prüfstelle S.49: Die komplette Übersicht mit Seitenzahlen und die Rocklängen-Bezeichnungen prüfen; besonders die Zeilenumbrüche im unteren Schema und die Einrückung der Designabwandlungen aus dem Rock mit zehn Bahnen.
+
+### Übersicht Rocklängen
+
+Randregister: Übersicht.
+
+#### Übersicht
+
+Übersicht 49
+
+Individuelle Taillenvertiefung und Hinweise 50
+
+Beobachtungen und Hinweise zu Taillenvertiefungen 51
+
+vereinfachte Taillenvertiefungen und Taillenbelege 52
+
+Formbund 56
+
+Passen 58
+
+Passen mit Knopfverschluss 60
+
+Miederbund 62
+
+Bahnenröcke (Längsteilungsnähte an Röcken) 64
+
+Godetformen 66
+
+Designabwandlungen aus dem Rock mit zehn Bahnen:
+
+- Bahnenrock mit eingesetzten Godets 68
+- Bahnenrock mit angeschnittenen Godets 69
+- Bahnenrock mit leichter Saumerweiterung 70
+- Glockiger Bahnenrock 71
+- Saumerweiterter Rock aus dem Bahnenrock 72
+- Glockenrock aus dem Bahnenrock 73
+- Saumerweiterter Passenrock mit dekorativen Streifen 74
+- Passenrock mit Saumabtrennung als Volant 75
+- Passenrock mit gekräuselter Saumabtrennung 76
+
+Stufenröcke mit zwei- und dreistufiger Rüsche 77
+
+Taillenvertiefter Passenrock mit Kräuselteil bzw. Faltenteil 78
+
+Ballonrock mit Formbund und Kräuselteil bzw. Faltenteil und Schlitz 79
+
+Rock mit tiefen Bundfalten 80
+
+Rock mit positionierten Glocken 81
+
+Rundum-Faltenrock aus dem Zehn-Bahnenrock 82
+
+Rock mit Kellerfalten aus dem Bahnenrock 83
+
+Rock mit verschiedenen Schlitzen aus dem Bahnenrock 84
+
+Eingestellter Rock mit Fächerfalte 85
+
+Rundum-Faltenrock 86
+
+Passen-Rock mit Seitentaschen und Faltenteil 88
+
+Röcke mit Saumvolants 90
+
+Futterrock und Rockfutter 92
+
+Rockfutter für engen Rock mit offenen Schlitzen 94
+
+Rockfutter für engen Rock mit verdecktem Schlitz 96
+
+Jeansrock 98
+
+Wickelrock 100
+
+Wickelrock mit Drapierung und Wasserfall-Kante 102
+
+Asymmetrischer Rock mit Wasserfall-Drapierung 104
+
+#### Rocklängen
+
+Beschriftungen unter den Rocklängen-Zeichnungen:
+
+- supermini.
+- oberschenkellang mini.
+- kniefrei knielang ladymini.
+- kniebedeckt mezzo.
+- wadenlang midi.
+- wadenbedeckt maxi.
+- knöchellang fußlang.
+- schuhbedeckt bodenlang.

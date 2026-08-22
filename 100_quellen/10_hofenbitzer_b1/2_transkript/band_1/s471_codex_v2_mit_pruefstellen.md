@@ -1,0 +1,60 @@
+## S.471
+Prüfstelle S.471: Alle Revers-, Beleg- und Kragenlinien, die Rollweite beider Belegvarianten, Fadenläufe und Materialangaben prüfen; besonders `Reb`, `Crochetnaht`, `Fasson = Optik des gesamten Kragens`, `45° zur hM`, `0,5 bis 1 cm` und die Seitenverweise `322`/`324`.
+
+### Einreihiger Blazer (2)
+
+#### VT-Beleg und Kragen
+
+### Abbildungen und Beschriftungen
+
+**□4 Reverskragen-Konstruktion am VT**
+
+- `Kragenkante`
+- `Kragenabstich`
+- `Crochetnaht`
+- `Reversabstich`
+- `Reverskante`
+- `Reversbruch`
+- `Reb`
+- `Fasson = Optik des gesamten Kragens`
+- `vordere Belegvariante 1`
+- `vordere Belegvariante 2`
+- `vM`
+
+**□5 Rollweite durch Öffnen am Reversbruch**
+
+(hier am Beispiel von Belegvariante 1)
+
+Zeichnungsbeschriftung: `Reversbruch um die Rollweite öffnen`.
+
+**□6 Rollweite durch Anzeichnen**
+
+Ist nur am VT-Beleg bei fallendem Revers möglich, wenn Crochetnaht und Reversabstich in einer Geraden verlaufen.
+
+(hier am Beispiel von Belegvariante 2)
+
+Zeichnungsbeschriftung: `Kragenpunkt um die Rollweite verschieben`.
+
+**□7 Produktionsschnittteil vorderer Beleg**
+
+Verlängerung der Belegnaht um ca. 0,5 bis 1 cm wie am VT = Faltentiefe (siehe folgende Seite).
+
+Schnittteilbeschriftung: `Blazer 1, VT-Beleg 1, 2×-p OSt + El, G 38`.
+
+### 2 Die Konstruktion des Reverskragens siehe Seite 322
+
+**□8** Produktionsschnitt des Unterkragens mit Naht an der hM und im schrägen Fadenlauf zuschneiden (45° zur hM). Der Strich verläuft in Richtung der Kragennaht, für den Fall, dass der Kragen hochgeschlagen wird.
+
+Schnittteilbeschriftung: `Blazer 1, Unterkragen, 2×-p OSt + El, G 38`; `hM`.
+
+**□9** Oberkragen mit Rollweite versehen, siehe Seite 324.
+
+Zeichnungsbeschriftungen: `Kragenbruch`; `Verstürzweite + Rollweite anzeichnen`; `Kragennaht`; `Rollweite verlängern`; `Crochetnaht`; `um die Rollweite verlängern`; `neuer Kragenabstich`; `neue Kragenkante`; `hM`.
+
+**□10 Produktionsschnitt**
+
+Der Fadenlauf (Strich) verläuft in Richtung der Kragenkante nach unten (Strichverlauf wie am RT).
+
+Schnittteilbeschriftung: `Blazer 1, Oberkragen, 1× OSt + El, G 38`; `hM`.
+
+[Randregister: Einreihiger Blazer]

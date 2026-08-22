@@ -1,0 +1,97 @@
+## S.162
+
+Prüfstelle S.162: Die Fertigmaßtabelle und alle Modellschritte prüfen, besonders `TaH 106 cm`, `SaW 48 cm`, `KnW 52 cm`, Reißverschlusslänge `17 cm`, Tascheneingriffe `18 cm`, `14 cm` und `16 cm`. In den Zeichnungen `Bundfalteninhalt 2 bis 3 cm`, `Eingriffslänge 18 cm`, `3,5 cm`, `ca. 17 cm`, `2 cm`, Sitzlängenöffnung `0,5 bis 1,5 cm`, alle Öffnungs- und Abtrennungsmaße `3 bis 5 cm`, `5 bis 7 cm`, `9 bis 13 cm`, `ca. 5 bis 10 cm` sowie `Querabnäher … 2 cm` kontrollieren. Auch die Randverweise `117`, `130` und `Seite 359` prüfen.
+
+Randregister: Hosen-Modelle
+
+### Funktionshose (1)
+
+### Modellentwicklung mit vielen praktischen Details
+
+Randverweise: 117, 130
+
+□1 Verschiedene praktische Details, ggf. für spezifische Anwendungsbereiche, kennzeichnen ein funktionales Kleidungsstück: Seitentaschen vorne, Nahttaschen mit Reißverschluss (RV) hinten unter der Rückteilpasse sowie eine Cargotasche seitlich am rechten Hosenbein (hier mit angeschnittenen Seitenteilen und Patte, siehe Seite 359).
+
+Diese Hose wird für bequeme Oberschenkelweite aus der Bundfaltenhose entwickelt. Für ausreichend Sitzlänge wird die Hinterhose an der hM geöffnet. Der teilelastische Bund mit Gürtelschlaufen reguliert die Taillenweite bei Bedarf.
+
+Die Gesäßverstärkung (Besatz) kann optional mit einem anderen Material aufgesetzt oder eingearbeitet sein.
+
+Nicht zu weit geschnittene, teilbare Hosenbeine verwandeln die lange Hose bei Bedarf in eine Bermuda: Der untere Teil des Hosenbeins ist am Knie geformt und vorne verstärkt. Oberhalb des Saumabschlusses kann die Weite durch eine Verstelllasche reguliert werden.
+
+### □1 Funktionshose
+
+Abbildung: Vorder- und Rückansicht der Funktionshose.
+
+### Fertigmaße für Größe 38 (Vorschlag)
+
+| Maß | Wert |
+|---|---:|
+| Hosenlänge (bei TaH 106 cm) | 106 cm |
+| Saumweite SaW | 48 cm |
+| Knieweite KnW | 52 cm |
+| Reißverschlusslänge | 17 cm |
+| Tascheneingriff vorne | 18 cm |
+| Tascheneingriff hinten | 14 cm |
+| Tascheneingriff seitlich | 16 cm |
+
+### Modellentwicklung
+
+1. □2 Bundfaltenhose als GS verwenden.
+
+2. Hosenlänge nicht kürzen, Saum- und Knieweite anpassen.
+
+3. Sitzlänge vergrößern.
+
+4. Taillenweite an den SN um je 1 cm vergrößern.
+
+5. Passenform im Bereich der Tasche gerade gestalten. Taschen und Schnittteile einzeichnen.
+
+6. Die Abnäherspitzen im RT an die Taschenenden verschieben (die Passennaht wird am Eingriff gerader) und kürzen, es entsteht Mehrweite am Gesäß.
+
+7. Den Gesäß-Einsatz formen.
+
+8. Hosenlänge (= Kante) für die Abtrennung zur Bermuda bestimmen.
+
+9. Abtrennungen für Knieeinsatz und
+
+10. Öffnungslinien bestimmen und einzeichnen.
+
+### □2 Modellentwicklung
+
+Schnittzeichnungen: VT und RT.
+
+Beschriftungen und Maße im oberen Bereich:
+
+- beidseitig 1 cm
+- Bundfalteninhalt 2 bis 3 cm
+- Eingriffslänge 18 cm
+- Tascheneingriff
+- Taschenbeleg
+- Taschenspiegel
+- 3,5 cm
+- ca. 17 cm
+- 2 cm
+- vM, hM, SN
+- VT, RT
+- Passenabtrennung
+- 0,5 bis 1,5 cm
+- Konstruktionsziffern 1, 3–7
+
+Beschriftungen und Maße an den Hosenbeinen:
+
+- Hosenbein-Abtrennung
+- Abtrennung
+- Öffnung
+- Knielinie
+- 3 bis 5 cm
+- 5 bis 7 cm
+- 9 bis 13 cm
+- 3 bis 5 cm
+- ca. 5 bis 10 cm
+- Querabnäher
+- Knielinie
+- 2 cm
+- TaH (106 cm)
+- Konstruktionsziffern 2, 8–11
+
+Randregister: Funktionshose

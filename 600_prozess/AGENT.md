@@ -11,7 +11,7 @@ angekreuzten Agentendateien.
 
 ## Navigation
 
-- [ ] `20_seiten_erledigt/AGENT.md`
+- [x ] `20_seiten_erledigt/AGENT.md`
 
 ## Zweck
 
@@ -28,7 +28,7 @@ gehört woanders hin.
 
 | Nicht hier | Sondern |
 |---|---|
-| Der fertige Begriff mit Definition und Seite | `000_sprache/30_gosslar_test.md` |
+| Der fertige Begriff mit Definition und Seite | `000_sprache/10_gosslar/1_gosslar.md` |
 | Die fertige Formel | `300_formeln/` |
 | Fachfrage **zu einer bestimmten Formel** | bleibt als ⚠️ **bei der Formel** |
 | Modulstatus eines Kleides | `700_schnitte/<kleid>/ROADMAP.md` |
@@ -95,7 +95,7 @@ gelöscht — dort ist die Entscheidung selbst die Information. Hier nicht.
 ## Offene Stellen
 
 - `10_begriffe_offen.md` entspricht der Namensregel der Wurzel
-- Die Begriffsliste verweist jetzt direkt auf `000_sprache/30_gosslar_test.md`.
+- Die Begriffsliste verweist jetzt direkt auf `000_sprache/10_gosslar/1_gosslar.md`.
 - Zwei Begriffe stehen auf **bereit** und können sofort nach Gosslar umziehen.
 - `20_seiten_erledigt/` führt Seiten, die vollständig auf Gosslar-Begriffe
   geprüft wurden.

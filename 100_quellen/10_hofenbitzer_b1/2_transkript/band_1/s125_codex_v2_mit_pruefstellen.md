@@ -1,0 +1,40 @@
+## S.125
+Prüfstelle S.125: Die ausschließlich grafischen Formeln, Vorzeichen und Punktzuordnungen prüfen, besonders `SiH −1 bis 3 cm`, `vHoB : 4 − 0,5 bis −1 cm`, `TaU : 4 + 0 bis +2 cm (+1)`, `SaW : 4 − 0,5 cm`, `0 bis 8 cm (7)`, `0 bis 1 cm`, `½` und P4 bis P23.
+
+### Enge Hose (2)
+
+### Grundschnitt
+
+□2 Grundgerüst für die Enge Hose
+
+Beschriftungen:
+- 1 bis 1,5 cm
+- SiH −1 bis 3 cm
+- HüU : 20 + 3 cm
+- Hüftlinie
+- Schrittlinie
+- KnH
+- Knielinie
+- Bügelkante / Mittellinie
+- sTaH
+- Saumlinie
+- 0 bis 8 cm (7)
+- vHoB
+- vHoB : 4 − 0,5 bis −1 cm
+- ½
+- P4, P6, P8, P10 bis P14
+
+□3 Konstruktion der Vorderhose
+
+Beschriftungen:
+- VT
+- TaU : 4 + 0 bis +2 cm (+1)
+- 1,5 bis 2 cm
+- vM-Naht
+- 0 bis 0,5 cm
+- Hüftlinie
+- Schrittlinie
+- Knielinie
+- 0 bis 1 cm
+- SaW : 4 − 0,5 cm
+- P8, P8a, P9 bis P23

@@ -1,0 +1,123 @@
+## S.120
+Prüfstelle S.120: Sämtliche handschriftlichen Tabellenwerte, Formeln und Abkürzungen prüfen, besonders `BuU 80`, `BuA v −6 / r −3,5 / l −3,5 / h −2`, `TaAf`, `44,3 cm − 40 cm = 4,3 cm`, `VT-Abnäher 1 cm`, `RT-Abnäher 3,3 cm`, `vBuA`, `sBuA`, `hBuA` und die übrigen Maßsatzwerte.
+
+### Hosen-Grundschnitte
+
+### Individuelle Taillenvertiefung an der Hose (1)
+
+### Hüfthose an figurbedingter Bundposition
+
+Jede Grundschnitt-Konstruktion einer Hose endet oben an der waagerechten Taille. Nicht jede Kundin aber kann oder möchte den Hosenbund dort tragen.
+
+Modisch werden Hosen auch tiefer getragen. Die Bundposition ist häufig nicht anatomisch zwingend an einer bestimmten Körperstelle. Die Tiefe des Bundes kann nach gestalterischen Aspekten bestimmt werden, insbesondere bei Konstruktionen für einen anonymen Kundenkreis.
+
+### Individuelle Taillenvertiefung
+
+Sehr häufig, insbesondere bei stärkeren Figuren, neigt der Bund allerdings dazu, sich vorne unter den Bauch in die Bauchfalte zu legen. Der Bund rutscht automatisch an die figurbedingte Bundposition. Die Passform einer Hose mit einem Bund an der waagerechten Taille wäre sehr unschön.
+
+□1 Da die Vertiefung anatomisch durch den Körper vorgegeben ist, können die Abstände von der Unterkante des waagerechten Taillenbandes zur Unterkante des umgelegten Bundbandes gemessen werden (siehe Seite 13 und 38).
+
+Bei einer individuellen Anfertigung werden die Bundabstände an der Kundin von der waagerechten Taille gemessen werden, wo sie den Bund tragen möchte und in die Konstruktionstabelle eingetragen (siehe unten).
+
+Sollten die Bundabstände links und rechts nicht allzu unterschiedlich sein, können die Werte für einen symmetrischen Grundschnitt gemittelt werden. Sind die Werte sehr verschieden, ist vermutlich die Hüftform schief und die Figur benötigt einen asymmetrischen Schnitt mit linker und rechter Hosenhälfte (siehe Band 2, Maßschnitte und Passform).
+
+### Konstruktionstabelle
+
+Maßangaben in cm — Hose
+
+- Name: [leer]
+- Datum: [leer]
+- Modell: Standard-Hose mit vertieftem Bund
+- Größe: 38
+
+#### Hauptmaße (Kennmaße), Körpermaße und Proportionsmaße
+
+| Kürzel | Bezeichnung | Körpermaß | Proportionsmaß / Eintrag |
+|---|---|---:|---|
+| TaU | Taillenumfang | 72 | ½ = 36; ¼ = 18 |
+| HüU | Hüftumfang | 97 | ½ = 48,5; ¼ = 24,25 |
+| BuU | Bundumfang | 80 | ½ = 40; ¼ = 20 |
+| BuA | Bundabstände | — | v −6; r −3,5; l −3,5; h −2 |
+| sTaH | seitliche Taillenhöhe | — | 106 |
+| SiH | Sitzhöhe | — | 26 |
+| OsU | Oberschenkelumfang | — | 55,5 |
+| KnU | Knieumfang | — | — |
+| uKnU | unterer Knieumfang | — | — |
+| WaU | Wadenumfang | — | — |
+| FeU | Fesselumfang | — | — |
+| RiU | Ristumfang | — | — |
+
+#### Konstruktions-, Kontroll- und Hilfsmaße
+
+| Kürzel | Bezeichnung | Formel | ± | Eintrag |
+|---|---|---|---|---:|
+| vHoB | Vorderhosenbreite | ¼ HüU − 1 cm | — | 23,2 |
+| hHoB | Hinterhosenbreite | ¼ HüU + 1 cm | — | 25,2 |
+
+#### GeWi — Gesäßwinkel α (in °)
+
+| Hosenform / Sitzlänge | flache Gesäßform | normale Gesäßform | starke Gesäßform |
+|---|---:|---:|---:|
+| Enge Hose bzw. große Sitzlänge | 80° | 77° | 74° |
+| Standard bzw. mittlere Sitzlänge | 85° | 82° | 79° |
+| Legere Hose bzw. kurze Sitzlänge | 88° | 85° | 82° |
+
+Starke Figur (auch starkes Gesäß): 84° bis 90°
+
+Handschriftlicher Eintrag im Feld „Gesäßform“: 82°
+
+längs-elastischer Stoff — zusätzlich +1° bis +2°
+
+| Kürzel | Bezeichnung | Formel | Eintrag |
+|---|---|---|---:|
+| SrH | Schritthöhe | sTaH − SiH | 80 |
+| KnH | Kniehöhe | SrH : 10 · 4 | 32 |
+
+#### SaW — Saumweite
+
+| Hosenform | Bereich | Eintrag |
+|---|---:|---:|
+| Enge Hose | 32 bis 40 | — |
+| Standardhose | 40 bis 48 | 42 |
+| Weite Hose | 48 bis 56 | — |
+
+□1 Stärkere Figur mit Taillenband an waagerechter Taille und figurbedingter Bundposition
+
+Beschriftungen:
+- waagerechte Taille
+- vBuA −6 cm
+- sBuA −3,5 cm
+- hBuA −2 cm
+- BuU
+
+Die Hose wird wie beschrieben konstruiert. Die Ausfallberechnung mit dem Bundumfang erfolgt erst nach dem Einzeichnen der Taillenabtrennung.
+
+□2 Die Taillenabtrennung (gestrichelt) wird mit Hilfe der Bundabstände vorne, seitlich und hinten aus dem Maßsatz in der für die Figur notwendigen Form eingezeichnet.
+
+Für einen schönen Übergang kann die Vorderhose an der Seitennaht an die Hinterhose angelegt werden.
+
+Die gesamte (vordere + hintere) Taillenabtrennung (gestrichelt) messen und den Taillenausfall berechnen:
+
+### Taillenausfall-Berechnung
+
+TaAf = Taillenabtrennung − ½ BuU
+
+(ggf. − 0,5 cm EW)
+
+= 44,3 cm − 40 cm (hier − 0 cm)
+
+= 4,3 cm
+
+### Verteilung des Taillenausfalls
+
+VT-Abnäher: 1 cm
+
+(kann je nach Figur oder bei großer Vertiefung auch entfallen)
+
+RT-Abnäher: 3,3 cm
+
+□3 Die Abnäherpositionen und Abnäherformen sind wie am Grundschnitt bzw. figurbedingt zu wählen.
+
+Die Abnäher „figurgerecht“ und für eine geschwungene Taillennaht leicht erhöht zeichnen. Optional können auch zwei hintere Abnäher gezeichnet werden.
+
+Die Bund- bzw. Taillennaht wie skizziert einzeichnen. An Abnähern und Hüftbogen schöne Nahtübergänge formen. Die Bundnaht wird durch die Formung noch etwas länger und gewinnt dadurch ggf. zusätzliche Einhalteweite.

@@ -1,0 +1,116 @@
+## S.124
+Prüfstelle S.124: Sämtliche handschriftlichen Tabellenwerte und Konstruktionsformeln prüfen, besonders `KnU 34`, `uKnU 31`, `WaU 35`, `FeU 23`, `RiU 32`, `GeWi 76°`, `SaW 32`, `vHoB : 4 − 0,5 bis −1 cm`, `vHoB : 4 − 1 bis −1,5 cm` und `TaU : 4 + 1 cm`.
+
+### Hosen-Grundschnitte
+
+### Enge Hose (1)
+
+### Grundschnitt
+
+□1 Enge Hose
+
+Diese Hosen-Grundschnittform wird gerne für enge Jeans verwendet. Sie sitzt enger am Oberschenkel und hat einen schmalen Beinverlauf. Wird eine lockere Hosenform für die Jeanshose gewünscht, verwendet man für die Modellentwicklung z. B. die Standardhose.
+
+Es werden hier nur diejenigen Schritte beschrieben, die von der Konstruktion der Standardhose (ab Seite 109) abweichen.
+
+### 1 Grundgerüst der Vorderhose
+
+4. Soll dieser Grundschnitt für eine Hose aus längselastischem Material verwendet werden, sollte die SiH um ca. 1 bis 3 cm reduziert werden.
+
+6. Bei geringerer Saumweite (SaW) sollte die Hose um 0 bis 8 cm gekürzt werden.
+
+10. Von P8 aus um vHoB : 4 − 0,5 bis −1 cm die Hüftlinie nach rechts verlängern.
+
+Es entsteht der vordere Hosenausschnitt für eine „normal“ proportionierte Figur (siehe Thema „Kontrollen und Korrekturen“, Seite 117).
+
+Der vordere Hosenausschnitt für Figuren mit breiten Hüften und flachem Gesäß benötigt einen kleineren Abtrag:
+
+vHoB : 4 − 1 bis −1,5 cm
+
+Figuren mit schmalen Hüften und starkem Gesäß benötigen einen größeren Abtrag:
+
+vHoB : 4 + 0 bis +0,5 cm
+
+### 2 Vorderhose
+
+15. Von P12 aus SaW : 4 − 0,5 cm nach rechts
+
+16. und nach links abtragen → P15 und P16.
+
+20. Von P9 aus 1,5 bis 2 cm nach innen abtragen → P20 (wenn kein Abnäher gewünscht wird)
+
+21. Von P8 aus 0 bis 0,5 cm nach außen abtragen und die vM-Naht nach P20 zeichnen.
+
+Von P20 wird TaU : 4 + 1 cm + gewünschte Einhalteweite auf die erhöhte Taillenlinie abgetragen → P21.
+
+Hinweis:
+
+Dieser VT-Grundschnitt ohne Abnäher ist für schlanke Figuren geeignet. Bei Figuren mit großer Differenz zwischen Taillen- und Hüftumfang sollte unbedingt im VT ein Abnäher eingezeichnet werden.
+
+Diese Zugabe von 1 cm, die zum ¼ TaU addiert wird, verhindert einen allzu starken Hüftbogen. Wenn hier kein Abnäher in der Vorderhose konstruiert wird, würde der Hüftbogen ohne diese Zugabe viel zu rund. Später wird der Betrag an der Hinterhose wieder abgezogen.
+
+### 3 Hosenbein formen
+
+Dies erfolgt wie bei der Standardhose.
+
+### 4 Die fertige Vorderhose kopieren
+
+### Konstruktionstabelle
+
+Maßangaben in cm — Hose
+
+- Name: [leer]
+- Datum: [leer]
+- Modell: Enge Hose
+- Größe: 38
+
+#### Hauptmaße (Kennmaße), Körpermaße und Proportionsmaße
+
+| Kürzel | Bezeichnung | Körpermaß | Proportionsmaß / Eintrag |
+|---|---|---:|---|
+| TaU | Taillenumfang | 72 | ½ = 36; ¼ = 18 |
+| HüU | Hüftumfang | 97 | ½ = 48,5; ¼ = 24,25 |
+| BuU | Bundumfang | — | ½ = —; ¼ = — |
+| BuA | Bundabstände | — | v 0; r 0; l 0; h 0 |
+| sTaH | seitliche Taillenhöhe | — | 106 |
+| SiH | Sitzhöhe | — | 26 |
+| OsU | Oberschenkelumfang | — | 55,5 |
+| KnU | Knieumfang | — | 34 |
+| uKnU | unterer Knieumfang | — | 31 |
+| WaU | Wadenumfang | — | 35 |
+| FeU | Fesselumfang | — | 23 |
+| RiU | Ristumfang | — | 32 |
+
+#### Konstruktions-, Kontroll- und Hilfsmaße
+
+| Kürzel | Bezeichnung | Formel | ± | Eintrag |
+|---|---|---|---|---:|
+| vHoB | Vorderhosenbreite | ¼ HüU − 1 cm | — | 23,2 |
+| hHoB | Hinterhosenbreite | ¼ HüU + 1 cm | — | 25,2 |
+
+#### GeWi — Gesäßwinkel α (in °)
+
+| Hosenform / Sitzlänge | flache Gesäßform | normale Gesäßform | starke Gesäßform |
+|---|---:|---:|---:|
+| Enge Hose bzw. große Sitzlänge | 80° | 77° | 74° |
+| Standard bzw. mittlere Sitzlänge | 85° | 82° | 79° |
+| Legere Hose bzw. kurze Sitzlänge | 88° | 85° | 82° |
+
+Starke Figur (auch starkes Gesäß): 84° bis 90°
+
+Handschriftlicher Eintrag im Feld „Gesäßform“: 76°
+
+längs-elastischer Stoff — zusätzlich +1° bis +2°
+
+| Kürzel | Bezeichnung | Formel | Eintrag |
+|---|---|---|---:|
+| SrH | Schritthöhe | sTaH − SiH | 80 |
+| KnH | Kniehöhe | SrH : 10 · 4 | 32 |
+
+#### SaW — Saumweite
+
+| Hosenform | Bereich | Eintrag |
+|---|---:|---:|
+| Enge Hose | 32 bis 40 | 32 |
+| Standardhose | 40 bis 48 | — |
+| Weite Hose | 48 bis 56 | — |

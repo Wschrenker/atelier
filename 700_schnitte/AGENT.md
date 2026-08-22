@@ -31,9 +31,15 @@ entsteht das als **Modul** in `500_python` und wird von hier aus **benutzt**.
 | Formeln und ihr Buchbeleg | `300_formeln/` |
 | Geometrie-Primitive | `400_mathematik/` |
 | Begriffe und Kürzel | `000_sprache/` |
+| Echte Maße einer Kundin | ausschließlich lokal unter `800_couture/<auftrag>/` |
 
-Was hier liegen **darf**: Entscheidungen, Auswahl, Reihenfolge, Status, die Maße
-dieser Kundin, die Anleitung zu diesem Kleid.
+Was hier liegen **darf**: Entscheidungen, Auswahl, Reihenfolge, Status und die
+Anleitung zu diesem Kleid.
+
+Alle Beispiele und Kleidfassungen in `700_schnitte` werden personenunabhängig in
+**Referenzgröße 38** aufgebaut. Größe 38 ist der gemeinsame Entwicklungsfall,
+keine Kundin. Erst unter `800_couture` wird ein Kleid mit den echten Maßen eines
+konkreten Auftrags gerechnet.
 
 Faustprobe: Würde ein zweites Kleid dieselbe Zeile brauchen, gehört sie nicht
 hierher, sondern nach unten.
@@ -121,8 +127,9 @@ Scope. **Wenn das Kleid steht, ist der Scope zu.**
 ## Offene Stellen
 
 - `10_kleid_v001/DEFINITION.md` ist **Entwurf** und wartet auf Werners Freigabe
-- Offen darin: `MoL` (Kostenentscheidung), Größe und Maße, Lage des
-  Reißverschlusses, Futter, Nahtzugaben
+- Referenzgröße **38** ist für alle Beispiele und Kleidfassungen festgelegt.
+- Offen darin: `MoL` (Kostenentscheidung), Lage des Reißverschlusses, Futter,
+  Nahtzugaben
 - Fachnähte 7–10 tragen `?` statt einer Buchseite
 - `ROADMAP.md` verweist bei E2 auf `600_prozess/10_begriffe_offen.md` — offene
   Aufgaben und Begriffskandidaten werden dort geführt

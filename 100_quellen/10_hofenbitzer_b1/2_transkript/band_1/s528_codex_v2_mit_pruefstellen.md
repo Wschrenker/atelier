@@ -1,0 +1,76 @@
+## S.528
+
+Prüfstelle S.528: Die Herrenmaß-Tabelle, sämtliche Reduktionswerte und die nummerierten Konstruktionsschritte 1–12 prüfen. Besonders `TaU 88 cm`, `HüU 102 cm − 7 % = 94,9 cm`, `SiH 26 cm − 3 % = 25,2 cm`, `HüU : 20 + 3 cm`, `HüU : 20 + 1,5 cm`, `HüU : 10`, `½ TaU + 0 bis 2 cm`, `½ HüU + 0 bis 0,5 cm`, `1 cm für Herren`, `0,5 cm für Damen`, `−7 %`, `−3 %`, `0 bis ca. 20 %` und `0 bis ca. 5 %` kontrollieren. Knopfleiste, Übertrittkante, Absteppnaht, Seiten-/Innenbeinnähte, Schritt- und Hüftlinien sowie die genaue Kurvenführung sind bildgebunden.
+
+### Bodysuit mit Knopfleiste und kurzen Ärmeln
+
+Sport · Wäsche · Unisex
+
+UNISEX
+
+Seitenverweis: 519
+
+□1 Bodysuit
+
+### Verwendete Grundschnitte
+
+Ein (ggf. weitenreduzierter) enger Oberteil-Grundschnitt mit oder ohne Brustabnäher (ab Seite 188 oder 518) mit ankonstruierten Pants (ab Seite 503) und ggf. engen Ärmel (ab Seite 200 oder 520).
+
+Das Modell kann für Damen und Herren aus Maschenware, ggf. mit elastischen Faserzusätzen gearbeitet werden.
+
+### Elastizität des Materials
+
+Alle relevanten Konstruktionsmaße müssen um einen Dehnungsfaktor reduziert werden.
+
+Auf Seite 500 wird ein Verfahren beschrieben, wie die prozentuale Reduzierung ermittelt werden kann.
+
+Eine Weitenreduzierung kann zwischen 0 bis ca. 20 % betragen.
+
+Eine Längenreduzierung kann zwischen 0 bis ca. 5 % betragen.
+
+Hier mit Herrenmaßen der Größe 50:
+
+| Maß | Ausgangswert | Reduzierung | Ergebnis |
+|---|---:|---:|---:|
+| TaU | 88 cm |  |  |
+| HüU | 102 cm | −7 % | 94,9 cm |
+| SiH | 26 cm | −3 % | 25,2 cm |
+
+### Modellgestaltung
+
+An diesem Beispiel ist die Pants ankonstruiert. Für eine längere Pants ist es günstiger, die Leggings anzusetzen (siehe Catsuit, Seite 529 da ansonsten die Gesäßlänge nicht ausreicht).
+
+Ggf. eine Formung der Hals- und Armausschnitte vornehmen. Auch Kragenlösungen, Blenden oder Strickbündchen sind möglich. Auch die Gestaltung mit formenden, Teilungsnähten ist möglich.
+
+### Bodysuit-Grundschnitt – Ergänzung des engen Oberteil-GS
+
+1. Von der erhöhten Taillenlinie die SiH abtragen und abwinkeln.
+2. Von dort die neue Hüftlinie mit HüU : 20 + 3 cm bestimmen.
+3. Die senkrechte Grundlinie aus der Konstruktion (oder 2 cm an hM an Hüfte des Oberteils nach außen) und die Seitenlinien verlängern.
+4. An der Schritthöhe ab der vM HüU : 20 + 1,5 cm und ab der Grundlinie HüU : 10 abtragen.
+5. Kontrolle der Taillenweite.
+6. Kontrolle der Hüftweite. Ermittelte Fehlweite an der Seite anzeichnen und SN und Hüftbögen formen.
+7. Modelllänge von der Schrittlinie abtragen und an den Enden nach oben abwinkeln.
+8. Vorne 2 cm einstellen, 1 cm vertiefen und die Innenbeinnaht gerade zeichnen und messen.
+9. Hinten 3 cm einstellen, 1 cm vertiefen, die Innenbeinnaht zeichnen und von vorne übertragen.
+10. Den Saum formen.
+11. Den vorderen Hosenausschnitt, die Gesäßnaht und die hM wie skizziert formen.
+12. Für den Verschluss ggf. die Übertrittkante und Absteppnaht einzeichnen.
+
+Für Herren ist ein Knopf- oder Reißverschluss an der vM aus praktischen Gründen üblich.
+
+### Abbildungen und Beschriftungen
+
+- VT / RT / vM / hM / SN / SiH / vÄP / hÄP
+- Seitenlinie / Grundlinie
+- Kontrolle der TaW → messen + messen = ½ TaU + 0 bis 2 cm
+- Kontrolle der HüW → messen + messen = ½ HüU + 0 bis 0,5 cm
+- neue Hüftlinie / alte Hüftlinie / Schrittlinie
+- hier ggf. Fehlweite anzeichnen
+- 1 cm für Herren / 0,5 cm für Damen
+- ½ / ⅓
+- HüU : 20 + 1,5 cm / HüU : 20 + 3 cm / HüU : 10
+- 2 cm / ca. 2 cm / 1 cm / ca. 3 cm
+- Weitenreduzierung: −7 % / −3 %
+
+□2 Bodysuit – hier konstruiert für Herren. Mit den entsprechenden Grundschnitten kann das Modell auch für Damen konstruiert werden.

@@ -1,0 +1,61 @@
+## S.470
+Prüfstelle S.470: Modellbeschreibung, Passform-Piktogramm und Schritte `1–11` mit sämtlichen Maßen und Seitenverweisen prüfen; besonders `hHLL messen = 8,2 cm`, Schulterpolstererhöhung, Taschenspiegel, Schlitz, Übertritt und Schnittbeschriftungen.
+
+### Einreihiger Blazer (1)
+
+#### Modellentwicklung, Nähte, Taschen, Schlitz, vordere Kante
+
+Grundlage für dieses Jackenmodell ist ein taillierter Oberteil-Grundschnitt der Passformklasse 5 bis 6 mit Brustabnäher (siehe Seite 185+186).
+
+Blazer sind immer taillierte, eher klassische halblange Jacken mit Revers- oder Schalkragen. Hier ein Modell mit Wiener Nähten, Reverskragen mit fallendem Revers, Paspeltaschen, verdecktem Schlitz an der hM, Zweinaht-Ärmeln mit Zierknöpfen am imitierten Schlitz. Es werden Schulterpolster eingearbeitet.
+
+**□1** Einreihiger Blazer
+
+**□2** Passform-Piktogramm mit üblichen Weitenzugaben
+
+Passform-Piktogramm: `Taill. OT-GS`; `168`; `88`; `72`; `97`; `5–6`; `10–13`; `8–14`; `6–10`.
+
+### 1 Modellentwicklung
+
+**□7** Zu Beginn der Entwicklung werden einige grundsätzliche Anpassungen für das Modell vorgenommen:
+
+- Die Modelllänge nach Wunsch
+- Eine Armlochauflockerung (0 bis ca. 1,5 cm am VT, ca. die Hälfte davon am RT)
+- Eine Halslochverbreiterung (0 bis 1 cm)
+- Eine Schulterpolstererhöhung (0 bis 3 cm)
+
+Bei diesem Modell wird eine Schulterpolstererhöhung erst nach der Behandlung von Brust- und Schulterabnäher vorgenommen. Armlochauflockerung und Halslochverbreiterung sind hier nicht vorgesehen.
+
+**1** Die Modelllänge an der hM festlegen und am hinteren Saum abwinkeln.
+
+**2** Die Länge der hinteren SN auf die vordere SN übertragen und den Saum zur vM zeichnen.
+
+**3** Die Wiener Nähte mit leichter Saumerweiterung im VT und RT nach Wunsch gestalten (siehe die Varianten ab Seite 382).
+
+**4** Die Schulterabnäher verlegen und passend zum Verlauf der Wiener Naht formen. Andere Formen sind natürlich möglich.
+
+**5** Die Schulterpolstererhöhung vornehmen (siehe auch Seite 216 mit Ärmelanpassung).
+
+**6** Die Schlitzlänge an der hM und den Schlitzeinschlag von 3 bis 5 cm Breite anzeichnen. Je länger der Schlitz, desto breiter sollte der Einschlag sein.
+
+**7** Taschenposition sowie Taschenlänge und Taschenbeutelform ins VT zeichnen. Beide Paspeln zusammen in 1 cm Breite, Taschenspiegel ca. 4 cm parallel zum Eingriff (siehe Seite 366).
+
+**8** Die Knopflochpositionen an der vM bestimmen und alle Knopflöcher einzeichnen.
+
+**9** Den Übertritt entsprechend der geplanten Knopfgröße bis zum obersten Knopf zeichnen. Die Übertrittbreite entspricht dem ½ Knopfdurchmesser + dem gewünschten Abstand zur Kante.
+
+**10** Den Kantenabstich hier rund nach der Vorgabe formen.
+
+**11** Die Seitennaht formen und dieselbe Weite wie an den Wiener Nähten am Saum hinzugeben (ausstellen).
+
+### Abbildungen und Beschriftungen
+
+- **□3** Modellentwicklung
+- `hHLL messen = 8,2 cm`
+- `BrP` / `vÄP` / `hÄP` / `SN` / `vM` / `hM`
+- `VT G 38` / `RT G 38`
+- `ca. 4 cm`
+- `ca. 14 bis 16 cm` / `14 bis 16 cm`
+- Seitenverweise: `185`, `186`, `216`, `366`, `382`
+
+[Randregister: Einreihiger Blazer]

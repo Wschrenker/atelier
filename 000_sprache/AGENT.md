@@ -41,24 +41,16 @@ wird, gehört nie hierher — auch nicht „nur als Hinweis".
 
 ## Nummernschlüssel
 
-Die Zehner sind Themenblöcke. Innerhalb eines Blocks stehen `.md` und `.html`
-zum selben Thema **direkt nebeneinander**.
+Die Zehner benennen die direkten Themenordner von `000_sprache/`:
 
-| Block | Thema |
+| Ordner | Thema |
 |---|---|
-| `10er` | Abkürzungssystem und Operanden |
-| `20er` | Zeichen — Schnittmuster-Symbole, Zuschnitts- und Dressierzeichen |
-| `30er` | Begriffe — Gosslar |
+| `10_gosslar` | Gosslar-Begriffe, nach Buchkategorien geordnet |
+| `20_schnittmuster` | Schnittmuster-, Zuschnitts- und Dressierzeichen |
+| `30_lexikon` | Abkürzungen, Operanden und Sachwortverzeichnis |
 
-Belegt:
-
-| Nummer | Art | Was |
-|---|---|---|
-| `10_` | `.md` | Abkürzungen und Operanden |
-| `20_` | `.md` | Schnittmuster-Symbole, Abschrift |
-| `21_` | `.html` | dieselben Symbole als Originalbild |
-| `22_` | `.html` | Zuschnitts- und Dressierzeichen als Originalbild |
-| `30_` | `.md` | Gosslar — Glossar |
+Die Dateien innerhalb eines Themenordners werden in dessen `AGENT.md` geführt.
+Zusammengehörige `.md`- und `.html`-Dateien liegen dort direkt nebeneinander.
 
 Neues Thema → nächster freier Zehner.
 **Eine vergebene Nummer wird nie neu belegt.**
@@ -125,7 +117,7 @@ dort auf die Buchseite.
 
 - `22_zuschnittszeichen.html` hat **keine `.md`** — die Zeichen liegen als Bild
   vor, die Abschrift fehlt. Sie bekommt dann `23_`.
-- `30_gosslar_test.md` — die Einträge tragen **keine Seitenzahl**, `Formeln`
+- `10_gosslar/1_gosslar.md` — die Einträge tragen **keine Seitenzahl**, `Formeln`
   steht überall auf „Folgen". Nach der Fertig-Regel ist damit noch **kein**
   Eintrag fertig. Erst belegen, dann zitieren.
 

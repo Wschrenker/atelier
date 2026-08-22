@@ -1,0 +1,53 @@
+## S.423
+Prüfstelle S.423: Die kombinierte Bildkennzeichnung `□7b+8b`, die Beschriftung `rVT 1x`, die kleinen Linien- und Schnittteilkürzel sowie die Formulierung der Bildunterschrift `Produktionsschnitt des rechten VT mit geöffneten Falten` prüfen.
+
+### Abnähervariationen und Ausschnittgestaltung (4)
+
+### Asymmetrische Schnittgestaltungen
+
+□7 Diagonale Falten bzw. aufspringender Abnäher aus der Seitennaht
+
+### Diagonale Falten und aufspringender Abnäher
+
+□7 Beide Abnäher können aufspringend oder als Falte verarbeitet werden.
+
+□7a Störenden Abnäher zulegen und zweiten Abnähereinschnitt vornehmen
+
+□7b Produktionsschnitt
+
+Beschriftungen:
+- VT
+- VT 1x
+- vM
+- SN
+- BrP
+- vÄP
+
+Kreuzt ein neuer Abnäher einen bestehenden, noch zu verlegenden Abnäher, so muss dieser störende Abnäher zunächst an eine andere Stelle verlegt werden.
+
+Am schönsten fallen drapierte Stoffe, wenn die Faltenkanten im schrägen Fadenlauf liegen.
+
+□8 Asymmetrische OT-Gestaltung in drapierter Wickeloptik
+
+### Asymmetrische drapierte Wickeloptik
+
+□8 Hier wird das obere Wickelteil in der Seitennaht mit genäht. Andere Gestaltungsvarianten sind möglich (Binden, Knöpfen ...)
+
+□8a Falten- und Ausschnittgestaltung am gespiegelten GS
+
+□7b+8b Den Falten- bzw. Abnäherinhalt nach unten legen. Den Rückschnitt vornehmen oder konstruieren.
+
+□8b Die Hauptfalte zum BrP wird zugunsten der schmaleren Falten etwas reduziert. Die Passform leidet bei schrägem Fadenlauf nicht.
+
+Das linke VT (Untertritt) kann mit einem gewöhnlichen Brustabnäher gearbeitet werden.
+
+□8b Produktionsschnitt des rechten VT mit geöffneten Falten.
+
+Beschriftungen:
+- Ausschnitt einschneiden und ca. 0,5 bis 1 cm zulegen.
+- VT
+- rVT 1x
+- vM
+- SN
+- BrP
+- vÄP

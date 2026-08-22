@@ -1,0 +1,53 @@
+## S.531
+
+Prüfstelle S.531: Die Schritte 1–11 des Overall-Grundschnitts und die alternative Konstruktion 1–4 prüfen. Besonders `PK2 bis PK5`, `0 bis 1,5 cm Mehrlänge`, `0,5 bis 3 cm Länge`, `maximal 1,5 cm einstellen`, `1 bis 2 cm tiefer`, `0,5 bis 1 cm weiter`, `1 bis 2 cm weiter`, `SLi`, `vM`, `hM`, `VT`, `RT`, `alternativer oder zusätzlicher Abnäher` sowie die Angaben zur Vorder- und Hinterhose kontrollieren. Kreisbogen, gedrehte Armlochstrecke, Sitzlänge, Oberschenkelweite und Innenbeinnaht sind bildgebunden.
+
+### Overall-Grundschnitt – Anlage des Oberteils an die Hose
+
+Seitenverweise: 185 / 109
+
+### Verwendete Grundschnitte
+
+Der Overall-Grundschnitt besteht hier aus einem taillierten Oberteil bis zur Taille mit Brustabnäher (ab Seite 185) und der Standardhose (ab Seite 109). Geeignete Passformklassen für das Oberteil sind PK2 bis PK5. Anstelle der Standardhose könnte auch die enge Hose, die weite Hose oder die Bundfalten-Hose verwendet werden.
+
+### Grundschnitt
+
+Es entstehen zwei durchgehende Schnittteile. Optional kann eine Taillennaht in Höhe der Taillennaht des Oberteils geformt und abgetrennt werden.
+
+1. An der Vorderhose eine Senkrechte zur Hüftlinie nach oben zeichnen → vM.
+2. Daran die vM des VT-Oberteils anlegen.
+3. Dort ca. 0 bis 1,5 Mehrlänge öffnen.
+4. An der SN ergibt sich die Mehrlänge.
+5. Dort eine Gerade (SLi) von der Hüfte zum Armloch zeichnen und ausmessen.
+6. Am RT diese Strecke als Kreisbogen um die seitliche Hüfte nach oben zeichnen.
+7. An der Taille der hM 0,5 bis 3 cm Länge zugeben und dabei
+8. das seitliche Armloch an den Kreisbogen drehen → SLi in gleicher Länge.
+9. Die hM sanft formen.
+10. Die SN zwischen Hüfte und Armloch gerade zeichnen, ggf. an jedem Schnittteil maximal 1,5 cm einstellen.
+11. Die Abnäher entweder für viel Mehrweite an der Taille streichen oder wie skizziert formen.
+
+### Abbildungen und Beschriftungen
+
+- oVT / oRT / VT / RT / vM / hM / SLi
+- 0 bis 1,5 cm öffnen
+- 0,5 bis 3 cm öffnen
+- maximal 1,5 cm einstellen
+- 1 bis 2 cm tiefer
+- 0,5 bis 1 cm weiter
+- 1 bis 2 cm weiter / wie am VT
+- alternativer oder zusätzlicher Abnäher
+
+### Alternative Konstruktion ohne Mehrlänge an der Taille
+
+Bei Längs-Elastizität des Stoffes und größerer Oberschenkelweite der Hose wird weniger Länge benötigt.
+
+Ohne Längs-Elastizität des Stoffes und enger Oberschenkelweite der Hose sowie für mehr Beweglichkeit (Rumpfbeugen, z. B. bei Arbeitskleidung) wird mehr Länge benötigt.
+
+Wenn also auf die Mehrlänge an der Taille verzichtet werden soll, muss zumindest die Sitzlänge und die Oberschenkelweite etwas vergrößert werden:
+
+**Ohne Änderung der Knieweite:**
+
+1. Vertiefung an der Vorderhose 1 bis 2 cm, Verbreiterung 0,5 bis 1 cm.
+2. Vertiefung an der Hinterhose 0 bis 0,5 cm mehr als an der Vorderhose,
+3. die Verbreiterung um ca. das Doppelte wie an der Vorderhose.
+4. Innenbein-Nähte formen.

@@ -1,0 +1,62 @@
+## S.510
+
+Prüfstelle S.510: Die handschriftlich ausgefüllte Konstruktionstabelle und die Schritte 1–7 der Vorderteiloptimierung prüfen. Besonders `RüL 41,6`, `VL 46,8`, `Differenz 5,2`, `Abnäherinhalt 1,2 bis 2,2`, `BrT`, `BrPA+`, `BrP`, `ÄP`, `SN`, `vM`, `ca. 2 cm`, `2 bis 4 cm`, die Abnäherschenkellängen `üb` und `me` sowie die neue vordere Taillen- und Saumlinie kontrollieren. Kleine Knipse, gestrichelte Ausgangslinien und die genaue geschwungene obere Seitennaht sind bildgebunden.
+
+### Shirt-Grundschnitt
+
+#### Vorderteil-Konstruktion mit Brustabnäher
+
+□1a T-Shirt mit langem Ärmel (ohne Brustabnäher mit Rundhals-Ausschnitt)
+
+□1b Damen-Shirt mit kurzen Ärmeln (mit Brustabnäher und V-Ausschnitt)
+
+### Optimierung des Vorderteils
+
+Diese Optimierung gilt für alle Konstruktionen dieser Art von Shirt-Grundschnitten, bei denen die Vorderlänge (VL) nicht in der Konstruktion verwendet wird.
+
+Eine übermäßige Mehrlänge der VL wird hier nachträglich in das Vorderteil hinzu gegeben.
+
+### Konstruktionstabelle Shirt – Ausschnitt
+
+Alle Maßangaben in cm.
+
+- Modell: T-Shirt
+- Größe: 38 [handschriftlich]
+- PK: 1–4 [handschriftlich]
+
+| Kürzel | Name | Wert/Berechnung | Ergebnis |
+|---|---|---:|---:|
+| RüL | Rückenlänge (waagerechte Taille) | 41,6 |  |
+| VL | Vorderlänge (waagerechte Taille) | 46,8 |  |
+|  | Differenz VL − RüL | 5,2 − 3 bis 4 | Abnäherinhalt 1,2 bis 2,2 |
+
+□5 Ausschnitt der Konstruktionstabelle mit größerer Vorderlänge
+
+### 3 Optimierung des Vorderteils
+
+Diese Optimierung gilt für alle Konstruktionen des Shirt-Grundschnitts.
+
+Da die Vorderlänge bislang nicht als Konstruktionsmaß verwendet worden ist, wird sie hier nachträglich am Vorderteil verwendet.
+
+1. Brusttiefe (BrT) von der oberen Grundlinie nach unten abtragen.
+2. Brustpunktabstand+ (BrPA+) von der vM ins VT abtragen → BrP.
+3. Die Öffnungslinie rechtwinklig zur Seitennaht (SN) zum BrP zeichnen.
+4. Das VT dort einschneiden und um den Abnäherinhalt nach unten verschieben.
+5. Den Abnäher um 2 bis 4 cm kürzen und von dort den unteren Abnäherschenkel zeichnen.
+6. Diesen messen und auf den oberen vom BrP zur SN übertragen.
+7. Dort entsteht etwas Mehrweite in Brusthöhe – die obere SN wird leicht geschwungen gezeichnet.
+
+### Abbildungen und Beschriftungen
+
+- □6 Optimierung des Vorderteils bei größerer Vorderlänge
+- 1a / 1b / DAMEN
+- BrT / BrPA+ / BrP / ÄP / SN / vM
+- Brusttiefe (BrT) / Brustpunkt-Abstand+ (BrPA+)
+- hier um ca. 2 cm Abnäherinhalt öffnen
+- Abnäher um 2 cm bis 4 cm kürzen
+- Abnäherlänge üb / Abnäherlänge me
+- messen / übertragen
+- Taillenlinie / Saum / neue vordere Taillenlinie / neuer vorderer Saum
+- kleine Knipse und gestrichelte Ausgangslinien: UNLESBAR
+
+[Randregister: Shirt-Grundschnitt]

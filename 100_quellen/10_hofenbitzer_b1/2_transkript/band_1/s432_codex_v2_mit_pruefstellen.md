@@ -1,0 +1,83 @@
+## S.432
+Prüfstelle S.432: Die Maßangaben `max. 0,2 cm` und `max. 0,4 cm`, die Kürzel `VT 1x`, `vM`, `hM`, `SN`, `BrP`, `üb` sowie alle Naht-Querschnitte und Farblinien prüfen. Die Bildunterschrift `□7 Naht-Querschnitte angesetzter Blenden mit und ohne Beleg/Futter` und die Begriffe `Blende innen`, `Blende außen`, `Oberstoff`, `Futter`, `Beleg` kontrollieren.
+
+### Ausschnitte mit Blenden (1)
+
+### Blendenvarianten und Naht-Querschnitte
+
+□1 Blenden am Halsausschnitt
+
+□1a Verarbeitungs-Varianten von Blenden
+
+Beschriftungen:
+- Blende innen
+- Blende außen
+- Oberstoff
+
+□2 Modellentwicklung des Vorderteils mit einfacher, aufgesetzter Blende und Beleg
+
+### Einfache, aufgesetzte Blende
+
+1. □2 Ausschnitte an Hals- und Armloch formen. Für ein ärmelloses Oberteil wird die Brustweite unter dem Arm reduziert (siehe Seite 418).
+
+2. Blende parallel zum Ausschnitt formen und kopieren.
+
+3. Verbundenen Beleg einzeichnen, an Schulter, SN und Armloch reduzieren und kopieren.
+
+Am Rückteil wird die Entwicklung einer doppelten Blende gezeigt. Man sieht innen die innere Blende.
+
+Von außen sieht man keinen Unterschied zwischen beiden Varianten. Normalerweise verwendet man bei einem Modell eine der beiden Varianten.
+
+□3 Modellentwicklung des Rückteils mit doppelter, angesetzter Blende und Armloch-Beleg
+
+### Doppelte, angesetzte Blende
+
+4. □4 Hals- und Armausschnitte an Schulter und SN wie im VT formen.
+
+Es ist möglich, in einer Blendennaht einen Abnäher zu verarbeiten.
+
+5. Der Schulterabnäher wird in die Blendenansatznaht aufgenommen. Die Blende muss also ungefähr so lang gestaltet und geformt sein wie der Abnäher.
+
+6. Den Abnäher neben die Blende verschieben und ggf. kürzen.
+
+7. Den Beleg an der SN in identischer Breite wie am VT formen, reduzieren und kopieren.
+
+8. Die Innenblende wird wie ein Beleg reduziert und kopiert.
+
+Für eine Futterverarbeitung sind eckige Belegnähte ggf. einfacher zu verarbeiten. Das Nahtbild unten zeigt eine Variante mit Futter.
+
+Die Doppelblende an einer geraden Kante kann im Stoffbruch aus einem geraden Stoffstreifen mit abgenähter Ecke gearbeitet werden.
+
+Beschriftungen der Schnittgrafiken:
+- max. 0,2 cm
+- max. 0,4 cm
+- üb
+- VT 1x
+- vM
+- hM
+- SN
+- BrP
+
+### Blendenvarianten
+
+Blenden können an vielen Kleidungsstücken verarbeitet werden.
+
+□4 Hier ist eine Weste mit Blenden am Arm sowie verbundene Blenden an Hals, vorderer Kante und Saum dargestellt. Sie reichen von der Schulternaht über die vordere Kante zur Seitennaht.
+
+In einer Knopfblende (Knopfleiste) werden stets Längs-Knopflöcher gearbeitet.
+
+Man kann aufgesetzte und angesetzte Blenden unterscheiden. In den Naht-Querschnitten □6+7 sind ergänzende Möglichkeiten von Blendenverarbeitungen dargestellt.
+
+□4 Weste mit Blenden und Knopf-Blende
+
+□5 Reverskragen mit Blenden
+
+□6 Aufgesetzte Blende
+
+□7 Naht-Querschnitte angesetzter Blenden mit und ohne Beleg/Futter
+
+Beschriftungen der Naht-Querschnitte:
+- Blende außen
+- Oberstoff
+- Futter
+- Beleg

@@ -1,0 +1,57 @@
+## S.425
+Prüfstelle S.425: Die im Foto klar sichtbare, gegenüber S.424 zurückspringende Überschriftenzählung `(4)` am Original prüfen; außerdem die nummerierten Schritte 1-4, die Belegangabe `VT-Beleg 2x-p`, die Bildkennzeichnungen `□11a` bis `□11g` und die kleinen Schnittgrafik-Beschriftungen prüfen.
+
+### Abnähervariationen und Ausschnittgestaltung (4)
+
+### Kräuselungen am Ausschnitt
+
+□11a OT-Gestaltung mit amerikanischem Armausschnitt, Kräuselung an der Brust sowie einem Ausschnitt-Schlitz
+
+### Ausschnittgestaltung mit Kräuselung
+
+1. □11b Arm- und Halsausschnitte sowie die Öffnung und die Belegform gestalten.
+
+2. □11b Die Kräuselungsweite durch Einschnitte und Knipse vorbereiten und den Brustabnäher zulegen.
+
+3. □11d Am Beleg sollte für eine bessere Formung an der Brust der Bereich der Kräuselung ca. 0,5 bis maximal 1 cm zugelegt werden. Die Kräuselung wird hierdurch etwas stärker.
+
+4. Die Versturzkanten am Beleg etwas reduzieren (siehe ab Seite 429).
+
+Hier ist die Passform-Optimierung von Seite 418 nicht gezeigt - aber sinnvoll.
+
+□11b Vorderteil gestalten
+
+□11c VT mit Kräuselung
+
+□11d Vorderer Beleg mit Reduzierungen
+
+Beschriftungen:
+- Beleglinie
+- VT
+- VT 1x
+- VT-Beleg 2x-p
+- vM
+- SN
+- BrP
+- vÄP
+
+Am Rückteil mit seinem Taillen- und Schulterabnäher können ebenfalls Abnähervariationen durchgeführt werden. Allerdings wird dies aus gestalterischen Gründen weitaus seltener praktiziert. Weite im oberen Rückenbereich könnte unförmig wirken. Hier ist kein RT-Beleg vorgesehen, aber möglich.
+
+□11e Amerikanischer Ausschnitt und schräge Abnäher im Rückteil durch Verlegen der Schulter- und Taillenabnäher
+
+### Schräg verlaufende Abnäher
+
+□11f Optisch parallel zum amerikanischen Armausschnitt werden die Abnäher neu gezeichnet. Dorthin wird der Schulterabnäher verlängert und der Taillenabnäher verschoben, damit er in die Teilungsnaht aufgenommen werden kann.
+
+□11f Armloch und Abnäherlage gestalten, Schulterabnäher verlängern, Taillenabnäher verschieben.
+
+□11g Produktionsschnitt mit Rückschnitt
+
+Beschriftungen:
+- verlängern
+- verschieben
+- RT
+- RT 1x
+- hM
+- SN
+- hÄP

@@ -11,7 +11,7 @@ angekreuzten Agentendateien.
 
 ## Navigation
 
-- [ ] `10_mathe_einzupflegen/AGENT.md`
+- [x ] `10_mathe_einzupflegen/AGENT.md`
 
 ## Zweck
 

@@ -1,12 +1,12 @@
 # Rechnung — Arbeitsordner
 
-## Navigation — Regel
+## Ladeliste — Regel
 
 Diese Datei gilt nur für `500_python/10_rechnung/` und führt zu dessen direkten
-Inhalten. Unterordner werden sichtbar gemacht, aber nicht automatisch vollständig
-geladen.
+Unterordnern. Nur angekreuzte Ordner werden geladen. Ihre Inhalte werden nicht
+automatisch vollständig geladen.
 
-## Navigation
+## Ladeliste
 
-- `oberteil/`
-- `rock/`
+- [ ] `oberteil/`
+- [x] `rock/`

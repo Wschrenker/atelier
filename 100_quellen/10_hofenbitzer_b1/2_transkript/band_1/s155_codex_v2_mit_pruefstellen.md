@@ -1,0 +1,71 @@
+## S.155
+
+Prüfstelle S.155: Die Fertigmaße und Faltenberechnung prüfen, besonders Saumweite `48 cm`, Falteninhalt `10 bis 16 cm`, hier insgesamt `15 cm`, die Verteilung `je ⅕ Falteninhalt = 3 cm` und `¹⁄₁₀ Falteninhalt = 1,5 cm`, außerdem `¼ SaW − 1 cm` am VT und `¼ SaW + 1 cm` am RT. Die gelben Pfeile, Annäh-Positionen, den Saumeinschlag `2 mal 0,5 cm`, alle Ziffern 1–6 sowie die Kniebündchenbeschriftungen prüfen.
+
+### Kniebundhose (2)
+
+### Halbweite Modellform
+
+### □1 Weite Kniebundhose
+
+### Fertigmaße für Größe 38 (Vorschlag)
+
+**Hosenlänge**  
+(ab Kniehöhe) 12 bis 16 cm unterhalb des Knies
+
+**Kniebundumfang**  
+Unterknieumfang uKnU + Mehrweite  
+= 32 cm + 1 bis 2 cm  
+hier = 33 cm
+
+**Saumweite SaW**  
+Kniebundumfang + Falteninhalt  
+= 33 cm + 10 bis 16 cm  
+hier = 48 cm
+
+Für 5 Falten sind dies hier insgesamt 15 cm Falteninhalt.
+
+### Weite Kniebundhose aus der Bundfaltenhose
+
+Randverweis: 130
+
+1. □2 VT- und RT-Hose kürzen und waagerechte Hilfslinie zeichnen.
+
+2. Berechnete Saumweiten an VT und RT abtragen, Säume formen.
+
+3. SN und Innenbeinnähte leicht nach außen gebogen formen.
+
+4. Vier Falten wie skizziert positionieren.
+
+5. An der SN entsteht hier durch das Zuknöpfen des Kniebündchens eine fünfte Falte.
+
+6. □3 Kniebündchen mit Knopf- oder Klettverschluss konstruieren.
+
+### □2 Abwandlung zur weiten Kniebundhose
+
+Schnittzeichnungen: VT und RT.
+
+Beschriftungen und Maße:
+
+- Knielinie
+- ca. 12 bis 16 cm
+- VT: beidseitig `¼ SaW − 1 cm`
+- RT: beidseitig `¼ SaW + 1 cm`
+- je `⅕ Falteninhalt = 3 cm`
+- `¹⁄₁₀ Falteninhalt = 1,5 cm`
+- Konstruktionsziffern 1–5
+
+Die gelben Pfeile zeigen die Annäh-Positionen.  
+Der Saum an der seitlichen Falte wird 2 mal 0,5 cm eingeschlagen und abgesteppt.
+
+### □3 Kniebündchen mit Knopfverschluss
+
+Beschriftungen:
+
+- Übertritt mit Knopfloch
+- Kniebündchen mit Knopfverschluss
+- Kniebundumfang
+- Untertrittseite mit Knopfannähpunkt
+- Konstruktionsziffer 6
+
+Randregister: Kniebundhose

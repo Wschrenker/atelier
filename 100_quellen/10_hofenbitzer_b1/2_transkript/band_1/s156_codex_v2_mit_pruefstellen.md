@@ -1,0 +1,80 @@
+## S.156
+
+Prüfstelle S.156: Den gesamten Fließtext, die Querverweise `117`, `124`, `128`, `Seite 121`, `Seite 124` und `ab P5` prüfen. Die Fertigmaße `sTaH, hier 106 cm`, `KnW 40 cm`, `SaW 36 cm`, Tascheneingriff hinten `13 cm` und Verschlusslänge `ca. 14 cm` kontrollieren. In der Konstruktionszeichnung alle kleinen Maße, Kürzel und Texte prüfen, besonders `ohne Weitenreduktion!`, Bundbreiten `4 cm`, `ca. 3,5 cm` und `ca. 3 cm`, `jeweils ca. 1 bis 2 cm`, Tascheneingriff `3,5 bis 4 cm`, `0,5 cm`, `ca. 3 bis 5 cm`, `Tb-Breite`, Spatentasche `13 cm × 13 cm` mit `1,5 cm`, `mind. 2 cm`, `vM`, `hM`, `VT`, `RT`, `SN` und alle Ziffern 1–14.
+
+Randregister: Hosen-Modelle
+
+### Enge Jeans (1)
+
+### mit gerader Seitennaht („Selvage Jeans“)
+
+Randverweise: 117, 124, 128
+
+□1 Die Jeanshose, oft eine Hüfthose, wird gewöhnlich aus Denim gefertigt und ist hier aus der ungekürzten engen Hose mit gewünschten Fertigmaßen entwickelt (siehe Seite 124). Obligatorisch sind im VT runde Seitentaschen mit Münztasche (Swing-Pockets) und im RT die üblichen Spatentaschen sowie eine RT-Passe und ein Formbund mit Gürtelschlaufen.
+
+Hier wird eine Jeansform als „Selvage Jeans“ gezeigt, d. h. die Webkante wird an der Seitennaht mitverarbeitet und beim Hochkrempeln des Hosensaums gezeigt. VT und RT müssen daher an der SN im geraden Fadenlauf zugeschnitten werden. Die Umstellung des Grundschnitts wird hier gezeigt – eine Jeanskonstruktion ist aber auch ohne diese Umstellung möglich.
+
+### □1 Enge Jeans
+
+Üblicherweise haben klassische Jeans nur eine geringe Taillenvertiefung und einen geraden Bund. Dieses Modell wird allerdings mit einem Formbund konstruiert.
+
+**Hinweis:** Natürlich kann eine Jeans auch ohne eine gerade Seitennaht gefertigt werden (dann ab P5 konstruieren).
+
+### Fertigmaße für Größe 38 (Vorschlag)
+
+| Maß | Wert |
+|---|---:|
+| Hosenlänge | = sTaH, hier 106 cm |
+| Knieweite KnW | 40 cm |
+| Saumweite SaW | 36 cm |
+| Tascheneingriff vorne | ergibt sich |
+| Tascheneingriff hinten | 13 cm |
+| Verschlusslänge | ca. 14 cm |
+
+### 1 Enge Hose mit gerade gestellter SN
+
+□2 Ggf. Hosenlänge, KnW und SaW anpassen.
+
+1. Die VT-Hose an Saum und Hüfte an die neue gerade Seitennaht anlegen. Bei einem Abstand am Knie von mehr als 1,5 cm am Knie durchtrennen und den Abstand durch Öffnen an der SN reduzieren. Der Drehpunkt ist an der Innenbeinnaht.
+
+2. Jetzt das RT am Saum und am Hüftbereich an die neue gerade SN anlegen.
+
+3. Um dieselben Öffnungs- und Abstands-Beträge auch die RT-Hose dort öffnen und ebenfalls die SN an die neue gerade SN anlegen. Wegen des Drehpunktes an der Kniekehle entsteht oft an der Innenbeinnaht ein Überschneidungsbetrag, um den später die Naht oberhalb des Knies zu dehnen ist.
+
+4. Die neuen Innenbein-Nähte formen, indem der hinzugekommene Abstand (Mehrweite) zur neuen SN an den Innenbeinnähten wieder entfernt wird.
+
+5. Taillenvertiefung nach Wunsch einzeichnen, siehe ab Seite 121. Da zu Jeans meist ein Gürtel getragen wird und die Enge Hose kaum Mehrweite an der Taille besitzt, kann hier eine Weitenreduktion an der Taille entfallen.
+
+### □2 Umstellung der engen Hose für eine gerade Seitennaht sowie Einzeichnen aller Abtrennungen und Taschenpositionen
+
+Schnittzeichnungen: VT und RT.
+
+Beschriftungen und Maße im oberen Bereich:
+
+- ohne Weitenreduktion!
+- Formbund VT: ca. 4 cm; 4 cm; an vM beidseitig ca. 3,5 cm
+- Formbund RT: 4 cm; außen ca. 3 cm; am Abnäher beidseitig ca. 3,5 cm
+- jeweils ca. 1 bis 2 cm
+- ca. 2 cm
+- Tascheneingriff: 3,5 bis 4 cm
+- 0,5 cm
+- ca. 3 bis 5 cm
+- Tb-Breite
+- vM, hM
+- VT im Hüftbereich anlegen
+- RT im Hüftbereich anlegen
+- Spatentasche: 13 cm breit, 13 cm hoch, untere Spitze 1,5 cm; Abstand oben 1,5 cm; mind. 2 cm
+- neue gerade Seitennaht
+
+Weitere Beschriftungen:
+
+- Abstand an Naht entfernen
+- ggf. öffnen um ca. 0 bis 1,5 cm
+- ggf. Abstand um ca. 0 bis 1,5 cm
+- Abstand und Öffnung wie an VT-Hose
+- Innenbein-Naht
+- VT-Saum an neuer gerader SN anlegen
+- RT-Saum an neuer gerader SN anlegen
+- Konstruktionsziffern 1–14
+
+Randregister: Enge Jeans

@@ -1,0 +1,82 @@
+## S.304
+
+Prüfstelle S.304: Den Einleitungstext, die Schritte 1–7 und die Abschnitte zu unterschiedlichen Steghöhen und Verarbeitung prüfen. Besonders `0,3 bis 0,8 cm`, `ca. 1 cm`, `ca. 0,7 cm`, die Zugaben `¼ KrB`, `½ KrB`, `¾ KrB`, die Steghöhen `ca. 0,5 cm`, `0,5 bis 1 cm`, `0,7 bis 1,5 cm`, die Bildnummern 35–38 sowie alle kleinen Beschriftungen in Grundform und Produktionsschnitt kontrollieren.
+
+### Einfache Flachkragen
+
+#### Anlagekonstruktionen mit verschiedenen Steghöhen
+
+##### 1 Flachkragen (Peter-Pan-Kragen) mit minimalem Kragenbruch
+
+Flachkragen bzw. Liegekragen, wie z. B. der Bubikragen oder Peter-Pan-Kragen, sind eher breite, flach auf der Schulter liegende Kragen.
+
+Je ähnlicher die Kragenform der Grundform ist (siehe □3), d. h. je runder die Kragennaht ist, desto flacher liegt der Kragen auf der Schulter.
+
+Öffnet man bei einem solchen Kragen den obersten Knopf, wird sich der Kragen in seiner Form kaum verändern – der Verschluss springt nicht auf wie bei einem Umlegekragen mit hohem Kragensteg.
+
+### Entwicklung des Flachkragens
+
+Die Entwicklung der Flachkragen-Grundform erfolgt über das Anlegen von Vorder- und Rückteil. Zuvor müssen die Brust- und Schulterabnäher aus der Schulternaht verlegt werden.
+
+Ebenso kann zuvor das Halsloch vergrößert werden.
+
+1. Die Kragennaht an der hM ca. 0,3 bis 0,8 cm ins Halsloch zeichnen.
+2. An der vM die Kragennaht um ca. 1 cm vertiefen.
+3. Am vorderen Halsloch wie in □1 die Kragennaht ca. 0,7 cm ins Halsloch zeichnen und an der Schulter ausformen.
+4. Die Kragenbreiten an der hM und an der Schulter festlegen.
+5. Die Kragenkante wie in □1 nach Wunsch formen.
+
+Die Grundform kopieren und den Schulterpunkt markieren.
+
+6. Für die Kragen mit leichtem Steg schneidet man an und neben der Schulter von der Kragenkante aus zur Kragennaht ein.
+
+##### 2 Konstruktion des Flachkragens
+
+Zeichnungsangaben: RT-Grundschnitt; VT-Grundschnitt; hM; vM; SuP; KrB an der Schulter; ca. 0,3 bis 0,8 cm; ca. 1 cm; ca. 0,5 bis 0,7 cm; SLL; SLN.
+
+##### 3 Grundform des Flachkragens
+
+Zeichnungsangaben: je ca. 3 cm; ca. ⅔ KrB an der Schulter; ca. ½ KrB an der Schulter; SuP; hM.
+
+##### 4 Flacher Kragen (Steghöhe ca. 0,5 cm)
+
+An der Schulter bis ca. ¼ KrB zulegen.
+
+##### 5 Höherer Flachkragen (Steghöhe ca. 0,5 bis 1 cm)
+
+An der Schulter bis ca. ½ KrB zulegen.
+
+##### 6 „Hoher“ Flachkragen (Steghöhe ca. 0,7 bis 1,5 cm)
+
+An der Schulter bis ca. ¾ KrB zulegen.
+
+Vor dem endgültigen Zuschnitt sollten die Kragen unbedingt zur Probe (zumindest in Papier) an das Halsloch gesteckt werden, um die gewünschte (Pass-)Form zu kontrollieren und dabei bei Bedarf zu optimieren.
+
+### Flachkragen in unterschiedlichen Steghöhen am Hals
+
+□1, □4–6: Je runder die Kragennaht am Schnitt, desto flacher liegt der Kragen auf der Schulter. Die Kragenkante ist dabei sehr rund und lang.
+
+Wird die Länge der Kragenkante verringert, begradigt die Kragennaht und der Kragenbruch am Hals rutscht nach oben und vom Hals weg → Steg.
+
+Die Grundform des Flachkragens ohne Reduzierung an der Kragenkante ist der flachste Kragen.
+
+Der Kragen Nr. 38 ist der Kragen mit der geradesten Kragennaht, der kürzesten Kragenkante und dem höchsten Steg und Abstand am Hals.
+
+### Verarbeitung von Flachkragen
+
+7. Die Kragennaht ist bei diesen Flachkragen kürzer als die Halslochnaht. Durch das Dehnen der Kragennaht erhält der Kragen etwas Höhe am Hals. Dies verdeckt die Halslochnaht.
+
+Hier sind die Unterkragen dargestellt. Für den Oberkragen muss wie bei allen Kragen noch Roll- und Verstürzweite angezeichnet werden.
+
+Zeichnungsangaben Varianten 36–38:
+
+- jeweils 1/12 KrB an der Schulter zulegen (Variante 36)
+- jeweils 1/6 KrB an der Schulter zulegen (Variante 37)
+- jeweils ¼ KrB an der Schulter zulegen (Variante 38)
+- SuP; hM
+
+##### 7 Produktionsschnitt Unterkragen
+
+Zeichnungsangaben: Unterkragen; SuP; hM.
+
+[Randregister: Flachkragen]

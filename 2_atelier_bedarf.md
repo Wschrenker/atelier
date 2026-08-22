@@ -55,9 +55,11 @@ steht, ist verloren.
 
 - **Persönliche Daten:** Echte Kundenmaße bleiben lokal. `MASSE.md` unter
   `800_couture` wird über `.gitignore` vom Repo ferngehalten.
-- **Export-Ort:** Exportmodule gehören nach `500_python`; erzeugte DXF-, SVG-,
-  PDF- und JSON-Dateien liegen im jeweiligen
-  `800_couture/<auftrag>/ausgabe/`-Ordner.
+- **Export-Ziel:** PDF, DXF, SVG und JSON sind die vorgesehenen Ausgabeformate
+  und geben der Roadmap die Richtung.
+- **Export noch offen:** Wie die Formate genau erzeugt werden, wo der zugehörige
+  Code liegt und wo die erzeugten Dateien abgelegt werden, entscheidet sich erst
+  am ersten realen Exportfall.
 - **Prozesspfad:** Offene Aufgaben werden in `600_prozess` geführt.
 - **Bereinigte Dateinamen:** Die aktuell bereinigten Namen und frühere
   Abweichungen stehen im Git-Verlauf und in den jeweiligen Ordner-Agenten.

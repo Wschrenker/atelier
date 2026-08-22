@@ -1,0 +1,66 @@
+## S.477
+Prüfstelle S.477: Passform-Piktogramm, Zahlen, Abkürzungen, Maße, Seitenverweise und die genaue Lage der Einschnitt-, Dreh- und Verschiebelinien prüfen; besonders `68`, `72`, `97`, `168`, `5–6`, `10–13`, `6–14`, `6–10`, `vÄP`, `hÄP`, `BrP`, `tP`, `ZP`, `vM`, `hM`, `SN`, `0,5 cm`, `4 bis 7 cm`, `2 bis 4 cm`, `Tascheneingriff – 1 cm`, `185`, `186`, `238` und `242`.
+
+### Klassischer zweireihiger Blazer (1)
+
+#### Modellentwicklung
+
+Grundlage für dieses Jackenmodell ist ein taillierter Oberteil-Grundschnitt der Passformklasse 5 bis 6 mit Brustabnäher (siehe Seite 185+186).
+
+Dieser klassische, zweireihige Blazer wird mit zwei Knöpfen geschlossen und hat insgesamt vier Zierknöpfe. Typisch ist ein Reverskragen mit langem steigendem Fasson, Sakkonaht (Taillenabnäher + Tascheneinschnitt), zwei paspelierte Pattentaschen und eine Brustleistentasche. Das Rückteil wird mit einer Flankennaht mit verdeckten Schlitzen gearbeitet. Die Zweinaht-Ärmel sind mit geknöpften verdeckten Schlitzen versehen.
+
+Viele Details wurden zuvor in den Kapiteln Abnäher und Nähte beschrieben. Hier wird an entsprechender Stelle auf die jeweiligen Seiten hingewiesen.
+
+### 1 Vorarbeiten zum Modellschnitt
+
+**1** Modell-Länge an der hM bestimmen, den Saum zur SN abwinkeln.
+
+**2** Die Länge an der hinteren SN an die vordere SN übernehmen.
+
+**3** Die vM kann bei Jacken am Saum um 0,5 cm verlängert werden, um das Anheben des Saums dort zu verhindern (Ausstellen der vM entfällt hier wegen des breiten Übertritts des Doppelreihers).
+
+**4** Vorderen Saum an vM abwinkeln und zur SN formen.
+
+**5** Halslochverbreiterung um 0 bis 1 cm (hier 0,5 cm): Hinteres Halsloch neu formen, vorne für einen Revers- oder Schalkragen nur eine Markierung setzen.
+
+Ggf. eine geringe Armlochaufockerung vornehmen (hier ohne).
+
+**6** Taschenposition (-Einschnitt) zwischen Taillenabnäher und SN einzeichnen. Tascheneingriffslänge (ca. 13 bis 17 cm). Vom Abnäherschenkel aus beginnend (zum Abschätzen der Taschenlänge) abtragen: Tascheneingriff – 1 cm.
+
+### 2 Seitennaht verschieben
+
+**7** Das seitliche Ende der Tasche sollte für die Verarbeitung mindestens 1,5 cm über die SN ins Rückteil verlaufen. Deshalb und damit das Seitenteil nicht zu schmal wirkt, wird die SN parallel nach vorne verschoben (bis max. zum vÄP).
+
+**8** Die Fläche, die vorne entfällt, kommt hinten wieder hinzu.
+
+**9** Die vordere Seitennaht-Länge auf die hintere SN übertragen.
+
+**10** Das hintere untere Armloch wie vorne ergänzen.
+
+**tP** Den tiefsten Punkt des Armlochs bei der alten SN markieren.
+
+### 3 Sakkonaht vorbereiten
+
+**11** Eine Einschnittlinie vom Taillenabnäher zum Saum einzeichnen.
+
+**ZP** ZP (Drehpunkt) zwischen Abnäher und Hüftlinie bestimmen. Je höher der ZP, desto mehr Saumweite entsteht im VT.
+
+### Abbildungen und Beschriftungen
+
+- **□1** Zweireihiger Blazer
+- **□2** Passform-Piktogramm mit üblichen Weitenzugaben
+- Passform-Piktogramm: Taill. OT-GS; 68 / 72 / 97 / 168; 5–6 / 10–13 / 6–14 / 6–10
+- **□3** Modellentwicklung
+- VT, RT, vM, hM, SN, vÄP, hÄP, BrP, tP, ZP
+- Halslochverbreiterung seitlich 0 bis 1 cm (0,5 cm)
+- um ca. die halbe seitliche Halslochverbreiterung an hM vertiefen (0,2 cm)
+- SN verschieben bis maximal zum vÄP
+- messen / übertragen
+- Seitennaht parallel verschieben
+- 4 bis 7 cm
+- wie vorne + 2 bis 4 cm
+- Tascheneingriff – 1 cm
+- 0,5 cm
+- Seitenverweise 185 / 186 / 238 / 242
+
+[Randregister: Einreihiger Blazer]

@@ -1,0 +1,74 @@
+## S.527
+
+Prüfstelle S.527: Die Modellzuordnung 2a/2b/3a/3b, Rollkragen-Beschriftungen und Zugabemaße prüfen. Besonders `Maßstab 1:6, Maßstabsfaktor 0,16`, `z. B. 12 cm`, `z. B. 9 cm`, `bis zu 1,5 cm zulegen`, `max. 1 cm zulegen`, `Kragenkante`, `Body 2 Rollkragen 1×`, `hHlL`, `vHlL`, `SuN`, `vM`, `hM`, `Reißverschluss`, `BrP`, `−7 %` und `−3 %` kontrollieren. Die Wiener Nähte, Rückenöffnung, RT-Taillierung, Trägerverbreiterung und genaue Schrittnahtlage sind bildgebunden.
+
+### Bodies und Badeanzüge (2) – Modellschnitte
+
+Maßstab 1:6, Maßstabsfaktor 0,16
+
+DAMEN
+
+Seitenverweise: 524 / 525
+
+### Unterschiede Bodies / Badeanzüge
+
+Badeanzüge werden, wie der Body, über denselben Grundschnitt konstruiert. In der Regel verwendet man für Bademoden hochelastische Materialien. Somit kann ein Grundschnitt mit größerer prozentualer Reduzierung verwendet werden.
+
+Im Unterschied zu Bodies, wird bei Badeanzügen im Schritt kein Verschluss gearbeitet. Die Schrittnaht liegt somit wieder an der engsten Stelle am Schritt. Auf Ärmel wie in Modell 1 oder einen Kragen wie in Modell 2 wird bei Badeanzügen zumeist verzichtet.
+
+- □2a VT: Body-Modell 2 mit Rollkragen
+- □2a RT: Badeanzug-Modell 2 ohne Kragen
+- □3a Body- / Badeanzug-Modell 3 ohne Brustabnäher
+
+### Modellschnittgestaltung Body- / Badeanzug-Modell 2
+
+Diagrammbeschriftungen:
+
+- VT / RT / vM / hM / BrP
+- Reißverschluss
+- z. B. 12 cm
+- Weitenreduzierung: −7 % / −3 %
+- Kragenkante
+- Body 2 Rollkragen 1×
+- hM / SuN / vM / SuN / hM
+- hHlL / vHlL / vHlL / hHlL
+
+□2b Modellschnittgestaltung Body- / Badeanzug-Modell 2
+
+### Modellgestaltung – Modell 2
+
+Beinausschnitte und (amerikanischen) Armausschnitt formen. Das Halsloch verbreitern, es bleibt für den Kragen in seiner Form erhalten.
+
+Wiener Nähte nehmen im VT den Brustabnäher auf. In Brusthöhe kann am seitlichen Busen etwas Mehrlänge entstehen, je nach Abstand der Wiener Naht vom Brustpunkt.
+
+An der hM Taillierung entfernen und an die Nähte verlegen.
+
+Für einen engen Halsausschnitt ggf. einen Verschluss planen.
+
+Für den Kragen (Seite 292, Kragen Nr. 1) einen Rollkragen konstruieren. Er wird wie oben konstruiert, an der Kragenkante gespiegelt und an der hM mit Reißverschluss geschlossen.
+
+### Modellschnittgestaltung Body- / Badeanzug-Modell 3
+
+Diagrammbeschriftungen:
+
+- VT / RT / vM / hM / BrP
+- bis zu 1,5 cm zulegen
+- max. 1 cm zulegen
+- z. B. 9 cm
+- Weitenreduzierung: −7 % / −3 %
+
+□3b Modellschnittgestaltung Body- / Badeanzug-Modell 3
+
+### Modellgestaltung – Modell 3
+
+Grundlage ist hier ist der Body-Grundschnitt mit gerader hM und ohne Brustabnäher.
+
+Formung der Beinausschnitte und der Arm- und Halsausschnitte.
+
+Formung des runden Rückenausschnitts.
+
+Formung der RT-Taillierung zur Teilungsnaht.
+
+Die Träger im VT und RT können ggf. am relativ weiten (hohen) Armloch und Ausschnitt bis zu 1,5 cm zugelegt werden.
+
+Ein Badeanzug hat keinen Verschluss am Schritt. Die Schrittnaht liegt somit an der engsten Stelle am Schritt.

@@ -7,5 +7,5 @@ Inhalten. Nur angekreuzte Dateien werden geladen.
 
 ## Navigation
 
-- [ ] `10_massregister.md`
-- [ ] `20_massberechnungen.md`
+- [x ] `10_massregister.md`
+- [x ] `20_massberechnungen.md`

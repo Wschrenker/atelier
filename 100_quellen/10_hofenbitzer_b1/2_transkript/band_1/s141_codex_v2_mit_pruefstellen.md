@@ -1,0 +1,16 @@
+## S.141
+Prüfstelle S.141: Die Zuordnung der neun farbigen Vorder- und Seitenansichten sowie die Modellnummern 1 bis 9 prüfen. Im Text `Das Formen des Hosensaums` besonders `vorne um ca. 1 cm kürzer`, `hinten um ca. 1 cm länger`, den Verweis `Seite 134 f.` und die Beschriftung `□3 Geschwungener Hosensaum` kontrollieren.
+
+### Gestaltung von Hosenbeinen (2)
+
+### □2 Vorder- und Seitenansicht der Hosenbeine
+
+Abbildungen: Hosenbeinmodelle 1 bis 9, jeweils als Vorder- und Seitenansicht.
+
+### Das Formen des Hosensaums
+
+Bei mäßig weiten Hosensäumen, die auf dem Fußrücken aufliegen, kann der Hosensaum vorne um ca. 1 cm kürzer und hinten um ca. 1 cm länger geformt sein. Dadurch wird der Saumverlauf geschwungen. Die gekürzte Vorderhose wirft auf dem Fußrücken weniger Falten und die Hinterhose fällt hinten gerade zur Oberkante des Absatzes der Schuhe, siehe auch Seite 134 f.
+
+### □3 Geschwungener Hosensaum
+
+Randregister: Gestaltung von Hosenbeinen

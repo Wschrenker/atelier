@@ -1,0 +1,57 @@
+## S.532
+
+Prüfstelle S.532: Sämtliche Maße und Schritte 1–14 der Latzhosen-Modellentwicklung prüfen. Besonders `0,5 cm`, `1,5 cm`, `3 bis 4 cm`, `6 bis 7 cm`, `10 bis 15 cm`, `11 bis 15 cm`, `13 bis 14 cm`, `14 bis 16 cm`, `13 bis 15 cm`, `14 bis 17 cm`, `15 bis 17 cm`, Brusttasche, Gesäßtasche, Patte, Träger, Bund, Taschenspiegel, Taschenbeutel, Beleg und Gürtelschlaufen kontrollieren. Knopflochpositionen, Untertritt, seitlicher Verschluss, Trägerbogen und alternative Bund-/Taschenlösungen sind bildgebunden.
+
+### Latzhose – Modellentwicklung aus dem Overall-Grundschnitt
+
+Sport · Wäsche · Unisex
+
+Seitenverweis: 531
+
+### Verwendete Overall-GS-Variante
+
+Hier wird die links beschriebene Variante mit Öffnungen vorne um 0,5 cm und hinten um 1,5 cm verwendet (ohne Vertiefung). Overall-GS wie auf Seite 531 erstellen.
+
+### Gestaltung und Modifikation
+
+1. Den Brustabnäher in die Seitennaht verlegen.
+2. Von den Unterkanten des Oberteils rechtwinklig zu den SN abwinkeln.
+3. Den Bund vorne, von der Unterkante des Oberteils, nach oben formen.
+4. Am RT um die Bundbreite erhöhen.
+5. Den Latz vorne und hinten formen.
+6. Den Träger hinten an das Halsloch formen und dann vorne anlegen. Für eine Längeneinstellung mittels Schließe oder Schnalle ausreichend verlängern.
+7. Eine aufgesetzte Brusttasche gestalten.
+8. Die Gesäßtasche mit oder ohne Patte gestalten. Möglich sind viele Taschenarten, siehe ab Seite 356.
+9. Eine Verschlussabsteppung an der vM ohne RV genügt für eine Damenhose.
+
+Latzhosen benötigen einen seitlichen Verschluss. Sind Knöpfe gewünscht, ist eine breite Seitentasche ideal, siehe ab Seite 364.
+
+10. Den Taschenbeutel formen.
+11. Am Bund das oberste Knopfloch und zwei oder drei weitere Knopflöcher auf dem Taschenspiegel positionieren.
+12. An der Hinterhose einen Untertritt für die Knöpfe anzeichnen. Dieser kann etwas kürzer als die Taschenlänge sein.
+13. Von dort aus einen Beleg für den hinteren Latz zur hM formen.
+14. Gürtelschlaufen hinten und vorne positionieren.
+
+### Abbildungen und Beschriftungen
+
+- Vorderhose / Hinterhose / vM / hM
+- Latz / Bund / Träger
+- Brust-Tasche / Gesäßtasche / Patte
+- Taschenspiegel / vorderer Taschenbeutel / hinterer Taschenbeutel
+- 0,5 cm / 3 bis 4 cm / 6 bis 7 cm
+- 10 bis 15 cm / 11 bis 15 cm
+- Brusttasche: 14 bis 16 cm / 13 bis 14 cm
+- Bundbreite: 3 bis 5 cm
+- Taschenspiegel: 15 bis 17 cm
+- Gesäßtasche: 14 bis 17 cm
+- Patte: 13 bis 15 cm / 3 bis 4 cm
+
+### Alternative Details
+
+Ggf. kann auch hinten, wie vorne, ein Bund ab der Unterkante des RT nach oben geformt werden.
+
+Auf den Bund im VT kann auch ganz verzichtet werden. Anstelle der Bundnaht kann auf dem Latz eine Absteppung vorgenommen werden. Die Taillenabtrennung vorne ist allerdings für eine Seitentasche notwendig.
+
+Bei eingeschnittenen Taschen, siehe ab Seite 367, kann auf eine Taillenabtrennung verzichtet werden. Allerdings sollte der Latz seitlich, wie hier die Bundbreite, über die Taillennaht reichen.
+
+In diesem Fall kann anstelle des Knopfverschlusses auch ein Reißverschluss eingearbeitet werden.

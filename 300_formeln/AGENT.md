@@ -11,9 +11,9 @@ angekreuzten Agentendateien.
 
 ## Navigation
 
-- [ ] `10_masse/AGENT.md`
-- [ ] `20_rock/AGENT.md`
-- [ ] `30_oberteil/AGENT.md`
+- [x ] `10_masse/AGENT.md`
+- [x ] `20_rock/AGENT.md`
+- [x ] `30_oberteil/AGENT.md`
 
 ## Zweck
 

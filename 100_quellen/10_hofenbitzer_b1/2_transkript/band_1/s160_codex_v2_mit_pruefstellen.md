@@ -1,0 +1,82 @@
+## S.160
+
+Prüfstelle S.160: Die Fertigmaßtabelle vollständig prüfen, besonders `SaW1 63 cm`, `SaW2 81 cm`, Tascheneingriff `15,5 cm` und das im Foto ohne Wert stehende Feld `Verschlusslänge an der Hüfte`. In der Saumzeichnung steht dagegen `gewünschte SaW 79 cm` und die Formel `63 cm − 79 cm = −16 cm`; diese Abweichung zu `SaW2 81 cm` ausdrücklich gegen das Original kontrollieren. Außerdem `vordere Saumweite = 29,5 cm`, `gesamte Saumweite = 29,5 cm + 33,5 cm = 63 cm`, alle Viertelwerte, Taschenmaße, Bundbeschriftungen und den Randverweis `136` prüfen.
+
+Randregister: Hosen-Modelle
+
+### Marlene-Dietrich-Hose (1)
+
+### mit Französischen Taschen
+
+Randverweis: 136
+
+Die Marlene-(Dietrich-)Hose ist eine legere, ursprünglich im Herrenstil gearbeitete Hose mit großer Saumweite. Sie wird gerne auch als Bundfaltenhose gestaltet. Häufig wird sie mit seitlichen Paspeltaschen gefertigt. Hier erhält sie Seitentaschen mit geradem oder leicht gerundetem Eingriff (Französische Tasche). Der Taschenbeutel wird hier zusammenhängend zugeschnitten.
+
+Die Hose wird mit einem geraden Bund versehen und mit einem Verschluss an der linken Seitennaht geschlossen. Trotz des Reißverschlusses ist die Verarbeitung dieser Taschenform möglich. Der Hosensaum wird hier geformt, so dass er auf dem Schuhrücken weniger aufliegt und hinten den Absatz verdeckt (siehe Seite 134, 141).
+
+1. Alternativ kann die Saumweite der Hose zusätzlich auf eine gewünschte Weite vergrößert werden – dann wird die Kürzung anders geformt.
+
+### Fertigmaße für Größe 38 (Vorschlag)
+
+| Maß | Wert |
+|---|---:|
+| Hosenlänge ungekürzt oder länger, hier | 106 cm |
+| Knieweite KnW | ergibt sich |
+| Saumweite SaW1 | 63 cm |
+| Saumweite SaW2 | 81 cm |
+| Tascheneingriff vorne | 15,5 cm |
+| Verschlusslänge an der Hüfte | [kein Wert im Foto eingetragen] |
+
+### □1 Schnittteile der Tasche und neuer Saumverlauf an gerader und ausgestellter Vorderhose
+
+Schnittzeichnung: VT.
+
+Beschriftungen und Maße im Taschenbereich:
+
+- 2 bis ca. 5 cm
+- 15 bis 18 cm
+- 4 bis 6 cm
+- 0,5 cm
+- ca. 5 bis 7 cm
+- RV
+- vM
+- VT
+- Konstruktionsziffern 2–5
+
+Beschriftungen und Maße am Saum:
+
+- hier 4 cm
+- `¼ von 16 cm`
+- SaW2
+- SaW1
+- zweimal `1 cm`
+- vordere Saumweite = 29,5 cm
+
+### □2 Gerade und ausgestellte Hinterhose mit neuem Saumverlauf
+
+Schnittzeichnung: RT.
+
+Beschriftungen und Maße:
+
+- hM
+- RV
+- SaW2
+- SaW1
+- beidseitig `¼ von 16 cm`
+- beidseitig `hier 4 cm`
+- `SaW-Differenz: gemessene SaW − gewünschte SaW = 63 cm − 79 cm = −16 cm (= Fehlbetrag)`
+- `gesamte Saumweite = 29,5 cm + 33,5 cm = 63 cm`
+- Konstruktionsziffer 1
+
+### □3 Bund
+
+Beschriftungen:
+
+- Untertritt-Breite = Länge des Knopflochs + ca. 1 cm (2,5)
+- Marlene Bund, 1× OSt + EI
+- lSN, rSN
+- hM, vM
+- Taillenumfang (TaU) bzw. Bundumfang
+- Konstruktionsziffer 6
+
+Randregister: Marlene-Dietrich-Hose

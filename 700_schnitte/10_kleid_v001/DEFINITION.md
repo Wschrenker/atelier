@@ -38,7 +38,7 @@ Fotos: `100_quellen/10_hofenbitzer_b1/1_Bilder/43-130/20260617_160345.jpg` (S. 4
 | Fadenlauf | Faltenkanten im **schrägen Fadenlauf** — das Buch sagt, so fallen drapierte Stoffe am schönsten | ✅ aus S. 423 |
 | Wickelteil-Befestigung | oberes Wickelteil wird **in der Seitennaht mitgenäht** (❑8). Alternativen laut Buch: Binden, Knöpfen | ✅ |
 | Rocklänge `MoL` | **offen** — Kostenentscheidung, siehe unten | ⬜ |
-| Größe / Maße | **offen** — Buchgröße für die Tests, Werners Maße für das echte Kleid | ⬜ |
+| Größe / Maße | **Referenzgröße 38** für Entwicklung und Tests; echte Kundenmaße erst lokal unter `800_couture` | ✅ |
 | Ärmel | ohne | ✅ |
 | Ausschnitt | asymmetrisch, ergibt sich aus der Drapierung; Buch: „Ausschnitt einschneiden und ca. 0,5 bis 1 cm zulegen" | ✅ |
 | Rückenverschluss | Reißverschluss; Rocknaht muss auf die Rückennaht des Oberteils treffen | ⬜ Lage offen |

@@ -1,0 +1,40 @@
+## S.433
+Prüfstelle S.433: Die Schnittteilbeschriftungen `vBl 1x`, `vorderer Beleg 1x`, `hinterer Beleg 2x-p`, `hBl außen 1x`, `hBl innen 1x`, `VT 1x`, `RT 1x` und die ungewöhnliche Bildunterschrift `Produktionsschnitte das Vorderteil, Blende und Beleg` am Original prüfen.
+
+### Ausschnitte mit Blenden (2)
+
+### Blendenvarianten und Naht-Querschnitte
+
+□8 Produktionsschnitte das Vorderteil, Blende und Beleg
+
+Beschriftungen:
+- VT 1x
+- vBl 1x
+- vorderer Beleg 1x
+- vM
+- SN
+- BrP
+
+□9 Produktionsschnitte für das Rückteil, Blende und Beleg
+
+Beschriftungen:
+- hinterer Beleg 2x-p
+- hBl außen 1x
+- hBl innen 1x
+- RT 1x
+- hM
+- SN
+
+### Blendenvarianten
+
+Auch an Tascheneingriffen, Kragenkanten, Rock-, Hosen und Ärmelsäumen, Schlitzkanten uvm. können Blenden gearbeitet werden.
+
+Blenden müssen nicht unbedingt parallel verlaufen. Sie dürfen auch, wie hier an einer aufgesetzten Tasche, schmückende Formen besitzen. Die Innenblende könnte dann für eine einfache Verarbeitung eine gerade Form besitzen.
+
+Eingesetzte Blenden sind eine Sonderform.
+
+□10 Taschen mit Eingriffblenden
+
+□11 Schmückende Ärmelsaum-Blenden mit Schlitz
+
+□12 Saumblende und eingesetzte Blende

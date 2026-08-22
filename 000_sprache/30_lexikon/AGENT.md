@@ -12,3 +12,4 @@ Inhalten. Nur angekreuzte Dateien werden geladen.
 - [ x] `30_abkuerzungen_schnittbereiche_begriffe.md`
 - [x ] `40_abkuerzungen_koerpermasse_konstruktionsmasse.md`
 - [x ] `sachwortverzeichnis.md`
+- [ ] `sachwortverzeichnisv2.md` — Arbeitsfassung, nach Buchkategorien und Seiten statt alphabetisch; abgeleitet aus `sachwortverzeichnis.md`, dieses bleibt die gültige alphabetische Fassung

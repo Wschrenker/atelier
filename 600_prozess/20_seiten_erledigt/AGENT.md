@@ -7,7 +7,7 @@ direkten Inhalten. Nur angekreuzte Dateien werden geladen.
 
 ## Navigation
 
-- [ ] `10_hofenbitzer_band_1.md`
+- [x ] `10_hofenbitzer_band_1.md`
 
 ## Zweck
 
@@ -19,7 +19,7 @@ Begriffskandidaten** mehr.
 
 | Nicht hier | Sondern |
 |---|---|
-| Der fertige Begriff | `000_sprache/30_gosslar_test.md` |
+| Der fertige Begriff | `000_sprache/10_gosslar/1_gosslar.md` |
 | Ein fehlender oder unbelegter Begriff | `600_prozess/10_begriffe_offen.md` |
 | Das Transkript und sein Freigabestatus | `100_quellen/` |
 | Formeln | `300_formeln/` |

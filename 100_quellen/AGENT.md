@@ -16,7 +16,16 @@ angekreuzten Agentendateien.
 
 ## Zweck
 
-Die Bücher. **Unveränderlich — wird nur gelesen, nie bearbeitet.**
+Die Bücher und ihre Abschriften.
+
+**Originalbilder und Buchinhalt sind unveränderlich.** Sie werden nur gelesen
+und niemals retuschiert, verbessert oder überschrieben.
+
+Die Transkripte dürfen und müssen dagegen gepflegt werden: Abschreibfehler
+werden gegen das Original korrigiert, unlesbare oder widersprüchliche Stellen
+markiert und Prüfstatus ergänzt. Jede Änderung bleibt originalgetreu und über
+Git nachvollziehbar; der Buchinhalt wird dabei niemals umformuliert oder
+fachlich verbessert.
 
 Alles, was die Engine fachlich behauptet, stammt aus diesem Ordner und trägt
 eine **Seitenzahl**. Was hier nicht belegt ist, gibt es für die Engine nicht.
@@ -35,9 +44,10 @@ eine **Seitenzahl**. Was hier nicht belegt ist, gibt es für die Engine nicht.
 | Offene Fragen, Wer-ist-dran | `600_prozess/` |
 | Fotos im Git | nirgends — `.gitignore` hält alle Bilder draußen |
 
-Und die härteste Grenze: **Der Buchtext wird nie korrigiert.**
+Und die härteste Grenze: **Der Buchinhalt wird nie korrigiert.**
 Ein vermuteter Buchfehler wird *markiert*, nicht ausgebessert. Was im Foto
-steht, steht in der Abschrift — auch wenn es falsch ist.
+steht, steht in der Abschrift — auch wenn es fachlich falsch erscheint. Nur eine
+vom Original abweichende Abschrift wird korrigiert.
 
 ## Nummernschlüssel
 

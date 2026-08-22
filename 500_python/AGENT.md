@@ -11,7 +11,7 @@ angekreuzten Agentendateien.
 
 ## Navigation
 
-- [ ] `10_rechnung/AGENT.md`
+- [x ] `10_rechnung/AGENT.md`
 
 ## Zweck
 
@@ -130,8 +130,9 @@ ein Parameter sein muss. Vorher ist es Raten.
 
 - Der Ordner ist **leer** — `10_rechnung/rock/` und `10_rechnung/oberteil/`
   enthalten nur `.gitkeep`. Erstes Modul laut Roadmap: Tellerrock S. 44.
-- **Wohin der Export gehört** (DXF, SVG, PDF, JSON), ist nicht entschieden:
-  eigener Bereich unter `10_rechnung/`, oder eine eigene Ebene. Solange offen:
-  kein Konstruktionsmodul schreibt eine Datei.
+- PDF, DXF, SVG und JSON sind als **Ziel der Roadmap** festgelegt. Noch offen
+  sind ihre genaue Form, die technische Erzeugung, der Ort des Export-Codes und
+  die Ablage der erzeugten Dateien. Das entscheidet der erste reale Exportfall.
+  Solange das offen ist, schreibt kein Konstruktionsmodul eine Datei.
 - Python-Version, Testwerkzeug und ob ein Paket-Layout mit `__init__.py`
   gebraucht wird — noch nicht festgelegt. Entscheidet das erste Modul.

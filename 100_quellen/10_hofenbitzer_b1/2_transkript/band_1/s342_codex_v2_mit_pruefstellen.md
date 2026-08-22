@@ -1,0 +1,89 @@
+## S.342
+
+Prüfstelle S.342: Alle Brüche, Maße, Formeln und Konstruktionskürzel prüfen: `⅖ bis ⅘ vHlL`, Beispielwert `⅗`, `⅓`, `vHlL = 14,4 cm`, `hHlL = 10,4 cm`, `üKoU = 66 cm`, `KapH`, `KapT`, `uLi`, `SuLi`, `oLi`, `vM`, `hM`, `SuP`. Zusätzlich die Schritte 1–11, die drei Bildtexte □1–□3 sowie die Zeichnungsbeschriftungen □4–□6 vollständig kontrollieren.
+
+### Einfache Kapuzen-Grundformen ohne Abnäher
+
+□1 Halslochvergrößerung und Maße vom Modellschnitt
+
+- 1 bis 3 cm
+- wie an der Schulter + 0,5 bis 1,5 cm
+- vHlL = 14,4 cm
+- wie vorne
+- ca. ½ wie an der Schulter
+- hHlL = 10,4 cm
+- üKoU = 66 cm
+
+□2 Überkopfumfang
+
+□3 Vorder- und Seitenansicht der einfachen Kapuzen-Grundform
+
+### Einfache Kapuzen
+
+Die einfachen Kapuzenformen ohne Abnäher zeigen anschaulich das Konstruktionsprinzip von Kapuzen und deren Veränderung. Sie sind eher voluminös und in deren Passform sowie schnitttechnisch noch nicht optimiert.
+
+Kapuze 1 ist komplett flach, liegt seitlich sehr eng am Kopf an und steht am Hinterkopf zipfelig ab. Ihr fehlt jegliche Formung durch Abnäher.
+
+Kapuze 2 hat einen Hinterkopfabnäher, der für eine Formung der Schnittfläche sorgt – die Kapuze sitzt gleich sehr viel besser.
+
+Kapuze 3 erhält seitlich zusätzliche Weite, wodurch die Kapuze sehr voluminös wird und heruntergenommen sehr schön auf dem Rücken liegt. Die Teilungsnaht befindet sich bei abgenommener Kapuze direkt auf dem äußeren Kapuzenbruch. Kapuze 21 auf Seite 353 besitzt eine noch schönere Form, dort ist die Naht verdeckt.
+
+### 1 Halslochvergrößerung und Konstruktionsmaße
+
+□1 Für alle Kapuzen muss das Halsloch vergrößert werden! Vorderes und hinteres Halsloch entsprechend der Skizze verbreitern und vertiefen.
+
+Die hintere Halslochlänge (hHlL) und vordere Halslochlänge (vHlL) messen.
+
+□2 Den Überkopfumfang (üKoU) wie skizziert vom höchsten Punkt des Halslochs an der Schulter über die Ohren und den Kopf zum selben Punkt an der anderen Seite des Halslochs messen.
+
+### 2 Grundlinien
+
+1. □4 Die untere Linie (uLi) waagerecht zeichnen.
+2. Die Schulterlinie (SuLi) im Abstand von ca. ⅖ bis ⅘ vHlL parallel über die uLi zeichnen.
+
+Die Hochstellung zwischen unterer Linie und Schulter-Linie bestimmt die Ausschnittweite und die mittlere Tiefe der Kapuze, siehe Seite 347, □7+8. Der Betrag kann noch größer sein.
+
+3. Darüber die obere Linie (oLi) im Abstand von ⅓ des unteren Abstands (⅓ von hier ⅗ vHlL) parallel zur SuLi zeichnen.
+4. Rechts auf der oLi die hM nach oben abwinkeln.
+
+Rechenbeispiel:
+
+- Abstand zur SuLi: `⅖ bis ⅘ vHlL → (⅗)`
+- `14,4 cm · 3 : 5 = 8,6 cm`
+- Abstand zur oLi: `⅓ Abstand zur SuLi`
+- `8,6 cm : 3 = 3,8 cm`
+
+□4 Grundlinien
+
+### 3 Kapuzennaht
+
+5. □5 Von der hM auf die SuLi die hHlL gerade messen.
+6. Jetzt die hintere Kapuzennaht formen. Darauf dann nochmals die hHlL abtragen → SuP.
+7. Vom SuP aus die vHlL auf die uLi gerade messen.
+8. Die vordere Kapuzennaht formen und darauf dann erneut die vHlL abtragen → vM.
+
+□5 Halsloch-Längen werden zur Kapuzennaht
+
+### 4 Gerüst der Kapuze
+
+9. □6 Darauf die Kapuzenhöhe (KapH) = ½ üKoU + 2 bis 5 cm von der SuLi nach oben abtragen.
+10. Die Kapuzentiefe (= KapH – 2 bis 6 cm) nach links abwinkeln.
+11. Kapuzenausschnitt zur vM formen.
+
+□6 Schnitt der einfachen Kapuze
+
+### Abbildungen und Beschriftungen
+
+- untere Linie (uLi)
+- Schulter-Linie (SuLi)
+- obere Linie (oLi)
+- vM / hM
+- vHlL / hHlL
+- SuP
+- Kapuzenausschnitt
+- Kapuzennaht
+- Kapuzenhöhe (KapH) = ½ üKoU + 2 bis 5 cm
+- Kapuzentiefe (KapT) = KapH – ca. 2 bis 6 cm
+- „Zipfelmütze“
+
+[Randregister: Einfache Kapuzen-Grundform ohne Abnäher]

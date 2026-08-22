@@ -1,0 +1,69 @@
+## S.16
+
+Prüfstelle S.16: Maßnummern 29-38, Maßkürzel und die drei Bildbeschriftungen `□9`, `□10`, `□11` prüfen; besonders `SrH`, `SiH`, `RiU` und `UlU` gegen das Foto kontrollieren.
+
+### Körpermaße und Maßnehmen (5)
+
+Randregister: Einführung; Körpermaße und Maßnehmen.
+
+#### 29 Hüfttiefe - HüT
+
+Mit dem Maßband wird der Abstand zwischen Unterkante des Taillenbandes und der stärksten Stelle an der seitlichen Hüfte entlang der Körperrundung gemessen.
+
+#### 30 Schritthöhe - SrH
+
+Das Maß zwischen Schritt und Standfläche wird mit einem Schritt-Maßband gemessen - aber häufig bei Damen auch nur berechnet.
+
+#### 31 Sitzhöhe - SiH
+
+Die Sitzhöhe wird im Sitzen auf einer ebenen Fläche gemessen. Das Taillenband muss hierbei waagerecht liegen (siehe Taillenhöhen). Das Maß wird links und rechts von der Unterkante des Taillenmaßbandes bis zur Ebene der Sitzfläche entlang der seitlichen Körperrundung gemessen. Man verwendet das mittlere oder kürzere gemessene Maß. Geeignetes Messgerät ist das Lotband.
+
+Bildbeschriftungen:
+
+- `□9` Maße unterhalb der Taille.
+- `□10` Sitzhöhe von der waagerechten Taille.
+- `□11` Spezielle Hosenmaße.
+
+Zeichnungslabels:
+
+- Taille.
+- Hüfte.
+- Standebene.
+- `29 HüT`.
+- `30 SrH`.
+- `31 SiH`.
+- `32 OsU`.
+- `33 KnU`.
+- `34 uKnU`.
+- `35 WaU`.
+- `36 FeU`.
+- `37 RiU`.
+- `38 UlU`.
+
+#### 32 Oberschenkelumfang - OsU
+
+Das Maß wird über der stärksten Stelle der Oberschenkel gemessen.
+
+#### 33 Knieumfang - KnU
+
+Das Maß wird über die stärkste Stelle des Knies gemessen.
+
+#### 34 Unterknieumfang - uKnU
+
+Das Maß wird über der engsten Stelle unter dem Knie gemessen.
+
+#### 35 Wadenumfang - WaU
+
+Das Maß wird über der stärksten Stelle der Wade gemessen.
+
+#### 36 Fesselumfang - FeU
+
+Das Maß wird über der stärksten Stelle der Fußknöchel gemessen.
+
+#### 37 Fersen-/Ristumfang - RiU
+
+Das Maß wird unter der Ferse und über dem Rist (Fußrücken) bei gestrecktem Fuß gemessen.
+
+#### 38 Unterleibumfang - UlU
+
+Das Maß wird entlang der vorderen und der hinteren Mitte zwischen den Beinen jeweils zur Unterkante des Taillenbandes extrem eng am Körper gemessen.

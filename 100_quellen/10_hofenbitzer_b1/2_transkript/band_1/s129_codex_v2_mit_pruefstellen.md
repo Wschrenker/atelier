@@ -1,0 +1,88 @@
+## S.129
+Prüfstelle S.129: Sämtliche kleinen Maß- und Nahtbeschriftungen in den beiden Schnittzeichnungen prüfen, besonders die Vorzeichen in `+0 bis +2 cm (+0,5)`, `vHoB : 4 -0 bis -0,7 (-0,7)`, `hHoB -0,5 bis -1 cm`, `hHoB : 4 +0,5 bis 1 cm (0,7)`, `-0,5 bis -1,5 cm` sowie die Formeln an Taille, Knie, Wade und Saum. Außerdem die Punktnummern, die senkrechten Texte zu Seiten- und Innenbeinnähten und die Beschriftung `sTaH 4 bis 8 cm (6)` kontrollieren.
+
+### Weiterreduzierte enge Hose für elastische Materialien (2)
+
+Grundschnitt
+
+### Hinweise zur Materialauswahl
+
+Aus diesem Grundschnitt können nur Modelle für elastische Materialien entwickelt werden.
+
+Insbesondere wegen der engen Knieweite sollte das Material eher weich sein - ansonsten benötigt man am Knie mehr Weite.
+
+Da hier die Taillenweite reduziert ist, muss auch der Bund aus elastischem Material, aber mit dehnbarer oder besser ohne Einlage gefertigt werden.
+
+### Hinweise zur Fertigung
+
+Auf das dehnbare Material müssen die Nähgarne und der Maschinennaht-Typ abgestimmt sein. Die Nähte müssen dehnbar sein und mit dem Material harmonisieren.
+
+### □2 Konstruktion der Vorderhose
+
+Beschriftungen:
+- Punkte: 5, 5a, 7, 10, 12, 13, 13a, 15, 16, 17, 21, 22, 22a, 23, 23a
+- VT
+- Taillenlinie
+- Hüftlinie
+- Schrittlinie
+- Knielinie
+- Wadenlinie
+- Saumlinie
+- SN
+- vM-Naht
+- TaU : 4
+- +0 bis +2 cm (+0,5)
+- Bundnaht messen
+- 1 bis 1,5 cm
+- 1,5 bis 2 cm (1,5)
+- SiH -1 bis -3 cm (-2)
+- HüU : 20 +3 cm
+- 0 bis 0,5 cm (0)
+- vHoB
+- vHoB : 4 -0 bis -0,7 (-0,7)
+- ½ / ½
+- ca. 3 bis 5 cm (4)
+- vOsW
+- KnH
+- KnU : 4 -0,5 cm
+- WaH = KnH : 2
+- WaU : 4 -0,5 cm
+- sTaH 4 bis 8 cm (6)
+- SaW : 4 -0,5 cm
+
+Die hier gemessene Oberschenkelweite (vOsW + hOsW) beträgt 49,3 cm. Die 0,7 cm Fehlweite zu den 50 cm des reduzierten OsU sind hier zu vernachlässigen!
+
+### □3 Konstruktion der Hinterhose
+
+Beschriftungen:
+- Punkte: 13, 28, 29, 30, 31, 32
+- RT/VT
+- Taillenlinie
+- Hüftlinie
+- Schrittlinie
+- Knielinie
+- Wadenlinie
+- Saumlinie
+- TaU : 4
+- - die Zugabe an der Vorderhose (-0,5)
+- + Abnäherinhalt (ca. 1,5 bis 3 cm) (2,5)
+- 0 bis 0,5 cm
+- 9 - 12 cm
+- hM-Naht
+- hHoB -0,5 bis -1 cm
+- ½
+- α = 76°
+- 1 bis 2 cm (1,5), messen
+- hHoB : 4 +0,5 bis 1 cm (0,7), übertragen
+- ca. 3 bis 5 cm (4)
+- hOsW
+- Messung auf die Hinterhose übertragen / Vorderhose messen
+- Seitennaht der Vorderhose messen
+- Innenbeinnaht der Vorderhose messen / Messung übertragen -0,5 bis -1,5 cm
+- +1 cm an Knie, Wade und Saum, jeweils beidseitig
+
+### Hinweise zur Modellgestaltung
+
+Die Saumweite (25 cm) ist hier weiter als die Fesselweite (23 cm) ohne Reduzierung. Der Saum wird also nicht einschnüren. Allerdings müsste die SaW wegen der reduzierten Ristweite (28,8 cm) etwas weiter sein. Um sicherzugehen, dass nun der Fuß bequem durch die Saumöffnung gelangt, könnte an der unteren Seitennaht z.B. ein Reißverschluss-Schlitz gearbeitet werden.
+
+Randregister: Sehr enge Hose: Grundschnitt

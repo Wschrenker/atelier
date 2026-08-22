@@ -1,0 +1,28 @@
+## S.139
+Prüfstelle S.139: Die elf farbigen Längenbereiche, deren Reihenfolge und Bezeichnungen prüfen, besonders `wadenlang ¾`, `knöchelfrei ⅞`, `knöchellang`, `bodenlang`, die Beschriftungen `Standardhose VT`, `Standardhose RT`, `Knielinie` und die Bildunterschrift.
+
+### Hosenlängen am Schnitt
+
+Die Bezeichnungen der Hosenlängen und Hosenformen sind regional und international sehr unterschiedlich.
+
+Bei den Hosenlängen sind hier nur Längenbereiche angegeben, da diese sehr stark dem Modewandel unterworfen sind.
+
+### □1 Hosenlängen am Beispiel der Standardhose
+
+Beschriftungen:
+- Standardhose VT
+- Standardhose RT
+- Knielinie
+- 1. sehr kurz
+- 2. kurz
+- 3. oberschenkellang
+- 4. kniefrei
+- 5. knielang
+- 6. kniebedeckt
+- 7. wadenlang ¾
+- 8. wadenbedeckt
+- 9. knöchelfrei ⅞
+- 10. knöchellang
+- 11. bodenlang
+
+Randregister: Hosenlängen
