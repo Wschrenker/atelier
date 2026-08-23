@@ -11,7 +11,7 @@ angekreuzten Agentendateien.
 
 ## Navigation
 
-- [x ] `10_rechnung/AGENT.md`
+- [ ] `10_rechnung/AGENT.md`
 
 ## Zweck
 
@@ -33,9 +33,6 @@ Das gilt auch für den **Ort**: ein Modul liegt hier und nie im Kleiderordner.
 Der Ort ist die erste Form von „wissen, wozu man gehört". Ein Kleid **benutzt**
 ein Modul — es **besitzt** keines.
 
-Konkret: der Glockenrock gilt für jeden Kreisrock, den es je geben wird. Dass
-Kleid v001 ihn gerade braucht, geht das Modul nichts an.
-
 ## Grenze
 
 | Nicht hier | Sondern |
@@ -55,9 +52,8 @@ Die Nummern hören bei `10_rechnung` auf. **Alles darunter ist Python-Namensraum
 ```
 500_python/
   10_rechnung/          ← letzte nummerierte Ebene
-    rock/
-      glockenrock.py
-    oberteil/
+    <bereich>/
+      <modul>.py
 ```
 
 Grund: `import 20_rock` ist ein **Syntaxfehler**. Python-Namen dürfen nicht mit
@@ -65,11 +61,12 @@ einer Ziffer beginnen. Deshalb gilt unterhalb von `10_rechnung`:
 
 - kleine Buchstaben, Unterstriche, keine Ziffer am Anfang
 - keine Umlaute — auch nicht in Bezeichnern
-- die Bereiche heißen wie in `300_formeln`, nur ohne Nummer:
-  `rock`, `oberteil`
+- ein Bereich entsteht erst mit dem ersten freigegebenen Modul; keine
+  vorsorglichen Leerordner
 
-Die Kürzel aus dem Maßregister werden **umlautfrei** geschrieben:
-`RueB`, `gRueB`, `TaW`, `r_TaW`. Ein Kommentar nennt die Buchschreibweise.
+Verifizierte Buchkürzel werden für Python nachvollziehbar und umlautfrei
+übertragen. Die Zuordnung steht beim Modul; ungeprüfte Kürzel werden nicht in
+Code übernommen.
 
 Wie die Module innerhalb eines Bereichs zu ordnen sind, entscheidet sich, wenn
 drei oder vier hier liegen — nach Körperbereich, nach Kleidungsstück, nach
@@ -81,9 +78,9 @@ Drei Dateien, gleicher Name:
 
 | Datei | Inhalt |
 |---|---|
-| `glockenrock.py` | die Konstruktion — reine Funktionen |
-| `test_glockenrock.py` | die Prüfwerte des Buchs als Test |
-| `glockenrock.md` | die Modul-Doku |
+| `<modul>.py` | die Konstruktion — reine Funktionen |
+| `test_<modul>.py` | die Prüfwerte des Buchs als Test |
+| `<modul>.md` | die Modul-Doku |
 
 Die Modul-Doku nennt:
 
@@ -106,7 +103,7 @@ eine Korrektur am Buch später jede Stelle im Code.
 | Rundung | **spät** — intern ungerundet, erst bei Anzeige und Export |
 | Funktionen | **rein**: gleiche Eingabe, gleiche Ausgabe. Kein Datei-Zugriff, kein Zufall, kein globaler Zustand |
 | Rückgabe | Punkte und Polygone — **kein DXF, kein SVG**. Der Export ist eine eigene Sache |
-| Prüfwert-Vergleich | relativ, **0,1 %** — die Regel steht in `300_formeln` |
+| Prüfwert-Vergleich | nach der dokumentierten Toleranz der freigegebenen Formel |
 
 ## Fertig-Regel
 
@@ -128,11 +125,11 @@ ein Parameter sein muss. Vorher ist es Raten.
 
 ## Offene Stellen
 
-- Der Ordner ist **leer** — `10_rechnung/rock/` und `10_rechnung/oberteil/`
-  enthalten nur `.gitkeep`. Erstes Modul laut Roadmap: Tellerrock S. 44.
+- `10_rechnung/` ist bewusst leer. Python beginnt erst, wenn die erste Formel
+  die Eingangssperre aus `300_formeln/AGENT.md` vollständig erfüllt.
 - PDF, DXF, SVG und JSON sind als **Ziel der Roadmap** festgelegt. Noch offen
   sind ihre genaue Form, die technische Erzeugung, der Ort des Export-Codes und
   die Ablage der erzeugten Dateien. Das entscheidet der erste reale Exportfall.
   Solange das offen ist, schreibt kein Konstruktionsmodul eine Datei.
-- Python-Version, Testwerkzeug und ob ein Paket-Layout mit `__init__.py`
-  gebraucht wird — noch nicht festgelegt. Entscheidet das erste Modul.
+- Python-Version, Testwerkzeug und Paket-Layout werden mit dem ersten
+  freigegebenen Modul festgelegt.

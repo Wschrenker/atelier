@@ -1,12 +1,13 @@
 # Rechnung — Arbeitsordner
 
-## Ladeliste — Regel
+## Navigation — Regel
 
 Diese Datei gilt nur für `500_python/10_rechnung/` und führt zu dessen direkten
-Unterordnern. Nur angekreuzte Ordner werden geladen. Ihre Inhalte werden nicht
-automatisch vollständig geladen.
+Unterordnern.
 
-## Ladeliste
+## Navigation
 
-- [ ] `oberteil/`
-- [x] `rock/`
+Noch keine Fachordner oder Module.
+
+Ein Fachordner entsteht erst mit dem ersten Modul, dessen Buchseite, Sprache
+und Formel vollständig verifiziert und freigegeben sind.

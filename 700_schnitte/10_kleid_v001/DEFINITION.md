@@ -33,14 +33,14 @@ Fotos: `100_quellen/10_hofenbitzer_b1/1_Bilder/43-130/20260617_160345.jpg` (S. 4
 |---|---|---|
 | Grundform | Tellerrock + asymmetrisch drapiertes Wickeloberteil | ✅ |
 | Taillennaht | ja, durchgehend — Rock hat einen Taillenkreis, Oberteil eine Taillenkante | ✅ |
-| Weitenverteilung Oberteil | Abnäherinhalt wird in **Drapierfalten** verlegt (rechtes VT), linkes VT (Untertritt) mit gewöhnlichem Brustabnäher | ✅ aus S. 423 |
-| Symmetrie | **asymmetrisch** — linkes und rechtes Vorderteil sind verschiedene Schnittteile, kein Stoffbruch vorn | ✅ |
-| Fadenlauf | Faltenkanten im **schrägen Fadenlauf** — das Buch sagt, so fallen drapierte Stoffe am schönsten | ✅ aus S. 423 |
-| Wickelteil-Befestigung | oberes Wickelteil wird **in der Seitennaht mitgenäht** (❑8). Alternativen laut Buch: Binden, Knöpfen | ✅ |
-| Rocklänge `MoL` | **offen** — Kostenentscheidung, siehe unten | ⬜ |
+| Weitenverteilung Oberteil | Drapierfalten rechts, gewöhnlicher Brustabnäher links — Buchwortlaut prüfen | ⬜ Quellenprüfung |
+| Symmetrie | asymmetrische Vorderteile — genaue Buchkonstruktion prüfen | ⬜ Quellenprüfung |
+| Fadenlauf | Aussage zum schrägen Fadenlauf am Buch prüfen | ⬜ Quellenprüfung |
+| Wickelteil-Befestigung | Seitennaht/Binden/Knöpfen am Buch prüfen | ⬜ Quellenprüfung |
+| Rocklänge | **offen** — Buchkürzel derzeit `MoL`, noch zu verifizieren; Kostenentscheidung siehe unten | ⬜ |
 | Größe / Maße | **Referenzgröße 38** für Entwicklung und Tests; echte Kundenmaße erst lokal unter `800_couture` | ✅ |
 | Ärmel | ohne | ✅ |
-| Ausschnitt | asymmetrisch, ergibt sich aus der Drapierung; Buch: „Ausschnitt einschneiden und ca. 0,5 bis 1 cm zulegen" | ✅ |
+| Ausschnitt | asymmetrisch; Wortlaut und Zahlenwert am Buch prüfen | ⬜ Quellenprüfung |
 | Rückenverschluss | Reißverschluss; Rocknaht muss auf die Rückennaht des Oberteils treffen | ⬜ Lage offen |
 | Futter / Unterkleid | **offen** — bei Brautstoff und großer Saumweite vermutlich nötig | ⬜ |
 | Nahtzugaben | noch nicht festgelegt, kommt mit dem Produktionsschnitt | ⬜ |
@@ -49,40 +49,20 @@ Fotos: `100_quellen/10_hofenbitzer_b1/1_Bilder/43-130/20260617_160345.jpg` (S. 4
 
 ## Der offene Punkt mit Gewicht: die Rocklänge
 
-`MoL` steht in genau einer Formel: `r_SaW = r_TaW + MoL`.
-Deshalb kann die Entscheidung bis zuletzt warten — bis das Kleid in CLO steht.
-
-Was daran hängt:
-
-| MoL | Saumradius | **Saumweite** |
-|---:|---:|---:|
-| 50 cm (Buchfall) | 61,5 cm | 3,86 m |
-| 80 cm | 91,5 cm | 5,75 m |
-| 105 cm (bodenlang) | 116,5 cm | 7,32 m |
-
-Das Buch sagt selbst, dass dann mehrere Kreisringe zusammengesetzt werden
-müssen. Stoffverbrauch und Nahtlage sind hier **Entwurfsentscheidungen**.
+Die Rocklänge beeinflusst Saumweite, Stoffverbrauch und Nahtlage. Zahlen werden
+erst wieder eingetragen, nachdem S. 44 und die verwendeten Abkürzungen am Buch
+verifiziert und die Formel anschließend freigegeben wurden.
 
 ---
 
 ## Was dieses Kleid technisch besonders macht
 
-**Der einfachste Schnitt des Buchs unter dem schwierigsten.**
+Die vorgesehene Kombination aus Tellerrock und asymmetrischem Oberteil bleibt
+eine Produktidee. Welche Grundschnitte, Formeln und Geometrie-Primitive sie
+tatsächlich benötigt, wird erst aus den verifizierten Seiten abgeleitet.
 
-Der Tellerrock ist reine Mathematik — zwei konzentrische Kreise, drei
-Geometrie-Primitive, keine Kurvenanpassung, kein Abnäher.
-
-Das asymmetrische Oberteil ist **Modellentwicklung** — es baut nichts Eigenes
-auf, sondern arbeitet am **gespiegelten Oberteil-Grundschnitt**.
-Daraus folgt zwingend:
-
-> **S. 423 setzt S. 172–187 voraus.** Erst der Oberteil-Grundschnitt,
-> dann die Modellentwicklung. Es gibt keinen Weg daran vorbei.
-
-Nebeneffekt: der **gerade Rock S. 32–36 fällt aus dem kritischen Pfad**.
-Damit ist der einzige fachlich freigegebene Baustein nicht mehr auf dem Weg.
-Dafür ist S. 44 so einfach, dass er sich über die eigenen Buchzahlen selbst
-prüft.
+Die vermutete Abhängigkeit von S. 423 zu S. 172–187 ist beim Buchabgleich zu
+bestätigen; sie ist noch keine freigegebene Konstruktionsregel.
 
 ---
 
@@ -93,7 +73,7 @@ Was dieses Kleid über die Grundschnitte hinaus braucht:
 | # | Thema | Buchstelle |
 |---:|---|---|
 | 1 | Ansatz-/Taillennaht Rock an Oberteil | Kleidformen S. 406–407, 438–439 |
-| 2 | Reißverschluss und Schlitz im Kreisring | S. 44 Zuschnitt; Formel F-44-4 |
+| 2 | Reißverschluss und Schlitz im Kreisring | S. 44 — genaue Stelle prüfen |
 | 3 | Seitennaht mit eingefasstem Wickelteil (drei Lagen) | S. 423 ❑8 |
 | 4 | Drapierfalten / aufspringende Abnäher — Fixierung und Auslauf | S. 423 ❑7, ❑8 |
 | 5 | Untertritt (linkes VT mit gewöhnlichem Brustabnäher) | S. 423 ❑8b |

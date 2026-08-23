@@ -1,6 +1,6 @@
 # Kleid v001 — Roadmap
 
-Stand: 2026-08-19 · abgeleitet aus `DEFINITION.md`
+Stand: 2026-08-23 · nach sauberem Neustart aus `DEFINITION.md`
 
 Diese Datei ist der **Modulstatus**. Sie ist der Punkt, an dem eine KI kalt
 einsteigen kann — Leader wie Coder.
@@ -13,15 +13,13 @@ Legende: ✅ fertig · 🔄 läuft · ⬜ offen · 🔒 blockiert
 
 | # | Modul | Quelle | Status | Freigabe Buch |
 |---:|---|---|:--:|---|
-| A1 | Abkürzungen und Maße | S. 9, 11–15 | 🔄 | ⬜ Werner prüft |
-| A2 | Standards und Schnittzeichen | S. 21–31 | ⬜ | ⬜ |
-| A3 | Größentabelle | S. 20 | ⬜ | ⬜ |
+| A1 | Abkürzungen und Maße | S. 9, 11–15 | 🔒 | ⬜ am Buch prüfen |
+| A2 | Standards und Schnittzeichen | S. 21–31 | 🔒 | ⬜ am Buch prüfen |
+| A3 | Größentabelle | S. 20 | 🔒 | ⬜ am Buch prüfen |
 
-**A1** liegt in `300_formeln/10_masse/10_massregister.md` und
-`300_formeln/10_masse/20_massberechnungen.md`.
-Offene Punkte P2–P4 dort.
-**A1 (`HdU` statt `HaU` für den Handumfang) ist entschieden** — erste bewusste
-Abweichung vom Buch, festgelegt am 19.08.2026.
+Für A1–A3 gibt es noch keine Formeldateien. Zuerst werden die genannten Seiten,
+Abkürzungen und Werte am Buch verifiziert. Auch `HaU`/`HdU` gilt wieder als
+offen, bis der Buchbeleg eindeutig ist.
 
 **A3** liefert die Zahlen für jeden Test. Ohne A3 gibt es keine Prüfwerte
 außer den wenigen, die in den Konstruktionsseiten selbst stehen.
@@ -42,8 +40,8 @@ außer den wenigen, die in den Konstruktionsseiten selbst stehen.
 | B8 | Schnittpunkt Linie/Kreis, Kreis/Kreis | C3 | ⬜ |
 | B9 | Länge entlang Kurve | C5 (Nahtlängen abgleichen) | ⬜ |
 
-B1–B3 reichen für das erste Modul. Der Rest entsteht nach Bedarf
-aus Schritt 3.5 der Arbeitsweise.
+Welche Primitive ein Modul benötigt, wird erst aus seiner freigegebenen Formel
+abgeleitet. Es gibt derzeit keine aktive Modulauswahl.
 
 ---
 
@@ -51,11 +49,11 @@ aus Schritt 3.5 der Arbeitsweise.
 
 | # | Modul | Quelle | hängt an | Status | Quellenlage |
 |---:|---|---|---|:--:|---|
-| C1 | **Tellerrock** | S. 44 | A1, A3, B1–B3 | ⬜ | Transkript da, Formeln erfasst, **nicht freigegeben** |
-| C2 | Ausgabe SVG (Sichtprüfung) | — | C1 | ⬜ | — |
-| C3 | Oberteil-Grundgerüst | S. 172–183 | A1, A3, B5–B8 | ⬜ | **Entwurf** |
-| C4 | Oberteil-Abnäher | S. 184–187 | C3, B4 | ⬜ | **Entwurf** |
-| C5 | Abnäherverlegung in Falten | S. 423 ❑7, ❑8a | C4, B4, B9 | ⬜ | roh |
+| C1 | **Tellerrock** | S. 44 | A1, A3, B1–B3 | 🔒 | Transkript vorhanden; Seite und Formel nicht freigegeben |
+| C2 | Ausgabe SVG (Sichtprüfung) | — | C1 | 🔒 | kein Modul vorhanden |
+| C3 | Oberteil-Grundgerüst | S. 172–183 | A1, A3, B5–B8 | 🔒 | Quellenprüfung offen |
+| C4 | Oberteil-Abnäher | S. 184–187 | C3, B4 | 🔒 | Quellenprüfung offen |
+| C5 | Abnäherverlegung in Falten | S. 423 ❑7, ❑8a | C4, B4, B9 | 🔒 | Quellenprüfung offen |
 | C6 | **Asymmetrisches Wickeloberteil** | S. 423 ❑8, ❑8b | C5 | 🔒 | roh |
 | C7 | Taillennaht Rock an Oberteil | S. 406–407, 438–439 | C1, C6 | 🔒 | roh, **Konflikt C1 offen** |
 | C8 | Ausschnitt + Beleg | ? | C6 | 🔒 | Seite unbekannt |
@@ -74,7 +72,7 @@ Vormodul fehlt. Kein Grund zur Sorge — nur kein Startpunkt.
 |---:|---|---|:--:|
 | D1 | DXF-Export mit Fadenlauf, Knips, Bohrloch, Beschriftung | A2, C11 | ⬜ |
 | D2 | PDF zum Drucken (Kacheln) | C11 | ⬜ |
-| D3 | **CLO 3D ansehen** — Plausibilität, beweist nichts | C11 | ⬜ |
+| D3 | **CLO 3D ansehen** — digitale Plausibilität und Avatar-Passform | C11 | ⬜ |
 | D4 | Drucken | D2 | ⬜ |
 | D5 | **Nähen** — beweist die Wahrheit | D4 | ⬜ |
 
@@ -85,7 +83,7 @@ Vormodul fehlt. Kein Grund zur Sorge — nur kein Startpunkt.
 | # | Dokument | Status |
 |---:|---|:--:|
 | E1 | Kleid-Anleitung (Schritt für Schritt bis zur Naht) | ⬜ ab C1 mitschreiben |
-| E2 | `600_prozess/10_begriffe_offen.md` — Begriffskandidaten | 🔄 |
+| E2 | `600_prozess/10_begriffe_offen.md` — Begriffskandidaten | ⬜ ab Seitenprüfung |
 
 ---
 
@@ -97,11 +95,9 @@ A1 ──► A3 ──► B1-B3 ──► C1 (Tellerrock) ──► C2 (SVG anse
 A1 ──► B5-B8 ──► C3 ──► C4 ──► C5 ──► C6 ──► C7 ──► C11 ──► D
 ```
 
-**Der Rock ist in wenigen Schritten am Ziel. Das Oberteil ist der lange Weg.**
-
-Deshalb die Empfehlung: C1 und C2 zuerst komplett durchziehen — dann steht
-die ganze Kette von Maß bis Bild einmal, an dem einfachsten möglichen Fall.
-Danach ist der Weg für das Oberteil bekannt und nur noch länger, nicht neu.
+Der technische Pfad beginnt erst, wenn A1, A3 und die jeweilige
+Konstruktionsseite verifiziert sind. Bis dahin bleibt jede Konstruktion
+blockiert; es wird kein früherer Versuch als Abkürzung benutzt.
 
 ---
 
@@ -109,9 +105,9 @@ Danach ist der Weg für das Oberteil bekannt und nur noch länger, nicht neu.
 
 | # | Blockade | betrifft |
 |---:|---|---|
-| ~~P1~~ | ~~Namenskollision `HaU`~~ — **gelöst 19.08.2026: Handumfang = `HdU`** | — |
+| P1 | Bedeutung und mögliche Namenskollision `HaU`/`HdU` am Buch verifizieren | A1, alle Module |
 | P2 | Welcher Weg zur Brustbreite ist Standard? | C3 |
 | — | Fachnähte 7–10 aus `DEFINITION.md`: welche Buchseiten? | C8, C9 |
 | — | Konflikt S. 438/439 (doppelt und abweichend transkribiert) | C7 |
-| — | `MoL` festlegen (Kosten) | C1, spätestens vor D4 |
+| — | Rocklänge und zugehöriges Buchkürzel verifizieren und festlegen | C1, spätestens vor D4 |
 | — | Fachliche Freigabe S. 44, S. 172–187, S. 423 | C1, C3, C6 |

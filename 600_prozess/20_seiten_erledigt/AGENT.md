@@ -19,12 +19,14 @@ Begriffskandidaten** mehr.
 
 | Nicht hier | Sondern |
 |---|---|
-| Der fertige Begriff | `000_sprache/10_gosslar/1_gosslar.md` |
+| Der fertige Begriff | passende Kategoriedatei unter `000_sprache/10_gosslar/` |
 | Ein fehlender oder unbelegter Begriff | `600_prozess/10_begriffe_offen.md` |
 | Das Transkript und sein Freigabestatus | `100_quellen/` |
 | Formeln | `300_formeln/` |
 
 Dieser Ordner enthält nur den Prüfstatus, keine Fachdefinitionen.
+
+Aktueller Stand: Nach dem sauberen Neustart ist noch keine Seite eingetragen.
 
 ## Nummernschlüssel
 

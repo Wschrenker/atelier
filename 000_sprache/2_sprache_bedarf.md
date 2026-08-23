@@ -30,7 +30,7 @@ Buchstelle geprüft ist.
 
 | Bereich | Pflichtdokument | Zusatz / Beleg |
 |---|---|---|
-| `10_gosslar/` | `1_gosslar.md` | Glossar-Eintrag mit Quelle und Seite |
+| `10_gosslar/` | passende Buchkategorie-Datei | belegter Eintrag mit Transkriptpfad und Seite |
 | `20_schnittmuster/` | `.md`-Tabelle | zugehöriges `.html` zeigt das Originalzeichen |
 | `30_lexikon/` | `10_abkuerzungen_systematik_eigenschaften_betraege_werte_operanden_aktionen.md` | Systematik für Kurzzeichen und Operanden |
 

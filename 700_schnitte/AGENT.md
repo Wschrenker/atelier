@@ -76,8 +76,8 @@ Ab dem ersten fertigen Modul kommt eine dritte dazu:
 2. **Die Quellen** — je Teil: Buchseite, Bezeichnung im Buch, Foto
 3. **Entscheidungen** — Tabelle `Entscheidung | Festlegung | Status`,
    jede Zeile entweder ✅ entschieden oder ⬜ offen
-4. **Die offenen Punkte mit Gewicht** — mit ihren Folgen durchgerechnet
-   (`MoL` → Saumweite 3,9 m / 5,8 m / 7,3 m)
+4. **Die offenen Punkte mit Gewicht** — mit ihren Folgen nachvollziehbar
+   beschrieben; Zahlen erst aus freigegebenen Formeln
 5. **⚠️ Was am Buch zu prüfen ist** — Fachnähte und Verarbeitungen,
    mit Buchstelle oder ausdrücklich `?`
 6. **Was bewusst draußen bleibt** — vertagt, nicht verworfen
@@ -115,7 +115,8 @@ gelöscht — die Entscheidung bleibt sichtbar.
 | **Roadmap-Eintrag** | sein Modul in `500_python` liegt, die Prüfwerte grün sind und die Buchseite **freigegeben** ist |
 | **Kleid** | es **genäht** ist |
 
-CLO 3D zeigt Plausibilität — **es beweist nichts.** Der Beweis ist die Naht.
+CLO 3D belegt digitale Plausibilität und Passform am verwendeten Avatar. Erst
+die reale Naht belegt Nähbarkeit und Passform am Menschen.
 
 ## Die Reihenfolge
 
@@ -128,7 +129,7 @@ Scope. **Wenn das Kleid steht, ist der Scope zu.**
 
 - `10_kleid_v001/DEFINITION.md` ist **Entwurf** und wartet auf Werners Freigabe
 - Referenzgröße **38** ist für alle Beispiele und Kleidfassungen festgelegt.
-- Offen darin: `MoL` (Kostenentscheidung), Lage des Reißverschlusses, Futter,
+- Offen darin: Rocklänge und Buchkürzel (Kostenentscheidung), Lage des Reißverschlusses, Futter,
   Nahtzugaben
 - Fachnähte 7–10 tragen `?` statt einer Buchseite
 - `ROADMAP.md` verweist bei E2 auf `600_prozess/10_begriffe_offen.md` — offene

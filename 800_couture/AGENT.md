@@ -31,7 +31,7 @@ Zahlen und wird eine Sache, die man zuschneiden kann.
 | Wie das Kleid konstruiert ist, seine Entscheidungen | `700_schnitte/<kleid>/` |
 | Module und Code | `500_python/` |
 | Formeln und Buchbelege | `300_formeln/` |
-| Was ein Maß bedeutet und wie es gemessen wird | `300_formeln/10_masse/10_massregister.md` |
+| Was ein Maß bedeutet und wie es gemessen wird | später verifiziert unter `300_formeln/10_masse/` |
 
 **Diese Ebene ist Endstation.** Nichts weiter unten greift je hier herein — kein
 Modul, keine Formel, kein Kleid kennt einen Auftrag. Wer hier etwas findet, das
@@ -64,8 +64,10 @@ wurde. **Eine vergebene Nummer wird nie neu belegt.**
 
 ### `MASSE.md`
 
-- Kürzel **aus dem Maßregister**, nicht neu erfunden — `BrU`, `TaU`, `gRüL`
-- gemessen **nach der Messanweisung** des Registers, nicht nach Gefühl
+- nur am Buch verifizierte Kürzel aus dem späteren Maßregister; bis dahin wird
+  der Maßname ausgeschrieben und kein Kürzel erfunden
+- gemessen **nach der verifizierten Messanweisung** des Registers, nicht nach
+  Gefühl
 - **Datum** und **wer gemessen hat** stehen dabei
 - beidseitig gemessene Maße mit beiden Werten, dann der Wert, mit dem gerechnet
   wird (Mittelwert oder der kleinere — was das Register sagt)

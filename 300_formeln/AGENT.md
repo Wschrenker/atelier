@@ -3,147 +3,70 @@
 ## Navigation — Regel
 
 Diese Datei führt nur zu den direkten Unterordnern von `300_formeln/`.
-Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
-Agentendatei des jeweiligen Unterordners.
-
-Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
-angekreuzten Agentendateien.
+Fachdateien werden ausschließlich im zuständigen unteren `AGENT.md` geführt.
 
 ## Navigation
 
-- [x ] `10_masse/AGENT.md`
-- [x ] `20_rock/AGENT.md`
-- [x ] `30_oberteil/AGENT.md`
+- [ ] `10_masse/AGENT.md`
+- [ ] `20_rock/AGENT.md`
+- [ ] `30_oberteil/AGENT.md`
+- [ ] `40_hose/AGENT.md`
+- [ ] `50_aermel/AGENT.md`
+- [ ] `60_kragen_kapuze/AGENT.md`
+- [ ] `70_details_verarbeitung/AGENT.md`
+
+## Aktueller Stand
+
+Der Formelbereich ist bewusst **leer**. Zuerst werden die Buchtranskripte gegen
+das Original geprüft, danach Abkürzungen und Gosslar-Begriffe belegt. Erst dann
+werden Formeln seitenweise eingepflegt.
 
 ## Zweck
 
-Was wir aus den Quellen ziehen: das **Maßregister** und die
-**Konstruktionsformeln**.
+Hier stehen verifizierte Maßregister und Konstruktionsformeln in lesbarer
+Rechenform, noch nicht als Python-Code.
 
-In Rechenform, aber **nicht als Code**. Ein Eintrag hier ist für Werner und
-Munkhuu lesbar und zugleich eindeutig genug, dass später Code daraus entsteht.
+## Eingangssperre
 
-Merksatz: Hier steht, **wie gerechnet wird** — nicht, was die Kürzel bedeuten
-(`000_sprache`), und nicht, wer es ausführt (`500_python`).
+Eine Formel darf erst hierher, wenn:
+
+1. die Buchseite in `100_quellen` am Original freigegeben ist,
+2. alle formelrelevanten Prüfstellen aufgelöst oder ausdrücklich als
+   Buchwiderspruch markiert sind,
+3. verwendete Abkürzungen in `000_sprache` belegt sind,
+4. Buchseite und genauer Transkriptpfad feststehen,
+5. der Buchprüfwert nachgerechnet wurde oder ausdrücklich keiner vorhanden ist.
+
+Das Buchbild bestätigt das Transkript. Das Transkript bestätigt Sprache und
+Formel — niemals umgekehrt.
 
 ## Grenze
 
 | Nicht hier | Sondern |
 |---|---|
-| Bedeutung eines Kürzels, Glossar | `000_sprache/` |
-| Buchtext, ganze Seiten, Fotos | `100_quellen/` |
-| Wie ein Lot, ein Kreis, ein Versatz rechnet | `400_mathematik/` — hier wird nur **benannt**, welche Primitive nötig sind |
-| Python, Klassen, Tests | `500_python/` |
-| Entscheidungen, die nur ein Kleid betreffen (`MoL = 105 cm`) | `700_schnitte/<kleid>/DEFINITION.md` |
-| Wer wann prüft, Arbeitsstände | `600_prozess/` |
+| Buchbilder und Transkripte | `100_quellen/` |
+| Abkürzungen und Begriffe | `000_sprache/` |
+| Geometrie-Primitive | `400_mathematik/` |
+| Python und Tests | `500_python/` |
+| Arbeitslisten | `600_prozess/` |
 
-Beim Einpflegen entstehen **strukturierte Formeln, kein Code**. Konstruktionen
-werden nicht vorgecodet — sonst wird am Ende das Buch gegen den Code geprüft
-statt umgekehrt.
+Es gibt keine Quellenkopien in diesem Ordner. Die maßgeblichen Transkripte
+bleiben unter `100_quellen`.
 
-## Nummernschlüssel
+## Form eines Formelblocks
 
-Zehner = Bereich:
+Jeder Formelblock trägt mindestens:
 
-| Nummer | Bereich |
-|---|---|
-| `10_masse` | Maße und Maßberechnungen — gilt für alles darüber |
-| `20_rock` | Rockkonstruktionen |
-| `30_oberteil` | Oberteilkonstruktionen |
-
-Weitere Bereiche: `40_`, `50_`. Innerhalb eines Bereichs laufen die Dateien
-wieder in Zehnern (`10_massregister.md`, `20_massberechnungen.md`).
-
-**Eine vergebene Nummer wird nie neu belegt.**
-
-## Form eines Eintrags
-
-### Kopf jeder Datei
-
-```markdown
-**Quelle:** Buch, Band, Seiten
-**Foto:** Pfad ins Bilderverzeichnis
-**Transkript:** Pfad nach 100_quellen
-**Begriffe:** siehe 300_formeln/10_masse/10_massregister.md
-
-Stand: JJJJ-MM-TT · eingepflegt durch …
-Status: … · Fachliche Freigabe durch Werner/Munkhuu: …
-```
-
-### Ein Formelblock
-
-```markdown
-## F-<seite>-<lfd> · <Name>
-
-- **Ergebnis:** was herauskommt, welche Art von Maß
-- **Eingang:** welche Maße hineingehen
-- **Formel:** wörtlich wie im Buch
-- **Quelle:** Seite + Kasten oder Position
-- **Prüfwert:** Beispielzahl des Buchs, nachgerechnet — oder „keine im Buch"
-- **Mathematik:** welche Primitive nötig sind
-- **Warum / Hinweis:** nur wenn die Formel es braucht
-```
-
-Die Kennung `F-44-1` ist **Buchseite + laufende Nummer auf dieser Seite**.
-Sie bleibt, auch wenn die Datei umzieht oder umbenannt wird — Module und Tests
-berufen sich später darauf.
-
-### Zwei Sonderblöcke
-
-| Zeichen | Block | Was er verlangt |
-|---|---|---|
-| ⚡ | **Bewusste Abweichung** | Das Buch sagt X, die Engine macht Y. Braucht Grund, Namen und Datum der Freigabe. |
-| ⚠️ | **Offener Punkt** | Fachfrage ans Buch. Bleibt **bei der Formel** stehen, wird nicht ausgelagert. |
-
-**Alles, was nicht unter ⚡ steht, folgt dem Buch.** Diese Umkehrung ist der
-ganze Zweck des Blocks: eine Abweichung, die nirgends steht, gibt es nicht.
-
-## Prüfwerte und Toleranz
-
-Ein Prüfwert wird **relativ** verglichen, mit **0,1 %**:
-
-```
-|berechnet − Buchwert| ≤ 0,001 · Buchwert
-```
-
-Grund: das Buch rechnet mit `π = 3,14`. Daraus entsteht eine konstante
-Abweichung von 0,051 % — unabhängig von der Größe des Teils. Eine feste
-Zentimetergrenze passt nie über alle Größen: sie ist beim kleinen Teil zu grob
-und beim bodenlangen Rock zu knapp.
-
-Der Buchwert wird notiert, **wie er im Buch steht** (386,2 — nicht 386,22).
-
-*Festlegung Werner, 19.08.2026 — siehe `20_rock/10_formel_rock_glocke.md`.*
+- stabile Kennung `F-<seite>-<laufende Nummer>`,
+- Originalwortlaut und mathematische Lesart getrennt,
+- Eingänge, Ergebnis und Einheiten,
+- genaue Buchseite und Transkriptpfad,
+- Buchprüfwert oder „keiner im Buch“,
+- Rechenprüfung und Freigabestatus,
+- offene Widersprüche sichtbar als `⚠️`.
 
 ## Fertig-Regel
 
-Eine Formel ist fertig, wenn sie vier Dinge trägt:
-
-1. **Seitenzahl** — welche Buchseite,
-2. **Prüfwert** — die Beispielzahl des Buchs, nachgerechnet, oder ausdrücklich
-   „keine im Buch",
-3. **Mathematik** — welche Primitive sie braucht,
-4. **Freigabestatus** — transkribiert, digital geprüft oder freigegeben.
-
-Der Status wird vom Transkript **geerbt**. Ist die Seite nur
-transkriptionsgeprüft, ist die Formel es auch — und kein Modul darf sich
-darauf berufen.
-
-**Ohne Prüfwert kein Code.** Und: nicht raten. Fehlt im Buch die
-Verallgemeinerung, wird die zugehörige Seite eingepflegt, statt eine Formel zu
-erfinden.
-
-## Offene Stellen
-
-Die **fachlichen** offenen Punkte stehen in den Dateien selbst, nicht hier:
-`A1` (HaU/HdU), `P2` (zwei Wege zur Brustbreite), `P3`, `P4` im Maßregister,
-die Saumweite bei Brautlänge im Glockenrock.
-
-Struktur, noch nicht aufgeräumt:
-
-- `20_rock/10_formel_rock_glocke.md` entspricht der Namensregel
-- `30_oberteil` ist leer
-- `10_masse/10_massregister.md` ist nach der Namensregel kleingeschrieben
-- Der Wurzeltext, der bis 2026-08-20 in dieser Datei stand (Ziel, Quelle,
-  Grundlagen-Blöcke, „Phase jetzt"), gehört in die Wurzel oder nach
-  `600_prozess` und ist noch nicht umgezogen.
+Nur eine fachlich nachvollziehbare und freigegebene Formel darf von
+`500_python` verwendet werden. Ohne verifizierte Quelle, geklärte Abkürzungen
+und nachgerechneten Prüfwert beginnt kein Python-Modul.

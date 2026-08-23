@@ -2,15 +2,15 @@
 
 ## Navigation — Regel
 
-Diese Datei führt nur zu den direkten Unterordnern von `600_prozess/`.
-Einzelne Fachdateien werden hier nicht aufgeführt. Sie gehören in die
-Agentendatei des jeweiligen Unterordners.
+Diese Datei führt nur zu den direkten Inhalten von `600_prozess/`. Tiefere
+Fachdateien werden im `AGENT.md` ihres Unterordners geführt.
 
 Die Ladeliste dient der Navigation. Automatisch geladen werden nur die
 angekreuzten Agentendateien.
 
 ## Navigation
 
+- [x ] `10_begriffe_offen.md`
 - [x ] `20_seiten_erledigt/AGENT.md`
 
 ## Zweck
@@ -28,7 +28,7 @@ gehört woanders hin.
 
 | Nicht hier | Sondern |
 |---|---|
-| Der fertige Begriff mit Definition und Seite | `000_sprache/10_gosslar/1_gosslar.md` |
+| Der fertige Begriff mit Definition und Seite | passende Kategoriedatei unter `000_sprache/10_gosslar/` |
 | Die fertige Formel | `300_formeln/` |
 | Fachfrage **zu einer bestimmten Formel** | bleibt als ⚠️ **bei der Formel** |
 | Modulstatus eines Kleides | `700_schnitte/<kleid>/ROADMAP.md` |
@@ -49,12 +49,12 @@ Eine Liste pro Datei, in Zehnern:
 | `10_` | Begriffe offen — Kandidaten für Gosslar |
 | `20_` | Seiten erledigt — vollständig auf Gosslar-Begriffe geprüft |
 
-Neue Art der Prozessbuchhaltung → nächster freier Zehner (`20_`, `30_`).
+Neue Art der Prozessbuchhaltung → nächster freier Zehner (`30_`).
 **Eine vergebene Nummer wird nie neu belegt.**
 
 ## Form eines Eintrags
 
-Jede Liste führt zwei Tabellen — getrennt danach, **was fehlt**:
+`10_begriffe_offen.md` führt zwei Tabellen — getrennt danach, **was fehlt**:
 
 **1. Bereit** — hat Definition und Seitenzahl, kann sofort umziehen:
 
@@ -94,11 +94,9 @@ gelöscht — dort ist die Entscheidung selbst die Information. Hier nicht.
 
 ## Offene Stellen
 
-- `10_begriffe_offen.md` entspricht der Namensregel der Wurzel
-- Die Begriffsliste verweist jetzt direkt auf `000_sprache/10_gosslar/1_gosslar.md`.
-- Zwei Begriffe stehen auf **bereit** und können sofort nach Gosslar umziehen.
-- `20_seiten_erledigt/` führt Seiten, die vollständig auf Gosslar-Begriffe
-  geprüft wurden.
-- Die Grundlagen-Blöcke (S. 9/11–15, S. 21–31, S. 20) und der Projektstand
-  „Phase jetzt" haben hier ihren Ort, liegen aber noch außerhalb des Repos im
-  Scratchpad.
+- `10_begriffe_offen.md` startet leer. Kandidaten entstehen erst beim neuen
+  seitenweisen Buchabgleich.
+- `20_seiten_erledigt/` startet ebenfalls leer. Eine Seite wird erst nach
+  erneuter Bestätigung durch Werner oder Munkhuu eingetragen.
+- Es gibt keine Formel-Ingest-Arbeitsliste. Formeln beginnen erst nach der
+  Quellen- und Sprachverifikation.

@@ -12,4 +12,12 @@ Inhalten. Nur angekreuzte Dateien werden geladen.
 - [ x] `30_abkuerzungen_schnittbereiche_begriffe.md`
 - [x ] `40_abkuerzungen_koerpermasse_konstruktionsmasse.md`
 - [x ] `sachwortverzeichnis.md`
-- [ ] `sachwortverzeichnisv2.md` — Arbeitsfassung, nach Buchkategorien und Seiten statt alphabetisch; abgeleitet aus `sachwortverzeichnis.md`, dieses bleibt die gültige alphabetische Fassung
+
+## Status
+
+Die Abkürzungsdateien sind vorhandener **Arbeitsbestand**, keine pauschal
+freigegebene Sprachquelle. Ein Kürzel darf erst von Formeln oder Python benutzt
+werden, wenn seine konkrete Buchstelle am Original freigegeben wurde.
+
+`sachwortverzeichnis.md` bleibt das originale alphabetische Verzeichnis. Es
+belegt Seitenverweise, aber noch keine Definition oder Gosslar-Zuordnung.

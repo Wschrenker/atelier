@@ -31,13 +31,14 @@ Merksatz: Hier steht, **was ein Wort bedeutet** — nicht, **was man damit rechn
 | Nicht hier | Sondern |
 |---|---|
 | Maßnamen mit Rechenweg | `300_formeln/10_masse/` |
-| Zahlenwerte, Größentabellen | `300_formeln/10_masse/10_massregister.md` |
+| Verifizierte Zahlenwerte und Größentabellen | später `300_formeln/10_masse/` |
 | Buchseiten, Abschriften ganzer Kapitel | `100_quellen/` |
 | Konstruktionsschritte und ihre Reihenfolge | `500_python/`, `700_schnitte/` |
 | Begriff ohne Definition oder ohne Seitenzahl | `600_prozess/10_begriffe_offen.md` |
 
-Ein Wort darf hier stehen, sobald es **im Buch vorkommt**. Was daraus gerechnet
-wird, gehört nie hierher — auch nicht „nur als Hinweis".
+Ein Wort darf hier stehen, sobald sein Vorkommen und seine Bedeutung **an einer
+freigegebenen Buchseite belegt** sind. Was daraus gerechnet wird, gehört nie
+hierher — auch nicht „nur als Hinweis".
 
 ## Nummernschlüssel
 
@@ -101,7 +102,8 @@ zugehörigen `.html`.
 
 Ein Eintrag ist fertig, wenn:
 
-1. er **im Buch belegt** ist — Buch und Seite stehen dabei,
+1. er **an der freigegebenen Buchseite belegt** ist — Transkriptpfad und Seite
+   stehen dabei,
 2. seine Bedeutung dasteht, nicht seine Berechnung,
 3. bei Zeichen: `.md` und `.html` beide vorhanden sind.
 
@@ -117,9 +119,10 @@ dort auf die Buchseite.
 
 - `22_zuschnittszeichen.html` hat **keine `.md`** — die Zeichen liegen als Bild
   vor, die Abschrift fehlt. Sie bekommt dann `23_`.
-- `10_gosslar/1_gosslar.md` — die Einträge tragen **keine Seitenzahl**, `Formeln`
-  steht überall auf „Folgen". Nach der Fertig-Regel ist damit noch **kein**
-  Eintrag fertig. Erst belegen, dann zitieren.
+- Die Kategoriedateien unter `10_gosslar/` sind bewusst leer. Sie werden erst
+  beim seitenweisen Buchabgleich gefüllt.
+- `30_lexikon/sachwortverzeichnis.md` bleibt die originale alphabetische Basis.
+  Eine nach Kategorien oder Seiten umgeordnete Arbeitsfassung gibt es nicht.
 
 > Die Umbenennungen dieses Ordners (`10_abkuerzungen_systematik_eigenschaften_betraege_werte_operanden_aktionen.md`,
 > `20_schnittmuster_symbole.md`) stehen repo-weit in

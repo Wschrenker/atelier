@@ -7,7 +7,6 @@ Inhalten. Nur angekreuzte Dateien werden geladen.
 
 ## Navigation
 
-- [ x] `1_gosslar.md`
 - [ ] `10_einfuehrung_abkuerzungen_symbole_gosslar.md`
 - [ ] `20_massnehmen_koerpermasse_massstabellen_gosslar.md`
 - [ ] `30_grundschnitte_roecke_gosslar.md`
@@ -24,3 +23,14 @@ Inhalten. Nur angekreuzte Dateien werden geladen.
 - [ ] `140_anhang_sachwortverzeichnis_gosslar.md`
 - [ ] `150_uebergreifend_und_speziell_gosslar.md`
 - [ ] `160_noch_zuzuordnen_gosslar.md`
+
+## Status und Beweisrichtung
+
+Die Kategoriedateien sind bewusst leer. Ein Sachwort wird erst eingetragen,
+wenn seine Buchseite gegen das Original freigegeben wurde. Das originale
+alphabetische Verzeichnis bleibt
+`../30_lexikon/sachwortverzeichnis.md`.
+
+Die Buchseite bestätigt den Gosslar-Eintrag — niemals umgekehrt. Unklare
+Zuordnungen kommen nach `160_noch_zuzuordnen_gosslar.md` und bleiben sichtbar
+offen.
