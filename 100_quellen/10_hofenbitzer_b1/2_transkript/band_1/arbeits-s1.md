@@ -18,4 +18,4 @@ Duesselberger Strasse 23 - 42781 Haan-Gruiten
 
 Europa-Nr.: 62369
 
-Pruefstelle: Seitenzahl nicht sichtbar; als Arbeits-S.1 gefuehrt.
+

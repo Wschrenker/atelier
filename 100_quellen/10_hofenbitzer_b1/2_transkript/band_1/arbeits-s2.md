@@ -44,4 +44,3 @@ Weitere sichtbare Angaben:
 - Satz und Layout: Guido Hofenbitzer
 - Druck: Himmer GmbH - Druckerei & Verlag, 86167 Augsburg
 
-Pruefstelle: Foto ist insgesamt lesbar; bei bibliografischer Verwendung ISBN, Druckzeile und Druckerei am Originalbuch gegenpruefen.

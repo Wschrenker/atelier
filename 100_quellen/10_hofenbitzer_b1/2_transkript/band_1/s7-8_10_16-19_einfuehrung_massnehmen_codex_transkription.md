@@ -1,4 +1,4 @@
-# Rohtranskription Hofenbitzer Band 1 — S.7–8, 10, 16–19
+# Rohtranskription Hofenbitzer Band 1 — S.8–9, 10, 16–19
 
 Prüfstatus: Am 25.06.2026 durch Codex anhand der Quellfotos roh transkribiert. Einzelne Tabellen- und Bildbeschriftungen bleiben prüfbedürftig; keine fachliche Freigabe.
 
@@ -13,7 +13,7 @@ Quellfotos:
 
 ---
 
-## S.7
+## S.8
 
 ### Einführung — Zur Verwendung des Buches
 
@@ -47,7 +47,7 @@ Die am Ende des Einführungskapitels beschriebenen Standards für Schnittkonstru
 
 ---
 
-## S.8
+## S.9
 
 ### Abkürzungen und Symbole — Systematik, Eigenschaften, Beträge, Werte, Operanden, Aktionen
 

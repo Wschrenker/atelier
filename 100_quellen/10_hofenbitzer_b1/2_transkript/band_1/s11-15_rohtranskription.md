@@ -1,6 +1,5 @@
 # Rohtranskription Hofenbitzer Band 1 — S.11–15
 
-Prüfstatus: Am 21.06.2026 durch Codex bildweise gegen die fünf Quellfotos abgeglichen und korrigiert. Dies ist eine Transkriptionsprüfung, keine fachliche Freigabe der Konstruktionsmethode. Buchfehler sind wörtlich übernommen und als solche gekennzeichnet.
 
 Quellfotos:
 - S.11: `Photos-3-001 2/20260617_155849.jpg`
