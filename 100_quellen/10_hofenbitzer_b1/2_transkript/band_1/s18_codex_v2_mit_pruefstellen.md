@@ -1,7 +1,5 @@
 ## S.18
 
-Prüfstelle S.18: Alle Bildstichworte zu `□1` bis `□6` und die farbigen Labels `vTaH`, `hTaH`, `VL`, `RüL` prüfen; außerdem den Textverweis "siehe □7" kontrollieren, da `□7` auf dem Foto nicht als Bildnummer dieser Seite sichtbar ist.
-
 ### Hinweise zur Maßtabelle und zum Maßnehmen (2)
 
 Randregister: Hinweise zur Maßtabelle und zum Maßnehmen.
@@ -12,7 +10,7 @@ Für die Grundschnittkonstruktion müssen nun die VL und/oder die RüL entsprech
 
 Nach der Grundschnitt-Konstruktion in optimaler Balance werden die Beträge der Maßänderungen an RüL und/oder VL nach bestimmten Regeln am Grundschnitt rückgängig gemacht, wodurch der Grundschnitt optimiert wird.
 
-Ist z.B. die gemessene RüL bei einem runden Rücken (siehe `□7`) zu lang, wird das Konstruktionsmaß RüL für die Schnitterstellung verringert, damit die Balance passt. Nach der Konstruktion fehlt jetzt Länge im Rückteil. Nun wird der Rücken aufgeschnitten und die zuvor gekürzte RüL wieder in den Schnitt gegeben. Die RüL besitzt jetzt wieder das gemessene Maß. Durch das Öffnen am Rücken vergrößert sich der Schulterabnäher, wodurch das Rückteil die notwendige Form für die entsprechende Figur erhält.
+Ist z.B. die gemessene RüL bei einem runden Rücken (siehe `□7`; Druckfehler im Buch, gemeint ist `□6` — am 25.08.2026 durch Wschrenker bestätigt) zu lang, wird das Konstruktionsmaß RüL für die Schnitterstellung verringert, damit die Balance passt. Nach der Konstruktion fehlt jetzt Länge im Rückteil. Nun wird der Rücken aufgeschnitten und die zuvor gekürzte RüL wieder in den Schnitt gegeben. Die RüL besitzt jetzt wieder das gemessene Maß. Durch das Öffnen am Rücken vergrößert sich der Schulterabnäher, wodurch das Rückteil die notwendige Form für die entsprechende Figur erhält.
 
 #### Probleme unterhalb der Taille
 

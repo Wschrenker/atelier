@@ -1,7 +1,5 @@
 ## S.19
 
-Prüfstelle S.19: Tabellenstruktur, Formeln und Sonderzeichen prüfen; besonders `± Taillenschräglage`, `Ø`, `Σ`, `· 2`, die Balance-Tabelle und die Rechenfelder `VL minus RüL` sowie `Bal minus individuelle Balance`.
-
 ### Maßtabelle
 
 Randregister: Maßtabelle.

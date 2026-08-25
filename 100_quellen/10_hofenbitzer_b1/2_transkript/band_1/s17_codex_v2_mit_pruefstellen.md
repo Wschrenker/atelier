@@ -1,7 +1,5 @@
 ## S.17
 
-Prüfstelle S.17: Balance-Abschnitte und die Zuordnung der Bildlabels prüfen; besonders `gRüL`, `gVL`, `RüL`, `VL`, die Formulierung "Taillenschräglage" und die Rand-/Figurenbeschriftungen kontrollieren.
-
 ### Hinweise zum Maßnehmen und zur Maßtabelle (1)
 
 Randregister: Hinweise zur Maßtabelle und zum Maßnehmen.
