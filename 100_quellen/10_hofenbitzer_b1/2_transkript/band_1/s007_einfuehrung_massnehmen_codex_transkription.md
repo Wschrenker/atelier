@@ -1,0 +1,31 @@
+## S.7
+
+### Einführung — Zur Verwendung des Buches
+
+#### Ziel des Buches
+
+Dieses Buch soll Ihnen helfen, Grund- und Modellschnittkonstruktionen im Selbststudium zu erstellen, um Ihre Modelle zuzuschneiden und anfertigen zu können. Das Buch zeigt Modellentwicklungen auf und soll Ihnen Mut machen, eigene Ideen und völlig neue Kreationen mit Hilfe dieser Prinzipien zu realisieren.
+
+#### Fachsprache und Abkürzungen
+
+Das Buch verwendet eine Fachsprache mit den ihr eigenen Begriffen. Diese werden im Text und in den Konstruktionsanweisungen zumeist erläutert, gehen aber auch häufig aus dem Zusammenhang hervor. Oft tauchen sperrige und zusammenhängende Begriffkombinationen auf, die üblicherweise abgekürzt werden. In diesem Buch werden die Abkürzungen systematisch und eindeutig verwendet. Erläuterungen hierzu und verschiedene Auflistungen sowie Beispiele sind unten und auf den folgenden Seiten aufgeführt.
+
+#### Farbe ist Information
+
+In allen Konstruktionen sind verschiedene Farben verwendet, die für bestimmte Informationen stehen. Flächen, Linien, Begriffe und Abkürzungen sowie Zahlenwerte in bestimmten Farben erleichtern eine schnelle visuelle Wahrnehmung. So kann man eine grüne Futterfläche eindeutig von einem gelben Beleg unterscheiden oder eine dicke schwarze Umfangslinie von einer gestrichelten grünen Bemaßungslinie. Alle Linienarten sind in diesem Kapitel auf Seite 11 erläutert. Seitenverweise erleichtern das Auffinden von Details.
+
+Bei der Arbeit mit diesem Buch werden Sie schnell diese Informationen erkennen und schätzen lernen.
+
+#### Reihenfolgen
+
+Sie finden nach einleitenden Informationen und dem Maßnehmen zunächst Formulare, die Ihre Daten übersichtlich und vollständig sammeln. Diese Formulare sind auch online verfügbar.
+
+Es folgen nach dem einfachen Rockgrundschnitt Modelle, die aus diesem Grundschnitt entwickelt werden können.
+
+Die dargestellten Konstruktionen sind größtenteils selbsterklärend. Optimalerweise sollten die Skizzen für eine erfolgreiche Konstruktion genügen. Ergänzende Beschreibungen erläutern mit Infos und Tipps zusätzlich nahezu jede Konstruktion.
+
+Komplexe Modelle und Schnitte sind in Teilschritte unterteilt, z.B. in „Modellgestaltung“, „Kragenkonstruktion“ usw. Diese nummerierten Teilschritte werden Punkt für Punkt, durch blaue Punkte mit Zahlen, in optimaler Reihenfolge beschrieben. Diese Punkte befinden sich im Text und an den Skizzen.
+
+#### Standards
+
+Die am Ende des Einführungskapitels beschriebenen Standards für Schnittkonstruktionen werden für den Anfänger vermutlich erst nach einigen Erfahrungen wirklich nutzbar sein. Es sind prinzipielle Verfahrenstechniken erläutert, die bei der Schnitterstellung immer wieder angewandt werden.

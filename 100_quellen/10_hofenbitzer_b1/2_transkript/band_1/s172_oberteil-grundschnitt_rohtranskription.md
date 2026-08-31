@@ -1,0 +1,60 @@
+## S.172
+
+**Quellfoto:** `hofenbitzer/band_1/Photos-3-001 3/Photos-3-001 (2)/20260618_185440.jpg`
+
+**Vertikaler Reiter (linker Rand, rosa):** „Oberteil-Grundschnitte" / darunter „Analyse verschiedener Oberteile"
+
+**Überschrift:** Übersicht — Analyse verschiedener Oberteile (1)
+
+**Inhaltsblock „Übersicht" (zwei Spalten, Eintrag … Seitenzahl):**
+
+Spalte 1:
+
+| Eintrag | Seite |
+|---|---|
+| Übersicht der Oberteil-Grundschnitte | 172 |
+| Grundschnitt-Typen | 173 |
+| Kontrolle und Korrektur der Balance bei schwierigen Figuren | 174 |
+| Passformklassen und Zugaben | 176 |
+| Konstruktionstabelle | 177 |
+| Grundgerüst für sämtliche Oberteil-Grundschnitte | 178 |
+
+Spalte 2:
+
+| Eintrag | Seite |
+|---|---|
+| Legerer Oberteil-Grundschnitt ohne und mit Abnäher | 182 |
+| Taillierter Oberteil-Grundschnitt mit Hüftausfall | 184 |
+| Taillierter Oberteil-Grundschnitt ohne Hüftausfall | 186 |
+| Nahtgestaltung und Zuschnitt für die Anprobe | 187 |
+| Enger Oberteil-Grundschnitt für elastische Materialien | 188 |
+| Grundschnitt-Vergrößerungen | 191 |
+| Weite an erprobtem Oberteil-Grundschnitt hinzugeben | 194 |
+| Weite an erprobtem Oberteil-Grundschnitt reduzieren | |
+| Korsagen-Grundschnitt | 196 |
+
+*Notiz: Die Seitenzahl „196" steht in der rechten Spalte auf Höhe der Zeile „Korsagen-Grundschnitt"; die Zeile „Weite … reduzieren" trägt keine eigene Zahl.*
+
+**Zwischenüberschrift (roter Balken, oben):** Zwei Modelle mit gleicher Weite und gleicher Grundschnitt-Konstruktion entwickelt
+
+**Zwischenüberschrift (roter Balken, Mitte):** Drei Modelle aus der gleichen Grundschnitt-Konstruktion aber mit unterschiedlichen Weiten
+
+**Textkasten (rechts oben):** „Die Erläuterungen zur Verwendung des Passform-Piktogramms sind auf der Seite 176 zu finden."
+
+**Bildunterschriften (Modellzeichnungen):**
+
+- □1  Jeansjacke aus tailliertem OT-GS mit Brustabnäher (PK 4-5)
+- □2  Klassische Weste aus tailliertem OT-GS mit Brustabnäher (PK 4-5)
+- □3  Passform-Piktogramm mit Weitenzugaben
+- □4  Enges Kleid (Etuikleid) aus dem taillierten OT-GS mit Brustabnäher (PK 3-4)
+- □5  Damen-Blazer aus dem taillierten OT-GS mit Brustabnäher (PK 5-7)
+- □6  Trenchcoat aus dem taillierten OT-GS mit Brustabnäher (PK 9-10)
+
+**Abbildung □3 (Passform-Piktogramm), Beschriftungen:**
+
+- Schematische Körperfigur (Vorderansicht), links daneben ein separat gezeichneter Arm.
+- Maßzahlen in Ovalen links an der Figur, von oben nach unten: `88`, `72`, `97`.
+- Vertikal stehende Zahl in Oval links unten: `168`.
+- Zugabe-/Bereichswerte in Kästchen rechts an der Figur, von oben nach unten: `4 - 5`, `7 - 11`, `6 - 10`, `4 - 8`.
+
+**Seitenzahl (unten):** 172

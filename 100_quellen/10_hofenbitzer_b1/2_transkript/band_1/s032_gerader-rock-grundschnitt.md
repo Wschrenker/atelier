@@ -1,0 +1,76 @@
+# Seite 32
+Foto: `Photos-3-001 2/20260617_160216.jpg`
+
+**Kopfzeile (blau):** „Rock-Grundschnitte" — „Übersicht / Konstruktionstabelle für den Rock Grundschnitt erstellen"
+**Seitenreiter (links, vertikal):** „Übersicht / Maßsatz erstellen"
+
+## Inhaltsliste (Block „Rock-Grundschnitte")
+(Thema — Seitenzahl, wie in der Liste; Zeilen mit verdeckter Zahl markiert)
+- Übersicht — 32
+- Gerader Rock: Konstruktionstabelle — 33
+- Gerader Rock: Grundgerüst — 34
+- Gerader Rock: Abnäher positionieren — 35
+- Gerader Rock: Rückteil mit zwei Abnähern — 35
+- Abnäherformen, Grundschnittschablone und Produktionsschnitt — 36
+- Proportionen von Hüfte und Taille — 37
+- Rock-Grundschnitt an natürlicher Taille — 38
+- Gerader Bund — 39
+- Saumerweiterter Rock-Grundschnitt — 42
+- Glockenröcke: Vollglocke, Halbglocke — 44
+- Ausgestellter und eingesteller Rock — 46
+- Gerader und saumerweiterter Hosenrock — 47
+- Röcke mit Kräuselweite: Weiter Rock, Ballonrock — 48
+
+## Einleitungstext (rechte Spalte, beginnt mit ☐1)
+> ☐1 Der gerade Rock-Grundschnitt dient als Grundlage für die Konstruktion der meisten Rockmodelle.
+> Die Seitennähte verlaufen ab der Hüfte gerade bis zum Saum. Hüft- und Saumweite sind also gleich.
+>
+> Neben dem geraden Rock-Grundschnitt gibt es noch den saumerweiterten Rock-Grundschnitt, die
+> verschiedenen Kreisröcke und den Rock mit Kräuselweite. Als ein „Zwitter" gilt der
+> Hosenrock-Grundschnitt, der aus dem geraden oder dem saumerweiterten Rock-GS entwickelt wird.
+>
+> Der Rock-GS wird mit Hilfe der gemessenen Körpermaße konstruiert. Zu diesen Körpermaßen werden in
+> der Konstruktionstabelle noch Bequemlichkeitsweiten addiert und damit die tatsächlichen
+> Konstruktionsmaße ermittelt.
+>
+> Erfahrene Schnittzeichner/innen können „Haltungs- und Wuchsprobleme" einer Figur sehen und bereits
+> bei der Maßkonstruktion berücksichtigen. Dieses Vorgehen wird sehr ausführlich in Band 2
+> „Maßschnitte und Passform" beschrieben.
+
+## Abschnitt „1 Konstruktionstabelle erstellen" (Mittelspalte)
+> In der Konstruktionstabelle werden die Konstruktionsmaße zusammengestellt.
+>
+> Aus der Größentabelle oder aus der individuellen Konstruktionstabelle werden die Körper-Messgrößen
+> in die Spalte „Körpermaße" übertragen. Dann sind die notwendigen Weitenzugaben (hier in Rot)
+> einzutragen und zu addieren. Daraus errechnen sich die Konstruktions- und Fertigmaße. Wo notwendig,
+> werden Halbierungen und Viertelungen errechnet.
+>
+> Um die Aufteilung des Taillenausfalls (Differenz zwischen halber Hüft- und halber Taillenweite) auf
+> die Abnäher vorzunehmen, sollte die Figur beobachtet und die Abnähergrößen entsprechend gewählt werden.
+>
+> Grundsätzlich werden nur halbe Bekleidungsschnitte konstruiert, weil man annimmt, dass ein
+> menschlicher Körper symmetrisch ist.
+>
+> Bei der Modellbeschreibung wird in der Regel nur eine Modellhälfte beschrieben. So hat hier das
+> Rückteil des Rocks einen Abnäher.
+>
+> Alle Konstruktionsmaße beziehen sich i.d.R. auf den halben Schnitt. Oftmals werden in der Maßtabelle
+> und in der Konstruktionstabelle die Maße zusätzlich halbiert und geviertelt, damit man beim
+> Konstruieren nicht nochmals rechnen muss.
+>
+> Fertigmaße sind Maße, wie sie am fertigen Schnitt und damit auch am Kleidungsstück gemessen werden
+> können. Dies sind z.B. die Modelllänge, Hüftweite, Taillenweite oder die Saumweite. Sie beziehen
+> sich auf den gesamten Schnitt.
+
+## Text-Block rechts unten (neben Modellzeichnung ☐1)
+> Einige Maße werden nicht bei jeder Konstruktion benötigt, hier z.B. der natürliche Taillenumfang
+> (nTaU) und die Taillenabstände (TaA). Die Felder werden dann einfach nicht ausgefüllt.
+>
+> Für jeden Grundschnitt muss eine besondere Konstruktionstabelle erstellt werden, aus dem hervorgeht,
+> mit welchen Maßen der jeweilige Schnitt konstruiert wird.
+>
+> Die Konstruktionstabelle wird später auf den Grundschnitt geklebt, damit später immer ersichtlich ist,
+> mit welchen Maßen der Grundschnitt erstellt wurde.
+
+**Bildunterschrift:** „☐1 Modellzeichnung für den geraden Rock-Grundschnitt mit einem Abnäher im
+(halben) Rückteil"

@@ -1,0 +1,77 @@
+## Seite 453
+
+### Originaltext
+
+**Trägerkleid im Empire-Stil (2)**  
+**Hinterrock mit Scherenfalten**
+
+10. Für das Rückteil die Tiefe der Unterbrustnaht wie vorne bestimmen. An der SN Weite reduzieren.
+11. Diese über den Rücken weiterführen und das Oberteil abtrennen.
+12. Um die Richtung des hinteren Träger zeichnen zu können, muss zunächst die diagonale Teilungsnaht geformt und an der hM gespiegelt werden.
+
+[BUCHFEHLER: „des hinteren Träger“ steht so im Druck.]
+
+13. Für das hintere Rockteil den Abnäher oben zulegen und am Saum wie vorne öffnen.
+14. SN und hM neu zeichnen.
+
+**Scherenfalten laufen schräg voneinander weg und die eine überlappt die andere Falte.**
+
+15. Den Kantenverlauf (= Einschnittlinien) der Scherenfalten gestalten und einzeichnen.
+16. Die Überschneidungsfläche der Kanten ist mindestens die jeweilige Faltentiefe (FaT) der beiden Falten. Diese FaT nicht zu schmal gewählt werden. Sie darf also auch größer als die Überschneidung sein.
+
+[BUCHFEHLER: Der Satz „Diese FaT nicht zu schmal gewählt werden.“ steht ohne finites Verb so im Druck.]
+
+17. Beide Falten nacheinander aufschneiden und wie skizziert mindestens doppelt so weit öffnen wie die Überschneidung. Dabei ergeben sich die Faltenrückschnitte von selbst.
+18. Faltenschraffur und Legerichtung markieren.
+
+### Bildnummern, Bildunterschriften und Zeichnungsbeschriftungen
+
+- □4 **Rückansicht mit Scherenfalten im Rock**
+- □5 **RT mit Trägern, Saumerweiterung und Falten**
+- □6 **Produktionsschnitte RT mit geöffneten Falten am Rockteil**
+- Schnittteile: `Empire-Kleid Träger 4× OSt`, `Empire-Kleid RT 2× OSt`, `Empire-Kleid RT-Rock 1× OSt`.
+- Beschriftungen: `SN am RT bis 0,7 cm reduzieren`, `üb`, `an hM spiegeln`, `FaT`, Faltenschraffur, Legerichtung, hM, SN.
+
+### Eigene sachliche Bildbeschreibung – nicht Buchtext
+
+Die Unterbrustnaht wird vom VT auf das RT übertragen und über den Rücken geführt. Die diagonale obere Teilungsnaht wird an der hM gespiegelt, damit die Trägerrichtung bestimmt werden kann. Am Hinterrock wird der Abnäher oben geschlossen; die dadurch gedrehte Weite öffnet sich am Saum. Zwei schräg auseinanderlaufende Einschnittkanten überschneiden sich. Beim nacheinander ausgeführten Öffnen entstehen überlappende Scherenfalten und die zugehörigen Faltenrückschnitte. Schraffuren kennzeichnen Faltentiefe und Überdeckung; Pfeile zeigen die Legerichtung.
+
+---
+
+## Fotozuordnung pro Seite
+
+| Buchseite | Originalfoto | Zuordnungskriterium |
+|---:|---|---|
+| 400 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144817.jpg` | sichtbare Seitenzahl 400 |
+| 401 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144819.jpg` | sichtbare Seitenzahl 401 |
+| 452 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145423.jpg` | sichtbare Seitenzahl 452 |
+| 453 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145425.jpg` | sichtbare Seitenzahl 453 |
+
+## Prüfstatus pro Seite
+
+| Seite | Fotozuordnung | Sichtprüfung | Zahlen/Formeln zweimal geprüft | Status |
+|---:|---|---|---|---|
+| 400 | bestätigt | ja, Originalauflösung; Foto temporär gedreht | ja | digital vollständig |
+| 401 | bestätigt | ja, Originalauflösung; Foto temporär gedreht | ja | digital vollständig |
+| 452 | bestätigt | ja, Originalauflösung | ja | digital vollständig |
+| 453 | bestätigt | ja, Originalauflösung | ja | digital vollständig |
+
+## Buchfehler und offene Unsicherheiten
+
+- S.453: „des hinteren Träger“ wurde wörtlich bewahrt.
+- S.453: „Diese FaT nicht zu schmal gewählt werden.“ wurde wörtlich bewahrt; im Satz fehlt ein finites Verb.
+- Keine Textstelle musste als `UNLESBAR` markiert werden.
+- Die fachliche und konstruktive Richtigkeit wurde nicht eigenständig korrigiert oder ergänzt.
+
+## Für die Pattern Engine relevante, ausschließlich aus dem Buch abgeleitete Regeln
+
+- Bei der Konstruktion auf S.400 liegt die Empire-Naht bei `uBrA - 0,5 bis 1 cm`; bei großer Brustform soll laut Buch mehr abgezogen werden.
+- Brust- und Schulterabnäher werden zugelegt; Rockabnäher werden so zugelegt, dass sich Saumweite öffnet. Die Unterbrustnähte werden danach neu geformt.
+- Bei der Faltenvariante müssen die korrespondierenden Faltenabstände beziehungsweise die beiden Faltenlinien unter der Brust identisch lang sein.
+- S.452 nennt als modellbezogene Reduzierungen: Ausschnittweite `0,5 bis 0,7 cm`, Armlochweite `ca. 0,7 cm` und Brustweite am VT `bis 0,7 cm`.
+- Die Unterbrustnaht des Modells S.452 kann je nach Brustgröße bei `ca. ½ BrB - 2 cm` oder `uBrA` liegen.
+- S.453 nennt am RT eine Reduzierung der SN bis `0,7 cm`.
+- Bei den Scherenfalten ist die Überschneidungsfläche mindestens die jeweilige FaT; jede Falte wird mindestens doppelt so weit geöffnet wie die Überschneidung. Faltenschraffur und Legerichtung sind zu markieren.
+- Die Produktionsschnittzeichnungen enthalten Schnittteilbezeichnungen, Zuschnittmengen, Fadenläufe, Faltenrichtungen und Kontrollmarkierungen; diese sind schnittteilbezogen zu erhalten.
+
+**Fachliche Freigabe durch Werner/Munkhuu noch offen.**

@@ -1,0 +1,56 @@
+## S.25
+
+**Quellfoto:** `20260617_160107.jpg`
+
+### Überschrift
+
+**Standards bei Schnittkonstruktionen (5) — Rückschnitte und Spiegelungen an Nähten, Abnähern und Falten**
+Randregister (vertikal): `Standards` · `Rückschnitte`
+
+### Linke Spalte
+
+**Rückschnitte an Nahtenden**
+
+Der Rückschnitt zeigt durch seine Form exakt den Nahtbeginn und damit auch die Nahtzugabenbreite an, die „wegge­näht" werden muss. Dies erleichtert das exakte Aneinanderlegen zweier Stoffteile zum Nähen einer Naht.
+
+**Konstruktion an Nahtenden**
+
+Rückschnitte werden an denjenigen Nähten vorgenommen, die zuerst ge­näht werden.
+
+In diesem Beispiel sind dies die runde Naht, die Schulternaht, die hintere Mit­te und die Seitennaht. Dann wird erst der Ärmel in das Armloch und der Kra­gen ins Halsloch genäht.
+
+❶ Die Nähte werden am Ende so weit verlängert, bis sie an die Schnittkante (Nahtzugabe) der angrenzenden Naht trifft.
+❷ Dort wird zur Nahtverlängerung (rechtwinklig) abgewinkelt.
+❸ Dies ergibt den Rückschnitt an den Ecken der Nahtzugaben.
+❹ An die Schnittteile, die an die jeweiligen Nähte genäht wer­den, kommt ebenfalls ein Rück­schnitt. Dieser erhält exakt die­selbe Nahtverlängerung zur Schnittkante und ebenfalls den rechtwinkligen Rückschnitt.
+
+Somit können beide Schnittteile bequem am Rückschnitt und den Schnittkanten an­gelegt und die Naht kann genäht werden.
+
+In der Praxis wird manchmal auf Rück­schnitte verzichtet, wenn die Naht nahe­zu rechtwinklig auf die anstoßende Naht trifft. Am Beispiel hier wären dies die Schulternaht, die hintere Mitte und die Seitennaht.
+
+### Mittlere Spalte — Rückschnitte an Falten und Abnähern
+
+Dort, wo ein Abnäher oder eine Falte an einer Naht beginnt, wird ebenfalls ein Rückschnitt benötigt. Je nachdem, in welche Richtung der Inhalt gebügelt wird und je nach Winkel zur Naht, ent­steht ein Dach (siehe oben) oder eine Kerbe (siehe unten).
+
+❺ An einer Falte den Faltenbruch und die (Falten-)Anstoßlinie bestimmen.
+❻ Abnäher- bzw. Faltenmitte ein­zeichnen.
+❼ Die Faltenmitte am Faltenbruch spiegeln oder
+
+*(Die Aufzählung wird in der großen Skizze mit den Markern ❽–⓬ fortgesetzt; weiterer zugehöriger Fließtext ist im Foto nicht als eigener Absatz sichtbar.)*
+
+### Callout-Box — Von der stumpfen zur spitzen Ecke
+
+Zunächst die Naht an der stumpfen Ecke verlängern und messen (me). Diese Messung auf die Verlängerung der Naht an der spitzen Ecke über­tragen (üb) und dann jeweils die Rückschnitte abwinkeln.
+
+### Bildunterschriften
+
+- ☐1 **Rückschnitt an einer einseitig gelegten Falte**
+- ☐2 **Armloch und Schulter des Produktionsschnitts eines Jacken-Rückteils**
+
+### Skizzen-Beschriftungen (großes Jacken-Rückteil)
+
+Schnittteil-Namen: `seitliches Rückteil` · `Rückteil`
+Konturen/Linien-Labels: `hintere Armlochnaht` · `hintere Teilungsnaht (Wiener Naht)` · `Schulterabnäher` · `Schulternaht` · `Seitennaht`
+Punkt-/Maßlabels: `hAP` · `üb` · `me`
+Bügelhinweis: `Abnäherinhalt wird zur Körpermitte gebügelt`
+Schritt-/Ordnungsmarker ❶–⓬

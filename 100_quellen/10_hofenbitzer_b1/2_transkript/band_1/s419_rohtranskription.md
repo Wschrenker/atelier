@@ -1,0 +1,80 @@
+## Seite 419
+
+**Quelldatei:** `20260619_144926.jpg`  
+**Sichtbare Buchseitenzahl:** 419
+
+### Wörtlicher Buchtext
+
+# Regeln zur Konstruktion von Ausschnitten (3) Neckholder mit spitzem Ausschnitt
+
+## mit Passform-Optimierung
+
+□1 Oberteil mit Neckholder
+
+**Neckholder und Ausschnitte**
+
+1. □2 Den Nacken-Träger mit der gewünschten Trägerbreite (TrB) am Rückteil wie skizziert konstruieren.
+2. Diesen an das Vorderteil anlegen und den Hals- und Armausschnitt gestalten. Hier endet das Decolleté zwischen den Brüsten.
+3. Am RT die Ausschnittkante provisorisch gerade zur hM zeichnen.
+4. An Modellen ohne Ärmel das Armloch um die Reduzierung an der Seitennaht verschmälern.
+5. Den Brustansatz-Kreis und die Reduzierflächen zeichnen.
+
+□2 Den Nacken-Träger konstruieren, diesen ans VT anlegen und die Arm- und Halsausschnitte sowie den Brustansatz-Kreis und die Reduzierflächen einzeichnen
+
+**Reduktion der Ausschnitte**
+
+□3 Die Modellschnittteile sind am Halsausschnitt bei P2 reduziert. Der Armausschnitt ist bei P3, P5 und P6 reduziert sowie an der Seitennaht bei P7.
+
+Bei diesem Modell kann an der vorderen Mitte die Reduzierfläche bei P1 komplett entfernt werden und kommt hier als Falteninhalt hinzu.
+
+6. Arm- und Halsausschnitte müssen jetzt neu ausgeformt werden, wobei darauf zu achten ist, dass die obere Strecke am Öffnungsbetrag an der vM gleich lang ist, wie die untere.
+
+Beim Rückteil ist an der Seitennaht bei P7 reduziert sowie die komplette Reduzierfläche bei P8. Somit ist der Taillenabnäher komplett geschlossen.
+
+7. Die RT-Ausschnittkante wird gerade im rechten Winkel zur hM gezeichnet.
+
+Am VT sind alle Ausschnitte deutlich enger geworden. Alle anderen Reduzierflächen konnten nicht berücksichtigt werden. Dort werden zwischen Stoff und Körper Hohlräume verbleiben.
+
+8. Taillennähte geschwungen formen.
+
+9. Hier sind zwei gelegte Falten zwischen den Brüsten gezeichnet, die nach oben gelegt werden. Der Falteninhalt wird somit nach unten liegen.
+
+Anstatt der Falten kann die Abnäherfläche auch gekräuselt werden. Dann müsste sich die Kräuselfläche allerdings über einen größeren Bereich erstrecken, damit die Öffnungsfläche komplett gekräuselt werden kann (ggf. im Bereich zwischen den Pfeilen).
+
+Alternativ können auch Teilungsnähte gestaltet werden, in die der Brustabnäher aufgenommen werden kann.
+
+□3 In den Oberteil-Grundschnitt die Arm und Halsausschnitte sowie die Reduzierflächen einzeichnen
+
+### Beschriftungen innerhalb der Zeichnungen
+
+- □2: `hM`, `½`, `½ TrB`, `TrB`, `vM`, `SN`, `hÄP`; Schrittkreise `1` bis `5`.
+- □3: `hM`, `vM`, `SN`, `Übertragen`, `messen`; Schrittkreise `1` bis `9`.
+
+### Sachliche Zeichnungsbeschreibung (nicht Buchwortlaut)
+
+- □2 zeigt die Konstruktion des Nacken-Trägers am RT mit den Breitenangaben `½ TrB` und `TrB`. Der Träger wird vom RT an das VT angelegt; die Übertragung und Messung sind durch Pfeile bezeichnet.
+- Am VT wird der spitze Halsausschnitt bis zwischen die Brüste geführt. Brustansatz-Kreis und Reduzierflächen sind um den BrP und zu Hals-, Arm- und Seitennaht eingezeichnet. Am RT ist die Ausschnittkante zunächst gerade zur hM dargestellt.
+- □3 zeigt die geschlossenen Reduzierflächen am Hals- und Armausschnitt, an der Seitennaht und am RT. Die RT-Ausschnittkante verläuft gerade und rechtwinklig zur hM.
+- Am VT sind zwei Falten zwischen den Brüsten eingezeichnet. Die obere und untere Strecke der Öffnung an der vM sind gleich lang dargestellt; Pfeile kennzeichnen den möglichen erweiterten Kräuselbereich. Die Taillennähte sind geschwungen.
+
+---
+
+## Abschlusskontrolle: UNLESBAR-, Buchfehler- und Zweifelsstellen
+
+### UNLESBAR
+
+- Keine nach zweimaliger Kontrolle der Originalfotos verbleibenden `UNLESBAR`-Stellen.
+
+### Buchfehler und widersprüchliche Angaben
+
+- **S. 418, Schritt 10:** Der Originaltext lautet: „Beim RT ist der Taillenabnäher komplett geschlossen worden. Da die Reduzierfläche bei P8 fast bis an den Halsausschnitt reicht. Der Drehpunkt ist am Ausschnitt; diesen noch formen.“ Der mit „Da“ beginnende Satz ist im Buch als grammatisch unvollständiges Satzfragment gedruckt. Er wurde nicht korrigiert.
+- Keine rechnerischen Widersprüche in den erfassten Zahlen oder Formeln festgestellt.
+
+### Zweifelsstellen und auffällige, wörtlich übernommene Angaben
+
+- **S. 370:** Der Querverweis `Hemdblusen-Form ... 243` ist auf dem Foto als `243` erkennbar und wurde trotz der auffälligen Reihenfolge gegenüber den folgenden Verweisen wörtlich übernommen; er wird hier nicht als Buchfehler bewertet.
+- **S. 415, □5/□6:** Die sehr kleinen Zeichnungsbeschriftungen `Dach` und `Abl legen` wurden in Originalauflösung und in gedrehten Ausschnitten kontrolliert und entsprechend der sichtbaren Schreibweise übernommen.
+- **S. 416:** Die Formel `½ BrB – 2 cm` sowie die Werte `1,5 cm`, `2,5 cm` und `0,5 bis 0,7 cm` wurden jeweils zweimal gegen das Originalfoto geprüft.
+- **S. 418, Schritt 8:** Der Bereich `0 bis 1 cm` wurde zweimal gegen das Originalfoto geprüft.
+
+Claude-Rohtranskription – noch nicht bildweise durch Codex geprüft und noch nicht fachlich freigegeben.

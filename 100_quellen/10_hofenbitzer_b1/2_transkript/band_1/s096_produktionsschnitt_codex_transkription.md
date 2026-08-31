@@ -1,0 +1,50 @@
+## Seite 96
+
+### Originaltext
+
+**Rockfutter (1)**  
+**für engen Rock mit verdecktem Schlitz**
+
+Dieser schmale und eingestellte Rock mit einem Formbund, der seitlich mit einem Reißverschluss geschlossen wird, hat einen verdeckten Schlitz in der hM und wird gefüttert.
+
+In □1 sieht man die Rückansicht mit dem eingenähten Futter am geöffneten Schlitz.
+
+In □2 sieht man am gewendeten Rock das Rückteil-Futter mit Schlitz und seitlichem Reißverschluss, der bis zur oberen Rockkante schließt.
+
+**1 Rock-Abwandlung**
+
+□4 Die violette Fläche symbolisiert die sichtbare Fläche des Oberstoffs, die grüne Fläche die des Futters. Die gelbe Fläche ist der Innenbund.
+
+1. Rocklänge bestimmen, Seitennaht einstellen.
+2. Die Weite der oberen Rockkante reduzieren und den Bund einzeichnen (siehe Seite 52).
+3. Schlitzeinschlag an der hM für den Rock aus Oberstoff anzeichnen.
+4. Da der Schlitzeinschlag des Übertritts nach innen gebügelt wird, muss er für das Futter nach innen gespiegelt und entfernt werden.
+5. Den Futtersaum um 2 cm kürzen.
+
+**2 Schnittteile aus Oberstoff**
+
+□5 Zur Fertigstellung der äußeren Schnittteile siehe Seite 52.
+
+6. Für den Reißverschluss erfolgen keine weiteren Veränderungen.
+
+Rockteile mit dem Schlitzeinschlag, NZg, SaEs, Briefecken-Naht, Markierungen und Beschriftungen fertig stellen.
+
+**3 Beleg und Futter**
+
+□7 Für die Taillenbelege ist die Weiten- und Breitenreduzierung ab Seite 57 beschrieben.
+
+7. An der SN vom Futter verschiebt man die Futteransatznaht am RV-Schlitz um ca. 0,5 cm nach innen, weil das Futter neben den an der hM befindlichen Zähnchen auf das RV-Band genäht wird (siehe Seite 59).
+
+[BUCHWIDERSPRUCH: Der Rock wird laut Einleitung seitlich mit RV geschlossen und Schritt 7 beginnt mit der SN; derselbe Satz nennt danach Zähnchen „an der hM“.]
+
+### Bildnummern, Bildunterschriften und Zeichnungsbeschriftungen
+
+- □1 **Rock mit Formbund und verdecktem Schlitz (Rückansicht)**
+- □2 **Hinteres Rockfutter mit verdecktem gefüttertem Schlitz (gewendet)**
+- □3 **Detailansicht des verdeckten Schlitzes von innen**
+- □4 **Enger Rock mit verdecktem Schlitz an der hinteren Mitte**
+- Beschriftungen: `Formbund`; `Futter`; `Untertritt`; `Übertritt`; `Am Übertritt fällt die Fläche des eingeschlagenen Schlitzeinschlags für das Futter weg`; `Futter um 2 cm kürzen`; `Enger Rock VT`; `Enger Rock RT`; vM; hM; SN; RV.
+
+### Eigene sachliche Bildbeschreibung – nicht Buchtext
+
+Die Modellbilder zeigen den verdeckten Schlitz von außen, im gewendeten gefütterten Rock und vergrößert von innen. Die Konstruktion trennt den gelben Formbund von der grünen Futterfläche. Am RT ist der Übertritt-Schlitzeinschlag nach innen gespiegelt und aus dem Futter entfernt; der Untertritt bleibt für die andere Futterseite erhalten. Der Futtersaum wird parallel um 2 cm angehoben. Die Oberstoffteile erhalten Schlitz-, Saum- und Briefeckeninformationen; die Beleg-/Futterentwicklung wird auf Seite 97 fortgesetzt.

@@ -1,0 +1,84 @@
+## Seite 537
+
+### Originaltext
+
+**Konstruktionstabelle Oberteil**  
+**alle Maßangaben in cm**
+
+Formularfelder: `Name`, `Datum`, `Modell`, `Größe`.
+
+**Hauptmaße (Kennmaße)**
+
+| Abkürzung | Bezeichnung | Formular-/Rechenfelder |
+|---|---|---|
+| KöH | Körperhöhe | Körpermaße |
+| BrU | Brustumfang | Körpermaße + Zugaben = BrW; anschließend ½ |
+| TaU | Taillenumfang | Körpermaße + Zugaben = TaW; anschließend ½ |
+| HüU | Hüftumfang | Körpermaße + Zugaben = HüW; anschließend ½ |
+| AlT | Armlochtiefe | Körpermaße + Zugaben = AlT+ |
+| HüT | Hüfttiefe | Körpermaße |
+| BrT | Brusttiefe (ab Schulter) | Körpermaße |
+| MoL | Modelllänge | Formularfeld |
+| HlB | Halslochbreite | Formularfeld |
+
+**Proportionsmaße (Konstruktions-, Kontrollmaße)**
+
+| Abkürzung | Bezeichnung / Feld |
+|---|---|
+| RüB | Rückenbreite (½) |
+| ArD | Armdurchmesser |
+| BrB | Brustbreite (½) |
+| Kontrolle | `Σ = ½ BrU` |
+| Rechenfelder | `RüB+`, `ArD+`, `BrB+`, `¼`, `⅓`, `½ BrW` |
+| SuB | Schulterbreite; Rechenfeld `SuNL` |
+| hSuNL | hintere Schulternahtlänge; `SuNL + Einhalteweite 0,5 cm bis 1 cm`; Rechenfeld `hSuNL` |
+| SuWI | Schulterwinkel (in Grad, °); `- Auflockerung`; Rechenfeld `SuWi` |
+
+**Balancemaße**
+
+| Abkürzung/Formel | Bezeichnung / Formularfeld |
+|---|---|
+| RüL | Rückenlänge (waagerechte Taille); Korrekturen `±`; Konstruktionsmaß `= RüL` |
+| VL | Vorderlänge (waagerechte Taille); Korrekturen `±`; Konstruktionsmaß `= VL` |
+| Differenz `VL - RüL =` | individuelle Balance `=` |
+| Bal | optimale Balance aus Maßtabelle |
+|  | korrigierte Balance `=` |
+
+**Optimale und korrigierte Balance müssten jetzt sehr ähnlich sein. (± 1 cm Toleranz, nur wenn kein Figurproblem zu beobachten ist)**
+
+Weitere Konstruktionsmaße/Formularfelder:
+
+- `oBrB` – Oberbrustbreite (½)
+- `oBrA` – Oberbrustabstand
+- `uBrU` – Unterbrustumfang (½)
+- `uBrA` – Unterbrustabstand
+- `TaAf` – Taillenausfall; `gemessene TaB - ½ TaW =`
+- `HüFb` – Hüftfehlbetrag; `gemessene HüB - ½ HüW =`
+- **Diese Berechnungen werden erst im Laufe der Konstruktion vorgenommen.**
+- **Mehrweite im Armloch:** `vAlU + hAlU - AraU =`
+- **Sollwert der Mehrweite:** `= 2 · Zugabe zur AlT (Toleranz +2 cm bis -1 cm) =`
+- **Nur bei Oberteilen mit Brustabnähern**
+- Randhinweis: **Alle Formulare sind auch unter folgendem Link zu finden: www.europa-lehrmittel.de/62369**
+
+**Zugabentabelle für Oberteil-Konstruktionen**  
+**alle Maßangaben in cm**
+
+| Passform-Klasse | BrU | TaU | HüU | AlT | RüB | ArD | BrB | BrPA | SuB |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 0 | 0 | 0 | 0 | 0–0,5 | 0 | 0 | 0–0,4 | 0–0,2 | 0 |
+| 1 | 2 | 0–2 | 0–2 | 0,2–0,7 | 0,1 | 0,3 | 0,6 | 0,3 | 0,1 |
+| 2 | 4 | 2–4 | 2–4 | 0,5–1 | 0,3 | 0,9 | 0,8 | 0,4 | 0,2 |
+| 3 | 6 | 4–6 | 4–6 | 1,3 | 0,5 | 1,5 | 1 | 0,5 | 0,3 |
+| 4 | 8 | 4–8 | 4–8 | 1,7 | 0,8 | 2 | 1,2 | 0,6 | 0,4 |
+| 5 | 10 | 8–12 | 6–8 | 2,1 | 1,1 | 2,5 | 1,4 | 0,7 | 0,5 |
+| 6 | 12 | 8–16 | 6–10 | 2,5 | 1,4 | 3 | 1,6 | 0,8 | 0,6 |
+| 7 | 14 | 12–16 | 8–12 | 3 | 1,6 | 3,6 | 1,8 | 0,9 | 0,7 |
+| 8 | 16 | 12–20 | 8–16 | 3,5 | 1,8 | 4,2 | 2 | 1 | 0,8 |
+| 9 | 18 | 12–20 | 10–20 | 4 | 2 | 5 | 2 | 1 | 0,9 |
+| 10 | 20 | 16–24 | 10–24 | 4,5 | 2,2 | 5,8 | 2 | 1 | 1 |
+
+Tabellenkopfbeschriftungen: `Zugaben (für den ganzen Schnitt)` für BrU, TaU, HüU und AlT; `BrW-Zugaben (für ½ Schnitt)` für RüB, ArD und BrB.
+
+### Eigene sachliche Bildbeschreibung – nicht Buchtext
+
+Die Seite ist ein ausfüllbares Konstruktionsformular. Körpermaße, Zugaben, resultierende Weiten-, Proportions- und Balancemaße stehen in getrennten, farbig hinterlegten Blöcken. Pfeilförmig angeordnete Felder führen von Körpermaß und Zugabe zu Konstruktions- beziehungsweise Kontrollmaß. Eine kleine Schemazeichnung zeigt VT und RT mit den zugehörigen senkrechten Längen und waagerechten Breiten. Im unteren Drittel steht die Zugabentabelle nach Passformklasse 0 bis 10.

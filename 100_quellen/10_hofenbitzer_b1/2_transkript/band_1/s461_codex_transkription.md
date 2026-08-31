@@ -1,0 +1,97 @@
+## Seite 461
+
+Quelle: `../../Photos-3-001 4/Photos-3-001 (3)/20260619_145451.jpg`
+
+Sichtbare Buchseitenzahl: **461**.
+
+### Originaltext
+
+Randregister: **Miederkorsage**
+
+**Miederkorsage (2)**
+
+#### 3 Ausschnittkante und Saumkante formen
+
+⑭ **☐4** Alle Schnittteile an den oberen und unteren 3 cm der Nähte aneinander legen. An der Taille bzw. am Brustpunkt müssen die Schnittteile exakt in der Höhe aneinander passen.
+
+⑮ Die Ausschnitt- und die Saumkanten in schönem Verlauf neu formen.
+
+**☐4 Ausschnitt und Saumkante formen**
+
+Zeichnungsbeschriftungen in ☐4:
+
+- `VT`
+- `sVT`
+- `sRT`
+- `RT`
+- `vM`
+- `SN`
+- `hM`
+- Konstruktionsmarken `⑭` und `⑮`
+
+#### 4 Schnürung am RT
+
+**☐6** Bei einer Schnürung am RT soll dort eine mehr oder weniger große Öffnung an der hM verbleiben. Die Weite der Korsage lässt sich dadurch besser regulieren.
+
+⑯ Man kann hierzu an der hM ca. 0,5 bis 1,5 cm abtrennen, so dass sich eine Lücke von bis zu 3 cm öffnet.
+
+⑰ Die gewünschte Anzahl Schnürlöcher ca. 1 cm von der Kante entfernt markieren. Je mehr Schnürlöcher, desto weniger Belastung entsteht an jedem einzelnen Schnürloch.
+
+#### 5 Untertritt-Teil
+
+**☐6** Wenn gewünscht, kann unter der Schnürung ein Untertritt-Teil (UT) an eine Seite gearbeitet werden, damit man die Haut nicht durch die Schnürung sieht. Dadurch wäre auch ein unter der Korsage getragener Rock verdeckt.
+
+⑱ Für das UT das fertige (mittlere) RT kopieren und eine Ansatznaht ca. 1 cm von den Schnürlöchern entfernt anzeichnen.
+
+⑲ An der ursprünglichen hM das RT gespiegelt, jeweils oben und unten anlegen.
+
+⑳ Dadurch wird der obere und untere Kantenverlauf sichtbar.
+
+㉑ Die Breite des UT so einzeichnen, dass die Schnürkanten gut bedeckt sind. Die Abschlusskanten steil abschrägen, da die UT-Kante an der Taille noch durch Dehnen länger wird.
+
+㉒ Das UT im schrägen FL zuschneiden, an der Taille dehnen und verstürzen und dann
+
+㉓ an die Ansatznaht, zwischen hinterem Beleg und RT-Futter annähen.
+
+**☐6 Rückteil für Schnürung und Untertritt-Teil**
+
+Zeichnungsbeschriftungen in ☐6:
+
+- `0,5 bis 1,5 cm`
+- `1 cm` (zweimal)
+- `Schnürkanten`
+- `Ansatznaht`
+- `RT`
+- `UT 2×-p`
+- `hM`
+- Konstruktionsmarken `⑯` bis `㉓`
+
+#### 6 Produktionsschnitt
+
+**☐7** Es gibt die verschiedensten Varianten, Korsagen zu fertigen, wobei jede Variante eines speziellen Zuschnitts bedarf. Hier ist eine einfache Verarbeitungsvariante dargestellt.
+
+Die grünen Flächen sind Oberstoff- und Futterflächen. Das Futter ist hier nicht separat dargestellt.
+
+**☐7 Produktionsschnittteile**
+
+Zeichnungsbeschriftungen in ☐7:
+
+- `VT 2×-p`
+- `sVT 2×-p`
+- `sRT 2×-p`
+- `RT 2×-p`
+- `hBe 2×-p`
+- `vM`
+- `SN`
+- `hM`
+- `BrP`
+- Konstruktionsmarke `㉓`
+- Fadenlaufpfeile in den Schnittteilen
+- gestrichelte Nahtlinien und eingezeichnete Schnürlöcher am RT
+
+### Eigene sachliche Bildbeschreibung
+
+- ☐4 zeigt Vorder- und Rückteilschnittteile fächerförmig aneinandergelegt. Oben und unten liegen jeweils ungefähr 3 cm der Nahtkanten zusammen; durchgehende rote Linien gleichen Ausschnitt- und Saumkante aus.
+- In ☐6 wird an der hM ein schmaler Streifen abgetrennt. Eine Reihe Schnürlöcher liegt etwa 1 cm von der Schnürkante entfernt.
+- Das Untertritt-Teil entsteht aus dem mittleren RT: Die hM wird oben und unten gespiegelt angelegt, damit sich oberer und unterer Kantenverlauf übertragen lassen. Die Abschlusskanten des UT laufen steil schräg zusammen; der Fadenlauf ist schräg eingezeichnet.
+- ☐7 zeigt fünf Produktionsschnittteile mit Nahtzugaben: VT, sVT, sRT, RT und hinterer Beleg. Die grünen Flächen kennzeichnen Oberstoff- und Futterflächen; am RT sind die Schnürlöcher, am hBe die zugehörige schmale Belegform eingezeichnet.

@@ -1,0 +1,68 @@
+## S.185
+
+**Quellfoto:** `hofenbitzer/band_1/Photos-3-001 3/Photos-3-001 (2)/20260618_185613.jpg`
+
+**Vertikaler Reiter (rechter Rand, rot):** „Taillierter Oberteil-Grundschnitt"
+
+**Überschrift:** Taillierter Oberteil-Grundschnitt mit Hüftausfall (2) — Taillierung, Hüfte und Seitennähte
+
+**Abschnitt ⓬ Aufteilung des Taillenausfalls — „Hier:“:**
+
+| Bereich (Vorgabe) | Element | Wert |
+|---|---|---|
+| 0 bis 2 cm | SN (2 × 1 cm) | 2,0 cm |
+| 1 bis 3 cm | shAbl | 2,0 cm |
+| 2 bis 4 cm | hAbl | 2,8 cm |
+| Σ = Kontrolle TaAf | | 6,8 cm |
+
+**Abschnitt ⓭ Hintere Taillenabnäher:**
+
+> ㊴ Taillierung an der Seitennaht,
+> ㊵ den seitlichen hinteren Abnäher (shAbl) sowie
+> ㊶ den hinteren Abnäher (hAbl) zur BrL und nach unten zeichnen.
+
+**Abschnitt ⓮ Hüftausfall im VT:**
+
+> Bei diesem Schnitt wird ein Hüftausfall (HüAf) – eine besondere Art des Abnäherinhalts – bis zum Saum gezeichnet, da ansonsten das Vorderteil im Bereich der Hüfte zu weit wäre.
+>
+> **Hüftausfall (HüAf) = vAbl − 2 cm = 3,2 cm − 2 cm = 1,2 cm**
+>
+> ㊷ Den HüAf senkrecht bis zur Saumlinie zeichnen.
+>
+> Ist der Hüftausfall kleiner als 0,5 cm, wird er nicht gezeichnet. Liegt er zwischen 0,5 und 1 cm kann er ggf. vernachlässigt werden. Entsteht bei der Berechnung ein Minusbetrag, wird kein Hüftausfall gezeichnet. In allen diesen Fällen entsteht der taillierte Oberteil-Grundschnitt ohne Hüftausfall auf Seite 186.
+
+**Abschnitt ⓯ Hüft-Fehlbetrag (HüFb):**
+
+> ㊸ vHüB und hHüB (ohne Hüftausfall) messen, addieren = HüB und in der Konstruktionstabelle (siehe rechts) den HüFb berechnen.
+>
+> **Hüft-Fehlbetrag (HüFb) = HüB − ½ HüW = 44,9 cm − 50,5 cm = −5,6 cm → 5,6 cm ; ½ = 2,8 cm**
+>
+> Beträgt der Hüft-Fehlbetrag weniger als 2 cm, ist die HüU unterproportional. Beträgt der HüFb mehr als 8 cm, ist der HüU überproportional. In beiden Fällen könnte es sich um ein Figurproblem handeln (siehe Band 2).
+>
+> ㊹ Jeweils den halben HüFb (hier 5,6 cm : 2 = 2,8 cm) an den Seitenlinien in Hüfthöhe ausstellen.
+> ㊺ Hüftbögen formen und die Seitennähte weiter senkrecht nach unten zur Saumlinie zeichnen.
+
+**Kasten „Kontrolle der Oberbrustbreite":**
+
+> ㊻ Die Strecke zwischen vM und Armloch messen und mit der halben Oberbrustbreite vergleichen. Bei unerwünschter Mehrweite kann diese dort z.B. durch eine Englische Naht reduziert werden (siehe S. 376).
+
+**Kasten „Kontrolle des Armlochumfangs":**
+
+> Beide Armlochkurven messen und addieren, am Körper den gemessenen Armansatzumfang (AraU) abziehen. Die Differenz ist die Mehrweite im Armloch. Sie sollte mindestens dem ein- bis zweifachen der Zugabe zur AIT entsprechen (siehe Konstruktionstabelle unten).
+
+**Berechnungstabellen (rechts unten):**
+
+| Kürzel | Bezeichnung | Wert | − | Wert | = | Ergebnis |
+|---|---|---|---|---|---|---|
+| TaAf | gemeinsame TaB | 42,8 | − ½ TaW | 36 | = | 6,8 |
+| HüFb | gemeinsame HüB | 44,9 | − ½ HüW | 50,5 | = | −5,6 |
+
+| Mehrweite im Armloch | vAlU 22,5 | + hAlU 24,8 | − AraU 44,5 | = 2,8 |
+|---|---|---|---|---|
+| Sollwert der Mehrweite | = 2 · Zugabe zur AIT | (Toleranz +2 cm bis −1 cm) | | = 2,6 |
+
+**Bildunterschrift:** □8c Taillierung, Hüftausfall und Hüftbögen
+
+**Abbildung — Konstruktionszeichnung (VT und RT):** Beschriftet „Taillierter Oberteil-GS / Größe 38 (TaU 68 cm) / PK 3" sowie „Konstruktionstabelle hier aufbewahren". Beschriftungen u.a.: „Doppelknips an hAP 1 cm nach oben markieren", „Zum Nähen des Abnähers wird er auf ca. 10 cm gekürzt", „hintere Abnähermitte", „jeweils 0 bis 2 cm", „1 cm", „2,8 cm", „ca. 12 cm", „ca. 12 bis 14 cm", „ca. 14 bis 16 cm", „SN", „vHüB", „hHüB", „vAbl", „shAbl", „hAbl", „HüAf"; Linien Seitenlinie, hintere Armlinie, vM, hM, Saumlinie.
+
+**Seitenzahl (unten):** 185

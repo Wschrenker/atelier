@@ -11,6 +11,7 @@ Inhalten. Nur angekreuzte Dateien werden geladen.
 - [x ] `20_abkuerzungen_koerperbereiche.md`
 - [ x] `30_abkuerzungen_schnittbereiche_begriffe.md`
 - [x ] `40_abkuerzungen_koerpermasse_konstruktionsmasse.md`
+- [x ] `50_abkuerzungen_aus_formeln_band_1_geprueft_v1.md`
 - [x ] `sachwortverzeichnis.md`
 
 ## Status

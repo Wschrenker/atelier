@@ -1,0 +1,54 @@
+# Seite 35
+Foto: `Photos-3-001 2/20260617_160234.jpg`
+
+**Kopfzeile:** „… Rock / Abnäher positionieren" — Seitenreiter: „Gerader Rock / Rückteil mit zwei Abnähern"
+
+## Abschnitt „6 Rückteil mit zwei RT-Abnähern"
+> Da hier der Betrag für den hinteren Abnäher mehr als 4,5 cm beträgt, muss der Betrag auf zwei Abnäher
+> im Rückteil aufgeteilt werden.
+>
+> (19) ☐7 Der Inhalt des 2. h. Abnähers sollte ca. 0,5 bis 1 cm geringer sein als der Inhalt des
+>      (hinteren) 1. RT-Abnähers.
+> (20) Die Abnähermitte des 1. h. Abnähers liegt bei ⅓ der Hüftlinie + 0 bis 1 cm von der hM nach links
+>      abgetragen.
+> (21) Die Erhöhung der Taillenlinie für den 2. h. Abnäher erfolgt wie für den vorderen Abnäher. Die
+>      Abnähermitte liegt in der Mitte zwischen Hüftbogen und Abnäherschenkel des 1. h. Abnähers.
+
+## Hüftabstich-Tabelle (Variante zwei hintere Abnäher)
+| Position | Regel | Wert |
+|---|---|---|
+| Hüftabstich | ½ TaAf ± 1 | 6 |
+| v. Abnäher | 0 oder 1,5 bis 2,5 | 1,5 |
+| 1.h. Abnäher | bis 4,5 | 3 |
+| 2.h. Abnäher | optional | 2,5 |
+| Kontrolle: | Σ = TaAf | 13 |
+
+> Man kann prinzipiell immer zwei Abnäher im Rückteil zeichnen, da es stets möglich ist, einen Abnäher
+> in mehrere schmale Abnäher aufzuteilen, sofern die Summe der Abnäherinhalte gleich bleibt.
+
+**Bildunterschrift ☐6:** „Abnäherinhalte und Hüftabstich für eine Figur mit eher flachen Hüften und
+kräftigem Gesäß (Grün ☐4)" [letzte Klammer „(Grün ☐4)" wörtlich so gelesen, Sinn ggf. „(Grün)"]
+
+## Abschnitt „7 Schnitt fertig stellen"
+> (22) ☐8 Die Taillennaht wird nach unten geschwungen ausgezeichnet.
+>      ☐9 Das Bild zeigt die Formung der Taillennaht bei zwei hinteren Abnähern.
+> (23) Durch das Trennen von vorderem und hinterem Schnittteil erhält man die beiden Teile des
+>      Rock-Grundschnitts.
+
+## Abschnitt „8 Alternative Seitennaht- und Abnähergestaltung"
+> (24) ☐9 Die Seitennaht kann an der erhöhten Taillenlinie um ca. 0,5 cm nach vorne verschoben werden.
+>      Dies ergibt am Körper oft einen geraderen Verlauf der Seitennaht zur Taille.
+> (25) Die Abnäherspitzen im VT und ggf. auch der des seitlichen Abnähers im RT können um 0,5 cm zur
+>      Seitennaht verschoben werden. Die verschobenen Abnäher verlaufen somit etwas harmonischer
+>      („optisch paralleler") zur Seitennaht.
+> (26) Die Längen der neuen Abnäher-Schenkel müssen identisch sein. Der kürzere Schenkel ist zu
+>      verlängern.
+
+## Zeichnungs-Beschriftungen
+- ☐7 „Konstruktion von zwei RT-Abnähern"
+- ☐8 „Verlauf der Taillennaht bei einem RT-Abnäher"
+- ☐9 „Verlauf der Taillennaht bei zwei RT-Abnähern / Alternative SN- und Abnäherlagen"
+- Maße im ☐7: „TaU : 10", „1,5 cm", „6 cm", „2,5 cm", „½", „½ wie bei P10", „½ wie nach P10",
+  „8 bis 10 cm", „1 bis 1,5 cm", „12 bis 14 cm", „13 bis 16 cm"; Markierungen „⅓", „⅔",
+  „⅓ + 0 bis 1 cm"; Kürzel vM, SN, hM; „2. h. Abnäher"
+- Maße im ☐9: „0,5 cm" (mehrfach), „messen", „übertragen"; Kürzel vM, SN, hM; Schere-Symbole (Schnittlinie)

@@ -1,0 +1,37 @@
+## Seite 387
+
+Quelle: `../../Photos-3-001 4/Photos-3-001 (3)/20260619_144550.jpg`
+
+Sichtbare Buchseitenzahl: **387**. Das Originalfoto liegt seitlich; für die Sichtprüfung wurde es temporär um 90° gedreht.
+
+### Originaltext
+
+Randregister: **Prinzess-Form** / **Wiener Naht**
+
+**Wiener Naht am taillierten Oberteil-Grundschnitt (6)**  
+**mit Abnäherverschiebung und Geradestellung der hM**
+
+**☐3 Modellschnitt**
+
+⑫ Zur Behandlung des Schulterabnähers im RT siehe Seite 383.
+
+Wie dort beschrieben, zum Schulterabnäher einschneiden, diesen zulegen und die Naht über die Öffnung neu formen. In diesem Bereich wird die Naht eingehalten.
+
+Damit der Einhaltebetrag an der Naht nicht zu groß ist, wird bei dieser Variante wird der Schulterabnäher nicht komplett zugelegt. `[BUCHFEHLER: Das Wort „wird“ steht im Druck doppelt.]` Der verbleibende Restabnäher in der Schulter wird eingehalten oder ggf. am Armloch entfernt.
+
+⑬ Das seitliche VT vom BrP zur Seitennaht einschneiden und mindestens den Öffnungsbetrag des VT am BrP öffnen, siehe vorhergehende und Seite 377.
+
+Zeichnungsbeschriftungen:
+
+- `0 bis 0,7 cm öffnen`
+- `neue Hüftlinie`
+- `VT`, `sVT`, `sRT`, `RT`, `vM`, `hM`, `SN`
+- `BrP`, `vÄP`, `hÄP`
+- Konstruktionsmarken `12`, `13`
+
+### Eigene sachliche Bildbeschreibung
+
+- Die Seite zeigt die getrennten Modellteile der auf S.386 entwickelten Variante: mittleres/seitliches Vorderteil und seitliches/mittleres Rückenteil.
+- Am seitlichen Vorderteil wird vom BrP zur Seitennaht eingeschnitten. Die neue Öffnung am BrP entspricht mindestens dem zuvor erzeugten Öffnungsbetrag von 0 bis 0,7 cm.
+- Am Rückenteil ist der Schulterabnäher nur teilweise zugelegt. Die daraus entstehende Öffnung wird in der oberen Teilungsnaht geformt; der verbleibende Mehrbetrag wird zwischen den Knipsen eingehalten oder am Armloch entfernt.
+- Die hM ist gerade und ohne Naht; die neue Hüftlinie ist als waagrechte Bezugslinie durch sRT und RT gekennzeichnet.

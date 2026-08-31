@@ -1,0 +1,32 @@
+## Seite 69
+
+### Originaltext
+
+**Bahnenrock mit angeschnittenen Godets**  
+**Modellentwicklung aus dem 10-Bahnenrock (2)**
+
+Bei diesem Modell wird an allen Nähten jeweils ein mittelhohes Godet mit geringer Weite angeschnitten. Ein angeschnittenes Godet fällt, je nach Verarbeitung der Nähte, im Gegensatz zu einem eingesetzten Godet eher nach außen. Die Teilungsnähte werden hier komplett flach gebügelt, so dass der Saum weit schwingend fällt.
+
+1. Die Godethöhe markieren und am Saum den gewünschten Ausstellbetrag an allen Nähten anzeichnen. Der Ausstellbetrag entspricht der halben Godet-Weite.
+2. Die mit gegenläufiger Schraffur markierten Überschneidungsflächen der Godets gehören zu beiden jeweils benachbarten Schnittteilen. Sie bilden die gesamte Godet-Fläche.
+
+Wenn an der vM und der hM keien Naht ist, kann dort kein Godet angezeichnet werden.
+
+[BUCHFEHLER: keien steht so im Druck.]
+
+3. Alle Ecken an der Godethöhe können für einen sanfteren Übergang ausgerundet werden. Für einen klar definierten Glockenbeginn sollten die Ecken so wie abgebildet genäht werden.
+
+Randverweis: **65**
+
+### Bildnummern, Bildunterschriften und Zeichnungsbeschriftungen
+
+- □1 **Zehn-Bahnenrock mit angeschnittenen Godets**
+- □2 **Modellschnittentwicklung des Vorderteils eines Zehn-Bahnenrocks mit angeschnittenen Godets (für das RT identisch entwickeln)**
+- □3 **Produktionsschnitt des Zehn-Bahnenrocks mit angeschnittenen Godets (hier nur die Rückteile dargestellt, die Vorderteile sehen fast identisch aus. Das (RT3 noch spiegeln.)**
+- Beschriftungen: Godethöhe, vM, hM, SN, RV, 10-Bahnen-Rock VT 1, VT 2, VT 3, RT 1, RT 2, RT 3, 1, 2.
+
+[BUCHFEHLER/DRUCKUNSICHERHEIT: Die Klammerung Das (RT3 noch spiegeln.) ist im Foto in dieser widersprüchlichen Form sichtbar.]
+
+### Eigene sachliche Bildbeschreibung – nicht Buchtext
+
+Von jeder markierten Godethöhe wird die Naht zum Saum nach außen erweitert. Der Ausstellbetrag einer Bahn ist die halbe Godetweite. Die gegenläufig schraffierten Hälften zweier benachbarter Bahnen ergänzen sich zum ganzen Godet; ihre gemeinsame Teilungsnaht verläuft mittig. Die Konstruktion zeigt kantige Übergänge und die mögliche Ausrundung an der Godethöhe.

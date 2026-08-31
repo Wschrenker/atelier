@@ -1,0 +1,74 @@
+## Buchseite 429
+
+**Originalfoto:** `20260619_145003.jpg`
+
+### Originaltext
+
+# Belege und Einschläge mit Futterentwicklung (1)
+
+### Beleg und Einschlag konstruieren
+
+□2-7 Belege und Einschläge sind am Kleidungsstück innen liegende Stoffflächen aus Oberstoff, die die Ausschnittkanten sichern und verblenden.
+
+**Der Beleg wird angenäht (verstürzt), während der Einschlag an der Kante nach innen gebügelt wird. Der Beleg darf von außen nicht sichtbar sein.**
+
+Hier ist die Passform-Optimierung von Seite 418 nicht gezeigt - aber möglich.
+
+### 1 Belege einzeichnen
+
+① □2 Die Belege parallel zu den Ausschnittkanten formen. Belegbreiten sind 3 bis 5 cm.
+
+② An der Schulter werden ca. 0,2 cm reduziert.
+
+③ Am unteren Armloch an der SN bis zu 0,4 cm reduzieren.
+
+□1 Vorderteil mit engem V-Ausschnitt
+
+□2 Ausschnitte und separate Belege für Arm- und Halsausschnitt
+
+□3 Produktionsschnitt des VT
+
+□4 Produktionsschnitte der Belege mit Reduzierung der Weite nur an der Ausschnittkante
+
+□5 Variante für elastische Materialien: Belege mit paralleler Reduzierung
+
+### 2 Belege optimieren
+
+④ □4 Je nach Material kann es günstiger sein, die Länge der Belege in ca. der Mitte des Ausschnitts um bis zu 0,3 cm zu reduzieren. Nähte formen.
+
+⑤ □5 Bei elastischen Materialien ist es sinnvoll, die Länge der Belege je nach Elastizität des Materials parallel um bis zu 0,5 cm zu reduzieren.
+
+### 3 Verbundener Beleg
+
+⑥ □6 Die beiden oben entwickelten Belege können auch zu einem Schnittteil verbunden werden.
+
+⑦ Zusätzlich zur Schulter sind an den Ausschnittkanten hier ca. 0,2 cm und bis zu 0,4 cm an der SN reduziert.
+
+### 4 Futterentwicklung
+
+⑧ Futterfläche ist alles, was innen nicht Beleg oder Einschlag ist. Für das Futter wird die ursprüngliche SN verwendet.
+
+⑨ Der geformte Abnäher wird als aufspringender Abnäher gearbeitet. Dies ergibt ausreichend Weite an der Brust.
+
+□6 Entwicklung + Modellschnitt für Ausschnitte und verbundene Belege für Arm- und Halsausschnitt
+
+□7 Produktionsschnitte vorderer Beleg und VT-Futter
+
+### Zeichnungsbeschriftungen und Maße (Originaltext)
+
+- □1: `Vorderteil mit engem V-Ausschnitt`; Querschnitte: `Futter`, `Oberstoff`, `Beleg`
+- □2: `VT`, `vM`, `SN`, `BrP`, `Beleg`, `ca. 0,2 cm`, `max. 0,4 cm`
+- □3: `VT 1×`, `vM`, `SN`
+- □4: `Ausschnitt-Beleg 1×`, `Armloch-Beleg 2×-p`, `vM`, `SN`, `max. 0,3 cm`
+- □5: `Ausschnitt-Beleg 1×`, `Armloch-Beleg 2×-p`, `vM`, `SN`, `max. 0,5 cm`
+- □6: `VT`, `vM`, `SN`, `BrP`, `Beleg`, `0 cm`, `ca. 0,2 cm`, `max. 0,4 cm`
+- □7: `vorderer Beleg 1×`, `VT-Futter 1×`, `vM`, `SN`
+
+### Sachliche Zeichnungsbeschreibung (nicht Originaltext)
+
+- □2 zeigt einen V-Ausschnitt-Beleg und einen getrennten Armloch-Beleg als parallel zu den Ausschnittkanten verlaufende Flächen. An Schulter und unterem Armloch sind Reduzierungen mit `ca. 0,2 cm` beziehungsweise `max. 0,4 cm` markiert. Der Brustabnäher läuft zum `BrP`.
+- □3 zeigt den Produktionsschnitt des VT mit Nahtzugaben an den Außenkanten und ohne zusätzliche Belegflächen.
+- □4 zeigt separate Produktionsschnittteile für Ausschnitt- und Armloch-Beleg. In der ungefähren Mitte der Beleglänge ist jeweils eine keilförmige Reduzierung bis `max. 0,3 cm` eingezeichnet; die Außenkanten werden danach neu geformt.
+- □5 zeigt dieselben Belegformen für elastische Materialien mit einer parallelen Längenreduzierung bis `max. 0,5 cm`.
+- □6 zeigt Ausschnitt- und Armloch-Beleg als eine verbundene Fläche auf dem VT. Die Reduzierungen liegen an Schulter und Ausschnittkanten; die Schulter ist mit `ca. 0,2 cm`, die SN mit `max. 0,4 cm` bezeichnet.
+- □7 zeigt den aus □6 abgeleiteten `vorderer Beleg 1×` und das verbleibende `VT-Futter 1×`. Im Futter ist der Brustabnäher als geöffnete, aufspringende Form dargestellt.

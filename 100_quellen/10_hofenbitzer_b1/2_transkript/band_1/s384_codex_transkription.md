@@ -1,0 +1,62 @@
+## Seite 384
+
+Quelle: `../../Photos-3-001 4/Photos-3-001 (3)/20260619_144541.jpg`
+
+Sichtbare Buchseitenzahl: **384**. Das Originalfoto liegt seitlich; für die Sichtprüfung wurde es temporär um 90° gedreht.
+
+### Originaltext
+
+Randregister: **Grundformen + Teilungsnähte ...** / **Wiener Naht**
+
+**Wiener Naht am taillierten Oberteil-Grundschnitt (3)**  
+**mit verschobenen und geraden Teilungsnähten**
+
+Querverweise: `185`, `186`.
+
+**☐1 Stark ausgestelltes (saumweites) Modell in Prinzess-Form mit Wiener Nähten.**  
+Aus dem tailliertem OT-GS mit Hüftausfall. `[BUCHFEHLER: Im Druck steht „aus dem tailliertem“ statt „aus dem taillierten“.]`  
+Mit etwas seitlicher verlaufenden Nähten im VT und im RT.
+
+**Konstruktion des taillierten Oberteil-Grundschnitts mit Hüftausfall**
+
+**☐2 Modellentwicklung hier am taillierten Grundschnitt mit Hüftausfall**
+
+① **☐2** Den Nahtbeginn an bzw. oberhalb der Armlochmitten bestimmen (muss an VT + RT nicht identisch sein).
+
+② Wiener Naht rund formen, am VT über den Brustpunkt - sie kann auch bis zu 2 cm seitlich des BrP verlaufen.
+
+③ Oberhalb der Brust bei Bedarf 0 bis 0,7 cm Weite reduzieren.
+
+④ Das vST erhält dabei unterhalb des BrP die typische Brustrundung. Zur Öffnung siehe vorhergehende Seiten.
+
+⑤ Sollen die Nähte weiter seitlich verlaufen, werden der Abnäherinhalt und die Abnähermitten parallel verschoben. An allen Nähten kann die Taillenweite an den Abnähern nach Bedarf verändert bzw. neu bestimmt werden.
+
+⑥ **☐3** Für eine Saumerweiterung kann an allen Nähten am Saum jeweils der identischen Betrag ausgestellt werden. `[BUCHFEHLER: Im Druck steht „der identischen Betrag“ statt „der identische Betrag“.]`
+
+⑦ Am vorderen Hüftausfall jeweils von den (verschobenen) Nähten ausstellen.
+
+⑧ Bei dieser großen Saumerweiterung verlaufen die Teilungsnähte gerade zur Taille. Insgesamt ist auf harmonische Nahtverläufe zu achten!
+
+⑨ An ausgestellten Nähten alle Saumkanten rechtwinkelig zur Naht und sehr leicht rund formen.
+
+⑩ In den Nahtrundungen mittig einen Knips markieren.
+
+⑪ Am VT zum BrP einschneiden und den Abnäher zulegen. Zur Behandlung der Brust- und Schulterabnäher siehe vorhergehende Seiten.
+
+Zeichnungsbeschriftungen:
+
+- `Abnäher und Hüftausfall um denselben Betrag wie oben parallel zur Seite verschieben` (am VT und am RT)
+- `0 bis 0,7 cm öffnen`
+- `Abnäher optional`
+- `Alle Abnäher können für mehr Taillenweite verkleinert oder die seitlichen Abnäher entfernt werden`
+- `VT`, `sVT`, `sRT`, `RT`, `vM`, `hM`, `SN`
+- `BrP`, `vÄP`, `hÄP`
+- Konstruktionsmarken `1` bis `11`, außerdem `½` an der Saumverteilung
+
+### Eigene sachliche Bildbeschreibung
+
+- Die Wiener Nähte werden gegenüber dem Grundschnitt seitlich verschoben. Abnähermitten, Abnäherinhalte und Hüftausfall werden um denselben Betrag parallel mitverschoben.
+- Im VT wird unterhalb des BrP eine Öffnung von 0 bis 0,7 cm vorgesehen; der Brustabnäher wird zum BrP eingeschnitten und in die Teilungsnaht gedreht.
+- Die Saumerweiterung wird an allen Teilungs- und Seitennähten mit identischem Betrag verteilt. Im Vorderteil wird zusätzlich am vorderen Hüftausfall ausgestellt.
+- Das Rückenteil zeigt zwei RT-Abnäher; je nach gewünschter Taillenweite können sie verkleinert oder die seitlichen Abnäher entfernt werden.
+- Die unteren Teilungsnähte verlaufen bei der gezeigten großen Saumweite nahezu gerade zur Taille; die Saumkanten werden an jeder Naht rechtwinklig ausgeformt.

@@ -1,0 +1,26 @@
+## Seite 93
+
+### Originaltext
+
+**Futterrock und Rockfutter (2)**  
+**für weite Röcke**
+
+**Rockfutter, gerade oder ausgestellt mit Seitenschlitzen**
+
+6. Wird das Rockfutter bzw. ein Futterrock aus einer geraden oder ausgestellten Rockform (siehe Seite 32, 46) gearbeitet, sollte für mehr Schrittweite zusätzlich ein offener Schlitz in die Seitennähte gearbeitet werden. Der doppelte Schlitz-Einschlag wird z.B. mit 2 × 2 cm angezeichnet.
+
+**Reißverschluss-Schlitz an der linken Seitennaht**
+
+7. Der Reißverschluss-Schlitz wird an der linken Seitennaht (ggf. auch an der hM, siehe folgende Seiten) berücksichtigt. Da dieser Reißverschluss-Schlitz sich nur an der linken Seitennaht befindet, ergeben sich asymmetrische Schnittteile. Man kann bei einem Einzelzuschnitt diese Veränderung am Reißverschluss-Schlitz auch erst nach dem Zuschnitt vornehmen.
+
+### Bildnummern, Bildunterschriften und Zeichnungsbeschriftungen
+
+- □4 **Gerades Rockfutter unter einem Rock mit Fächerfalte (gewendet)**
+- □5 **Ausgestelltes Rockfutter unter einem Godetrock (gewendet)**
+- □6 **Separater Futterrock unter einem Glockenrock (gewendet)**
+- □7 **Produktionsschnitt für ein ausgestelltes Rockfutter mit offenen Schlitzen in der Seitennaht.**
+- Beschriftungen: `Am RV-Schlitz die Naht um 0,5 cm nach innen verschieben.`; `Hier kommt 1 cm Nahtzugabe hinzu.`; `Das Schlitzende für den RV an der SN um ca. 2 bis 3 cm nach unten verschieben`; `linkes RT-Futter 1× Fu (rechtes RT-Futter ohne verschobene SN und mit 2 cm NZg)`; `VT-Futter 1× Fu`; `linke SN`; `rechte SN`; RV; hM; vM; Saumangaben `2 bis 4 cm` und `1 bis 4 cm`.
+
+### Eigene sachliche Bildbeschreibung – nicht Buchtext
+
+Die drei Modellbilder zeigen gerade, ausgestellte und glockige Futterformen. Der Produktionsschnitt besteht aus VT-Futter und zwei wegen des RV an der linken SN unterschiedlichen RT-Futterseiten. Offene Seitenschlitze besitzen doppelte Einschläge. Am linken RV-Schlitz wird die Futteransatznaht nach innen versetzt und der Schlitz nach unten verlängert. Die Zeichnung gibt separate Saum- und Einschlagbreiten an und kennzeichnet Fadenlauf, vM/hM, SN und RV.

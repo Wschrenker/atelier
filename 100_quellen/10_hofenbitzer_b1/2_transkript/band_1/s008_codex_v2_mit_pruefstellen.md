@@ -1,0 +1,110 @@
+## S.8
+
+Prüfstelle S.8: Alle Tabellen und Sonderzeichen prüfen: `α`, `Σ`, `≙`, Rechenzeichen, Aktionskürzel sowie die Fertigungszeichen im unteren Seitenbereich.
+
+### Abkürzungen und Symbole — Systematik, Eigenschaften, Beträge, Werte, Operanden, Aktionen
+
+#### Systematik der Abkürzungen
+
+- Die Systematik soll es ermöglichen, einfache und verständliche neue Abkürzungskombinationen selber zusammenzustellen.
+- Die Abkürzungen werden gelesen, wie man die Begriffskombinationen spricht.
+- Bei Abkürzungskombinationen werden die Kurzzeichen ohne Zwischenraum oder Punkt verbunden.
+- Doppelte Bedeutungen sind sehr selten und lassen sich durch den Zusammenhang klären: AlT = Armlochtiefe, TB = Taschenbreite, Tb = Taschenbeutel. Abkürzungen für Beträge und Werte, z.B. T = Tiefe, stehen immer am Ende einer Abkürzung.
+- Kombinationen mit ausgeschriebenen Begriffen können durch einen Bindestrich getrennt sein, z.B. Kr-Steg = „Kragensteg“.
+- Ein Bindestrich ersetzt auch eine Präposition oder modale Konjugation, z.B. vM-N = vordere Mitte als Naht oder 2x-p OSt = Zuschnitt von zwei Schnittteilen paarig, also spiegelsymmetrisch, aus Oberstoff.
+- Richtungen, Positionen und Eigenschaften werden durch Kleinbuchstaben symbolisiert, der immer am Anfang einer Abkürzungskombination steht. Ausnahme: „geschlossen“ und „offen“, hier werden zwei Kleinbuchstaben verwendet, z.B. geW = geschlossene Weite.
+- Messbeträge und Werte werden durch einen Großbuchstaben symbolisiert, außer „Radius“ = r, weil mathematisch, und stehen immer am Ende einer Abkürzungskombination.
+- Schnitttechnische Begriffe werden mit einem Großbuchstaben, zwei Großbuchstaben oder mit einem Großbuchstaben plus einem oder zwei Kleinbuchstaben symbolisiert, z.B. N = Naht, OT = Oberteil, Stb = Stoffbruch.
+- Körperbereiche werden mit einem Großbuchstaben plus einem Kleinbuchstaben symbolisiert, z.B. Hl = Halsloch.
+
+#### Eigenschaften / Richtungen und Positionen
+
+| Abkürzung | Bedeutung |
+| --- | --- |
+| a | außen, äußere/r/s |
+| g | gemessen/e/r |
+| h | hinten, hintere/r/s |
+| i | innen, innere/r/s |
+| l | links, linke/r/s |
+| m | mittig, mittlere/r/s |
+| o | oben, obere/r/s |
+| p | paarig, spiegel- bzw. symmetrisch |
+| r | rechts, rechte/r/s |
+| s | seitlich, seitliche/r/s |
+| t | tiefste/r/s |
+| u | unten, untere/r/s |
+| v | vorne, vordere/r/s |
+
+#### Beträge und Werte
+
+| Abkürzung | Bedeutung |
+| --- | --- |
+| A | Abstand |
+| α | Alpha = Gesäßwinkel |
+| B | Breite |
+| D | Durchmesser |
+| F | Faktor, mathematisch |
+| H | Höhe |
+| I | Inhalt |
+| L | Länge |
+| r | Radius, mathematisch |
+| T | Tiefe |
+| U | Umfang |
+| W | Weite |
+| Wi | Winkel |
+| Z | Anzahl |
+| Σ | Sigma = Summe |
+
+#### Operanden
+
+| Zeichen | Bedeutung |
+| --- | --- |
+| + | plus |
+| - | minus |
+| : | geteilt durch |
+| · | mal, in Berechnungen |
+| × | mal, im Text |
+| = | ist gleich |
+| ≠ | ungleich |
+| ≙ | entspricht |
+| < | kleiner |
+| > | größer |
+| % | Prozent |
+
+#### Aktionen
+
+| Abkürzung | Bedeutung |
+| --- | --- |
+| auf | aufdrehen, öffnen, sperren |
+| üb | übertragen |
+| me | messen |
+| zu | zudrehen, schließen, kneifen |
+
+Weitere wichtige Symbole und Abkürzungen sind auf Seite 30 und ab der Seite 507 abgedruckt.
+
+#### Einige wichtige Symbole
+
+| Symbol / Abkürzung | Bedeutung |
+| --- | --- |
+| 99 | Seitenverweise auf Grundschnitte, Details und Anleitungen |
+| 1 | Nummerierung der Konstruktionsreihenfolge und Zuordnung der Beschreibungen im Text. Die Punkte sind meistens blau; in anderen Farben symbolisieren sie Alternativen und Varianten. |
+| 46 | Nummerierung von Varianten, z.B. Ärmel, Abnäher usw. |
+| ! | Hinweis zur besonderen Beachtung |
+| AP | Anlagepunkt |
+| ZP | Zirkelpunkt, Drehpunkt |
+| Scherensymbol | Hier wird für eine weitere Behandlung eingeschnitten. |
+| rechter Winkel | Das Zeichen für einen rechten Winkel, 90°. |
+
+#### Fertigungsinformationen
+
+Zuschnittzeichen geben an, wie das gekennzeichnete Produktionsschnittteil zugeschnitten wird.
+
+Der Zuschnitt erfolgt an der hinteren Mitte (hM) gespiegelt, also an der Symmetrielinie ohne Naht bzw. für den Einzelzuschnitt „im Stoffbruch“.
+
+Dressierzeichen geben an, wo und wie die flache Stofffläche vor dem Nähen durch Bügeln dauerhaft zu formen ist.
+
+Beim Dehnen werden z.B. Nahtzugaben, Nähte oder Bereiche innerhalb der Zuschnittfläche ausgedehnt. Hierdurch erhält der Stoff Länge oder Weite, je nach Dehnrichtung.
+
+Beim Einhalten wird der Stoff gestaucht bzw. kurzgehalten. Die Weite oder Länge wird reduziert.
+
+Kräuselzeichen zeigen an, in welchem Bereich die Mehrweite einer Naht durch eine geeignete Methode in kleine, unregelmäßige Fältchen gekräuselt wird.

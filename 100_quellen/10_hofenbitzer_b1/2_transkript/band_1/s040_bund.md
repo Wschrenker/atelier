@@ -1,0 +1,29 @@
+## S.40 — Gerader Bund (2): Verschluss + Produktionsschnitt
+Foto: `20260617_160314.jpg` — ✅ gut lesbar.
+
+### Variante 1 — Bund mit Über- und Untertritt
+
+**Platzieren von Knöpfen und Knopflöchern** (funktional)
+- Ein Verschluss besteht immer aus **Knopfloch + Knopf** (oder Schlinge); das Knopfloch sitzt in der schließenden Kante. ✅
+- **Schließrichtung (Regel):** Damenbekleidung schließt **„rechts über links"** (rechte Körperseite oben → Übertritt rechts, Untertritt links); Herren traditionell **„links über rechts"**. ✅
+- Soll der Knopf genau über dem Verschluss-Schlitz sitzen (auf vM, hM oder SN — hier auf der **hM**), müssen am Bund **Übertritt und Untertritt** vorhanden sein. ✅
+
+**Platzierung des Übertritts an Damenbekleidung** (funktional)
+- Vorderer Verschluss: Übertritt auf die **rechte** Körperseite; Verschluss schließt von rechts nach links um den Körper; hinterer Übertritt entsprechend auf die **linke** Körperseite (linkes hinteres Schnittteil). ✅
+- Verschluss an der **linken Seitennaht**: Übertritt an das **linke vordere** Bundende; Untertritt jeweils am anderen Bundende. ✅
+
+**Konstruktion (Schritte 1–3, gilt für Verschluss an hM; analog an vM oder seitlich)** ✅
+- 1: **Knopfmitte genau auf der hM**; Knopf in Originalgröße einzeichnen; Übertrittkante harmonisch/modellgerecht zur Knopfkante gestalten.
+- 2: Knopfloch am Übertritt passend zum **Knopfdurchmesser** markieren; das **Auge** (Knopflochbeginn) liegt an der markierten Knopfmitte. **Knopflochlänge = Knopfdurchmesser + ca. 2 mm.**
+- 3: Untertritt ans andere Bund-Ende; Knopfposition wie am Übertritt genau auf der hM; Untertrittbreite anzeichnen. **Untertritt mindestens so lang wie das Knopfloch, besser 0,5 bis 1 cm länger.**
+
+Abbildung ☐1 „Gerader geknöpfter Bund mit Über- und Untertritt an der hinteren Mitte": Rock-Rückenansicht, Knopf/Knopfloch an der **hM**. ✅
+Abbildung ☐2 „Konstruktion von Über- und Untertritt am Bund": Bundstreifen mit **Knopf** am einen hM-Ende (Untertritt-Seite) und **Knopfloch** am anderen hM-Ende (Übertritt-Seite). ✅
+
+### Produktionsschnitt für einen Bund mit Verschluss an hM ✅
+- Wie ab S.21 und S.38 beschrieben: Zuschneideschablone beschriften, mit **Nahtzugaben** und allen nötigen Markierungen versehen.
+
+Abbildung ☐1 „Produktionsschnitt eines geraden Bundes" — beschriftet mit:
+- **Fadenlauf, Beschriftungen, Nahtlinie, Umbruchlinie / Bügellinie** (Längs-Faltlinie), **Knopfposition**, **Knopfloch + Knips**. ✅
+- Textblock im Schnittteil: **„Bund / Gerader Rock / 1× Ost + El / Name der Kundin + Datum"** (1× Oberstoff + Einlage). ✅
+- Markierungsfolge entlang des Streifens: **hM – rSN – vM – lSN – hM**; Knopfposition am einen hM-Ende, Knopfloch + Knips am anderen. ✅

@@ -1,0 +1,66 @@
+## Seite 416
+
+**Quelldatei:** `20260619_144917.jpg`  
+**Sichtbare Buchseitenzahl:** 416
+
+### Wörtlicher Buchtext
+
+# Naht- und Ausschnitt-Optimierung nahe der Brust
+
+## Ausschnitt Reduzierungen
+
+□1 Ärmelloses OT
+
+□2 Träger-Top mit Empire-Naht
+
+□3 Oberteil mit Neckholder
+
+□4 Rückteil des Neckholder-OT
+
+□5 Hohlräume zwischen Grundschnitt und Körper
+
+□6 Unterbrust-Abstand messen
+
+**Passformprobleme an Ausschnitten**
+
+□1-4 Modellabwandlungen mit größeren Ausschnitten an Hals und Armloch weisen zunächst unschöne Weiten an diversen Ausschnitt-Kanten auf. Sie liegen nicht am Körper an (Pfeile).
+
+An diesen Stellen besitzt der Körper unterschiedlich tiefe Vertiefungen, die mit dem Grundschnitt nicht berücksichtigt werden konnten. □5 zeigt einige dieser Bereiche zwischen dem Grundschnitt und dem Körper. Diese Vertiefungen können individuell gemessen werden, siehe □7, um den Modellschnitt bereits während der Modellabwandlung zu optimieren.
+
+Hier werden die Messungen am Körper und die Optimierungen während der Modellschnitt-Abwandlung gezeigt.
+
+**Reduzierbeträge bestimmen**
+
+Für die hier abgebildeten eng anliegenden Modelle werden üblicherweise Grundschnitte in den Passformklassen PK2 bis PK4 verwendet.
+
+□6 Den Unterbrust-Abstand (uBrA) am Körper messen. Dieser ist der Radius für den Brustansatz-Kreis um den BrP. Zur Kontrolle sollte der Abstand zum Kreis bei großen Brüsten eher weniger ca. 1,5 cm und bei kleinen Brüsten eher mehr, ca. 2,5 cm von der vM sein. Eine weitere Möglichkeit für die Berechnung des Radius wäre: ½ BrB – 2 cm
+
+An der Figur werden Körpervertiefungen an fünf Stellen wie skizziert gemessen:
+
+1. Ein Lineal auf beide Brüste legen und die Tiefe zwischen den Brüsten messen. Diesen Betrag am Schnitt an der vM und am Kreis in Brusthöhe entfernen.
+2. Das Lineal an den Halsansatz ca. 3 cm neben die vM legen und die tiefste Stelle oberhalb der Brust messen. Am Schnitt am Kreisbogen wie skizziert einzeichnen.
+3./4. Ebenso zwischen Brust und Schulterknochen sowie zwischen Brust und Taille verfahren.
+5. Zwischen seitlichem Halsansatz und Schulterknochen ebenso messen.
+6./7. Am Armloch und an der Seitennaht den Standardbetrag nur bei ärmellosen Modellen entfernen.
+8. Am Rückteil die Abnäherbreite auf die Schulterblattlinie verlängern. So entsteht automatisch die Reduzierfläche.
+
+Nähte und Kanten, die über diese farbig markierten Flächen verlaufen, werden um die entsprechende Fläche zum Brustpunkt reduziert.
+
+□7 Reduzierflächen am Brustansatz mittels zusätzlicher Körpermessungen
+
+□8 Reduzierflächen am Rückteil
+
+### Beschriftungen innerhalb der Zeichnungen
+
+- □5: Messpositionen `1` bis `8` an Vorder- und Rückansicht der Figur.
+- □6: `uBrA`, `½ SuB`.
+- □7: `BrP`, `vÄP`, `SN`, `Brustansatz-Kreis`, `Standard 0,5 bis 0,7 cm`, `Kontrolle: 1,5 bis 2,5 cm Abstand des Kreisbogens von der vM`, `taillierter Oberteil-GS PK2 bis PK4`; Messpositionen `1` bis `7`.
+- □8: `hÄP`, `Schulterblattlinie`; Messposition `8`.
+
+### Sachliche Zeichnungsbeschreibung (nicht Buchwortlaut)
+
+- □1–□4 markieren mit Pfeilen Bereiche, in denen die Ausschnittkanten der Modelle vom Körper abstehen.
+- □5 zeigt in Vorder-, Seiten- und Rückansicht acht bezeichnete Hohlraum- beziehungsweise Messbereiche zwischen Körper und Grundschnitt.
+- □6 zeigt die Messung des Unterbrust-Abstands von der Brustbasis bis zum BrP sowie die halbe Strecke `½ SuB`.
+- □7 zeigt um den BrP einen Brustansatz-Kreis mit dem Radius `uBrA`. Die Reduzierflächen 1–7 sind als keilförmige oder sichelförmige Flächen zwischen BrP, Ausschnitt, Armloch, Seitennaht und Taille eingezeichnet.
+- □8 zeigt am Rückteil eine seitliche Reduzierfläche sowie die Verlängerung des Taillenabnähers bis zur Schulterblattlinie; dadurch entsteht die Reduzierfläche 8.

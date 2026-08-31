@@ -1,0 +1,30 @@
+## Seite 73
+
+### Originaltext
+
+**Glockenrock mit sehr großer Saumerweiterung**  
+**Modellentwicklung aus dem 10-Bahnenrock (6)**
+
+Ein Glockenrock, wie er auf Seite 44 als Kreissegment konstruiert ist, kann alternativ auch durch das Aufdrehen eines Bahnenrocks entwickelt werden. Auch kleinere Saumerweiterungen sind selbstverständlich möglich.
+
+Hierbei schneidet man die Rockteile an den Körpermitten symmetrisch (im Stoffbruch) zu.
+
+1. Die Teile des Bahnenrocks werden zwischen den Teilungsnähten sehr weit geöffnet. Der Drehpunkt ist an der Taillennaht.
+2. Dabei ist an den Seitennähten die Hälfte des Öffnungsbetrags anzuzeichnen, der zwischen den Teilungsnähten geöffnet wird, d.h. in diesem Beispiel: 2/5 zwischen den Schnittteilen und 1/5 (das ist die Hälfte) an der SN.
+3. Um einen Viertelkreis zu erzielen, können die Schnittteile so angeordnet werden, dass die neu angezeichnete Seitennaht im rechten Winkel zur vM bzw. hM verläuft.
+4. Die Taillennaht schön rund ausformen oder für deutlich positionierte Glocken die Ecken an der Taillennaht belassen und nähen.
+5. Den Saum über die Erweiterungsflächen nachformen.
+
+Hier wird aus Platzgründen nur das hintere Rockteil dargestellt. Das vordere ist entsprechend zu erstellen.
+
+Randverweis: **65**
+
+### Bildnummern, Bildunterschriften und Zeichnungsbeschriftungen
+
+- □1 **Glockenrock mit großer Saumerweiterung aus dem 10-Bahnenrock**
+- □2 **Produktionsschnitt des Rückteils Zum Viertelkreis erweiterter Rückteil**
+- Beschriftungen: SN, hM, ca. 1/5, zweimal ca. 2/5, Glockenrock RT 2 1× OSt.
+
+### Eigene sachliche Bildbeschreibung – nicht Buchtext
+
+Mehrere Bahnteile sind fächerförmig um Drehpunkte an der Taillennaht geöffnet. Zwischen den Teilen liegen Öffnungen von jeweils etwa 2/5; an der Seitennaht liegt mit etwa 1/5 der halbe Betrag. hM bildet einen geraden Radius, die neue SN steht dazu im rechten Winkel, so dass der Produktionsschnitt ungefähr einen Viertelkreis bildet. Taille und Saum verbinden die gedrehten Teile mit konzentrisch wirkenden Kurven.

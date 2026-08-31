@@ -1,0 +1,73 @@
+## Buchseite 428
+
+**Originalfoto:** `20260619_145001.jpg`
+
+### Originaltext
+
+**Abnäher und Ausschnitte**
+
+# Verschlussvarianten an Oberteilen
+## Kantenverarbeitung von Hals- und Armausschnitten (1)
+
+□1 Taillenweites Oberteil ohne Verschluss mit ausreichend großem Halsloch, so dass der Kopf hindurch passt.
+
+□2 Den Oberkörper sehr eng formende Mieder-Korsage mit Schnürung
+
+□3 Tailliertes Oberteil mit Verschluss an der Seitennaht und an der Schulter
+
+□4 Modell mit durchgehendem (Reiß-) Verschluss an der hM
+
+□5 Tailliertes Oberteil mit großem Halsausschnitt und Reißverschluss in der linken Seitennaht
+
+□6 Tailliertes Oberteil mit engem V-Ausschnitt, Schlitz in der hM und RV an der Seitennaht
+
+□7 Modell mit durchgehendem Knopfverschluss an der hM
+
+□8 Taillenweites Oberteil mit Schlingenverschluss am engen Halsloch
+
+□9 Knopfleiste an Blusen
+
+### Verschlüsse an Oberteilen
+
+Bei der Gestaltung und Planung eines Bekleidungsstückes muss man berücksichtigen, dass das Kleidungsstück genügend Weite benötigt, um es über die Schultern, die Brust oder die Hüfte (das sind die breitesten Körperteile) zu ziehen, wie in □1.
+
+Betrachtet man ein Oberteil, das an Halsausschnitt und Taille sehr eng ist, wird man es weder über den Kopf und die Schultern, noch über die Hüfte anziehen können. Es fehlt an Weite. Um diese in das Kleidungsstück zu bekommen, muss es an den engen Stellen von Taille und/oder Halsloch geöffnet und wieder verschlossen werden können. Bei Kleidungsstücken aus elastischen Materialien können, je nach Elastizität, die Schlitze kleiner ausfallen oder ganz wegfallen.
+
+Geeignete Verschlüsse sind Knöpfe mit Knopflöchern oder Schlingen, Haken, Reißverschluss oder Schnürungen für extrem enge Kleidungsstücke
+
+Bei einem taillenengen Kleid muss der Verschluss mindestens bis kurz über die Hüfte reichen, um die Enge an der Taille bis zur stärksten Stelle an der Hüfte ganz zu öffnen.
+
+### Mögliche einfache Kantenverarbeitungen von Hals- und Armausschnitten
+
+#### Einfassen
+
+□1 Das Einfassen mit Schrägband oder mit Tresse bietet sich hauptsächlich an stark gerundeten Ausschnitten an, weil die Bänder formbar sind. Mit Tressen wird offenkantig eingefasst. Ein Schrägstreifen wird an den Schnittkanten eingeschlagen oder ist vorgefalzt und wird dann angesteppt.
+
+Die Schnittteile erhalten an den Ausschnittkanten keine Nahtzugaben, da die Schnittkanten die späteren Ausschnittkanten sind.
+
+#### Schmuckband und Borte
+
+□2a Ein Schmuckband kann innen angesteppt und nach außen umgelegt oder nur von außen aufgesteppt werden. Das Band ist also von außen sichtbar.
+
+□2b Borten können nur an gerade Kanten gearbeitet werden. Sie legen sich kaum in eine Rundung. An Ecken werden sie mit einer Naht gefaltet.
+
+> **Buchfehler:** `an gerade Kanten` ist wörtlich wie gedruckt erhalten.
+
+**Belege und Einschläge ab Seite 429.**
+
+**Blenden siehe Seite 432.**
+
+□1a+b Ausschnitte mit schrägem Einfassband und mit Tresse
+
+□2a+b Ausschnitte mit schmalem Schmuckband und mit Borte
+
+### Zeichnungsbeschriftungen (Originaltext)
+
+- □1a+b: `Oberstoff`, `Schrägband`, `Tresse`
+- □2a+b: `Oberstoff`, `Schmuckband`, `Borte`
+
+### Sachliche Zeichnungsbeschreibung (nicht Originaltext)
+
+- Die neun Modellskizzen zeigen Verschlusspositionen an hM, Schulter und Seitennaht sowie eine Schnürung, einen Schlingenverschluss und eine Knopfleiste. Blaue Pfeile weisen auf die jeweilige Verschlussstelle.
+- □1a+b zeigt zwei Ausschnittkanten: eine mit um die Kante gelegtem Schrägband und eine mit Tresse. Die danebenstehenden Querschnitte stellen die Lage von `Oberstoff`, `Schrägband` beziehungsweise `Tresse` an der Kante dar.
+- □2a+b zeigt einen Ausschnitt mit schmalem, von außen sichtbarem Schmuckband und einen eckigen Ausschnitt mit Borte. Die Querschnitte stellen `Oberstoff` und das außenliegende Band beziehungsweise die Borte dar.

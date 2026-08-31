@@ -1,0 +1,57 @@
+## Buchseite 431
+
+**Originalfoto:** `20260619_145010.jpg`
+
+### Originaltext
+
+# Tiefe Dekolletés
+## mit verbundenen Belegen
+
+□1 Tiefe Dekolletés
+
+### Tiefes Dekolleté und Träger
+
+① Für ein ärmelloses Oberteil die Brustweite an der SN reduzieren.
+
+② □2 Am VT den neuen Abnäher einzeichnen und dann den Brust- und den Taillenabnäher in den neuen Abnäher verlegen. □3 Die Abnähernaht gerundet formen und kürzen.
+
+③ Am RT den Schulterabnäher ignorieren. Den Taillenabnäher in die hM verlegen.
+
+④ Dekolletéweite und Trägerbreite an VT und RT vom Halsloch aus abtragen.
+
+⑤ Beginn des Trägers und Trägerbreite vom VT an das RT übertragen.
+
+⑥ Dekolletés und Armlöcher formen.
+
+⑦ Einschnitte für die Reduzierung der Ausschnitte ähnlich wie auf Seite 418 einzeichnen (Änderungen möglich).
+
+⑧ □3 Schnittteile kopieren und die Ausschnitte reduzieren.
+
+⑨ Für die verbundenen Belege an Schulter, SN und parallel zu den Ausschnittkanten reduzieren.
+
+Alternativ kann sowohl das VT als auch das RT mit einer zweiten Stofflage aus Futter oder Stoff belegt werden.
+
+□2 Abnäher verlegen und Dekolletés gestalten
+
+□3 Produktionsschnitte von VT und RT an den Ausschnittkanten zulegen (kneifen, reduzieren), dann die Belege formen und ebenfalls an den Nähten reduzieren
+
+### Hinweis für die Gestaltung eines Modells mit tiefem Ausschnitt:
+
+Es ist fast unmöglich, ein Kleidungsstück mit tiefem Dekolleté vorne und hinten zu tragen. Es würden unweigerlich die Träger von der Schulter rutschen. Abhilfe könnte eine Verbindung zwischen den Trägern schaffen, z.B. eine Kette oder ein Band. An der Träger-Unterseite könnte man auch ein haftendes Material anbringen.
+
+□6 Produktionsschnitte der verbundenen Belege von VT und RT, ggf. zusätzlich mit Futter
+
+### Zeichnungsbeschriftungen und Maße (Originaltext)
+
+- □2: `VT`, `RT`, `vM`, `hM`, `SN`, `BrP`, `Dekolletéweite`, `Trägerbreite`, `neuer Abnäher`, `in Schulternaht`, `ca. 0,5 bis 0,7 cm`, `ca. 0,7 bis 1 cm`
+- □3 VT: `VT 1×`, `vM`, `SN`, `BrP`, `max. 0,7 cm`, `max. 0,2 cm`, `max. 0,4 cm`
+- □3 RT: `RT 2×-p`, `hM`, `SN`, `max. 0,3 cm`, `max. 0,2 cm`, `max. 0,4 cm`, `max. 0,7 cm`
+- Hinweis in der Zeichnung: `Für die Belege an den Ausschnittkanten ca. 0,2 cm parallel reduzieren`
+- □6: `vorderer Beleg 2×-p`, `hinterer Beleg 2×-p`, `vM`, `hM`, `SN`
+
+### Sachliche Zeichnungsbeschreibung (nicht Originaltext)
+
+- □2 zeigt VT und RT mit neu geformten tiefen Dekolleté- und Armlochlinien. Am VT laufen Brust- und Taillenabnäher zum `BrP` und werden in einen neuen, zur Seiten-/Armlochzone gerichteten Abnäher verlegt. Am RT wird der Taillenabnäher zur hM verlegt. `Dekolletéweite` und `Trägerbreite` werden an den oberen Kanten abgetragen und zwischen VT und RT übertragen.
+- Mehrere kurze Einschnittlinien liegen an den neuen Ausschnittkanten. Die dazu eingetragenen Reduzierungen betragen `ca. 0,5 bis 0,7 cm` und `ca. 0,7 bis 1 cm`.
+- □3 zeigt die Produktionsschnitte von VT und RT. Die Ausschnittkanten sind an mehreren Stellen keilförmig zugelegt; die angegebenen Maximalwerte sind am VT `0,7 cm`, `0,2 cm` und `0,4 cm`, am RT `0,3 cm`, `0,2 cm`, `0,4 cm` und `0,7 cm`.
+- Die verbundenen Belege folgen den Schulter-, Armloch-, Dekolleté- und Seitennahtbereichen von VT und RT. Sie sind als `vorderer Beleg 2×-p` und `hinterer Beleg 2×-p` beschriftet; ihre Ausschnittkanten werden laut Zeichnung parallel um `ca. 0,2 cm` reduziert.

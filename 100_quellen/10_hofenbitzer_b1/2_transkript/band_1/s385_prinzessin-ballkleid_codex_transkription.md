@@ -1,0 +1,35 @@
+## Seite 385
+
+Quelle: `../../Photos-3-001 4/Photos-3-001 (3)/20260619_144543.jpg`
+
+Sichtbare Buchseitenzahl: **385**. Das Originalfoto liegt seitlich; für die Sichtprüfung wurde es temporär um 90° gedreht.
+
+### Originaltext
+
+Randregister: **Wiener Naht**
+
+
+**Wiener Naht am taillierten Oberteil-Grundschnitt (4)**  
+**mit verschobenen und ausgestellten Teilungsnähten**
+
+**☐3 mögliche Modellschnittteile mit großer Saumweite aus der Modellentwicklung der vorhergehenden Seiten.**
+
+⑫ Wie dort beschrieben, die obere Naht neu formen und den Knips in demselben Abstand setzen wie an seitlichem RT.
+
+⑬ Das seitliche VT vom BrP zur Seitennaht einschneiden und mindestens den Öffnungsbetrag des VT am BrP öffnen, siehe Seite 377.
+
+Zeichnungsbeschriftungen:
+
+- `Am VT entsteht eine Öffnung. Um diesen Betrag kann das sVT (mindestens) geöffnet werden. Dort muss bei einem größeren Öffnungsbetrag eingehalten werden.`
+- `0 bis 0,7 cm öffnen`
+- `VT`, `sVT`, `sRT`, `RT`, `vM`, `hM`, `SN`
+- `BrP`, `vÄP`, `hÄP`
+- `me`, `tr`, `½`
+- Konstruktionsmarken `6`, `7`, `8`, `9`, `12`, `13`
+
+### Eigene sachliche Bildbeschreibung
+
+- Dargestellt sind die aus S.384 abgeleiteten Modellteile mit sehr großer Saumweite: mittleres und seitliches Vorderteil sowie seitliches und mittleres Rückenteil.
+- Beim VT entsteht am BrP durch das Zulegen des Brustabnähers eine Öffnung. Das seitliche Vorderteil wird mindestens um diesen Betrag geöffnet; bei größerer Öffnung ist der Mehrbetrag an der Naht einzuhalten.
+- Am RT wird die obere Teilungsnaht nach der Schulterabnäherbehandlung neu geformt; die Knipse der zusammengehörigen Nähte liegen im gleichen Abstand.
+- Alle Teile sind zum Saum stark ausgestellt. Die Saumkanten sind an den Teilungsnähten rechtwinklig geglättet; die Markierung `½` zeigt eine hälftige Verteilung an einer Rückteilnaht.

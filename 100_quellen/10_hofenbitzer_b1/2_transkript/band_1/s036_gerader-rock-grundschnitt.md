@@ -1,0 +1,40 @@
+# Seite 36
+Foto: `Photos-3-001 2/20260617_160242.jpg` (rechter Bildrand zeigt bereits S.37 „Proportionen" — nicht Teil dieses Auftrags)
+
+**Kopfzeile:** „Rock-Grundschnitte" — „Abnäherformen / Grundschnittschablone und Produktionsschnitt"
+**Seitenreiter:** „Abnäherformen / GS-Schablone, Produktionsschnitt"
+
+## Abschnitt „Abnäherformen"
+> Die Abnäher geben der flachen Stofffläche eine gewölbte Form, wie sie für körpernahe Kleidung
+> benötigt wird. Beim Nähen erhalten sie ihre charakteristische Form, je nach der Position am Körper.
+
+> ☐1 Der Hüftbogen und der seitliche Abnäher im Rückteil werden, genauso wie der vordere Abnäher im
+> Rock, „sichelförmig" genäht. Der hintere Abnäher bei einem oder zwei Abnähern im RT (nahe der
+> hinteren Mitte) wird „zwiebelförmig" genäht.
+
+**Bildunterschrift ☐1:** „Abnäher formen"
+**Diagramm-Beschriftungen ☐1:** „vorderer Abnäher", „Hüftbogen an den Seitennähten", „seitlicher
+RT-Abnäher", „hinterer RT-Abnäher"; Kürzel „SN", „hM"
+
+## Abschnitt „Schablone des geraden Rock-Grundschnitts"
+> Die unten dargestellten grauen Flächen ohne Nahtzugaben entsprechen der Schablone eines geraden
+> Rock-Grundschnitts (siehe auch Seite 22). Optional können die Abnäher gerade, also ungeformt
+> herausgeschnitten sein. Die Hüftlinie ist eingezeichnet und beide Teile sind beschriftet. Die
+> Konstruktionstabelle sollte aufgeklebt werden.
+
+**Schablonen-Beschriftungen:** „Gerader Rock-GS / Vorderteil (VT) / 1x Oberstoff (OSt) / Name der
+Kundin / Datum"; „Proportionslinie (hier Hüftlinie)"; „einhalten"; Maße „1-3", „2 cm"; Kürzel „SN", „vM"
+
+## Abschnitt „Produktionsschnitt des geraden Rock-Grundschnitts"
+> Der Produktionsschnitt enthält zusätzlich zur Grundschnittfläche noch Nahtzugaben, Saumeinschläge,
+> Rückschnitte an den Nähten und Schnittkanten, Markierungen und Beschriftungen (siehe ab Seite 22).
+> Das Vorderteil wird zudem an der vM gespiegelt zugeschnitten und entsprechend dargestellt.
+
+**Produktionsschnitt-Beschriftungen:**
+- „VT gerader Rock"; „RT gerader Rock"
+- VT-Etikett: „Gerader Rock-GS / Vorderteil (VT) / 1x Oberstoff (OSt) / Name der Kundin / Datum",
+  „vM-Bruchlinie, Symmetrielinie"
+- RT-Etikett: „Gerader Rock-GS / Rückteil (RT) / 2x-p Oberstoff / Name der Kundin / Datum"
+- „RV" (Reißverschluss) an der hM; Kürzel „SN", „vM", „hM"
+- Maße/Marken: „1-3" (Nahtzugabe), „NZg-Breite", „2 bis 5" (Saum), „Saumeinschlag SaEs"
+- Textfeld im Schnitt: „Konstruktions-Tabelle hier aufkleben oder auf das RT"

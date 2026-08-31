@@ -1,0 +1,51 @@
+## S.39 — Gerader Bund (1)
+Foto: `20260617_160306.jpg` — ✅ vollständig gelesen (hochaufgelöste Kacheln).
+
+### Prinzip (funktional, nicht wörtlich)
+- Der gerade Bund ist der bandähnliche Abschluss eines Rocks/einer Hose an der Taille; er hält das Teil an der Taille und verhindert über eine eingebügelte stabile Einlage das Ausdehnen der oberen Kante. ✅
+- Eine Öffnung (z. B. Reißverschluss) ist nötig, um das Anziehen über die Taille zu ermöglichen. ✅
+- Anwendungsfall der Grundkonstruktion: gerade an der waagerechten Taille sitzender Bund; Buchbeispiel: Rockschlitz mit Reißverschluss, Bund mit innenliegendem Knopf + Riegel an der hM. ✅
+
+### 1 — Bundform zeichnen ✅
+- ☐2: Da der gerade Bund genau in der Taille sitzt, muss die **Bundlänge ca. dem Taillenumfang (TaU)** entsprechen.
+- Ein **Rechteck** zeichnen: Länge ≈ TaU, Höhe (**Bundbreite**) = **2 bis 5 cm**.
+
+Abbildung ☐2 „Geraden Bund zeichnen": liegender Rechteck-Streifen.
+- Oberkante bemaßt: **„Bundlänge ca. Taillenumfang (TaU)"** über die ganze Länge.
+- Markierungen entlang des Streifens: **hM** (linkes Ende), **vM** (rot, Mitte), **hM** (rechtes Ende).
+- Mittelpunkt mit **½** markiert.
+- Rechts die Höhe als **Bundbreite** bemaßt.
+
+### 2 — hM und vM markieren ✅
+- ☐2: Der **Verschluss an den Enden** des Bundes ist die **hM**.
+- Die **vM** liegt **genau auf der Hälfte der Bundlänge** (rechte und linke Körperseite symmetrisch).
+
+### 3 — Taillennaht messen ✅
+- Alle Nahtstrecken der **vorderen Taillennaht** und der **hinteren Taillennaht** messen, **jeweils ohne Abnäherinhalte**.
+- Die Taillennahtlängen entsprechen der **halben Taillenweite**.
+
+Abbildung ☐3 „Taillennaht messen": links **VT gerader Rock** (ein Abnäher), rechts **RT gerader Rock** (zwei Abnäher).
+- Links gemessen: **19,7 cm**; rechts gemessen: **17,5 cm**. ✅
+- An den Abnähern steht **„einhalten"** (VT 1×, RT 2×). ✅
+- Untere Markierungen: vM (an VT), SN (Seitennaht, Mitte), hM (außen). ✅
+- ⚠️ **Buch-Typo:** die **linke** Bildunterschrift lautet wörtlich „vordere Taillennaht **(hTaN)** messen" — gemeint ist die vordere Naht **vTaN** (= 19,7 cm; vgl. Schritt 5 im Fließtext, der korrekt **vTaN** schreibt). Die rechte Unterschrift „hintere Taillennaht (hTaN) messen" ist korrekt.
+
+### 4 — Markierung der SN ✅
+- Schritt 5: ☐4 Die **vordere Taillennaht (vTaN)** von der **vM** nach links und nach rechts abtragen.
+- Schritt 6: Die Länge der **hinteren Taillennaht (hTaN)** von der **hM** (Bund-Ende) aus abtragen.
+- Schritt 7: Der **Überschneidungsbetrag** ist die **Taillenmehrweite** und beträgt **ca. 1 bis 1,5 cm**.
+- Schritt 8: **Genau in der Mitte** dieser zwei Markierungen wird die **Seitennaht (SN)** markiert.
+
+Abbildung ☐4 „Messstrecken von der Taillennaht am Rock auf den Bund übertragen und Seitennaht markieren": liegender Bundstreifen, Markierungsfolge von links nach rechts:
+**hM – hTaN – SN(✗) – vTaN – vM – vTaN – SN(✗) – hTaN – hM.** ✅
+
+### Kontrolle der Taillenmehrweite (gelber Kasten) ✅
+```
+Taillenmehrweite (Einhalteweite) = vTaN + hTaN − TaU:2
+                                 = 19,7 + 17,5 − 36,0 cm
+                                 = 1,2 cm Einhalteweite
+```
+- Hinweis im Buch: Ist die **Taillenmehrweite größer als 1,5 cm**, kann das ein Anzeichen für einen Fehler sein (z. B. Rock-Konstruktion oder Fehlmessung) — der Fehler ist zu identifizieren und zu berichtigen. ✅
+
+> Randnotiz: Die rote Markierung **„36"** an der oberen Figurengruppe ist sichtbar, enthält aber keine
+> Konstruktionsregel und ist für die Engine ohne Bedeutung.

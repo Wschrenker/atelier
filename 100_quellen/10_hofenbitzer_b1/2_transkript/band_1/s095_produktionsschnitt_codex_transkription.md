@@ -1,0 +1,43 @@
+## Seite 95
+
+### Originaltext
+
+**Rockfutter (2)**  
+**für engen Rock mit offenen Schlitzen**
+
+**2 Innere Schnittteile**
+
+□4 Für die Fertigstellung der Taillenbelege, siehe Seite 53.
+
+6. Das Futter wird unten am Schlitzeinschlag angenäht. Oberhalb eines gefütterten Schlitzes benötigt das Futter Mehrlänge. Die Futteransatznaht dort um ca. 0,5 bis 1 cm erhöhen.
+7. An der hM von Taillenbeleg und Futter verschiebt man die Futteransatznaht am RV-Schlitz um ca. 0,5 cm nach innen, weil das Futter neben den an der hM befindlichen Zähnchen auf das RV-Band genäht wird (siehe Seite 59).
+9. An die Futteransatznaht am RV-Schlitz kommt eine NZg von 1 cm.
+8. Den RV-Schlitz an hM um ca. 2 bis 3 cm verlängern und die NZg zwischen RV-Ende und Futterschlitzende schräg beschneiden.
+
+[BUCHFEHLER: Die Schritte stehen im Druck in der Reihenfolge 6, 7, 9, 8.]
+
+NZg und SaEs je nach gewünschter Verarbeitung anzeichnen und die Schnittteile markieren und beschriften.
+
+**3 Schnittteile aus Oberstoff**
+
+10. □5 Der Übergang von Schlitz und Saum wird bei diesem Modell innen als Briefecke gearbeitet.
+11. Am Vorderrock ist am Taillenbeleg der Restabnäher zugelegt worden. Diese nun im VT befindliche Mehrweite wird an dieser Stelle eingehalten.
+
+**Briefecke zeichnen**
+
+Saum- und Schlitzeinschlag nach innen falten (bzw. bügeln) und den Berührungspunkt der beiden Schnittkanten markieren.
+
+Von der Markierung zur Ecke die Nahtlinie einzeichnen (bzw. abnähen), siehe ab Seite 23.
+
+### Bildnummern, Bildunterschriften und Zeichnungsbeschriftungen
+
+- □4 **Produktionsschnitt der Taillenbelege und des Futters (VT und vTaBe noch spiegeln)**
+- □5 **Produktionsschnitt des Oberstoffs (VT noch spiegeln)**
+- Schnittteile: `Hüftrock v-Taillenbeleg 1× OSt + El`; `Hüftrock h-Taillenbeleg 2×-p OSt + El`; `Hüftrock VT-Futter 1× Fu`; `Hüftrock RT-Futter 2×-p Fu`; `Hüftrock VT 1× OSt`; `Hüftrock RT 2×-p OSt`.
+- Beschriftungen: `Die Futternaht oberhalb eines Schlitzes um 0,5 bis 1 cm verlängern`; `Das Schlitzende für den RV an der SN um ca. 2 bis 3 cm nach unten verschieben`; RV; vM; hM; SN; NZg; SaEs; Fadenlauf; Knipse; Bohrlöcher; Saumangaben `2 bis 4 cm` und `1 bis 4 cm`; Briefecken-Naht.
+
+[BUCHWIDERSPRUCH: Der Fließtext nennt für die RV-Schlitzverlängerung die hM, die rote Zeichnungsbeschriftung nennt die SN.]
+
+### Eigene sachliche Bildbeschreibung – nicht Buchtext
+
+Belege und Futter sind als Produktionsschnittteile mit Nahtzugaben, Saumeinschlägen, Fadenlauf, Knipsen und Bohrlöchern gezeichnet. Oberhalb jedes Seitenschlitzes wird die Futteransatznaht bogenförmig um den angegebenen Betrag angehoben. Am RV wird die Ansatznaht nach innen versetzt und unter dem RV-Ende verlängert. Die Oberstoffteile zeigen an der Verbindung von Saum- und Schlitzeinschlag eine diagonal genähte Briefecke. Am VT-Beleg ist der Restabnäher geschlossen; die dadurch verbleibende Mehrweite ist durch Einhaltemarkierungen dargestellt.
