@@ -26,3 +26,7 @@ Zwischen v1, v2 und v3 ist keine Buchseite doppelt belegt.
 - `band_1/` — aeltester Arbeitsstand von Band 1: Rohtranskriptionen,
   Pruefstellenfassungen und frueh gezogene Formelverzeichnisse,
   762 Dateien einschliesslich `archiv_pruefstellen/`
+- `README_stand_2026-08-30.md` — das fruehere `../README.md` unveraendert, letzter
+  Stand vor der Aufteilung. Es haelt den Pruefstand vor der dritten Pruefwelle fest
+  und ist der Beleg, gegen den die Zahlen in
+  `../hofenbitzer_band_1_digital/00_pruefstatus.md` richtiggestellt wurden.

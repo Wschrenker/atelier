@@ -1,7 +1,8 @@
 # Hofenbitzer Band 1 — Prüfstatus und offene Prüfstellen
 
-Stand: 2026-08-31 · aufgeteilt aus dem früheren `../README.md` (Stand 2026-08-30)
-und gegen den heutigen Bestand nachgerechnet.
+Stand: 2026-08-31 · aufgeteilt aus dem früheren `../README.md` und gegen den
+heutigen Bestand nachgerechnet. Dessen letzte Fassung liegt unverändert als
+[`../band_1_archiv/README_stand_2026-08-30.md`](../band_1_archiv/README_stand_2026-08-30.md).
 
 Dieses Dokument gilt für die digitale Fassung in diesem Ordner. Die
 seitenbezogenen Prüfstellen stehen **nicht mehr hier**, sondern als

@@ -25,4 +25,7 @@ Das alte README beschrieb eine Ordnerstruktur, die es nicht mehr gibt, und führ
 Prüfzahlen aus der Zeit vor der dritten Prüfwelle. Beides ist in
 `00_pruefstatus.md` richtiggestellt.
 
+Seine letzte Fassung liegt unverändert als
+[`band_1_archiv/README_stand_2026-08-30.md`](band_1_archiv/README_stand_2026-08-30.md).
+
 Band 2 ist von alledem nicht erfasst.
