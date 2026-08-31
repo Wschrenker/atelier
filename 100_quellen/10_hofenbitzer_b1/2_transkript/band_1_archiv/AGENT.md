@@ -23,3 +23,6 @@ Zwischen v1, v2 und v3 ist keine Buchseite doppelt belegt.
   fachlichen Normalisierung, 68 normalisierte Formeln plus Index, Format und Auftrag
 - `formeln_fachlich_normalisiert_von_formeln_band_1_geprüft_v2/` — leer angelegt, nie befuellt
 - `formeln_fachlich_normalisiert_von_formeln_band_1_geprüft_v3/` — leer angelegt, nie befuellt
+- `band_1/` — aeltester Arbeitsstand von Band 1: Rohtranskriptionen,
+  Pruefstellenfassungen und frueh gezogene Formelverzeichnisse,
+  762 Dateien einschliesslich `archiv_pruefstellen/`

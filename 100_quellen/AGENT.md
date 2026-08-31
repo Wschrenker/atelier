@@ -114,7 +114,7 @@ später jede Kopie finden können.
 
 ## Offene Stellen
 
-Der Prüfstand steht in `10_hofenbitzer_b1/2_transkript/band_1/README.md`:
+Der Prüfstand steht in `10_hofenbitzer_b1/2_transkript/band_1_archiv/band_1/README.md`:
 vermutete Buchfehler (A1–A6), unlesbare Stellen (B1–B7), der Doppel-Konflikt
 S. 438/439 (C1) und die noch ausstehende digitale Zweitprüfung (D).
 **Er wird dort gepflegt, nicht hier.**
