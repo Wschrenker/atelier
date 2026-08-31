@@ -1,5 +1,5 @@
 ## S.483
-Bildprüfung S.483 — bestätigt gegen `1_Bilder/368-544/s483.jpg`: Einschnittlinien, Abnäheröffnungen, Scheren- und Bohrlochzeichen, die genannten Maße und Beschriftungen stimmen mit dem Originalbild überein.
+Bildprüfung S.483 — bestätigt gegen `2_bilder/368-544/s483.jpg`: Einschnittlinien, Abnäheröffnungen, Scheren- und Bohrlochzeichen, die genannten Maße und Beschriftungen stimmen mit dem Originalbild überein.
 
 ### Klassischer zweireihiger Blazer (7)
 

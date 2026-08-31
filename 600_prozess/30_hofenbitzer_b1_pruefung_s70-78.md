@@ -1,8 +1,8 @@
 # Hofenbitzer Band 1 — Bildprüfung S. 70–78
 
 Status: teilweise erledigt  
-Quelle: `100_quellen/10_hofenbitzer_b1/2_transkript/band_1_archiv/band_1/`  
-Bilder: `100_quellen/10_hofenbitzer_b1/1_Bilder/43-130/`  
+Quelle: `100_quellen/10_hofenbitzer_b1/3_band_1_archiv/band_1/`  
+Bilder: `100_quellen/10_hofenbitzer_b1/2_bilder/43-130/`  
 Prüfregel: Bildinhalt ist maßgeblich; Transkript wird nur bei belegter Abweichung korrigiert.
 
 ## Arbeitsstand

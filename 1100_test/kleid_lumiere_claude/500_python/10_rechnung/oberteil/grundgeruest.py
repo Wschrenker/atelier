@@ -9,7 +9,7 @@ Quelle: Hofenbitzer Band 1, 3. Auflage 2024
 * **S. 181** - Schritte 15 bis 24: Halsloecher und Schultern
 
 Transkripte:
-`100_quellen/10_hofenbitzer_b1/2_transkript/band_1_geprueft_v1/s177..s181.md`
+`100_quellen/10_hofenbitzer_b1/band_1_geprueft_v1/s177..s181.md`
 
 Rechnung in **Millimeter**, Y nach unten. Die hM liegt rechts bei x = 0, die
 vM links bei negativem x - so wie das Buch zeichnet ("Senkrechte Grundlinie

@@ -22,8 +22,8 @@ Beides trägt sich gegenseitig.
 | **Rock** | S. 44 | Echter Glockenrock, Vollglocke (Tellerrock) |
 | **Oberteil** | S. 423, untere Hälfte | Asymmetrische drapierte Wickeloptik, ❑8 / ❑8a / ❑8b |
 
-Fotos: `100_quellen/10_hofenbitzer_b1/1_Bilder/43-130/20260617_160345.jpg` (S. 44) ·
-`100_quellen/10_hofenbitzer_b1/1_Bilder/368-544/20260619_144937.jpg` (S. 423)
+Fotos: `100_quellen/10_hofenbitzer_b1/2_bilder/43-130/20260617_160345.jpg` (S. 44) ·
+`100_quellen/10_hofenbitzer_b1/2_bilder/368-544/20260619_144937.jpg` (S. 423)
 
 ---
 

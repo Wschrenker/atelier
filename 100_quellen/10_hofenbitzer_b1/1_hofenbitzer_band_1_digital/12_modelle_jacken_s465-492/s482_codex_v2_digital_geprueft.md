@@ -1,5 +1,5 @@
 ## S.482
-Bildprüfung S.482 — bestätigt gegen `1_Bilder/368-544/s482.jpg`: Die genannten roten Beschriftungen, Schlitz- und Faltenlinien, Maße und Kürzel stimmen mit dem Originalbild überein. Die lange rote Erläuterung im mittleren Oberstoff-Rückteil bleibt wie im Transkript als `UNLESBAR` markiert.
+Bildprüfung S.482 — bestätigt gegen `2_bilder/368-544/s482.jpg`: Die genannten roten Beschriftungen, Schlitz- und Faltenlinien, Maße und Kürzel stimmen mit dem Originalbild überein. Die lange rote Erläuterung im mittleren Oberstoff-Rückteil bleibt wie im Transkript als `UNLESBAR` markiert.
 
 ### Klassischer zweireihiger Blazer (6)
 

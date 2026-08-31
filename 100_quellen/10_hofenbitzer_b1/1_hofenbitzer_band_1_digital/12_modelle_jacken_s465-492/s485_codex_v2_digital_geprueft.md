@@ -1,21 +1,17 @@
-# Formeln — S. 485
+## S.485
+Bildprüfung S.485 — bestätigt gegen `2_bilder/368-544/s485.jpg`: Die Tabelle, Schreibweisen, Codes, Mengen, internen Nummern, `1×`, `2×-p` und die Fußnote `p = paarig` stimmen mit dem Originalbild überein. Die gedruckte Nummerierung enthält weiterhin zweimal `32` und wurde nicht korrigiert.
 
-Quelle: `s485_codex_v2_digital_geprueft.md`
+### Klassischer zweireihiger Blazer (9)
 
-> Herausgeschrieben aus der geprüften Transkription. `Quelle Zeile` zeigt die Originalzeile.
+#### Schnittteilliste
 
-### Quelle Zeilen 2–2
-```text
-Bildprüfung S.485 — bestätigt gegen `1_Bilder/368-544/s485.jpg`: Die Tabelle, Schreibweisen, Codes, Mengen, internen Nummern, `1×`, `2×-p` und die Fußnote `p = paarig` stimmen mit dem Originalbild überein. Die gedruckte Nummerierung enthält weiterhin zweimal `32` und wurde nicht korrigiert.
-```
-
-### Quelle Zeilen 9–9
-```text
+**Kollektion:** Herbst/Winter 2026  
 **Modell:** Livorno - blue coast - No 1013-26  
-```
+**Bearbeiter:** M. Muster  
+**Datum:** 23.09.2025
 
-### Quelle Zeilen 15–50
-```text
+| Nr. | Schnittteilname | Material | Name intern | Farbe | No. intern | Anzahl |
+|---:|---|---|---|---|---|---|
 | 1. | Vorderteil | OSt | Trikotine | blau | 0815 | 2×-p |
 | 2. | Seitenteil | OSt | Trikotine | blau | 0815 | 2×-p |
 | 3. | Rückteil | OSt | Trikotine | blau | 0815 | 2×-p |
@@ -52,9 +48,12 @@ Bildprüfung S.485 — bestätigt gegen `1_Bilder/368-544/s485.jpg`: Die Tabelle
 | 33. | Unterärmel-Kugel-Einlage | Einlage | Softlight | grau | S-001-2 | 2×-p |
 | 34. | Brustleistentaschen-Einlage | Einlage | Vlies | anthrazit | V-94-A | 1× |
 | 35. | Pattentaschen-Einlage | Einlage | Softlight | grau | S-001-2 | 2×-p |
-```
+| 36. |  |  |  |  |  |  |
+| 37. |  |  |  |  |  |  |
+| 38. |  |  |  |  |  |  |
+| 39. |  |  |  |  |  |  |
+| 40. |  |  |  |  |  |  |
 
-### Quelle Zeilen 57–57
-```text
 2×-p (p = paarig) = 2 spiegelsymmetrische Schnittteile
-```
+
+[Randregister: Mantel mit Schalkragen]

@@ -5,7 +5,7 @@ Quelle: Hofenbitzer, *Grundschnitte und Modellentwicklungen*, Band 1,
 Konfektionsgroeszen, basierend auf den Reihenmessungen von 1994".
 
 Transkript im Repo:
-`100_quellen/10_hofenbitzer_b1/2_transkript/band_1_geprueft_v1/s20.md`
+`100_quellen/10_hofenbitzer_b1/band_1_geprueft_v1/s20.md`
 
 Alle Werte in **Zentimeter**, wie im Buch gedruckt. Die Umrechnung nach
 Millimeter geschieht erst in der Konstruktion (`geometrie.cm`).

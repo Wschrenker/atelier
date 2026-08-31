@@ -8,7 +8,7 @@ Quelle: Hofenbitzer Band 1, 3. Auflage 2024
   Taillenabnaeher, Hueftausfall, Hueft-Fehlbetrag
 
 Transkripte:
-`100_quellen/10_hofenbitzer_b1/2_transkript/band_1_geprueft_v1/s184.md`, `s185.md`
+`100_quellen/10_hofenbitzer_b1/band_1_geprueft_v1/s184.md`, `s185.md`
 
 Rechnung in **Millimeter**, Y nach unten.
 

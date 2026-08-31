@@ -2,8 +2,8 @@
 
 Quelle: Guido Hofenbitzer, *Grundschnitte und Modellentwicklungen. Schnittkonstruktion für Damenmode.* Europa-Lehrmittel, Band 1 (3. Auflage 2024) — Buch-Sachwortverzeichnis, S. 541–544.
 
-Übertragen aus `100_quellen/10_hofenbitzer_b1/2_transkript/band_1_archiv/band_1/s534-536_538_540-541_codex_v2_mit_pruefstellen.md` (S. 541) und
-`100_quellen/10_hofenbitzer_b1/2_transkript/band_1_archiv/band_1/s542-544_codex_v2_mit_pruefstellen.md` (S. 542–544). Reihenfolge, Schreibweise und Seitenverweise des Buchs wurden unverändert übernommen — auch dort, wo sie von der reinen Alphabetfolge abweichen oder ein Sachwort mehrfach mit derselben oder unterschiedlicher Seitenzahl erscheint (siehe Anmerkungen am Ende).
+Übertragen aus `100_quellen/10_hofenbitzer_b1/3_band_1_archiv/band_1/s534-536_538_540-541_codex_v2_mit_pruefstellen.md` (S. 541) und
+`100_quellen/10_hofenbitzer_b1/3_band_1_archiv/band_1/s542-544_codex_v2_mit_pruefstellen.md` (S. 542–544). Reihenfolge, Schreibweise und Seitenverweise des Buchs wurden unverändert übernommen — auch dort, wo sie von der reinen Alphabetfolge abweichen oder ein Sachwort mehrfach mit derselben oder unterschiedlicher Seitenzahl erscheint (siehe Anmerkungen am Ende).
 
 ## S. 541
 

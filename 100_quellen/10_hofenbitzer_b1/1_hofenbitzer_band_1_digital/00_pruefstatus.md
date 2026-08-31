@@ -2,7 +2,7 @@
 
 Stand: 2026-08-31 · aufgeteilt aus dem früheren `../README.md` und gegen den
 heutigen Bestand nachgerechnet. Dessen letzte Fassung liegt unverändert als
-[`../band_1_archiv/README_stand_2026-08-30.md`](../band_1_archiv/README_stand_2026-08-30.md).
+[`../3_band_1_archiv/README_stand_2026-08-30.md`](../3_band_1_archiv/README_stand_2026-08-30.md).
 
 Dieses Dokument gilt für die digitale Fassung in diesem Ordner. Die
 seitenbezogenen Prüfstellen stehen **nicht mehr hier**, sondern als
@@ -27,7 +27,7 @@ liegt**. Dieses Modell ist mit der Zusammenführung zu einer digitalen Fassung
 entfallen — es gibt nur noch einen Ort je Seite.
 
 Der Prüfstand wird deshalb hier geführt. Die Herkunft jeder Seite bleibt über
-`../band_1_archiv/` nachweisbar:
+`../3_band_1_archiv/` nachweisbar:
 
 | Herkunftsordner im Archiv | Bedeutung | Seiten |
 |---|---|--:|
@@ -46,14 +46,14 @@ Ohne Seitendatei sind nur **S. 4–7**:
 - **S. 1–3** liegen als `arbeits-s1.md` … `arbeits-s3.md` vor — die Frontmatter-Fotos
   zeigen keine gedruckten Seitenzahlen.
 - **S. 4–6** existieren nur als `arbeits-s4-6.md` in
-  `../band_1_archiv/band_1/archiv_pruefstellen/` und wurden nicht in die digitale
+  `../3_band_1_archiv/band_1/archiv_pruefstellen/` und wurden nicht in die digitale
   Fassung übernommen. Es sind die Inhaltsverzeichnisseiten, nach denen dieser
   Ordner gegliedert ist.
 - **S. 7** ist nicht transkribiert. Das Quellfoto `20260617_155834.jpg` ist zugeordnet,
   der Text der Doppelseite wurde in den Altdateien der S. 8 zugeschlagen. **Offen.**
 
 Band 1 endet mit **S. 544** (letzte Seite des Sachwortverzeichnisses, per Foto
-`../../1_Bilder/368-544/s544.jpg` bestätigt). Hinter S. 544 fehlt nichts.
+`../2_bilder/368-544/s544.jpg` bestätigt). Hinter S. 544 fehlt nichts.
 
 > **Korrektur gegenüber dem alten README.** Dort standen 337 geprüfte und 200 offene
 > Seiten. Diese Zahlen stammen aus der Zeit vor der dritten Prüfwelle und waren schon
@@ -66,7 +66,7 @@ Band 1 endet mit **S. 544** (letzte Seite des Sachwortverzeichnisses, per Foto
 
 - **Eine Buchseite = eine Datei** `s<Seite>.md`.
 - Überholte Sammeldateien (Mehrseiten- und Rohtranskripte) liegen unverändert in
-  `../band_1_archiv/band_1/archiv_pruefstellen/`. Jede Einzelseite nennt ihre
+  `../3_band_1_archiv/band_1/archiv_pruefstellen/`. Jede Einzelseite nennt ihre
   Sammeldatei in der Zeile **Herkunft**.
 - Ausnahmen von der Namenskonvention (Altbestand, wird nicht mehr nachgezogen):
   79 der 246 Dateien aus `band_1_geprüft_v1/` tragen noch alte Namen
@@ -75,7 +75,7 @@ Band 1 endet mit **S. 544** (letzte Seite des Sachwortverzeichnisses, per Foto
   liegen deshalb trotzdem an der richtigen Stelle.
 - Nicht seitenweise aufteilbar und weiterhin als Sammeldokument geführt:
   `s172-187_oberteil-grundgeruest_ENTWURF.md` und `s184-186_oberteil-abnaeher_ENTWURF.md`
-  in `../band_1_archiv/band_1/` (konsolidierte Spec-Entwürfe, keine Seitentranskripte)
+  in `../3_band_1_archiv/band_1/` (konsolidierte Spec-Entwürfe, keine Seitentranskripte)
   sowie `arbeits-s1.md` … `arbeits-s4-6.md` (Frontmatter ohne gedruckte Seitenzahlen).
 
 ## Zweitfassungen (dieselbe Seite aus zwei Sammeldateien)
@@ -139,13 +139,13 @@ Schritt ist ohne Klärung am Buch nicht ausführbar.
 - **B10 — Kürzel „El" (Einlage) — Transkriptionskonvention, erledigt für die geprüften Seiten:**
   Das Materialkürzel für Einlage lautet laut der Abkürzungsseite S.31 des Buches **`El`**
   (vgl. `El.1`/`El.2` und `2×-p OSt+El`). Die noch offenen `*_mit_pruefstellen`-Dateien in
-  `../band_1_archiv/band_1/` schreiben es durchgehend als `EI` (großes i) — ein reiner Lesefehler. In den
-  geprüften Ordnern kommt `EI` nicht vor; in `../band_1_archiv/band_1/` sind noch **3** Dateien betroffen.
+  `../3_band_1_archiv/band_1/` schreiben es durchgehend als `EI` (großes i) — ein reiner Lesefehler. In den
+  geprüften Ordnern kommt `EI` nicht vor; in `../3_band_1_archiv/band_1/` sind noch **3** Dateien betroffen.
   Beim Prüfen der jeweiligen Seite jeweils auf `El` korrigieren.
 
 - **C2 — Duplikat** `s45-46_382-387_407_458-461_prinzessin-ballkleid_codex_transkription.md` war bis auf
   Leerzeilen zeichengleich mit `s45-46_382-387_407_458-461_codex_transkription.md`. **Erledigt:** nur die
-  zweite Fassung wurde aufgeteilt, die Dublette liegt unverändert in `../band_1_archiv/band_1/archiv_pruefstellen/`.
+  zweite Fassung wurde aufgeteilt, die Dublette liegt unverändert in `../3_band_1_archiv/band_1/archiv_pruefstellen/`.
 
 ## Vorbehalt zur dritten Prüfwelle (v3)
 

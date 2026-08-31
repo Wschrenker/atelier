@@ -1,4 +1,4 @@
-# Hofenbitzer — Buch
+# Hofenbitzer Band 1 — Buch
 
 ## Ladeliste — Anweisung
 
@@ -8,5 +8,7 @@ werden die konkret benötigten Dateien bestimmt.
 
 ## Ladeliste
 
-- [ ] `1_Bilder/`
-- [x ] `2_transkript/`
+- [x] `1_hofenbitzer_band_1_digital/` — die aktive Fassung: Transkript, Formel
+      und normalisierte Formel je Buchseite, nach Buchkategorien geordnet
+- [ ] `2_bilder/` — Buchfotos, nicht im Repo
+- [ ] `3_band_1_archiv/` — Herkunftsstände, nur für den Nachweis

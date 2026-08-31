@@ -6,7 +6,7 @@ Quelle: `s484_codex_v2_digital_geprueft.md`
 
 ### Quelle Zeilen 2–2
 ```text
-Bildprüfung S.484 — bestätigt gegen `1_Bilder/368-544/s484.jpg`: Die genannten Material-, Mengen- und Größenangaben, Teilebezeichnungen, Nahtbänder, Fixierflächen, Schraffuren, Knipse und Nahtlinien stimmen mit dem Originalbild überein.
+Bildprüfung S.484 — bestätigt gegen `2_bilder/368-544/s484.jpg`: Die genannten Material-, Mengen- und Größenangaben, Teilebezeichnungen, Nahtbänder, Fixierflächen, Schraffuren, Knipse und Nahtlinien stimmen mit dem Originalbild überein.
 ```
 
 ### Quelle Zeilen 10–11

@@ -34,7 +34,7 @@ Rock (S.42–43)** und **kein Glockenrock** — die Erweiterung wird gleichmäß
 | Rock A-Linie | S. 42–43 | Saumerweiterter Rock-Grundschnitt | geprüft |
 | Asymmetrische Drapierung | S. 423 | Asymmetrische OT-Gestaltung, Wickeloptik ❑8 | **roh, keine Zahlen** |
 
-Transkripte: `100_quellen/10_hofenbitzer_b1/2_transkript/hofenbitzer_band_1_digital/`
+Transkripte: `100_quellen/10_hofenbitzer_b1/1_hofenbitzer_band_1_digital/`
 
 **S. 44 (echter Glockenrock) wird für dieses Kleid nicht benutzt.** Das Modul
 liegt trotzdem in `500_python/10_rechnung/rock/glocke.py`, weil S.44 die

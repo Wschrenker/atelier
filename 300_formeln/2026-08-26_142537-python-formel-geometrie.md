@@ -13,7 +13,7 @@
 ## Aktueller Kontext
 
 - Die Rohformelsammlung liegt unter:
-  `100_quellen/10_hofenbitzer_b1/2_transkript/hofenbitzer_band_1_digital/`.
+  `100_quellen/10_hofenbitzer_b1/1_hofenbitzer_band_1_digital/`.
 - Der Index nennt derzeit 183 Dateien und 905 Formelzeilen; weitere Formeln kommen hinzu.
 - Die Quelle ist noch in Bewegung. Deshalb keine automatische Massenübersetzung.
 - `500_python/10_rechnung/` ist bewusst leer und soll erst nach vollständiger Quellenfreigabe beginnen.

@@ -1,5 +1,5 @@
 ## S.484
-Bildprüfung S.484 — bestätigt gegen `1_Bilder/368-544/s484.jpg`: Die genannten Material-, Mengen- und Größenangaben, Teilebezeichnungen, Nahtbänder, Fixierflächen, Schraffuren, Knipse und Nahtlinien stimmen mit dem Originalbild überein.
+Bildprüfung S.484 — bestätigt gegen `2_bilder/368-544/s484.jpg`: Die genannten Material-, Mengen- und Größenangaben, Teilebezeichnungen, Nahtbänder, Fixierflächen, Schraffuren, Knipse und Nahtlinien stimmen mit dem Originalbild überein.
 
 ### Klassischer zweireihiger Blazer (8)
 

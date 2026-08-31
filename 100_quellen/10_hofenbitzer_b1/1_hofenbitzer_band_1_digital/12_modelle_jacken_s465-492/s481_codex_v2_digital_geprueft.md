@@ -1,5 +1,5 @@
 ## S.481
-Bildprüfung S.481 — bestätigt gegen `1_Bilder/368-544/s481.jpg`: Die drei Beschnitt-Varianten, die genannten Maße (`2,2 cm`, `4 cm SaEs + 1 cm NZg`, `4 bis 6 cm`, `0,5 cm`, `1 cm`), Nahtlinien, Futterflächen und Beschriftungen (`VT`, `VT-Futter`, `vBe`, `OSt`, `El`, `Futter`, `G 38`, `Belegnaht`, `Futteransatznaht`) stimmen mit dem Originalbild überein.
+Bildprüfung S.481 — bestätigt gegen `2_bilder/368-544/s481.jpg`: Die drei Beschnitt-Varianten, die genannten Maße (`2,2 cm`, `4 cm SaEs + 1 cm NZg`, `4 bis 6 cm`, `0,5 cm`, `1 cm`), Nahtlinien, Futterflächen und Beschriftungen (`VT`, `VT-Futter`, `vBe`, `OSt`, `El`, `Futter`, `G 38`, `Belegnaht`, `Futteransatznaht`) stimmen mit dem Originalbild überein.
 
 ### Klassischer zweireihiger Blazer (5)
 

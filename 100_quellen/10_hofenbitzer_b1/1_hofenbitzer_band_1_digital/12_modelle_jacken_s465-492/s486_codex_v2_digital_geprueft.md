@@ -1,5 +1,5 @@
 ## S.486
-Bildprüfung S.486 — bestätigt gegen `1_Bilder/368-544/s486.jpg`: Passform-Piktogramm, Weitenzugaben, Konstruktionsbeschriftungen, Fachkürzel und das in Schritt 8 als `obersten Kopf` lesbare Wort stimmen mit dem Originalbild überein.
+Bildprüfung S.486 — bestätigt gegen `2_bilder/368-544/s486.jpg`: Passform-Piktogramm, Weitenzugaben, Konstruktionsbeschriftungen, Fachkürzel und das in Schritt 8 als `obersten Kopf` lesbare Wort stimmen mit dem Originalbild überein.
 
 ### Mantel mit Schalkragen (1)
 

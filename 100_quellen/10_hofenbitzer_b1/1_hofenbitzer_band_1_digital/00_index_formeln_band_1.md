@@ -17,7 +17,7 @@ Freigabe durch Werner oder Munkhuu ist damit nicht verbunden.
 
 Zwischen v1, v2 und v3 gibt es keine doppelt belegte Buchseite.
 Die ursprünglichen Extraktionsordner liegen nach der Konsolidierung unter
-`../band_1_archiv/`.
+`../3_band_1_archiv/`.
 
 ## Kategorien
 

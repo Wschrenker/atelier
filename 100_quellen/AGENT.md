@@ -65,8 +65,11 @@ Zweite Stufe — in jedem Buchordner derselbe Aufbau:
 
 | Ordner | Inhalt | Git |
 |---|---|---|
-| `1_Bilder/` | Fotos der Seiten, nach Seitenbereich gebündelt, dazu `index.md` — was wo steht | **draußen** |
-| `2_transkript/` | Die Abschriften, nach Band getrennt | **drin** |
+| `1_hofenbitzer_band_1_digital/` | Die aktive Fassung von Band 1: Transkript, Formel und normalisierte Formel je Buchseite, nach Buchkategorien geordnet | **drin** |
+| `2_bilder/` | Fotos der Seiten, nach Seitenbereich gebündelt, dazu `index.md` — was wo steht | **draußen** |
+| `3_band_1_archiv/` | Die unveränderten Herkunftsstände, nur für den Nachweis | **drin** |
+
+Band 2 liegt getrennt unter `11_hofenbitzer_b2/`.
 
 Grund für die Trennung: die Fotos sind rund 2,1 GB und gehören nicht ins Repo.
 Die Transkripte **sind** die Quelle der Engine und dürfen nie verloren gehen.
@@ -114,15 +117,16 @@ später jede Kopie finden können.
 
 ## Offene Stellen
 
-Der Prüfstand steht in `10_hofenbitzer_b1/2_transkript/band_1_archiv/band_1/README.md`:
-vermutete Buchfehler (A1–A6), unlesbare Stellen (B1–B7), der Doppel-Konflikt
-S. 438/439 (C1) und die noch ausstehende digitale Zweitprüfung (D).
+Der Prüfstand steht in
+`10_hofenbitzer_b1/1_hofenbitzer_band_1_digital/00_pruefstatus.md`: 118 Punkte,
+davon 115 offen — vermutete Buchfehler (A), unlesbare Stellen (B), dateiübergreifende
+Konflikte (C) und die aus den Transkripten nachgetragenen Stellen (N). Die
+seitenbezogenen Punkte liegen als `00_pruefstellen.md` in der jeweiligen Kategorie.
+Dort steht auch der Vorbehalt zur dritten Prüfwelle.
 **Er wird dort gepflegt, nicht hier.**
 
 Struktur, noch nicht aufgeräumt:
 
-- `10_hofenbitzer_b1` heißt „b1", enthält aber auch `2_transkript/band_2/`
-  — entweder Ordner zu `10_hofenbitzer` kürzen oder Band 2 herauslösen
 - `20_lexikon_der_gewebe` ist leer — Buch oder Nummer wieder freigeben
 - Namen gegen die Regel der obersten Ebene: `1_Bilder` (Großbuchstabe),
   `Photos-3-001 (4)` (Leerzeichen und Klammern), `…_ENTWURF.md` (Versalien)

@@ -1,6 +1,6 @@
 # Abkürzungen aus Formeln — Hofenbitzer Band 1, geprüft v1
 
-Quelle: `100_quellen/10_hofenbitzer_b1/2_transkript/hofenbitzer_band_1_digital/`
+Quelle: `100_quellen/10_hofenbitzer_b1/1_hofenbitzer_band_1_digital/`
 
 Status: **Arbeitsbestand aus digital geprüften Transkripten**. Die Formeln v1 sind
 noch nicht am physischen Buch freigegeben. Dieser Bestand darf daher noch nicht
