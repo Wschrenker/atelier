@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 127
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s127.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s127.md`
 Originaltranskript: `../Band_1_geprüft_v1/s127.md`
 Buchseite: Hofenbitzer, Band 1, S. 127
 

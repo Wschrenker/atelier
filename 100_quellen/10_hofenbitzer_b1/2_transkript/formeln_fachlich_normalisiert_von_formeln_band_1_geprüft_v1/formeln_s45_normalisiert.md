@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 45
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s45.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s45.md`
 Originaltranskript: `../Band_1_geprüft_v1/s45.md`
 Buchseite: Hofenbitzer, Band 1, S. 45
 

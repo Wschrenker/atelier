@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 86
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s86_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s86_codex_v2_digital_geprueft.md`
 Originaltranskript: `../Band_1_geprüft_v1/s86_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 86
 

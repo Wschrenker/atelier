@@ -1,6 +1,6 @@
 # Index — fachlich normalisierte Formeln, Hofenbitzer Band 1, geprüft v1
 
-Quelle: `../formeln_band_1_geprüft_v1/`
+Quelle: `../hofenbitzer_band_1_digital/`
 
 Dieser Index dokumentiert den aktuellen Zielbestand. Er erklärt keine Formel und ersetzt weder extrahierte Formeldateien noch Originaltranskripte.
 
@@ -133,7 +133,7 @@ Dieser Index dokumentiert den aktuellen Zielbestand. Er erklärt keine Formel un
 
 ### Prüfhinweis zur Extraktionsgrenze
 
-Das Originaltranskript `../Band_1_geprüft_v1/s17.md` beschreibt in den Zeilen 21, 43 und 51 formelartige Beziehungen zur Mittelung und zur Balance. Diese Textstellen fehlen in der abgeleiteten Quelle `../formeln_band_1_geprüft_v1/formeln_s17.md`. Sie wurden deshalb in dieser Normalisierung nicht ergänzt: Die Zielschicht darf keine Buchfassung erzeugen, die im verbindlichen Formel-Quellbestand nicht vorhanden ist.
+Das Originaltranskript `../Band_1_geprüft_v1/s17.md` beschreibt in den Zeilen 21, 43 und 51 formelartige Beziehungen zur Mittelung und zur Balance. Diese Textstellen fehlen in der abgeleiteten Quelle `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/formeln_s17.md`. Sie wurden deshalb in dieser Normalisierung nicht ergänzt: Die Zielschicht darf keine Buchfassung erzeugen, die im verbindlichen Formel-Quellbestand nicht vorhanden ist.
 
 ## Ausgeschlossene Kandidaten — Tranche K02
 
@@ -183,7 +183,7 @@ Das Originaltranskript `../Band_1_geprüft_v1/s17.md` beschreibt in den Zeilen 2
 Das Originaltranskript `../Band_1_geprüft_v1/s42.md` enthält in den Zeilen 14,
 17–18 und 32 formelartige Proportions- und Verteilungsbeziehungen: Drittelung in
 sechs Bahnen, die Aufteilung `⅓`/`⅔` sowie den halben Öffnungsbetrag an der
-Seitennaht. Sie fehlen in `../formeln_band_1_geprüft_v1/formeln_s42.md` und
+Seitennaht. Sie fehlen in `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s42.md` und
 wurden deshalb in dieser Normalisierung nicht ergänzt. Im Originaltranskript
 `s43.md`, Zeile 9, steht außerdem die allgemeine Verdopplung auf sechs Keile am
 gesamten Rock, während der extrahierte Bestand nur die drei Keil-Äquivalente am

@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 391
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s391_codex_v2.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/formeln_s391_codex_v2.md`
 Originaltranskript: `../Band_1_geprüft_v1/s391_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 391
 

@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 178
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s178.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s178.md`
 Originaltranskript: `../Band_1_geprüft_v1/s178.md`
 Buchseite: Hofenbitzer, Band 1, S. 178
 

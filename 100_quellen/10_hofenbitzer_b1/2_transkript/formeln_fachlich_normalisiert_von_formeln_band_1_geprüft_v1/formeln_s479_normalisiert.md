@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 479
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s479_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/12_modelle_jacken_s465-492/formeln_s479_codex_v2_digital_geprueft.md`
 Originaltranskript: `../Band_1_geprüft_v1/s479_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 479
 

@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 143
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s143.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/05_modelle_hosen_s138-170/formeln_s143.md`
 Originaltranskript: `../Band_1_geprüft_v1/s143.md`
 Buchseite: Hofenbitzer, Band 1, S. 143
 

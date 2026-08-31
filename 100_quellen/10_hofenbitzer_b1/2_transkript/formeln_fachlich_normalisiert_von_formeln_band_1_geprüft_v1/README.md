@@ -7,7 +7,7 @@ Dieser Ordner enthält die **fachlich und technisch normalisierte Arbeitsfassung
 Arbeitsrichtung:
 
 ```text
-formeln_band_1_geprüft_v1/
+hofenbitzer_band_1_digital/
 → Formeln_fachlich_normalisiert_von_formeln_band_1_geprüft_v1/
 ```
 
@@ -22,7 +22,7 @@ Die spätere v2 und v3 blockieren diese v1-Arbeit nicht.
 
 ## Verbindliche Grenzen
 
-- Der Quellordner `../formeln_band_1_geprüft_v1/` bleibt unverändert.
+- Der Quellordner `../hofenbitzer_band_1_digital/` bleibt unverändert.
 - Normalisierung ersetzt und korrigiert keine Buchquelle.
 - Buchfassung und technische Fassung bleiben sichtbar getrennt.
 - Keine fehlenden Werte, Begriffe oder Regeln erfinden.
@@ -223,8 +223,8 @@ nicht erledigte Tranche, sofern Werner keine andere ausdrücklich auswählt.
 
 ### Vollständigkeits- und Übergaberegel
 
-- Die oben genannten Seiten entsprechen exakt allen 183 Einträgen aus
-  `../formeln_band_1_geprüft_v1/00_index_formeln_band_1.md`; keine Quelldatei
+- Die oben genannten Seiten entsprechen exakt den 183 Einträgen mit Herkunft `v1`
+  in `../hofenbitzer_band_1_digital/00_index_formeln_band_1.md`; keine v1-Quelldatei
   ist außerhalb einer Tranche.
 - Nicht vorhandene Zwischenseiten sind keine Lücke dieser Karte: Im
   Extraktionsindex gibt es für sie keine Formeldatei.

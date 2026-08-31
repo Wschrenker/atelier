@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 33
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s33.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s33.md`
 Originaltranskript: `../Band_1_geprüft_v1/s33.md`
 Buchseite: Hofenbitzer, Band 1, S. 33
 

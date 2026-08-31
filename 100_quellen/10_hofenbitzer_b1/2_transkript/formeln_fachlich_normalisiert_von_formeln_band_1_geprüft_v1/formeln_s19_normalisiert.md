@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 19
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s19.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/formeln_s19.md`
 Originaltranskript: `../Band_1_geprüft_v1/s19.md`
 Buchseite: Hofenbitzer, Band 1, S. 19
 

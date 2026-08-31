@@ -1,6 +1,6 @@
 # Fachlich normalisierte Formeln — S. 306
 
-Quelle der Normalisierung: `../formeln_band_1_geprüft_v1/formeln_s306.md`
+Quelle der Normalisierung: `../hofenbitzer_band_1_digital/09_kragen_kapuzen_taschen_s290-369/formeln_s306.md`
 Originaltranskript: `../Band_1_geprüft_v1/s306.md`
 Buchseite: Hofenbitzer, Band 1, S. 306
 
