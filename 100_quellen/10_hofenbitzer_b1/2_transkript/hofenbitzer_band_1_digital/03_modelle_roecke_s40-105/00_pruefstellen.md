@@ -9,7 +9,7 @@ Die genannte Seite liegt als `s<Seite>.md` im selben Ordner.
 Gesamtübersicht, Prüfmethode und übergreifende Punkte:
 [`../00_pruefstatus.md`](../00_pruefstatus.md)
 
-**Offen in dieser Kategorie: 9 Punkte** (A: 7, B: 2)
+**Offen in dieser Kategorie: 10 Punkte** (A: 7, B: 2, N: 1)
 
 ## A — Vermutete Buchfehler
 
@@ -45,3 +45,15 @@ Gesamtübersicht, Prüfmethode und übergreifende Punkte:
   Verweis **`46`** scharf und eindeutig lesbar, und beide Seiten verweisen im Text auf den
   eingestellten Rockschnitt von Seite 46. Die Lesung `46` auf S.100 ist damit sehr wahrscheinlich
   richtig; die Bestätigung am Buch bleibt offen.
+
+## N — Nachgetragen aus den Transkripten
+
+Stellen, die im Transkript als `UNLESBAR` markiert sind, aber nie in die
+Punkteliste des alten README übertragen wurden. Nachgetragen am 2026-08-31.
+Gleiche Bedeutung wie Gruppe B: am Buch nachlesen.
+
+- **N1 — S. 79, Arbeitsschritt 6 (höhere Priorität):** Der Schritt lautet im Transkript
+  „An den Formbundteilen die `UNLESBAR` reduzieren.“ — die Marke steht **anstelle eines
+  Wortes mitten in einer Konstruktionsanweisung**, nicht am Rand einer Abbildung. Ohne dieses
+  Wort ist der Schritt nicht ausführbar. *Am Buch nachlesen, was reduziert wird.*
+  Datei: `s79_codex_v2_digital_geprueft.md`, Zeile 35.
