@@ -1,0 +1,17 @@
+Kleid Lumiere - Referenzgroesze 38
+==============================================================
+Oberteil S.177  BrW 96.0  1/2 48.0  Kontrolle RueB+ + ArD+ + BrB+ - 1/2 BrW = 0.0
+                TaW 74.0  1/2 37.0   individuelle Balance 3.7 (optimal 3,5)
+S.184  me 1.4 cm -> vAbl 2.4 cm
+S.184  vTaB 20.7667 + hTaB 23.8814 - 1/2 TaW 37.0 = TaAf 7.6481 cm
+S.185  Aufteilung: SN 2.0 + shAbl 2.3722 + hAbl 3.2759
+S.184  Brustabnaeher: 13.5 Grad Drehung um den BrP - NUR als Konstruktionslinie eingezeichnet, siehe DEFINITION.md
+Rock S.33  HueW 100.0  TaW 74.0  TaAf 13.0  Kontrolle 0.0
+Rock S.43  Oeffnungsbetrag 15.0 cm je Keil (6 Keile)  Saumweite 190.0 cm
+           verbleibender RT-Abnaeher 1.9 cm
+
+Kontrolle Taillennaht (halber Schnitt):
+  Oberteil 37.06 cm   Rock 37.05 cm   Differenz +0.01 cm
+
+DXF geschrieben: C:\ATELIER\1100_test\kleid_lumiere_claude\700_schnitte\20_kleid_lumiere\ausgabe\kleid_lumiere_gr38.dxf
+  6 Schnittteile, Einheit Millimeter, ohne Nahtzugaben
