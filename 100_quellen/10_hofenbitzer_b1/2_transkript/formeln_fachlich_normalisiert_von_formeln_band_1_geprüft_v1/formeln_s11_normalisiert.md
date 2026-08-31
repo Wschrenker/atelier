@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 11
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/formeln_s11.md`
-Originaltranskript: `../Band_1_geprüft_v1/s11.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/s11.md`
 Buchseite: Hofenbitzer, Band 1, S. 11
 
 ## HOF-B1-S011-F01 — Figurinenhöhe im Maßstab 1:16

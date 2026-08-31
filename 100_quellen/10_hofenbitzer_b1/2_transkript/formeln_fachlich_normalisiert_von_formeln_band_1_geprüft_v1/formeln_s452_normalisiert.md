@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 452
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/11_modelle_kleider_blusen_westen_s438-464/formeln_s452.md`
-Originaltranskript: `../Band_1_geprüft_v1/s452.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/11_modelle_kleider_blusen_westen_s438-464/s452.md`
 Buchseite: Hofenbitzer, Band 1, S. 452
 
 ## HOF-B1-S452-F01 — Abstand der Unterbrustnaht vom Brustpunkt

@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 176
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s176.md`
-Originaltranskript: `../Band_1_geprüft_v1/s176.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s176.md`
 Buchseite: Hofenbitzer, Band 1, S. 176
 
 ## HOF-B1-S176-F01 — Brustumfangszugabe aus der Passformklasse

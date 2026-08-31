@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 129
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s129.md`
-Originaltranskript: `../Band_1_geprüft_v1/s129.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s129.md`
 Buchseite: Hofenbitzer, Band 1, S. 129
 
 ## HOF-B1-S129-F01 — Vorderer Hosenausschnitt der weiterreduzierten engen Hose

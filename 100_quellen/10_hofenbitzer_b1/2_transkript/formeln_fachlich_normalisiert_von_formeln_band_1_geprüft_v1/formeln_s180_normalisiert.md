@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 180
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s180.md`
-Originaltranskript: `../Band_1_geprüft_v1/s180.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s180.md`
 Buchseite: Hofenbitzer, Band 1, S. 180
 
 ## HOF-B1-S180-F01 — Aufteilung des Armdurchmessers zwischen hinterer und vorderer Seite

@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 185
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s185.md`
-Originaltranskript: `../Band_1_geprüft_v1/s185.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s185.md`
 Buchseite: Hofenbitzer, Band 1, S. 185
 
 ## HOF-B1-S185-F01 — Taillenausfallanteil an den Seitennähten

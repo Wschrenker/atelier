@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 20
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/formeln_s20.md`
-Originaltranskript: `../Band_1_geprüft_v1/s20.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/s20.md`
 Buchseite: Hofenbitzer, Band 1, S. 20
 
 Die extrahierten Kandidaten aus `formeln_s20.md`, Zeilen 9, 19–20, 25, 30 und 35, sind Randregister, Maßbereich-Beschriftungen, Nachweistext, eine Fußnote oder eine unvollständige Bezeichnungsliste. Sie sind keine Rechenformeln und werden nicht normalisiert.

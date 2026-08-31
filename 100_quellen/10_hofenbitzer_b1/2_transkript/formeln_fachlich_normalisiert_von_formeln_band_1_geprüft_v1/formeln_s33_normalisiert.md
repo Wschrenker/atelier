@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 33
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s33.md`
-Originaltranskript: `../Band_1_geprüft_v1/s33.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s33.md`
 Buchseite: Hofenbitzer, Band 1, S. 33
 
 ## HOF-B1-S033-F01 — Taillenausfall aus Hüft- und Taillenweite

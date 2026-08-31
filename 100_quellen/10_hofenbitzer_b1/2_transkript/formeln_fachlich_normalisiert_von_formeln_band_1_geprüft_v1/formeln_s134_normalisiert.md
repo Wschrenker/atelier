@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 134
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s134.md`
-Originaltranskript: `../Band_1_geprüft_v1/s134.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s134.md`
 Buchseite: Hofenbitzer, Band 1, S. 134
 
 ## HOF-B1-S134-F01 — Öffnungsbetrag der Bundfalte mit fehlendem Minuenden

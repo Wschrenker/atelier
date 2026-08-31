@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 122
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s122.md`
-Originaltranskript: `../Band_1_geprüft_v1/s122.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s122.md`
 Buchseite: Hofenbitzer, Band 1, S. 122
 
 ## HOF-B1-S122-F01 — Hintere Taillenvertiefung im Beispiel

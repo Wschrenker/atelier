@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 235
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/08_aermel_varianten_s221-289/formeln_s235_codex_v2_digital_geprueft.md`
-Originaltranskript: `../Band_1_geprüft_v1/s235_codex_v2_digital_geprueft.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/08_aermel_varianten_s221-289/s235_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 235
 
 ## HOF-B1-S235-F01 — Erhöhung der Futter-Ärmelkugelnaht unter der Achsel

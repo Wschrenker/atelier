@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 68
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s68.md`
-Originaltranskript: `../Band_1_geprüft_v1/s68.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s68.md`
 Buchseite: Hofenbitzer, Band 1, S. 68
 
 ## HOF-B1-S068-F01 — Rocksaumweite mit eingesetzten Godets

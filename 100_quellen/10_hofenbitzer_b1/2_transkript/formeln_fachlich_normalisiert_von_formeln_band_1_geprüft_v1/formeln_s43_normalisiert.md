@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 43
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s43.md`
-Originaltranskript: `../Band_1_geprüft_v1/s43.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s43.md`
 Buchseite: Hofenbitzer, Band 1, S. 43
 
 ## HOF-B1-S043-F01 — Erweiterungskeile am halben Rock

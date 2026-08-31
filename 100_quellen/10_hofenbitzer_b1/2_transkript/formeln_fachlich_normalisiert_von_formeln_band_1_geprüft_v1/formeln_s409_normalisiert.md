@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 409
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/formeln_s409_codex_v2.md`
-Originaltranskript: `../Band_1_geprüft_v1/s409_codex_v2.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/s409_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 409
 
 ## HOF-B1-S409-F01 — Ganze Taillennahtlänge des Rückenteils aus ihrer halben Länge

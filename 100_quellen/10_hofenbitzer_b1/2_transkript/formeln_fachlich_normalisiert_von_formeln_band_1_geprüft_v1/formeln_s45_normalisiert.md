@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 45
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s45.md`
-Originaltranskript: `../Band_1_geprüft_v1/s45.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s45.md`
 Buchseite: Hofenbitzer, Band 1, S. 45
 
 ## HOF-B1-S045-F01 — Taillenradius der Halbglocke

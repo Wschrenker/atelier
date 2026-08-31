@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 37
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s37.md`
-Originaltranskript: `../Band_1_geprüft_v1/s37.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s37.md`
 Buchseite: Hofenbitzer, Band 1, S. 37
 
 ## HOF-B1-S037-F01 — Größerer Hüftabstich bei breiter Hüfte

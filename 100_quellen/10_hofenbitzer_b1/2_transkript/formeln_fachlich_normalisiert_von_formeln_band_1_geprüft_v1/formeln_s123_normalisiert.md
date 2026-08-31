@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 123
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s123.md`
-Originaltranskript: `../Band_1_geprüft_v1/s123.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s123.md`
 Buchseite: Hofenbitzer, Band 1, S. 123
 
 ## HOF-B1-S123-F01 — Wadenhöhe aus Kniehöhe

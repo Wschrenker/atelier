@@ -1,16 +1,30 @@
-# Hofenbitzer Band 1 — digitale Formelsammlung
+# Hofenbitzer Band 1 — digitale Fassung
 
 ## Zweck
 
-Dieser Ordner ist die gemeinsame digitale Formelsammlung aus den bisherigen
-Extraktionsständen v1, v2 und v3. Die Formeldokumente bleiben originalgetreu
-und werden nur nach den Buchkategorien der Inhaltsverzeichnisse S. 4–7 geordnet.
+Dieser Ordner ist die gemeinsame digitale Fassung von Band 1 aus den bisherigen
+Ständen v1, v2 und v3. Die Dokumente bleiben originalgetreu und werden nur nach
+den Buchkategorien der Inhaltsverzeichnisse S. 4–7 geordnet.
 
 Digital geprüft belegt nur die Transkriptionstreue, nicht die fachliche Freigabe.
 
+## Dokumentarten
+
+Jede Kategorie enthält beide Arten zur selben Buchseite nebeneinander:
+
+- **Seitentranskript** — Dateiname beginnt mit `s<Seite>`, z. B. `s33.md`.
+  Der Rest des Namens hält die Herkunft fest (`_digital_geprüft`, `_codex_v2`,
+  `_glockenrock`) und wurde bewusst nicht vereinheitlicht.
+- **Formeldokument** — Dateiname beginnt mit `formeln_s<Seite>`, z. B. `formeln_s33.md`.
+
+Alles zu einer Seite findet sich also über die Seitenzahl:
+`ls 02_grundschnitte_roecke_s32-39/*s33*`
+
+Bestand: 541 Seitentranskripte, 427 Formeldokumente.
+
 ## Navigation
 
-- `00_index_formeln_band_1.md` — gemeinsamer Index mit Herkunft und Zählung
+- `00_index_formeln_band_1.md` — gemeinsamer Index der Formeldokumente
 - `00_vorspann_s1-7/` — Vorspann, S. 1–7
 - `01_grundlagen_s8-31/` — Grundlagen, S. 8–31
 - `02_grundschnitte_roecke_s32-39/` — Grundschnitte: Röcke, S. 32–39

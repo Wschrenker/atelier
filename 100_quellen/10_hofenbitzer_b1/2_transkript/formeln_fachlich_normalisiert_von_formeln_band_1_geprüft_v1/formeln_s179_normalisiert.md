@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 179
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s179.md`
-Originaltranskript: `../Band_1_geprüft_v1/s179.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s179.md`
 Buchseite: Hofenbitzer, Band 1, S. 179
 
 ## HOF-B1-S179-F01 — Vertikale Lage von P2 aus der Halslochbreite

@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 376
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/formeln_s376_codex_v2.md`
-Originaltranskript: `../Band_1_geprüft_v1/s376_codex_v2.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/s376_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 376
 
 ## HOF-B1-S376-F01 — Gesamte Saumerweiterung über sechs Nähte

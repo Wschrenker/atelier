@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 196
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s196.md`
-Originaltranskript: `../Band_1_geprüft_v1/s196.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s196.md`
 Buchseite: Hofenbitzer, Band 1, S. 196
 
 ## HOF-B1-S196-F01 — Brustbreiten-Zugabedifferenz von PK 3 zu PK 0

@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 371
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/formeln_s371_codex_v2.md`
-Originaltranskript: `../Band_1_geprüft_v1/s371_codex_v2.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/s371_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 371
 
 ## HOF-B1-S371-F01 — Verkleinerung des Armdurchmessers für ein ärmelloses Oberteil

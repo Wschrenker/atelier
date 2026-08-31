@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 38
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s38.md`
-Originaltranskript: `../Band_1_geprüft_v1/s38.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s38.md`
 Buchseite: Hofenbitzer, Band 1, S. 38
 
 ## HOF-B1-S038-F01 — Hüftweite und Teilweiten mit Zugabe

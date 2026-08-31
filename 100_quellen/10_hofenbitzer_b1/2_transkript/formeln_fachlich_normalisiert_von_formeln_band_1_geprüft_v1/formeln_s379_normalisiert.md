@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 379
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/formeln_s379_codex_v2.md`
-Originaltranskript: `../Band_1_geprüft_v1/s379_codex_v2.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/s379_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 379
 
 ## HOF-B1-S379-F01 — Unbezeichnete Multiplikation über sechs Nähte

@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 79
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s79_codex_v2_digital_geprueft.md`
-Originaltranskript: `../Band_1_geprüft_v1/s79_codex_v2_digital_geprueft.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s79_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 79
 
 ## HOF-B1-S079-F01 — Saumweitenreduzierung des Ballonrocks

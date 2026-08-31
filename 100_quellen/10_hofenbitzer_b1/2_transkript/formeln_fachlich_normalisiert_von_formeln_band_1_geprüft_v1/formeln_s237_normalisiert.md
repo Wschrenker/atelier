@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 237
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/08_aermel_varianten_s221-289/formeln_s237_codex_v2_digital_geprueft.md`
-Originaltranskript: `../Band_1_geprüft_v1/s237_codex_v2_digital_geprueft.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/08_aermel_varianten_s221-289/s237_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 237
 
 ## HOF-B1-S237-F01 — Mindestabstand des untersten Knopfes vom Saum

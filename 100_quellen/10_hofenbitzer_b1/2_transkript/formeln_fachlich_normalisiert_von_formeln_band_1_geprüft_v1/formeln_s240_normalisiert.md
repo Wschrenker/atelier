@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 240
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/08_aermel_varianten_s221-289/formeln_s240_codex_v2_digital_geprueft.md`
-Originaltranskript: `../Band_1_geprüft_v1/s240_codex_v2_digital_geprueft.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/08_aermel_varianten_s221-289/s240_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 240
 
 ## HOF-B1-S240-F01 — Zwei unbezeichnete Additionen am offenen Ärmelschlitz

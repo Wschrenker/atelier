@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 44
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s44_glockenrock.md`
-Originaltranskript: `../Band_1_geprüft_v1/s44_glockenrock.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s44_glockenrock.md`
 Buchseite: Hofenbitzer, Band 1, S. 44
 
 ## HOF-B1-S044-F01 — Taillenradius der Vollglocke

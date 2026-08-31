@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 39
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s39.md`
-Originaltranskript: `../Band_1_geprüft_v1/s39.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s39.md`
 Buchseite: Hofenbitzer, Band 1, S. 39
 
 ## HOF-B1-S039-F01 — Grundmaße des geraden Bundes

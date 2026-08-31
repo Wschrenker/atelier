@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 116
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s116.md`
-Originaltranskript: `../Band_1_geprüft_v1/s116.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s116.md`
 Buchseite: Hofenbitzer, Band 1, S. 116
 
 ## HOF-B1-S116-F01 — Hintere Taillenlinienlänge mit Abnäherinhalt

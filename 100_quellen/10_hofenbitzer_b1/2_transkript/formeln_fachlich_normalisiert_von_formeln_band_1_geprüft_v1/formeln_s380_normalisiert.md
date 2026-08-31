@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 380
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/formeln_s380_codex_v2.md`
-Originaltranskript: `../Band_1_geprüft_v1/s380_codex_v2.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/s380_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 380
 
 ## HOF-B1-S380-F01 — Rückenteil-Mehrweite aus nicht vollständig aufgenommenen Abnäherinhalten

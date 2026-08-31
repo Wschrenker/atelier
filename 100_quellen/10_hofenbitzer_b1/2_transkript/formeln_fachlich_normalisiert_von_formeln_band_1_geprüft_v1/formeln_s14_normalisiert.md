@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 14
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/formeln_s14.md`
-Originaltranskript: `../Band_1_geprüft_v1/s14.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/01_grundlagen_s8-31/s14.md`
 Buchseite: Hofenbitzer, Band 1, S. 14
 
 Die extrahierte Kandidatenzeile `formeln_s14.md`, Zeile 9, ist eine Messanweisung ohne Rechenformel und wird nicht normalisiert.

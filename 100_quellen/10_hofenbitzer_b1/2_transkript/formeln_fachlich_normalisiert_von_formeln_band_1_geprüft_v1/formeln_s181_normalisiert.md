@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 181
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s181.md`
-Originaltranskript: `../Band_1_geprüft_v1/s181.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s181.md`
 Buchseite: Hofenbitzer, Band 1, S. 181
 
 ## HOF-B1-S181-F01 — Horizontale Lage des Brustpunkts

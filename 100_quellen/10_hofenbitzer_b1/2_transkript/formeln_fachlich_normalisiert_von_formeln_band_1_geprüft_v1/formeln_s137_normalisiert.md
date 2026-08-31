@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 137
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s137.md`
-Originaltranskript: `../Band_1_geprüft_v1/s137.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s137.md`
 Buchseite: Hofenbitzer, Band 1, S. 137
 
 ## HOF-B1-S137-F01 — Hosenausschnitt der legeren Hose

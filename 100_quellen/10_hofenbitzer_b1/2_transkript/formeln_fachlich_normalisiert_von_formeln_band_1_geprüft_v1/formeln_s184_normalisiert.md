@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 184
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s184.md`
-Originaltranskript: `../Band_1_geprüft_v1/s184.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s184.md`
 Buchseite: Hofenbitzer, Band 1, S. 184
 
 ## HOF-B1-S184-F01 — Inhalt des vorderen Taillenabnähers

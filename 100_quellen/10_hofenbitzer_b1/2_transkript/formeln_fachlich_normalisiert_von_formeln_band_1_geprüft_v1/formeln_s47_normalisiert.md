@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 47
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s47.md`
-Originaltranskript: `../Band_1_geprüft_v1/s47.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s47.md`
 Buchseite: Hofenbitzer, Band 1, S. 47
 
 ## HOF-B1-S047-F01 — Breitenbereich des vorderen Innenbeinteils

@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 35
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s35.md`
-Originaltranskript: `../Band_1_geprüft_v1/s35.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s35.md`
 Buchseite: Hofenbitzer, Band 1, S. 35
 
 ## HOF-B1-S035-F01 — Kontrollsumme bei zwei hinteren Abnähern

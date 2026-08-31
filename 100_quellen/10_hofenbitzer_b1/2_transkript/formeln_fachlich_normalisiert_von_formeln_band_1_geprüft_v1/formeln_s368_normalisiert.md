@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 368
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/09_kragen_kapuzen_taschen_s290-369/formeln_s368_codex_v2.md`
-Originaltranskript: `../Band_1_geprüft_v1/s368_codex_v2.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/09_kragen_kapuzen_taschen_s290-369/s368_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 368
 
 ## HOF-B1-S368-F01 — Nahtzugabe als halbe Paspelbreite

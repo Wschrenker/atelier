@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 120
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s120.md`
-Originaltranskript: `../Band_1_geprüft_v1/s120.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s120.md`
 Buchseite: Hofenbitzer, Band 1, S. 120
 
 ## HOF-B1-S120-F01 — Teilwerte des Taillenumfangs

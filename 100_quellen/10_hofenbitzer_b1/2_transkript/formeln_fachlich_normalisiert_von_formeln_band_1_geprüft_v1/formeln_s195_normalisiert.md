@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 195
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s195.md`
-Originaltranskript: `../Band_1_geprüft_v1/s195.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s195.md`
 Buchseite: Hofenbitzer, Band 1, S. 195
 
 ## HOF-B1-S195-F01 — Schulterbreiten-Zugabedifferenz von PK 3 zu PK 9

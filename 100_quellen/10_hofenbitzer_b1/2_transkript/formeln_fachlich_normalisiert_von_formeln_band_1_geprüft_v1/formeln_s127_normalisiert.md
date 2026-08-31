@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 127
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s127.md`
-Originaltranskript: `../Band_1_geprüft_v1/s127.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s127.md`
 Buchseite: Hofenbitzer, Band 1, S. 127
 
 ## HOF-B1-S127-F01 — Hintere Taillenlinienlänge der engen Hose

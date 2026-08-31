@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 93
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s93.md`
-Originaltranskript: `../Band_1_geprüft_v1/s93.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s93.md`
 Buchseite: Hofenbitzer, Band 1, S. 93
 
 ## HOF-B1-S093-F01 — Doppelter Schlitzeinschlag

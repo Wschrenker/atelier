@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 128
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s128.md`
-Originaltranskript: `../Band_1_geprüft_v1/s128.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s128.md`
 Buchseite: Hofenbitzer, Band 1, S. 128
 
 ## HOF-B1-S128-F01 — Dehnung der Materialprobe in Zentimetern

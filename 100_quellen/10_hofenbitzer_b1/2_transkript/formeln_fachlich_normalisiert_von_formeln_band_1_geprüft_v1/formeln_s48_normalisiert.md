@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 48
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s48.md`
-Originaltranskript: `../Band_1_geprüft_v1/s48.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s48.md`
 Buchseite: Hofenbitzer, Band 1, S. 48
 
 ## HOF-B1-S048-F01 — Rocknahtlänge bei Kräuselfaktor 1,5

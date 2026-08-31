@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 537
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/14_anhang_sachwortverzeichnis_s535-544/formeln_s537.md`
-Originaltranskript: `../Band_1_geprüft_v1/s537.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/14_anhang_sachwortverzeichnis_s535-544/s537.md`
 Buchseite: Hofenbitzer, Band 1, S. 537
 
 ## HOF-B1-S537-F01 — Brustumfang zum Brustweiten-Konstruktionsmaß

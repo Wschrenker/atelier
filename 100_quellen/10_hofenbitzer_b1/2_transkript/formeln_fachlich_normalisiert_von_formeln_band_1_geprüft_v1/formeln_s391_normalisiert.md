@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 391
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/formeln_s391_codex_v2.md`
-Originaltranskript: `../Band_1_geprüft_v1/s391_codex_v2.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/10_ausschnitte_s370-437/s391_codex_v2.md`
 Buchseite: Hofenbitzer, Band 1, S. 391
 
 ## HOF-B1-S391-F01 — Saumerweiterung an jeder Seitennaht

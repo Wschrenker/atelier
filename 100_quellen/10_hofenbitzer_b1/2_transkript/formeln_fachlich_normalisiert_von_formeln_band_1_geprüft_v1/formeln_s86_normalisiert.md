@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 86
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/formeln_s86_codex_v2_digital_geprueft.md`
-Originaltranskript: `../Band_1_geprüft_v1/s86_codex_v2_digital_geprueft.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/s86_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 86
 
 ## HOF-B1-S086-F01 — Hüftweite und Teilmaße

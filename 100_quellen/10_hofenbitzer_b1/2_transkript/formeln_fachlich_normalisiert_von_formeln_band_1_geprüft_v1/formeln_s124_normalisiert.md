@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 124
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/formeln_s124.md`
-Originaltranskript: `../Band_1_geprüft_v1/s124.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/04_grundschnitte_hosen_s106-137/s124.md`
 Buchseite: Hofenbitzer, Band 1, S. 124
 
 ## HOF-B1-S124-F01 — Vorderer Hosenausschnitt der engen Hose

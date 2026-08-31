@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 175
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s175.md`
-Originaltranskript: `../Band_1_geprüft_v1/s175.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s175.md`
 Buchseite: Hofenbitzer, Band 1, S. 175
 
 ## HOF-B1-S175-F01 — Korrektur der Rückenlänge bei rundem Rücken

@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 480
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/12_modelle_jacken_s465-492/formeln_s480_codex_v2_digital_geprueft.md`
-Originaltranskript: `../Band_1_geprüft_v1/s480_codex_v2_digital_geprueft.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/12_modelle_jacken_s465-492/s480_codex_v2_digital_geprueft.md`
 Buchseite: Hofenbitzer, Band 1, S. 480
 
 ## HOF-B1-S480-F01 — Belegnahtverlängerung am Vorderteil als Faltentiefe

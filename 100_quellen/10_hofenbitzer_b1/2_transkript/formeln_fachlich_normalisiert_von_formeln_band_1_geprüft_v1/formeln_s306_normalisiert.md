@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 306
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/09_kragen_kapuzen_taschen_s290-369/formeln_s306.md`
-Originaltranskript: `../Band_1_geprüft_v1/s306.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/09_kragen_kapuzen_taschen_s290-369/s306.md`
 Buchseite: Hofenbitzer, Band 1, S. 306
 
 ## HOF-B1-S306-F01 — Teilungsanteile der Einschnittabstände am runden Volantkragen

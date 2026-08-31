@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 194
 
 Quelle der Normalisierung: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/formeln_s194.md`
-Originaltranskript: `../Band_1_geprüft_v1/s194.md`
+Originaltranskript: `../hofenbitzer_band_1_digital/06_grundschnitte_oberteile_s171-196/s194.md`
 Buchseite: Hofenbitzer, Band 1, S. 194
 
 ## HOF-B1-S194-F01 — Rückenbreite mit Zugabe im vorhandenen PK-3-Grundschnitt
