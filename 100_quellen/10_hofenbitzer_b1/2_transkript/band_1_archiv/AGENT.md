@@ -19,3 +19,7 @@ verlustfreien Vergleich mit der konsolidierten digitalen Fassung.
 - `band_1_geprüft_v3/` — ursprünglicher Transkriptionsstand v3, 148 Seitentranskripte
 
 Zwischen v1, v2 und v3 ist keine Buchseite doppelt belegt.
+- `formeln_fachlich_normalisiert_von_formeln_band_1_geprüft_v1/` — ursprüngliche Ablage der
+  fachlichen Normalisierung, 68 normalisierte Formeln plus Index, Format und Auftrag
+- `formeln_fachlich_normalisiert_von_formeln_band_1_geprüft_v2/` — leer angelegt, nie befuellt
+- `formeln_fachlich_normalisiert_von_formeln_band_1_geprüft_v3/` — leer angelegt, nie befuellt

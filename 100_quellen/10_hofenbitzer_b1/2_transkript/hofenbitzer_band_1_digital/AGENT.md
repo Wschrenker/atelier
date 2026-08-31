@@ -16,15 +16,21 @@ Jede Kategorie enthält beide Arten zur selben Buchseite nebeneinander:
   Der Rest des Namens hält die Herkunft fest (`_digital_geprüft`, `_codex_v2`,
   `_glockenrock`) und wurde bewusst nicht vereinheitlicht.
 - **Formeldokument** — Dateiname beginnt mit `formeln_s<Seite>`, z. B. `formeln_s33.md`.
+- **Normalisierte Formel** — `formeln_s<Seite>_normalisiert.md`, die fachlich
+  geprüfte Arbeitsfassung. Ihre Verweise auf Formel und Transkript sind
+  ordnerlokal, weil alles zur selben Seite beieinander liegt.
 
 Alles zu einer Seite findet sich also über die Seitenzahl:
 `ls 02_grundschnitte_roecke_s32-39/*s33*`
 
-Bestand: 541 Seitentranskripte, 427 Formeldokumente.
+Bestand: 541 Seitentranskripte, 427 Formeldokumente, 68 normalisierte Formeln.
 
 ## Navigation
 
 - `00_index_formeln_band_1.md` — gemeinsamer Index der Formeldokumente
+- `00_index_normalisierte_formeln_band_1_v1.md` — Index der normalisierten Formeln
+- `00_normalisierungsformat.md` — verbindliches Format der Normalisierung
+- `00_normalisierung_readme.md` — Auftrag und Arbeitsweise der Normalisierung
 - `00_vorspann_s1-7/` — Vorspann, S. 1–7
 - `01_grundlagen_s8-31/` — Grundlagen, S. 8–31
 - `02_grundschnitte_roecke_s32-39/` — Grundschnitte: Röcke, S. 32–39
