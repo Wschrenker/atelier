@@ -23,3 +23,8 @@
 # Windows
 desktop.ini
 Thumbs.db
+
+# Python-Cache: Nebenprodukt der Ausführung, kein Werk.
+# Python legt diese Dateien bei jedem Lauf neu an; die Quelle sind die .py-Dateien.
+__pycache__/
+*.pyc
