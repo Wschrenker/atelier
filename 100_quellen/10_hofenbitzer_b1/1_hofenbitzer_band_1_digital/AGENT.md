@@ -23,7 +23,7 @@ Jede Kategorie enthält beide Arten zur selben Buchseite nebeneinander:
 Alles zu einer Seite findet sich also über die Seitenzahl:
 `ls 02_grundschnitte_roecke_s32-39/*s33*`
 
-Bestand: 541 Seitentranskripte, 427 Formeldokumente, 125 normalisierte Formeln.
+Bestand: 541 Seitentranskripte, 427 Formeldokumente, 207 normalisierte Formeln.
 
 ## Navigation
 
