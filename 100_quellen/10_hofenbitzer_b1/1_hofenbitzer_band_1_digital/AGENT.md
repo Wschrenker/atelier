@@ -23,12 +23,14 @@ Jede Kategorie enthält beide Arten zur selben Buchseite nebeneinander:
 Alles zu einer Seite findet sich also über die Seitenzahl:
 `ls 02_grundschnitte_roecke_s32-39/*s33*`
 
-Bestand: 541 Seitentranskripte, 427 Formeldokumente, 68 normalisierte Formeln.
+Bestand: 541 Seitentranskripte, 427 Formeldokumente, 125 normalisierte Formeln.
 
 ## Navigation
 
 - `00_index_formeln_band_1.md` — gemeinsamer Index der Formeldokumente
-- `00_index_normalisierte_formeln_band_1_v1.md` — Index der normalisierten Formeln
+- `00_index_normalisierte_formeln_band_1_v1.md` — Index der normalisierten v1-Formeln
+- `00_index_normalisierte_formeln_band_1_v2.md` — Arbeitskarte und Index der normalisierten v2-Formeln
+- `00_index_normalisierte_formeln_band_1_v3.md` — Arbeitskarte und Index der normalisierten v3-Formeln
 - `00_normalisierungsformat.md` — verbindliches Format der Normalisierung
 - `00_normalisierung_readme.md` — Auftrag und Arbeitsweise der Normalisierung
 - `00_vorspann_s1-7/` — Vorspann, S. 1–7
