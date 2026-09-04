@@ -15,6 +15,9 @@
 # Werkzeug-Ablagen
 .hermes/
 
+# Dossiers werden erzeugt und nicht versioniert.
+900_dossiers/
+
 # Persönliche Kundendaten bleiben lokal und gehören nicht ins Repo.
 # Die Ausgabedateien liegen getrennt in `ausgabe/` und können bei Bedarf
 # unabhängig davon versioniert oder neu erzeugt werden.
