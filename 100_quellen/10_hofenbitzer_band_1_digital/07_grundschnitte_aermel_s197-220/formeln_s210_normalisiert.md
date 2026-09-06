@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 210
 
-Quelle der Normalisierung: `formeln_s210_digital_geprüft.md`
-Originaltranskript: `s210_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s210.md`
+Originaltranskript: `s210.md`
 Buchseite: Hofenbitzer, Band 1, S. 210
 Extraktionsstand: v2
 
@@ -10,7 +10,7 @@ Die vier Buchstellen belegen dieselbe Oberarmvergrößerung für zwei Ärmelvari
 ## HOF-B1-S210-F01 — Oberarmvergrößerung durch beidseitige Öffnung
 
 - **Fachlicher Zweck:** Die gesamte Oberarmvergrößerung aus den gleich großen Öffnungen an beiden Ärmelseiten bestimmen.
-- **Quelle:** `formeln_s210_digital_geprüft.md`, Zeilen 9, 14, 19 und 24; Originaltranskript `s210_digital_geprüft.md`, Zeilen 10, 37, 45 und 73; Buchseite 210.
+- **Quelle:** `formeln_s210.md`, Zeilen 9, 14, 19 und 24; Originaltranskript `s210.md`, Zeilen 10, 37, 45 und 73; Buchseite 210.
 - **Originalbezeichnung:** Oberarmvergrößerung, Mehrweite
 - **Normalisierte Bezeichnung:** `oberarmvergroesserung_durch_zwei_seitenoeffnungen`
 

@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 379
 
-Quelle der Normalisierung: `formeln_s379_codex_v2.md`
-Originaltranskript: `s379_codex_v2.md`
+Quelle der Normalisierung: `formeln_s379.md`
+Originaltranskript: `s379.md`
 Buchseite: Hofenbitzer, Band 1, S. 379
 
 ## HOF-B1-S379-F01 — Unbezeichnete Multiplikation über sechs Nähte
 
 - **Fachlicher Zweck:** Die extrahierte Multiplikation eines Betrags von `1 cm` mit sechs Nähten rechnerisch erhalten; die fachliche Ausgabe bleibt wegen der im Extrakt fehlenden Bezeichnungszeile offen.
-- **Quelle:** `formeln_s379_codex_v2.md`, Zeilen 9 und 14; Originaltranskript `s379_codex_v2.md`, Zeilen 13 und 15; Buchseite 379.
+- **Quelle:** `formeln_s379.md`, Zeilen 9 und 14; Originaltranskript `s379.md`, Zeilen 13 und 15; Buchseite 379.
 - **Originalbezeichnung:** Im Extrakt unbezeichnete Rechnung `1 cm × 6 Nähte = 6 cm`.
 - **Normalisierte Bezeichnung:** `unbezeichnete_multiplikation_sechs_naehte`
 
@@ -53,7 +53,7 @@ unbezeichnetes_gesamtmass = betrag_je_naht * anzahl_naehte
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s379_codex_v2.md`, Zeile 19 | 1 | Wiederholung der auf S. 377 beschriebenen Öffnung des seitlichen Vorderteils um `ca. 0,3 bis 0,7 cm`; konstruktiver Eingabebereich, keine aus Eingaben berechnete Beziehung |
+| `formeln_s379.md`, Zeile 19 | 1 | Wiederholung der auf S. 377 beschriebenen Öffnung des seitlichen Vorderteils um `ca. 0,3 bis 0,7 cm`; konstruktiver Eingabebereich, keine aus Eingaben berechnete Beziehung |
 | **Summe** | **1** | **1 wiederholte Konstruktionsregel ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

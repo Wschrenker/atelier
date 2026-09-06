@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 182
 
-Quelle der Normalisierung: `formeln_s182_digital_geprüft.md`
-Originaltranskript: `s182_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s182.md`
+Originaltranskript: `s182.md`
 Buchseite: Hofenbitzer, Band 1, S. 182
 Extraktionsstand: v2
 
 ## HOF-B1-S182-F01 — Gesamte gemessene Hüftbreite
 
 - **Fachlicher Zweck:** Die am Vorder- und Rückteil gemessenen Hüftbreiten zur gesamten gemessenen Hüftbreite addieren.
-- **Quelle:** `formeln_s182_digital_geprüft.md`, Zeile 14; Originaltranskript `s182_digital_geprüft.md`, Zeile 53; Buchseite 182.
+- **Quelle:** `formeln_s182.md`, Zeile 14; Originaltranskript `s182.md`, Zeile 53; Buchseite 182.
 - **Originalbezeichnung:** `vHüB und hHüB messen und addieren = HüB`
 - **Normalisierte Bezeichnung:** `gemessene_hueftbreite_gesamt`
 
@@ -47,7 +47,7 @@ gemessene_hueftbreite = vordere_hueftbreite + hintere_hueftbreite
 ## HOF-B1-S182-F02 — Hüftfehlbetrag und hälftige Anstellung
 
 - **Fachlicher Zweck:** Den Hüftfehlbetrag aus gemessener Hüftbreite und halber Soll-Hüftweite bestimmen und seinen positiven hälftigen Betrag für beide Seitenlinien berechnen.
-- **Quelle:** `formeln_s182_digital_geprüft.md`, Zeile 24; Originaltranskript `s182_digital_geprüft.md`, Zeilen 60 und 62; Buchseite 182.
+- **Quelle:** `formeln_s182.md`, Zeile 24; Originaltranskript `s182.md`, Zeilen 60 und 62; Buchseite 182.
 - **Originalbezeichnung:** `Hüft-Fehlbetrag (HüFb) = HüB − ½ HüW`
 - **Normalisierte Bezeichnung:** `hueftfehlbetrag_und_haelftige_anstellung`
 
@@ -98,7 +98,7 @@ Die technische Betragsbildung bildet den gedruckten Übergang von `−3,2 cm` zu
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s182_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s182.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Unvollständiges Zeichnungslabel `+ hHüB messen = HüB`; die vollständige Additionsbeziehung ist in `HOF-B1-S182-F01` abgebildet |
 | Zeile 19 | 1 | Tabellarische Wiederholung der in `HOF-B1-S182-F02` vollständig erhaltenen Einsetzrechnung; keine zusätzliche Beziehung |

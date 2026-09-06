@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 200
 
-Quelle der Normalisierung: `formeln_s200_digital_geprüft.md`
-Originaltranskript: `s200_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s200.md`
+Originaltranskript: `s200.md`
 Buchseite: Hofenbitzer, Band 1, S. 200
 Extraktionsstand: v2
 
 ## HOF-B1-S200-F01 — Einhalteweite des engen Ärmels
 
 - **Fachlicher Zweck:** Die Einhalteweite des Beispielärmels aus Armlochumfang und Prozentwert bestimmen.
-- **Quelle:** `formeln_s200_digital_geprüft.md`, Zeile 9; Originaltranskript `s200_digital_geprüft.md`, Zeile 29; Buchseite 200.
+- **Quelle:** `formeln_s200.md`, Zeile 9; Originaltranskript `s200.md`, Zeile 29; Buchseite 200.
 - **Originalbezeichnung:** `AlU`, `Einhalteweite in %`, `EW in cm`
 - **Normalisierte Bezeichnung:** `einhalteweite_enger_aermel_beispiel`
 
@@ -50,7 +50,7 @@ abweichung = 0,8 cm - 0,41 cm = 0,39 cm
 ## HOF-B1-S200-F02 — Ellenbogenlinie bei 60 Prozent Ärmellänge
 
 - **Fachlicher Zweck:** Die Höhe der Ellenbogenlinie als 60 Prozent der Ärmellänge bestimmen.
-- **Quelle:** `formeln_s200_digital_geprüft.md`, Zeile 14; Originaltranskript `s200_digital_geprüft.md`, Zeile 45; Buchseite 200.
+- **Quelle:** `formeln_s200.md`, Zeile 14; Originaltranskript `s200.md`, Zeile 45; Buchseite 200.
 - **Originalbezeichnung:** `60% ÄL`, `Ellenbogenlinie`
 - **Normalisierte Bezeichnung:** `ellenbogenlinienhoehe`
 
@@ -91,7 +91,7 @@ ellenbogenlinienhoehe = aermellaenge * ellenbogenanteil
 ## HOF-B1-S200-F03 — Hilfsteilungen der Ärmelkugellinie
 
 - **Fachlicher Zweck:** Vier Hilfsabstände aus der gemessenen Ärmelkugellinie bestimmen.
-- **Quelle:** `formeln_s200_digital_geprüft.md`, Zeilen 19–20, 25 und 30; Originaltranskript `s200_digital_geprüft.md`, Zeilen 54–55, 61 und 63; Buchseite 200.
+- **Quelle:** `formeln_s200.md`, Zeilen 19–20, 25 und 30; Originaltranskript `s200.md`, Zeilen 54–55, 61 und 63; Buchseite 200.
 - **Originalbezeichnung:** `ÄkLi : 8`, `ÄkLi : 5`, `ÄkLi : 12`, `ÄkLi : 9`
 - **Normalisierte Bezeichnung:** `hilfsteilungen_aermelkugellinie_enger_aermel`
 
@@ -150,7 +150,7 @@ hilfsabstand_hinten_oben_gedruckt = 3,3 cm
 ## HOF-B1-S200-F04 — Länge der Ärmelkugellinie
 
 - **Fachlicher Zweck:** Die Ärmelkugellinie aus Oberarmweite und Ausgleichszugabe bestimmen.
-- **Quelle:** `formeln_s200_digital_geprüft.md`, Zeile 35; Originaltranskript `s200_digital_geprüft.md`, Zeile 72; Buchseite 200.
+- **Quelle:** `formeln_s200.md`, Zeile 35; Originaltranskript `s200.md`, Zeile 72; Buchseite 200.
 - **Originalbezeichnung:** `OaW`, `ÄkLi`
 - **Normalisierte Bezeichnung:** `aermelkugellinie_enger_aermel`
 
@@ -189,7 +189,7 @@ aermelkugellinie = oberarmweite + ausgleichszugabe
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s200_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s200.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 40 | 1 | Wiederholt `ÄkLi = OaW + Zugabe` aus `HOF-B1-S200-F04`, ohne neuen Operanden oder Auswahlwert |
 | **Summe** | **1** | **1 Rechenwiederholung** |

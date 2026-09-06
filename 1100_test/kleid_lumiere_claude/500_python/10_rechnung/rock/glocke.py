@@ -1,7 +1,7 @@
 """Echter Glockenrock - Vollglocke / Tellerrock.
 
 Quelle: Hofenbitzer Band 1, 3. Auflage 2024, **S. 44**.
-Transkript: `100_quellen/.../band_1_geprueft_v1/s44_glockenrock.md`
+Transkript: `100_quellen/.../band_1_geprueft_v1/s44.md`
 **Status der Quelle: fachlich freigegeben durch Werner/Munkhuu am 2026-06-21.**
 
 Buchformeln, woertlich:

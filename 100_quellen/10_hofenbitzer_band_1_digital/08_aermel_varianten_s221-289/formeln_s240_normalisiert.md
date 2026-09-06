@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 240
 
-Quelle der Normalisierung: `formeln_s240_codex_v2_digital_geprueft.md`
-Originaltranskript: `s240_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `formeln_s240.md`
+Originaltranskript: `s240.md`
 Buchseite: Hofenbitzer, Band 1, S. 240
 
 ## HOF-B1-S240-F01 — Zwei unbezeichnete Additionen am offenen Ärmelschlitz
 
 - **Fachlicher Zweck:** Die beiden im Extrakt sichtbaren Additionen am Produktionsschnitt erhalten, ohne ihre nicht belegten geometrischen Referenten oder Einheiten zu erfinden.
-- **Quelle:** `formeln_s240_codex_v2_digital_geprueft.md`, Zeilen 16–17; Originaltranskript `s240_codex_v2_digital_geprueft.md`, Zeilen 31–32; Buchseite 240.
+- **Quelle:** `formeln_s240.md`, Zeilen 16–17; Originaltranskript `s240.md`, Zeilen 31–32; Buchseite 240.
 - **Originalbezeichnung:** `2,5 + 1` und `3 + 1`
 - **Normalisierte Bezeichnung:** `additionen_offener_aermelschlitz_referenten_offen`
 
@@ -54,7 +54,7 @@ zielwert_2 = grundwert_2 + zuschlag_1
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s240_codex_v2_digital_geprueft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s240.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 9–10, 28–29 und 34–35 | 6 | Schnittteil- und Zuschnittbeschriftungen von Ober-, Unter- und Futterärmel; `2×-p` bezeichnet Stückzahl und paarigen Zuschnitt, keine Berechnung |
 | Zeile 11 | 1 | `Nahtende = Schlitzende` ist eine geometrische Deckungs- beziehungsweise Linienbezeichnung, keine aus Eingaben berechnete Formel |

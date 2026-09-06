@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 281
 
-Quelle der Normalisierung: `formeln_s281_digital_geprüft.md`
-Originaltranskript: `s281_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s281.md`
+Originaltranskript: `s281.md`
 Buchseite: Hofenbitzer, Band 1, S. 281
 Extraktionsstand: v2
 
 ## HOF-B1-S281-F01 — Öffnungsbereich unter dem Arm
 
 - **Fachlicher Zweck:** Den Öffnungsbetrag unter dem Arm für Vorder- und Hinterärmel aus der Armlochvertiefung begrenzen.
-- **Quelle:** `formeln_s281_digital_geprüft.md`, Zeile 9; Originaltranskript `s281_digital_geprüft.md`, Zeile 11; Buchseite 281.
+- **Quelle:** `formeln_s281.md`, Zeile 9; Originaltranskript `s281.md`, Zeile 11; Buchseite 281.
 - **Originalbezeichnung:** Betrag unter dem Arm, Armlochvertiefung
 - **Normalisierte Bezeichnung:** `oeffnungsbetrag_unter_dem_arm`
 

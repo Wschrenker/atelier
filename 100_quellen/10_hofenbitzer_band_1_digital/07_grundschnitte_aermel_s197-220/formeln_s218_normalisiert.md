@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 218
 
-Quelle der Normalisierung: `formeln_s218_digital_geprüft.md`
-Originaltranskript: `s218_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s218.md`
+Originaltranskript: `s218.md`
 Buchseite: Hofenbitzer, Band 1, S. 218
 Extraktionsstand: v2
 
 ## HOF-B1-S218-F01 — Umfang des neuen Armlochs
 
 - **Fachlicher Zweck:** Den Umfang des erweiterten neuen Armlochs aus vorderer und hinterer Armlochkurve bestimmen.
-- **Quelle:** `formeln_s218_digital_geprüft.md`, Zeilen 9 und 14; Originaltranskript `s218_digital_geprüft.md`, Zeilen 17–21; Buchseite 218.
+- **Quelle:** `formeln_s218.md`, Zeilen 9 und 14; Originaltranskript `s218.md`, Zeilen 17–21; Buchseite 218.
 - **Originalbezeichnung:** AlU, vorderes Armloch, hinteres Armloch
 - **Normalisierte Bezeichnung:** `armlochumfang_neu`
 
@@ -57,7 +57,7 @@ armlochumfang_neu = 50,2 cm
 ## HOF-B1-S218-F02 — Neuer Ärmelkugelumfang mit Einhalteweite
 
 - **Fachlicher Zweck:** Den gewünschten neuen Ärmelkugelumfang aus neuem Armlochumfang und prozentualer Einhalteweite bestimmen.
-- **Quelle:** `formeln_s218_digital_geprüft.md`, Zeilen 24, 29, 34 und 39; Originaltranskript `s218_digital_geprüft.md`, Zeilen 29–39; Buchseite 218.
+- **Quelle:** `formeln_s218.md`, Zeilen 24, 29, 34 und 39; Originaltranskript `s218.md`, Zeilen 29–39; Buchseite 218.
 - **Originalbezeichnung:** ÄkU_NEU, AlU, EW in %
 - **Normalisierte Bezeichnung:** `aermelkugelumfang_neu_mit_einhalteweite`
 
@@ -116,7 +116,7 @@ buchwert_aermelkugelumfang_neu = 53,7 cm
 ## HOF-B1-S218-F03 — Fehlweite zwischen alter und gewünschter Ärmelkugel
 
 - **Fachlicher Zweck:** Die für die Ärmelanpassung auszugleichende Differenz zwischen vorhandenem und gewünschtem Ärmelkugelumfang bestimmen.
-- **Quelle:** `formeln_s218_digital_geprüft.md`, Zeilen 44, 49 und 54; Originaltranskript `s218_digital_geprüft.md`, Zeilen 41–49; Buchseite 218.
+- **Quelle:** `formeln_s218.md`, Zeilen 44, 49 und 54; Originaltranskript `s218.md`, Zeilen 41–49; Buchseite 218.
 - **Originalbezeichnung:** Fehlweite, ÄkU_ALT, ÄkU_NEU
 - **Normalisierte Bezeichnung:** `aermelkugel_fehlweite`
 
@@ -172,7 +172,7 @@ fehlweite = 5,2 cm
 ## HOF-B1-S218-F04 — Schulterpolster-Öffnung und dadurch erzeugte Mehrweite
 
 - **Fachlicher Zweck:** Die waagerechte Öffnung als Drittel der Schulterpolster-Erhöhung und die dadurch beidseitig erzeugte gesamte Mehrweite bestimmen.
-- **Quelle:** `formeln_s218_digital_geprüft.md`, Zeilen 59 und 64; Originaltranskript `s218_digital_geprüft.md`, Zeilen 56–66; Buchseite 218.
+- **Quelle:** `formeln_s218.md`, Zeilen 59 und 64; Originaltranskript `s218.md`, Zeilen 56–66; Buchseite 218.
 - **Originalbezeichnung:** Öffnung, SuPoE, ⅓ Schulterpolster-Erhöhung, ⅔ SuPoE
 - **Normalisierte Bezeichnung:** `schulterpolster_oeffnung_und_mehrweite`
 
@@ -226,7 +226,7 @@ buchwert_mehrweite_beidseitig = ca. 1,7 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s218_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s218.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 19 | 1 | Gemessener vorhandener Ärmelkugelumfang `ÄkU_ALT = 48,5 cm`; Eingabewert ohne Berechnung |
 | Zeile 69 | 1 | Schulterpolster-Erhöhung `2,5 cm`; Eingabewert ohne Berechnung |

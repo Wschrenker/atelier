@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 358 und S. 360
 
-Quelle der Normalisierung: `formeln_s358_digital_geprüft.md`, zusätzlicher Anwendungsnachweis in `formeln_s360_digital_geprüft.md`
-Originaltranskripte: `s358_digital_geprüft.md`, `s360_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s358.md`, zusätzlicher Anwendungsnachweis in `formeln_s360.md`
+Originaltranskripte: `s358.md`, `s360.md`
 Buchseiten: Hofenbitzer, Band 1, S. 358 und S. 360
 Extraktionsstand: v2
 
 ## HOF-B1-S358-F01 — Gesamter Falteninhalt einer Kellerfalte
 
 - **Fachlicher Zweck:** Den gesamten Öffnungsbetrag einer Kellerfalte als vierfache Faltentiefe bestimmen.
-- **Quelle:** `formeln_s358_digital_geprüft.md`, Zeile 9; Originaltranskript `s358_digital_geprüft.md`, Zeile 38; zusätzlicher Anwendungsnachweis in `formeln_s360_digital_geprüft.md`, Zeile 9, und `s360_digital_geprüft.md`, Zeile 12; Buchseiten 358 und 360.
+- **Quelle:** `formeln_s358.md`, Zeile 9; Originaltranskript `s358.md`, Zeile 38; zusätzlicher Anwendungsnachweis in `formeln_s360.md`, Zeile 9, und `s360.md`, Zeile 12; Buchseiten 358 und 360.
 - **Originalbezeichnung:** gesamter Falteninhalt, `4× FaT`
 - **Normalisierte Bezeichnung:** `gesamter_falteninhalt_kellerfalte`
 
@@ -57,8 +57,8 @@ Technisch berechnet:                 = 6 cm
 
 | Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s358_digital_geprüft.md`, Zeile 14 | 1 | Produktionsbeschriftung `Patte 2× OSt (+El)`; Stückzahl und Material, keine berechnete Ausgabe |
-| `formeln_s360_digital_geprüft.md`, Zeile 14 | 1 | Produktionsbeschriftung `Patte 2× OSt (+El)`; Stückzahl und Material, keine berechnete Ausgabe |
+| `formeln_s358.md`, Zeile 14 | 1 | Produktionsbeschriftung `Patte 2× OSt (+El)`; Stückzahl und Material, keine berechnete Ausgabe |
+| `formeln_s360.md`, Zeile 14 | 1 | Produktionsbeschriftung `Patte 2× OSt (+El)`; Stückzahl und Material, keine berechnete Ausgabe |
 | **Summe** | **2** | **2 Produktionsbeschriftungen** |
 
 ## Extraktionsgrenze

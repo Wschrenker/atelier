@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 371
 
-Quelle der Normalisierung: `formeln_s371_codex_v2.md`
-Originaltranskript: `s371_codex_v2.md`
+Quelle der Normalisierung: `formeln_s371.md`
+Originaltranskript: `s371.md`
 Buchseite: Hofenbitzer, Band 1, S. 371
 
 ## HOF-B1-S371-F01 — Verkleinerung des Armdurchmessers für ein ärmelloses Oberteil
 
 - **Fachlicher Zweck:** Den Armdurchmesser des Oberteil-Grundschnitts für das ärmellose Modell um den angegebenen Gesamtbetrag verkleinern.
-- **Quelle:** `formeln_s371_codex_v2.md`, Zeile 9; Originaltranskript `s371_codex_v2.md`, Zeile 13; Buchseite 371.
+- **Quelle:** `formeln_s371.md`, Zeile 9; Originaltranskript `s371.md`, Zeile 13; Buchseite 371.
 - **Originalbezeichnung:** `Armdurchmesser (ArD+) um insgesamt ca. 1,5 cm verkleinert`
 - **Normalisierte Bezeichnung:** `armdurchmesser_aermelloses_oberteil`
 

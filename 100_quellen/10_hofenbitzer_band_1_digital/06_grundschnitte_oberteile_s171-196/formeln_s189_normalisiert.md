@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 189
 
-Quelle der Normalisierung: `formeln_s189_digital_geprüft.md`
-Originaltranskript: `s189_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s189.md`
+Originaltranskript: `s189.md`
 Buchseite: Hofenbitzer, Band 1, S. 189
 Extraktionsstand: v2
 
 ## HOF-B1-S189-F01 — Taillenausfall und gedrucktes Ergebnis
 
 - **Fachlicher Zweck:** Den Taillenausfall aus gemessener vorderer und hinterer Taillenbreite sowie der halben Taillenweite bestimmen.
-- **Quelle:** `formeln_s189_digital_geprüft.md`, Zeilen 14–16; Originaltranskript `s189_digital_geprüft.md`, Zeilen 34–36; Buchseite 189.
+- **Quelle:** `formeln_s189.md`, Zeilen 14–16; Originaltranskript `s189.md`, Zeilen 34–36; Buchseite 189.
 - **Originalbezeichnung:** `Taillenausfall (TaAf)`
 - **Normalisierte Bezeichnung:** `taillenausfall_enger_oberteilgrundschnitt`
 
@@ -54,7 +54,7 @@ abweichung = 8,6 cm - 7,8 cm = 0,8 cm
 ## HOF-B1-S189-F02 — Hüftfehlbetrag und hälftige Seitenanstellung
 
 - **Fachlicher Zweck:** Den Hüftfehlbetrag und den auf jede Seitenlinie zu verteilenden halben Betrag bestimmen.
-- **Quelle:** `formeln_s189_digital_geprüft.md`, Zeilen 21–23; Originaltranskript `s189_digital_geprüft.md`, Zeilen 44–46; Buchseite 189.
+- **Quelle:** `formeln_s189.md`, Zeilen 21–23; Originaltranskript `s189.md`, Zeilen 44–46; Buchseite 189.
 - **Originalbezeichnung:** `Hüft-Fehlbetrag (HüFb)`
 - **Normalisierte Bezeichnung:** `hueftfehlbetrag_und_haelftige_seitenanstellung`
 
@@ -98,7 +98,7 @@ gedruckte_anstellung_je_seite = 2,4 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s189_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s189.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Checklistenfrage zur Kontrolle der BrU-Maße; Prüfaufforderung, keine Rechenformel |
 | Zeile 28 | 1 | Bildnummernverweis `□3 + 5` und Anwendung des bereits in `HOF-B1-S189-F02` enthaltenen halben Hüftfehlbetrags |

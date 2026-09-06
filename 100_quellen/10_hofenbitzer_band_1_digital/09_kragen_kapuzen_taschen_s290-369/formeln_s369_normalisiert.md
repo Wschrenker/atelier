@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 369
 
-Quelle der Normalisierung: `formeln_s369_codex_v2.md`
-Originaltranskript: `s369_codex_v2.md`
+Quelle der Normalisierung: `formeln_s369.md`
+Originaltranskript: `s369.md`
 Buchseite: Hofenbitzer, Band 1, S. 369
 
 ## HOF-B1-S369-F01 — Verlängerung um die doppelte Leistenbreite
 
 - **Fachlicher Zweck:** Den Verlängerungsbetrag des durchgehenden Schnittteils für die rationelle Innentasche aus der Leistenbreite bestimmen.
-- **Quelle:** `formeln_s369_codex_v2.md`, Zeile 17; Originaltranskript `s369_codex_v2.md`, Zeile 42; Buchseite 369.
+- **Quelle:** `formeln_s369.md`, Zeile 17; Originaltranskript `s369.md`, Zeile 42; Buchseite 369.
 - **Originalbezeichnung:** `um 2× Leistenbreite nach oben verlängern`
 - **Normalisierte Bezeichnung:** `verlaengerung_doppelte_leistenbreite`
 
@@ -48,11 +48,11 @@ verlaengerungsbetrag = leistenbreite * verlaengerungsfaktor
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s369_codex_v2.md`, Zeilen 9–12 | 4 | Schnittteil-, Material- und Zuschnittbeschriftungen; `1×` bezeichnet die Stückzahl, keine Berechnung |
-| `formeln_s369_codex_v2.md`, Zeile 22 | 1 | Direkte Übertragung einer Taschenbeuteltiefe mit Faktor `1×`; keine neue Rechenbeziehung |
-| `formeln_s369_codex_v2.md`, Zeile 27 | 1 | Schnittteil- und paarige Zuschnittbeschriftung; `2×-p` bezeichnet Stückzahl und paarigen Zuschnitt, keine Berechnung |
-| `formeln_s369_codex_v2.md`, Zeile 32 | 1 | Schnittteil- und Zuschnittbeschriftung; keine Rechenformel |
-| `formeln_s369_codex_v2.md`, Zeile 37 | 1 | Zeichnungslabel, das die bereits in `HOF-B1-S369-F01` vollständig belegte doppelte Leistenbreite wiederholt |
+| `formeln_s369.md`, Zeilen 9–12 | 4 | Schnittteil-, Material- und Zuschnittbeschriftungen; `1×` bezeichnet die Stückzahl, keine Berechnung |
+| `formeln_s369.md`, Zeile 22 | 1 | Direkte Übertragung einer Taschenbeuteltiefe mit Faktor `1×`; keine neue Rechenbeziehung |
+| `formeln_s369.md`, Zeile 27 | 1 | Schnittteil- und paarige Zuschnittbeschriftung; `2×-p` bezeichnet Stückzahl und paarigen Zuschnitt, keine Berechnung |
+| `formeln_s369.md`, Zeile 32 | 1 | Schnittteil- und Zuschnittbeschriftung; keine Rechenformel |
+| `formeln_s369.md`, Zeile 37 | 1 | Zeichnungslabel, das die bereits in `HOF-B1-S369-F01` vollständig belegte doppelte Leistenbreite wiederholt |
 | **Summe** | **8** | **6 Produktions-/Zuschnittbeschriftungen, 1 direkte Maßübertragung und 1 Wiederholung ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

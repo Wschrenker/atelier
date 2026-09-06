@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 368
 
-Quelle der Normalisierung: `formeln_s368_codex_v2.md`
-Originaltranskript: `s368_codex_v2.md`
+Quelle der Normalisierung: `formeln_s368.md`
+Originaltranskript: `s368.md`
 Buchseite: Hofenbitzer, Band 1, S. 368
 
 ## HOF-B1-S368-F01 — Nahtzugabe als halbe Paspelbreite
 
 - **Fachlicher Zweck:** Die Nahtzugabe an der Paspel aus der vorgesehenen Paspelbreite bestimmen.
-- **Quelle:** `formeln_s368_codex_v2.md`, Zeile 30; Originaltranskript `s368_codex_v2.md`, Zeile 89; Buchseite 368.
+- **Quelle:** `formeln_s368.md`, Zeile 30; Originaltranskript `s368.md`, Zeile 89; Buchseite 368.
 - **Originalbezeichnung:** `NZg = ½ Paspelbreite`
 - **Normalisierte Bezeichnung:** `nahtzugabe_halbe_paspelbreite`
 
@@ -51,10 +51,10 @@ nahtzugabe_paspel = 1 cm * 0,5
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s368_codex_v2.md`, Zeilen 9–11 | 3 | Schnittteil-, Material- und Zuschnittbeschriftungen; `1×` bezeichnet die Stückzahl, keine Berechnung |
-| `formeln_s368_codex_v2.md`, Zeile 16 | 1 | Bildverweis `□2+3`; das Pluszeichen verbindet Abbildungsnummern und ist kein Rechenoperator |
-| `formeln_s368_codex_v2.md`, Zeilen 21–24 | 4 | Schnittteil-, Material- und Zuschnittbeschriftungen; keine Rechenformeln |
-| `formeln_s368_codex_v2.md`, Zeile 29 | 1 | Schnittteil- und Zuschnittbeschriftung der Paspel; keine Rechenformel |
+| `formeln_s368.md`, Zeilen 9–11 | 3 | Schnittteil-, Material- und Zuschnittbeschriftungen; `1×` bezeichnet die Stückzahl, keine Berechnung |
+| `formeln_s368.md`, Zeile 16 | 1 | Bildverweis `□2+3`; das Pluszeichen verbindet Abbildungsnummern und ist kein Rechenoperator |
+| `formeln_s368.md`, Zeilen 21–24 | 4 | Schnittteil-, Material- und Zuschnittbeschriftungen; keine Rechenformeln |
+| `formeln_s368.md`, Zeile 29 | 1 | Schnittteil- und Zuschnittbeschriftung der Paspel; keine Rechenformel |
 | **Summe** | **9** | **8 Produktions-/Zuschnittbeschriftungen und 1 Bildverweis ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

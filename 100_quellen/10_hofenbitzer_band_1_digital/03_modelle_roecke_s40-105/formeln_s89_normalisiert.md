@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 89
 
-Quelle der Normalisierung: `formeln_s89_digital_geprüft.md`
-Originaltranskript: `s89_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s89.md`
+Originaltranskript: `s89.md`
 Buchseite: Hofenbitzer, Band 1, S. 89
 Extraktionsstand: v2
 
 ## HOF-B1-S089-F01 — Faltentiefe als halber Falteninhalt
 
 - **Fachlicher Zweck:** Die Faltentiefe am Anfang des Faltenteils als Hälfte des Falteninhalts bestimmen.
-- **Quelle:** `formeln_s89_digital_geprüft.md`, Zeile 9; Originaltranskript `s89_digital_geprüft.md`, Zeile 32; Buchseite 89.
+- **Quelle:** `formeln_s89.md`, Zeile 9; Originaltranskript `s89.md`, Zeile 32; Buchseite 89.
 - **Originalbezeichnung:** `einen halben Falteninhalt (≙ FaT)`
 - **Normalisierte Bezeichnung:** `faltentiefe_aus_falteninhalt`
 
@@ -47,7 +47,7 @@ faltentiefe = falteninhalt * anteil_faltentiefe
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s89_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s89.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 14 | 1 | Wiederholung von `HOF-B1-S089-F01` am Beginn des separaten Faltenteils; keine neue Rechenbeziehung |
 | Zeile 19 | 1 | Wiederholung derselben halben Falteninhalt-/Faltentiefe-Beziehung am Ende des Faltenteils |

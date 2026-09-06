@@ -1,8 +1,8 @@
 # Fachlich normalisierte Formeln — S. 207 mit Wiederholungsnachweis S. 208
 
-Primärquelle der Normalisierung: `formeln_s207_digital_geprüft.md`
-Zusätzlicher Anwendungsnachweis: `formeln_s208_digital_geprüft.md`
-Originaltranskripte: `s207_digital_geprüft.md`, `s208_digital_geprüft.md`
+Primärquelle der Normalisierung: `formeln_s207.md`
+Zusätzlicher Anwendungsnachweis: `formeln_s208.md`
+Originaltranskripte: `s207.md`, `s208.md`
 Buchseiten: Hofenbitzer, Band 1, S. 207–208
 Extraktionsstand: v2
 
@@ -11,7 +11,7 @@ Die identischen Rechnungen erscheinen in zwei verschiedenen Ärmelvarianten. Sie
 ## HOF-B1-S207-F01 — Einhalteweite mit mittlerem hinterem Anteil
 
 - **Fachlicher Zweck:** Die gesamte Einhalteweite aus vorderem Anteil und gewähltem hinterem Anteil bestimmen.
-- **Quelle:** `formeln_s207_digital_geprüft.md`, Zeilen 20–21, Originaltranskript `s207_digital_geprüft.md`, Zeilen 57–58; zusätzlich `formeln_s208_digital_geprüft.md`, Zeilen 20–21, Originaltranskript `s208_digital_geprüft.md`, Zeilen 63–64; Buchseiten 207–208.
+- **Quelle:** `formeln_s207.md`, Zeilen 20–21, Originaltranskript `s207.md`, Zeilen 57–58; zusätzlich `formeln_s208.md`, Zeilen 20–21, Originaltranskript `s208.md`, Zeilen 63–64; Buchseiten 207–208.
 - **Originalbezeichnung:** `EW`, `me`
 - **Normalisierte Bezeichnung:** `einhalteweite_aus_vorderem_und_hinterem_anteil`
 
@@ -60,7 +60,7 @@ einhalteweite = 2,6 cm + 0,7 cm = 3,3 cm
 ## HOF-B1-S207-F02 — Hintere Ärmelpunktstrecke mit mittlerem Einhalteweitenanteil
 
 - **Fachlicher Zweck:** Die hintere Ärmelpunktstrecke aus hinterer Achselstrecke und mittlerem Einhalteweitenanteil bestimmen.
-- **Quelle:** `formeln_s207_digital_geprüft.md`, Zeile 26, Originaltranskript `s207_digital_geprüft.md`, Zeile 64; zusätzlich `formeln_s208_digital_geprüft.md`, Zeile 26, Originaltranskript `s208_digital_geprüft.md`, Zeile 70; Buchseiten 207–208.
+- **Quelle:** `formeln_s207.md`, Zeile 26, Originaltranskript `s207.md`, Zeile 64; zusätzlich `formeln_s208.md`, Zeile 26, Originaltranskript `s208.md`, Zeile 70; Buchseiten 207–208.
 - **Originalbezeichnung:** `hAchsel`, `EW 0,7 cm`, `hÄP`
 - **Normalisierte Bezeichnung:** `hintere_aermelpunktstrecke_mittlere_einhalteweite`
 
@@ -111,7 +111,7 @@ abweichung = 9,5 cm - 9,2 cm = 0,3 cm
 
 ### S. 207
 
-| Quelle in `formeln_s207_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s207.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 9–10 | 2 | Definition der Ärmelnaht als Parallele und Bezeichnung des Abnäherschenkels; geometrische Labels ohne Berechnung |
 | Zeile 15 | 1 | Isolierter Messwert `me = 13,8 cm`; kein berechneter Output |
@@ -120,7 +120,7 @@ abweichung = 9,5 cm - 9,2 cm = 0,3 cm
 
 ### S. 208
 
-| Quelle in `formeln_s208_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s208.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Bezeichnung des Abnäherschenkels; geometrisches Label ohne Berechnung |
 | Zeilen 14–15 | 2 | Isolierte Messwerte `me = 14,4 cm` und `me = 13,8 cm`; keine berechneten Outputs |

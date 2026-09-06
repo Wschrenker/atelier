@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 441
 
-Quelle der Normalisierung: `formeln_s441_digital_geprüft.md`
-Originaltranskript: `s441_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s441.md`
+Originaltranskript: `s441.md`
 Buchseite: Hofenbitzer, Band 1, S. 441
 
 ## HOF-B1-S441-F01 — Gesamter Saumeinschlag
 
 - **Fachlicher Zweck:** Den gesamten Saumeinschlag aus zwei Einschlägen zu je `0,5 cm` bestimmen.
-- **Quelle:** `formeln_s441_digital_geprüft.md`, Zeile 9; Originaltranskript `s441_digital_geprüft.md`, Zeile 28; Buchseite 441.
+- **Quelle:** `formeln_s441.md`, Zeile 9; Originaltranskript `s441.md`, Zeile 28; Buchseite 441.
 - **Originalbezeichnung:** Einschlag je nach Verarbeitung `2× 0,5 cm`
 - **Normalisierte Bezeichnung:** `saumeinschlag_gesamt`
 

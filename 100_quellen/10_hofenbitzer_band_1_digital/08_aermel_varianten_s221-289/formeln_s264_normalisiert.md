@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 264, 266 und 268
 
-Quelle der Normalisierung: `formeln_s264_digital_geprüft.md`, zusätzliche Anwendungsnachweise in `formeln_s266_digital_geprüft.md` und `formeln_s268_digital_geprüft.md`
-Originaltranskripte: `s264_digital_geprüft.md`, `s266_digital_geprüft.md`, `s268_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s264.md`, zusätzliche Anwendungsnachweise in `formeln_s266.md` und `formeln_s268.md`
+Originaltranskripte: `s264.md`, `s266.md`, `s268.md`
 Buchseiten: Hofenbitzer, Band 1, S. 264, 266 und 268
 Extraktionsstand: v2
 
 ## HOF-B1-S264-F01 — Mindestabstand zwischen Ärmel- und Rumpffläche
 
 - **Fachlicher Zweck:** Den Mindestabstand zwischen Ärmel- und Rumpffläche so bestimmen, dass die Nahtzugaben der getrennten Schnittteile Platz haben.
-- **Quelle:** `formeln_s264_digital_geprüft.md`, Zeilen 14 und 19; Originaltranskript `s264_digital_geprüft.md`, Zeilen 13 und 19; zusätzliche Anwendungsnachweise in `formeln_s266_digital_geprüft.md`, Zeilen 9 und 14, mit Originaltranskript `s266_digital_geprüft.md`, Zeilen 15 und 19, sowie in `formeln_s268_digital_geprüft.md`, Zeile 24, mit Originaltranskript `s268_digital_geprüft.md`, Zeile 37; Buchseiten 264, 266 und 268.
+- **Quelle:** `formeln_s264.md`, Zeilen 14 und 19; Originaltranskript `s264.md`, Zeilen 13 und 19; zusätzliche Anwendungsnachweise in `formeln_s266.md`, Zeilen 9 und 14, mit Originaltranskript `s266.md`, Zeilen 15 und 19, sowie in `formeln_s268.md`, Zeile 24, mit Originaltranskript `s268.md`, Zeile 37; Buchseiten 264, 266 und 268.
 - **Originalbezeichnung:** Mindest-Abstand, Mindestabstand, Nahtzugabe, NZg
 - **Normalisierte Bezeichnung:** `mindestabstand_aermel_rumpf`
 
@@ -71,12 +71,12 @@ mindestabstand_aermel_rumpf = 2 * nahtzugabe
 
 | Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s264_digital_geprüft.md`, Zeile 9 | 1 | Beschreibender Seitenverweis `253 + 255`; Pluszeichen verbindet Buchseiten und ist kein Rechenoperator |
-| `formeln_s264_digital_geprüft.md`, Zeile 24 | 1 | Bildnummern- und Methodenverweis zur Nahtführung; keine skalare Rechenausgabe |
-| `formeln_s266_digital_geprüft.md`, Zeile 19 | 1 | Bildnummern- und Konstruktionshinweis mit direkter Gleichheitsbedingung für zwei geometrische Abstände; keine skalare Berechnung |
-| `formeln_s268_digital_geprüft.md`, Zeile 9 | 1 | Beschreibender Seitenverweis `253 + 255`; Pluszeichen verbindet Buchseiten und ist kein Rechenoperator |
-| `formeln_s268_digital_geprüft.md`, Zeilen 14 und 19 | 2 | Unvollständige Zeichnungslabels mit Wiederholungsangabe `(2×)`; Bezugsgröße beziehungsweise Ausgabe fehlt |
-| `formeln_s268_digital_geprüft.md`, Zeilen 29 und 34 | 2 | Arbeitspunkt-Beschriftungen mit Wiederholungsangabe `(2×)`; keine Rechenbeziehung |
+| `formeln_s264.md`, Zeile 9 | 1 | Beschreibender Seitenverweis `253 + 255`; Pluszeichen verbindet Buchseiten und ist kein Rechenoperator |
+| `formeln_s264.md`, Zeile 24 | 1 | Bildnummern- und Methodenverweis zur Nahtführung; keine skalare Rechenausgabe |
+| `formeln_s266.md`, Zeile 19 | 1 | Bildnummern- und Konstruktionshinweis mit direkter Gleichheitsbedingung für zwei geometrische Abstände; keine skalare Berechnung |
+| `formeln_s268.md`, Zeile 9 | 1 | Beschreibender Seitenverweis `253 + 255`; Pluszeichen verbindet Buchseiten und ist kein Rechenoperator |
+| `formeln_s268.md`, Zeilen 14 und 19 | 2 | Unvollständige Zeichnungslabels mit Wiederholungsangabe `(2×)`; Bezugsgröße beziehungsweise Ausgabe fehlt |
+| `formeln_s268.md`, Zeilen 29 und 34 | 2 | Arbeitspunkt-Beschriftungen mit Wiederholungsangabe `(2×)`; keine Rechenbeziehung |
 | **Summe** | **8** | **2 Seitenverweise + 2 Bild-/Methodenangaben + 2 unvollständige Labels + 2 Wiederholungsbeschriftungen** |
 
 ## Extraktionsgrenze

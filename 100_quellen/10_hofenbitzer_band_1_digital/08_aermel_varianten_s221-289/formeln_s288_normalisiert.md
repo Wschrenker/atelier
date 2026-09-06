@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 288
 
-Quelle der Normalisierung: `formeln_s288_digital_geprüft.md`
-Originaltranskript: `s288_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s288.md`
+Originaltranskript: `s288.md`
 Buchseite: Hofenbitzer, Band 1, S. 288
 Extraktionsstand: v2
 
 ## HOF-B1-S288-F01 — Abnäherinhalt aus der Mehrlänge des Vorderteils
 
 - **Fachlicher Zweck:** Den Abnäherinhalt bei übergroßer Vorderlänge durch Abzug eines Bereichs von der Differenz zwischen Vorder- und Rückenlänge bestimmen.
-- **Quelle:** `formeln_s288_digital_geprüft.md`, Zeile 19; Originaltranskript `s288_digital_geprüft.md`, Zeilen 39–43; Buchseite 288.
+- **Quelle:** `formeln_s288.md`, Zeile 19; Originaltranskript `s288.md`, Zeilen 39–43; Buchseite 288.
 - **Originalbezeichnung:** Differenz VL – RüL, Abnäherinhalt
 - **Normalisierte Bezeichnung:** `abnaeherinhalt_aus_vorderlaengenmehrbetrag`
 
@@ -53,7 +53,7 @@ abnaeherinhalt = 1,2 bis 2,2 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s288_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s288.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Beschreibender Seitenverweis `508 + 512`; Pluszeichen verbindet Buchseiten und ist kein Rechenoperator |
 | Zeile 14 | 1 | Kopfzeile der Konstruktionstabelle mit Größen- und Passformklassenbereich; Metadaten statt Rechenbeziehung |

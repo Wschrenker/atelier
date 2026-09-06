@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 355
 
-Quelle der Normalisierung: `formeln_s355_digital_geprüft.md`
-Originaltranskript: `s355_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s355.md`
+Originaltranskript: `s355.md`
 Buchseite: Hofenbitzer, Band 1, S. 355
 Extraktionsstand: v2
 
 ## HOF-B1-S355-F01 — Taschentiefe für das Hineingreifen mit der Hand
 
 - **Fachlicher Zweck:** Für Taschen, in denen eine Hand Platz haben soll, die Taschentiefe ungefähr an der Eingriffslänge ausrichten.
-- **Quelle:** `formeln_s355_digital_geprüft.md`, Zeile 9; Originaltranskript `s355_digital_geprüft.md`, Zeile 11; Buchseite 355.
+- **Quelle:** `formeln_s355.md`, Zeile 9; Originaltranskript `s355.md`, Zeile 11; Buchseite 355.
 - **Originalbezeichnung:** Taschentiefe, Eingriffslänge
 - **Normalisierte Bezeichnung:** `taschentiefe_aus_eingriffslaenge`
 

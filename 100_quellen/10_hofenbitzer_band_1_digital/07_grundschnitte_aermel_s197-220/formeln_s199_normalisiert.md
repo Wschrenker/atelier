@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 199
 
-Quelle der Normalisierung: `formeln_s199_digital_geprüft.md`
-Originaltranskript: `s199_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s199.md`
+Originaltranskript: `s199.md`
 Buchseite: Hofenbitzer, Band 1, S. 199
 Extraktionsstand: v2
 
 ## HOF-B1-S199-F01 — Armdurchmesser aus Oberarmumfang
 
 - **Fachlicher Zweck:** Den Armdurchmesser ohne Zugabe aus dem gemessenen Oberarmumfang bestimmen.
-- **Quelle:** `formeln_s199_digital_geprüft.md`, Zeile 19; Originaltranskript `s199_digital_geprüft.md`, Zeile 67; Buchseite 199.
+- **Quelle:** `formeln_s199.md`, Zeile 19; Originaltranskript `s199.md`, Zeile 67; Buchseite 199.
 - **Originalbezeichnung:** `ArD`, `OaU`
 - **Normalisierte Bezeichnung:** `armdurchmesser_aus_oberarmumfang`
 
@@ -48,7 +48,7 @@ armdurchmesser = (oberarmumfang / 10) * 6 - 7,5 cm
 ## HOF-B1-S199-F02 — Einhalteweite in Zentimetern
 
 - **Fachlicher Zweck:** Die prozentuale Einhalteweite in ein Längenmaß umrechnen.
-- **Quelle:** `formeln_s199_digital_geprüft.md`, Zeile 24; Originaltranskript `s199_digital_geprüft.md`, Zeile 91; Buchseite 199.
+- **Quelle:** `formeln_s199.md`, Zeile 24; Originaltranskript `s199.md`, Zeile 91; Buchseite 199.
 - **Originalbezeichnung:** `AlU`, `Einhalteweite in %`, `EW in cm`
 - **Normalisierte Bezeichnung:** `einhalteweite_cm`
 
@@ -87,7 +87,7 @@ einhalteweite_cm = armlochumfang * einhalteweite_anteil
 ## HOF-B1-S199-F03 — Ärmelkugelumfang
 
 - **Fachlicher Zweck:** Den Ärmelkugelumfang aus Armlochumfang und Einhalteweite bestimmen.
-- **Quelle:** `formeln_s199_digital_geprüft.md`, Zeile 25; Originaltranskript `s199_digital_geprüft.md`, Zeile 92; Buchseite 199.
+- **Quelle:** `formeln_s199.md`, Zeile 25; Originaltranskript `s199.md`, Zeile 92; Buchseite 199.
 - **Originalbezeichnung:** `AlU`, `Einhalteweite in cm`, `ÄKU`
 - **Normalisierte Bezeichnung:** `aermelkugelumfang`
 
@@ -126,7 +126,7 @@ aermelkugelumfang = armlochumfang + einhalteweite_cm
 ## HOF-B1-S199-F04 — Zugaben für den schmalen Ärmel
 
 - **Fachlicher Zweck:** Die Wertebereiche für Oberarmweite, Ärmelsaumweite und Einhalteweite des schmalen Ärmels bestimmen.
-- **Quelle:** `formeln_s199_digital_geprüft.md`, Zeile 30; Originaltranskript `s199_digital_geprüft.md`, Zeile 100; Buchseite 199.
+- **Quelle:** `formeln_s199.md`, Zeile 30; Originaltranskript `s199.md`, Zeile 100; Buchseite 199.
 - **Originalbezeichnung:** `OaU`, `HgU`, `PK`, `AlU`
 - **Normalisierte Bezeichnung:** `schmaler_aermel_zugabebereiche`
 
@@ -174,7 +174,7 @@ einhalteweite_cm = armlochumfang * einhalteweite_anteil
 ## HOF-B1-S199-F05 — Zugaben für den engen Ärmel
 
 - **Fachlicher Zweck:** Die Wertebereiche für Oberarmweite, Ärmelsaumweite und Einhalteweite des engen Ärmels bestimmen.
-- **Quelle:** `formeln_s199_digital_geprüft.md`, Zeile 31; Originaltranskript `s199_digital_geprüft.md`, Zeile 101; Buchseite 199.
+- **Quelle:** `formeln_s199.md`, Zeile 31; Originaltranskript `s199.md`, Zeile 101; Buchseite 199.
 - **Originalbezeichnung:** `OaU`, `HgU`, `PK`, `AlU`
 - **Normalisierte Bezeichnung:** `enger_aermel_zugabebereiche`
 
@@ -222,7 +222,7 @@ einhalteweite_cm = armlochumfang * einhalteweite_anteil
 ## HOF-B1-S199-F06 — Zugaben für den weiten Ärmel
 
 - **Fachlicher Zweck:** Den Oberarmweiten- und Einhalteweitenbereich des weiten Ärmels bestimmen.
-- **Quelle:** `formeln_s199_digital_geprüft.md`, Zeile 32; Originaltranskript `s199_digital_geprüft.md`, Zeile 102; Buchseite 199.
+- **Quelle:** `formeln_s199.md`, Zeile 32; Originaltranskript `s199.md`, Zeile 102; Buchseite 199.
 - **Originalbezeichnung:** `OaU`, `PK`, `AlU`; ÄSaW „entsteht automatisch“
 - **Normalisierte Bezeichnung:** `weiter_aermel_zugabebereiche`
 
@@ -267,7 +267,7 @@ einhalteweite_cm = armlochumfang * einhalteweite_anteil
 ## HOF-B1-S199-F07 — Passformklasse des Oberteils
 
 - **Fachlicher Zweck:** Die Passformklasse als Brustweitenzugabe beziehungsweise als Differenz zweier halber Brustmaße bestimmen.
-- **Quelle:** `formeln_s199_digital_geprüft.md`, Zeile 37; Originaltranskript `s199_digital_geprüft.md`, Zeile 104; Buchseite 199.
+- **Quelle:** `formeln_s199.md`, Zeile 37; Originaltranskript `s199.md`, Zeile 104; Buchseite 199.
 - **Originalbezeichnung:** `PK`, `BrW-Zugabe`, `½ BrW`, `½ BrU`
 - **Normalisierte Bezeichnung:** `passformklasse_oberteil`
 
@@ -308,7 +308,7 @@ passformklasse = halbe_brustweite_schnitt - halber_brustumfang_koerper
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s199_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s199.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Isoliertes Zeichnungslabel `¼ ArD+`; direkter Teilwert ohne vollständige Berechnungsbeziehung auf dieser Seite |
 | Zeile 14 | 1 | Bezeichnungsdefinition `ArD+ = ArD+Zugabe`; erklärt das Kürzel, berechnet aber keinen Wert |

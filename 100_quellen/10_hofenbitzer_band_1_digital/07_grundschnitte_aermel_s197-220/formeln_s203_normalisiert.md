@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 203
 
-Quelle der Normalisierung: `formeln_s203_digital_geprüft.md`
-Originaltranskript: `s203_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s203.md`
+Originaltranskript: `s203.md`
 Buchseite: Hofenbitzer, Band 1, S. 203
 Extraktionsstand: v2
 
 ## HOF-B1-S203-F01 — Hinterer Ärmelpunkt mit Einhalteweitenanteil
 
 - **Fachlicher Zweck:** Die auf die hintere Ärmelkurve zu übertragende Strecke aus hinterer Achsel und 20 Prozent der Einhalteweite bestimmen.
-- **Quelle:** `formeln_s203_digital_geprüft.md`, Zeilen 9–10 und 30; Originaltranskript `s203_digital_geprüft.md`, Zeilen 27–28 und 67; Buchseite 203.
+- **Quelle:** `formeln_s203.md`, Zeilen 9–10 und 30; Originaltranskript `s203.md`, Zeilen 27–28 und 67; Buchseite 203.
 - **Originalbezeichnung:** `hAchsel`, `20% EW`, `hÄP`
 - **Normalisierte Bezeichnung:** `uebertragungsstrecke_hinterer_aermelpunkt`
 
@@ -57,7 +57,7 @@ gedrucktes_ergebnis = 8,9 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s203_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s203.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 15 | 1 | Wiederholt `ÄSaW = OaW = 37 cm` aus `HOF-B1-S202-F01`; keine neue Rechenbeziehung |
 | Zeile 20 | 1 | Isolierter gewählter Konstruktionswert `ÄSaW = 22 cm`; Eingabe beziehungsweise Zielwert ohne Berechnung |

@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 449
 
-Quelle der Normalisierung: `formeln_s449_digital_geprüft.md`
-Originaltranskript: `s449_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s449.md`
+Originaltranskript: `s449.md`
 Buchseite: Hofenbitzer, Band 1, S. 449
 
 ## HOF-B1-S449-F01 — Breitenaufbau der verdeckten Knopfleiste
 
 - **Fachlicher Zweck:** Den ersten Einschlag und zwei alternative Breiten der verdeckten Knopflochleiste aus der Knopfleistenbreite bestimmen.
-- **Quelle:** `formeln_s449_digital_geprüft.md`, Zeilen 9–10 und 15; Originaltranskript `s449_digital_geprüft.md`, Zeilen 15–16 und 18; Buchseite 449.
+- **Quelle:** `formeln_s449.md`, Zeilen 9–10 und 15; Originaltranskript `s449.md`, Zeilen 15–16 und 18; Buchseite 449.
 - **Originalbezeichnung:** `1×` beziehungsweise `2× die Knopfleisten-Breite − 0,2 cm`
 - **Normalisierte Bezeichnung:** `verdeckte_knopfleiste_breitenaufbau`
 

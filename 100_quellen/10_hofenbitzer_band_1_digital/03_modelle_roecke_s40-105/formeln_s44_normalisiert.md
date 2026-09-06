@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 44
 
-Quelle der Normalisierung: `formeln_s44_glockenrock.md`
-Originaltranskript: `s44_glockenrock.md`
+Quelle der Normalisierung: `formeln_s44.md`
+Originaltranskript: `s44.md`
 Buchseite: Hofenbitzer, Band 1, S. 44
 
 ## HOF-B1-S044-F01 — Taillenradius der Vollglocke
 
 - **Fachlicher Zweck:** Inneren Radius des Taillenkreises einer Vollglocke aus der Taillenweite bestimmen.
-- **Quelle:** `formeln_s44_glockenrock.md`, Zeilen 13–18; Originaltranskript `s44_glockenrock.md`, Zeilen 33–39; Buchseite 44.
+- **Quelle:** `formeln_s44.md`, Zeilen 13–18; Originaltranskript `s44.md`, Zeilen 33–39; Buchseite 44.
 - **Originalbezeichnung:** `rTaW = TaW : (2 × π)`
 - **Normalisierte Bezeichnung:** `taillenradius_vollglocke`
 
@@ -52,7 +52,7 @@ Buchwert                 = 11,5 cm
 ## HOF-B1-S044-F02 — Saumradius der Vollglocke
 
 - **Fachlicher Zweck:** Äußeren Radius des Saumkreises als Summe aus Taillenradius und Modelllänge bestimmen.
-- **Quelle:** `formeln_s44_glockenrock.md`, Zeilen 20–25; Originaltranskript `s44_glockenrock.md`, Zeilen 41–47; Buchseite 44.
+- **Quelle:** `formeln_s44.md`, Zeilen 20–25; Originaltranskript `s44.md`, Zeilen 41–47; Buchseite 44.
 - **Originalbezeichnung:** `rSaW = rTaW + MoL`
 - **Normalisierte Bezeichnung:** `saumradius_vollglocke`
 
@@ -95,7 +95,7 @@ saumradius_vollglocke = taillenradius + modelllaenge
 ## HOF-B1-S044-F03 — Saumweite der Vollglocke
 
 - **Fachlicher Zweck:** Gesamten Umfang des Saumkreises aus dem Saumradius bestimmen.
-- **Quelle:** `formeln_s44_glockenrock.md`, Zeilen 27–32; Originaltranskript `s44_glockenrock.md`, Zeilen 49–55; Buchseite 44.
+- **Quelle:** `formeln_s44.md`, Zeilen 27–32; Originaltranskript `s44.md`, Zeilen 49–55; Buchseite 44.
 - **Originalbezeichnung:** `SaW = 2 × π × rSaW`
 - **Normalisierte Bezeichnung:** `saumweite_vollglocke`
 
@@ -140,7 +140,7 @@ Buchwert              = 386,2 cm
 ## HOF-B1-S044-F04 — Taillenradius mit Nahtzugaben
 
 - **Fachlicher Zweck:** Taillenradius für eine Naht- oder Schlitzlösung bestimmen, indem zwei Nahtzugaben zur Taillenweite addiert werden.
-- **Quelle:** `formeln_s44_glockenrock.md`, Zeilen 34–37; Originaltranskript `s44_glockenrock.md`, Zeilen 69–82; Buchseite 44.
+- **Quelle:** `formeln_s44.md`, Zeilen 34–37; Originaltranskript `s44.md`, Zeilen 69–82; Buchseite 44.
 - **Originalbezeichnung:** `rTaW = (TaW + 2 × NZg) : (2 × π)`
 - **Normalisierte Bezeichnung:** `taillenradius_vollglocke_mit_nahtzugaben`
 
@@ -181,6 +181,6 @@ taillenradius_vollglocke_mit_nahtzugaben = (taillenweite + (anzahl_nahtzugaben *
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s44_glockenrock.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s44.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 9–10 | 2 | Gegebene Eingabewerte `TaW = 72 cm` und `MoL = 50 cm`; sie werden in `F01` und `F02` verwendet, sind aber keine eigenständigen Berechnungsformeln |

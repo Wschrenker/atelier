@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 535
 
-Quelle der Normalisierung: `formeln_s535_digital_geprüft.md`
-Originaltranskript: `s535_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s535.md`
+Originaltranskript: `s535.md`
 Buchseite: Hofenbitzer, Band 1, S. 535
 
 ## HOF-B1-S535-F01 — Armdurchmesser mit Zugabe und Halbwert
 
 - **Fachlicher Zweck:** Den Armdurchmesser um eine gewählte Zugabe erweitern und den halben Konstruktionswert bereitstellen.
-- **Quelle:** `formeln_s535_digital_geprüft.md`, Zeile 9; Originaltranskript `s535_digital_geprüft.md`, Zeile 47; Buchseite 535.
+- **Quelle:** `formeln_s535.md`, Zeile 9; Originaltranskript `s535.md`, Zeile 47; Buchseite 535.
 - **Originalbezeichnung:** `ArD + Zugabe = ArD+; ½`.
 - **Normalisierte Bezeichnung:** `armdurchmesser_mit_zugabe_und_halbwert`
 
@@ -48,7 +48,7 @@ halber_armdurchmesser_mit_zugabe = armdurchmesser_mit_zugabe / 2
 ## HOF-B1-S535-F02 — Brustpunktabstand mit Zugabe
 
 - **Fachlicher Zweck:** Den Brustpunktabstand aus einem Zehntel des Brustumfangs und einer gewählten Zugabe berechnen.
-- **Quelle:** `formeln_s535_digital_geprüft.md`, Zeile 10; Originaltranskript `s535_digital_geprüft.md`, Zeile 48; Buchseite 535.
+- **Quelle:** `formeln_s535.md`, Zeile 10; Originaltranskript `s535.md`, Zeile 48; Buchseite 535.
 - **Originalbezeichnung:** `Brustpunktabstand = BrU/10 + Zugabe`.
 - **Normalisierte Bezeichnung:** `brustpunktabstand_mit_zugabe`
 
@@ -87,7 +87,7 @@ brustpunktabstand_mit_zugabe = (brustumfang / 10) + brustpunktabstand_zugabe
 ## HOF-B1-S535-F03 — Abnäherinhalt aus der Längendifferenz
 
 - **Fachlicher Zweck:** Den Abnäherinhalt aus der Differenz von Vorder- und Rückenlänge sowie einer signierten fachlichen Korrektur bestimmen.
-- **Quelle:** `formeln_s535_digital_geprüft.md`, Zeile 15; Originaltranskript `s535_digital_geprüft.md`, Zeile 53; Buchseite 535.
+- **Quelle:** `formeln_s535.md`, Zeile 15; Originaltranskript `s535.md`, Zeile 53; Buchseite 535.
 - **Originalbezeichnung:** `Differenz VL − RüL ±; Abnäherinhalt`.
 - **Normalisierte Bezeichnung:** `abnaeherinhalt_aus_laengendifferenz`
 

@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 480
 
-Quelle der Normalisierung: `formeln_s480_codex_v2_digital_geprueft.md`
-Originaltranskript: `s480_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `formeln_s480.md`
+Originaltranskript: `s480.md`
 Buchseite: Hofenbitzer, Band 1, S. 480
 
 ## HOF-B1-S480-F01 — Belegnahtverlängerung am Vorderteil als Faltentiefe
 
 - **Fachlicher Zweck:** Die Verlängerung der Belegnaht am Vorderteil gleich der Verlängerung am Beleg und gleich der Tiefe der Belegfalte festlegen.
-- **Quelle:** `formeln_s480_codex_v2_digital_geprueft.md`, Zeile 17; Originaltranskript `s480_codex_v2_digital_geprueft.md`, Zeile 40; Buchseite 480.
+- **Quelle:** `formeln_s480.md`, Zeile 17; Originaltranskript `s480.md`, Zeile 40; Buchseite 480.
 - **Originalbezeichnung:** `Verlängerung der Belegnaht um ca. 0,5 bis 1 cm wie am Beleg = Faltentiefe`.
 - **Normalisierte Bezeichnung:** `belegnaht_verlaengerung_am_vt`
 
@@ -52,7 +52,7 @@ faltentiefe_belegfalte = belegnaht_verlaengerung_am_vt = belegnaht_verlaengerung
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s480_codex_v2_digital_geprueft.md`, Zeilen 9–12 | 4 | Schnittteil-, Stückzahl-, Material- und Größenbeschriftungen; Produktionsangaben, keine Berechnungen |
+| `formeln_s480.md`, Zeilen 9–12 | 4 | Schnittteil-, Stückzahl-, Material- und Größenbeschriftungen; Produktionsangaben, keine Berechnungen |
 | **Summe** | **4** | **4 Produktionsbeschriftungen ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

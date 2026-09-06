@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 254
 
-Quelle der Normalisierung: `formeln_s254_digital_geprüft.md`
-Originaltranskript: `s254_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s254.md`
+Originaltranskript: `s254.md`
 Buchseite: Hofenbitzer, Band 1, S. 254
 Extraktionsstand: v2
 
 ## HOF-B1-S254-F01 — Ärmelkurvenlängen nach Armlochvertiefung
 
 - **Fachlicher Zweck:** Die vordere gemessene Armlochstrecke direkt auf die Ärmelkurve übertragen und die hintere gemessene Armlochstrecke um die gewählte Einhalteweite vergrößern.
-- **Quelle:** `formeln_s254_digital_geprüft.md`, Zeilen 20–22; Originaltranskript `s254_digital_geprüft.md`, Zeilen 53–55; Buchseite 254.
+- **Quelle:** `formeln_s254.md`, Zeilen 20–22; Originaltranskript `s254.md`, Zeilen 53–55; Buchseite 254.
 - **Originalbezeichnung:** EW, me, üb
 - **Normalisierte Bezeichnung:** `aermelkurvenlaengen_nach_armlochvertiefung`
 
@@ -61,7 +61,7 @@ aermelkurvenlaenge_hinten = 13,1 bis 13,6 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s254_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s254.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Seitenverweis `248 + 250`; Pluszeichen verbindet Buchseiten und ist kein Rechenoperator |
 | Zeilen 14–15 | 2 | Isolierte gemessene Werte `me = 7,9 cm` und `me = 12,6 cm`; Eingaben der vollständigen Übertragungsbeziehung in Zeilen 20–22 |

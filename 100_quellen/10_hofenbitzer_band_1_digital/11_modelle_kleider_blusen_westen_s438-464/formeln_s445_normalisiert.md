@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 445
 
-Quelle der Normalisierung: `formeln_s445_digital_geprüft.md`
-Originaltranskript: `s445_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s445.md`
+Originaltranskript: `s445.md`
 Buchseite: Hofenbitzer, Band 1, S. 445
 
 ## HOF-B1-S445-F01 — Falteninhalt der Quetschfalte
 
 - **Fachlicher Zweck:** Den Öffnungsbetrag beziehungsweise Falteninhalt der Quetschfalte aus dem doppelten Faltenabstand bestimmen.
-- **Quelle:** `formeln_s445_digital_geprüft.md`, Zeile 10; Originaltranskript `s445_digital_geprüft.md`, Zeile 31; Buchseite 445.
+- **Quelle:** `formeln_s445.md`, Zeile 10; Originaltranskript `s445.md`, Zeile 31; Buchseite 445.
 - **Originalbezeichnung:** doppelter Faltenabstand (`Falteninhalt`)
 - **Normalisierte Bezeichnung:** `quetschfalte_falteninhalt`
 
@@ -46,5 +46,5 @@ quetschfalte_falteninhalt = 2 * faltenabstand
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s445_digital_geprüft.md`, Zeile 9 | 1 | Bildnummern-/Methodenverweis `□6+8` und qualitative Passenbearbeitung; keine skalare Rechenausgabe |
+| `formeln_s445.md`, Zeile 9 | 1 | Bildnummern-/Methodenverweis `□6+8` und qualitative Passenbearbeitung; keine skalare Rechenausgabe |
 | **Summe** | **1** | **1 Bild-/Methodenverweis ausgeschlossen** |

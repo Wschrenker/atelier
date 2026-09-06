@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 79
 
-Quelle der Normalisierung: `formeln_s79_codex_v2_digital_geprueft.md`
-Originaltranskript: `s79_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `formeln_s79.md`
+Originaltranskript: `s79.md`
 Buchseite: Hofenbitzer, Band 1, S. 79
 
 ## HOF-B1-S079-F01 — Saumweitenreduzierung des Ballonrocks
 
 - **Fachlicher Zweck:** Den Bereich der gesamten Saumweitenreduzierung aus der Überlappung je Naht und der Anzahl der Nähte bestimmen.
-- **Quelle:** `formeln_s79_codex_v2_digital_geprueft.md`, Zeile 9; Originaltranskript `s79_codex_v2_digital_geprueft.md`, Zeile 23; Buchseite 79.
+- **Quelle:** `formeln_s79.md`, Zeile 9; Originaltranskript `s79.md`, Zeile 23; Buchseite 79.
 - **Originalbezeichnung:** `10 Nähten = 5 bis 15 cm Saumweitenreduzierung`
 - **Normalisierte Bezeichnung:** `saumweitenreduzierung_ballonrock`
 
@@ -53,7 +53,7 @@ saumweitenreduzierung_max = anzahl_naehte * ueberlappung_je_naht_max
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s79_codex_v2_digital_geprueft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s79.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 14–15 | 2 | Schnittteil- und Zuschnittbeschriftungen mit Modellnummern, Stückzahlen, Stofflage und Einlage; Pluszeichen verbinden Modellvarianten beziehungsweise Materialien und sind keine Rechenoperatoren |
 | **Summe** | **2** | **2 Fehlklassifikationen ausgeschlossen** |

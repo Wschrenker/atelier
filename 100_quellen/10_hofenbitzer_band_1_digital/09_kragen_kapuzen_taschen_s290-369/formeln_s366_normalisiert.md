@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 366 und S. 367
 
-Quelle der Normalisierung: `formeln_s366_digital_geprüft.md`, zusätzliche Anwendungsnachweise in `formeln_s367_digital_geprüft.md`
-Originaltranskripte: `s366_digital_geprüft.md`, `s367_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s366.md`, zusätzliche Anwendungsnachweise in `formeln_s367.md`
+Originaltranskripte: `s366.md`, `s367.md`
 Buchseiten: Hofenbitzer, Band 1, S. 366 und S. 367
 Extraktionsstand: v2
 
 ## HOF-B1-S366-F01 — Gesamtbreite der beiden Paspeln
 
 - **Fachlicher Zweck:** Die Gesamtbreite zweier gleich breiter Paspeln aus der einzelnen Paspelbreite bestimmen.
-- **Quelle:** `formeln_s366_digital_geprüft.md`, Zeile 9; Originaltranskript `s366_digital_geprüft.md`, Zeile 30; zusätzlicher Anwendungsnachweis in `formeln_s367_digital_geprüft.md`, Zeile 37, und `s367_digital_geprüft.md`, Zeile 80; Buchseiten 366 und 367.
+- **Quelle:** `formeln_s366.md`, Zeile 9; Originaltranskript `s366.md`, Zeile 30; zusätzlicher Anwendungsnachweis in `formeln_s367.md`, Zeile 37, und `s367.md`, Zeile 80; Buchseiten 366 und 367.
 - **Originalbezeichnung:** `2 x Paspelbreite`, `2 × Paspel-Breite`
 - **Normalisierte Bezeichnung:** `gesamtbreite_zweier_paspeln`
 
@@ -56,7 +56,7 @@ Buchwert S. 366:             = 2 * 0,5 cm
 ## HOF-B1-S366-F02 — Zuschnittbreite eines einzelnen Paspelstreifens
 
 - **Fachlicher Zweck:** Die Zuschnittbreite eines Paspelstreifens aus dreifacher Paspelbreite und einer zusätzlichen Breite bestimmen.
-- **Quelle:** `formeln_s366_digital_geprüft.md`, Zeilen 21 und 39; Originaltranskript `s366_digital_geprüft.md`, Zeilen 37 und 81; zusätzliche Anwendungsnachweise in `formeln_s367_digital_geprüft.md`, Zeilen 20 und 38, und `s367_digital_geprüft.md`, Zeilen 44 und 81; Buchseiten 366 und 367.
+- **Quelle:** `formeln_s366.md`, Zeilen 21 und 39; Originaltranskript `s366.md`, Zeilen 37 und 81; zusätzliche Anwendungsnachweise in `formeln_s367.md`, Zeilen 20 und 38, und `s367.md`, Zeilen 44 und 81; Buchseiten 366 und 367.
 - **Originalbezeichnung:** `3 x Paspelbreite + 1 bis 1,5 cm`, `3 × Paspelbreite + 1 cm`
 - **Normalisierte Bezeichnung:** `zuschnittbreite_einzelner_paspelstreifen`
 
@@ -123,7 +123,7 @@ zuschnittbreite_einzelner_paspelstreifen = 3 * paspelbreite + 1 cm
 ## HOF-B1-S366-F03 — Zuschnittbreite des unteren Paspelstreifens
 
 - **Fachlicher Zweck:** Den unteren Paspelstreifen um die Kürzung des vorderen Taschenbeutels verlängern.
-- **Quelle:** `formeln_s366_digital_geprüft.md`, Zeile 22; Originaltranskript `s366_digital_geprüft.md`, Zeile 38; Buchseite 366.
+- **Quelle:** `formeln_s366.md`, Zeile 22; Originaltranskript `s366.md`, Zeile 38; Buchseite 366.
 - **Originalbezeichnung:** `3 x Paspelbreite + 1 bis 1,5 cm + Kürzung des vorderen Tb`
 - **Normalisierte Bezeichnung:** `zuschnittbreite_unterer_paspelstreifen`
 
@@ -166,7 +166,7 @@ zuschnittbreite_unterer_paspelstreifen = 3 * paspelbreite
 ## HOF-B1-S366-F04 — Zuschnittbreite eines gemeinsamen Paspelstreifens
 
 - **Fachlicher Zweck:** Die Zuschnittbreite eines gemeinsamen Streifens für obere und untere Paspel bestimmen und dabei eine Kürzung des vorderen Taschenbeutels ausgleichen.
-- **Quelle:** `formeln_s366_digital_geprüft.md`, Zeilen 27 und 40; Originaltranskript `s366_digital_geprüft.md`, Zeilen 40 und 82; zusätzlicher Anwendungsnachweis in `formeln_s367_digital_geprüft.md`, Zeile 39, und `s367_digital_geprüft.md`, Zeile 82; Buchseiten 366 und 367.
+- **Quelle:** `formeln_s366.md`, Zeilen 27 und 40; Originaltranskript `s366.md`, Zeilen 40 und 82; zusätzlicher Anwendungsnachweis in `formeln_s367.md`, Zeile 39, und `s367.md`, Zeile 82; Buchseiten 366 und 367.
 - **Originalbezeichnung:** `6 x Paspelbreite + 2 bis 3 cm + Kürzung des vorderen Tb`
 - **Normalisierte Bezeichnung:** `zuschnittbreite_gemeinsamer_paspelstreifen`
 
@@ -224,13 +224,13 @@ zuschnittbreite_gemeinsamer_paspelstreifen = 6 * paspelbreite
 
 | Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s366_digital_geprüft.md`, Zeilen 14–16 | 3 | Taschenspiegel- und Taschenbeutel-Zuschnittbeschriftungen mit Stückzahl, Material und Kopieranweisung; keine berechnete Ausgabe |
-| `formeln_s366_digital_geprüft.md`, Zeilen 32–34 | 3 | Wiederholte Taschenspiegel- und Taschenbeutel-Zuschnittbeschriftungen; keine Rechenformeln |
-| `formeln_s367_digital_geprüft.md`, Zeile 9 | 1 | Produktionsbeschriftung `Oberstoff (2×)`; Stückzahl statt Multiplikationsausgabe |
-| `formeln_s367_digital_geprüft.md`, Zeile 14 | 1 | Taschenbeutel-Zuschnittbeschriftung mit Stückzahl und Material |
-| `formeln_s367_digital_geprüft.md`, Zeile 19 | 1 | Taschenspiegel-Zuschnittbeschriftung mit Stückzahl und Material |
-| `formeln_s367_digital_geprüft.md`, Zeile 25 | 1 | Wiederholte Produktionsbeschriftung `Oberstoff (2×)` |
-| `formeln_s367_digital_geprüft.md`, Zeilen 30–32 | 3 | Patten- und Taschenbeutel-Zuschnittbeschriftungen mit Stückzahl, Material und Einlage |
+| `formeln_s366.md`, Zeilen 14–16 | 3 | Taschenspiegel- und Taschenbeutel-Zuschnittbeschriftungen mit Stückzahl, Material und Kopieranweisung; keine berechnete Ausgabe |
+| `formeln_s366.md`, Zeilen 32–34 | 3 | Wiederholte Taschenspiegel- und Taschenbeutel-Zuschnittbeschriftungen; keine Rechenformeln |
+| `formeln_s367.md`, Zeile 9 | 1 | Produktionsbeschriftung `Oberstoff (2×)`; Stückzahl statt Multiplikationsausgabe |
+| `formeln_s367.md`, Zeile 14 | 1 | Taschenbeutel-Zuschnittbeschriftung mit Stückzahl und Material |
+| `formeln_s367.md`, Zeile 19 | 1 | Taschenspiegel-Zuschnittbeschriftung mit Stückzahl und Material |
+| `formeln_s367.md`, Zeile 25 | 1 | Wiederholte Produktionsbeschriftung `Oberstoff (2×)` |
+| `formeln_s367.md`, Zeilen 30–32 | 3 | Patten- und Taschenbeutel-Zuschnittbeschriftungen mit Stückzahl, Material und Einlage |
 | **Summe** | **13** | **13 Produktions-, Zuschnitt- oder Kopierbeschriftungen** |
 
 ## Extraktionsgrenze

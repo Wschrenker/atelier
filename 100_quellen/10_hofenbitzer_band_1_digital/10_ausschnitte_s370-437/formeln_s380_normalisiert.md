@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 380
 
-Quelle der Normalisierung: `formeln_s380_codex_v2.md`
-Originaltranskript: `s380_codex_v2.md`
+Quelle der Normalisierung: `formeln_s380.md`
+Originaltranskript: `s380.md`
 Buchseite: Hofenbitzer, Band 1, S. 380
 
 ## HOF-B1-S380-F01 — Rückenteil-Mehrweite aus nicht vollständig aufgenommenen Abnäherinhalten
 
 - **Fachlicher Zweck:** Die vorhandenen Abnäherinhalte summieren und die entstehende Mehrweite aus der Differenz zum tatsächlich an der Teilungsnaht entfernten Betrag bestimmen.
-- **Quelle:** `formeln_s380_codex_v2.md`, Zeile 9; Originaltranskript `s380_codex_v2.md`, Zeile 31; Buchseite 380.
+- **Quelle:** `formeln_s380.md`, Zeile 9; Originaltranskript `s380.md`, Zeile 31; Buchseite 380.
 - **Originalbezeichnung:** `3,5 cm` an der Naht entfernt gegenüber `2 cm + 2,7 cm = 4,7 cm` Abnäherinhalten; dadurch entsteht Mehrweite im RT.
 - **Normalisierte Bezeichnung:** `rueckenteil_mehrweite_aus_abnaeherdifferenz`
 

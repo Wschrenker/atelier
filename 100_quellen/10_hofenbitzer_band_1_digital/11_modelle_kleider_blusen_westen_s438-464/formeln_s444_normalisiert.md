@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 444
 
-Quelle der Normalisierung: `formeln_s444_digital_geprüft.md`
-Originaltranskript: `s444_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s444.md`
+Originaltranskript: `s444.md`
 Buchseite: Hofenbitzer, Band 1, S. 444
 
 ## HOF-B1-S444-F01 — Breite des ersten Knopfleisten-Einschlags
 
 - **Fachlicher Zweck:** Die Breite des ersten Einschlags aus dem gemessenen Abstand zwischen vorderer Kante und Absteppnaht plus einer kleinen Zugabe bestimmen.
-- **Quelle:** `formeln_s444_digital_geprüft.md`, Zeile 9; Originaltranskript `s444_digital_geprüft.md`, Zeile 36; Buchseite 444.
+- **Quelle:** `formeln_s444.md`, Zeile 9; Originaltranskript `s444.md`, Zeile 36; Buchseite 444.
 - **Originalbezeichnung:** erster Einschlag plus ca. `0,2 cm`
 - **Normalisierte Bezeichnung:** `knopfleiste_erster_einschlag`
 

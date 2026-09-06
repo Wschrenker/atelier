@@ -1,7 +1,7 @@
 # Fachlich normalisierte Formeln — S. 353
 
-Quelle der Normalisierung: `formeln_s353_digital_geprüft.md`
-Originaltranskript: `s353_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s353.md`
+Originaltranskript: `s353.md`
 Buchseite: Hofenbitzer, Band 1, S. 353
 Extraktionsstand: v2
 
@@ -10,7 +10,7 @@ Hinweis: Die auf dieser Seite ebenfalls extrahierte Kapuzenhöhenformel ist als 
 ## HOF-B1-S353-F01 — Kapuzentiefe aus Kapuzenhöhe
 
 - **Fachlicher Zweck:** Die Kapuzentiefe durch Abzug eines ungefähren Bereichs von der Kapuzenhöhe bestimmen.
-- **Quelle:** `formeln_s353_digital_geprüft.md`, Zeile 9; Originaltranskript `s353_digital_geprüft.md`, Zeile 11; Buchseite 353.
+- **Quelle:** `formeln_s353.md`, Zeile 9; Originaltranskript `s353.md`, Zeile 11; Buchseite 353.
 - **Originalbezeichnung:** Kapuzentiefe (KapT), Kapuzenhöhe (KapH)
 - **Normalisierte Bezeichnung:** `kapuzentiefe`
 

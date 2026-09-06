@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 540
 
-Quelle der Normalisierung: `formeln_s540_digital_geprüft.md`
-Originaltranskript: `s540_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s540.md`
+Originaltranskript: `s540.md`
 Buchseite: Hofenbitzer, Band 1, S. 540
 
 ## HOF-B1-S540-F01 — Brustbreite aus der ganzen Brustbreite
 
 - **Fachlicher Zweck:** Das halbe Konstruktionsmaß der Brustbreite aus der ganzen gemessenen Brustbreite bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 9; Originaltranskript `s540_digital_geprüft.md`, Zeile 19; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 9; Originaltranskript `s540.md`, Zeile 19; Buchseite 540.
 - **Originalbezeichnung:** `BrB = gBrB : 2`.
 - **Normalisierte Bezeichnung:** `brustbreite_aus_ganzer_brustbreite`
 
@@ -45,7 +45,7 @@ brustbreite = ganze_brustbreite / 2
 ## HOF-B1-S540-F02 — Brusttiefe aus der ganzen Brusttiefe
 
 - **Fachlicher Zweck:** Die Brusttiefe nach Abzug der Halslochbreite aus der ganzen gemessenen Brusttiefe bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 10; Originaltranskript `s540_digital_geprüft.md`, Zeile 20; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 10; Originaltranskript `s540.md`, Zeile 20; Buchseite 540.
 - **Originalbezeichnung:** `BrT = gBrT − HlB`.
 - **Normalisierte Bezeichnung:** `brusttiefe_aus_ganzer_brusttiefe`
 
@@ -84,7 +84,7 @@ brusttiefe = ganze_brusttiefe - halslochbreite
 ## HOF-B1-S540-F03 — Brustweite mit Weitenzugabe
 
 - **Fachlicher Zweck:** Die Brustweite aus Brustumfang und Weitenzugabe bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 15; Originaltranskript `s540_digital_geprüft.md`, Zeile 22; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 15; Originaltranskript `s540.md`, Zeile 22; Buchseite 540.
 - **Originalbezeichnung:** `BrU + Wzg`.
 - **Normalisierte Bezeichnung:** `brustweite_mit_weitenzugabe`
 
@@ -123,7 +123,7 @@ brustweite = brustumfang + brust_weitenzugabe
 ## HOF-B1-S540-F04 — Halslochbreite aus dem Halsansatzumfang
 
 - **Fachlicher Zweck:** Die Halslochbreite aus einem Sechstel des Halsansatzumfangs plus 0,5 cm bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 20; Originaltranskript `s540_digital_geprüft.md`, Zeile 32; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 20; Originaltranskript `s540.md`, Zeile 32; Buchseite 540.
 - **Originalbezeichnung:** `HaU : 6 + 0,5 cm`.
 - **Normalisierte Bezeichnung:** `halslochbreite_aus_halsansatzumfang`
 
@@ -162,7 +162,7 @@ halslochbreite = (halsansatzumfang / 6) + 0,5 cm
 ## HOF-B1-S540-F05 — Hüftweite mit Weitenzugabe
 
 - **Fachlicher Zweck:** Die Hüftweite aus Hüftumfang und Weitenzugabe bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 25; Originaltranskript `s540_digital_geprüft.md`, Zeile 37; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 25; Originaltranskript `s540.md`, Zeile 37; Buchseite 540.
 - **Originalbezeichnung:** `HüU + Wzg`.
 - **Normalisierte Bezeichnung:** `hueftweite_mit_weitenzugabe`
 
@@ -201,7 +201,7 @@ hueftweite = hueftumfang + hueft_weitenzugabe
 ## HOF-B1-S540-F06 — Rückenbreite aus der ganzen Rückenbreite
 
 - **Fachlicher Zweck:** Das halbe Konstruktionsmaß der Rückenbreite aus der ganzen gemessenen Rückenbreite bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 30; Originaltranskript `s540_digital_geprüft.md`, Zeile 51; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 30; Originaltranskript `s540.md`, Zeile 51; Buchseite 540.
 - **Originalbezeichnung:** `RüB = gRüB : 2`.
 - **Normalisierte Bezeichnung:** `rueckenbreite_aus_ganzer_rueckenbreite`
 
@@ -239,7 +239,7 @@ rueckenbreite = ganze_rueckenbreite / 2
 ## HOF-B1-S540-F07 — Taillenweite mit Weitenzugabe
 
 - **Fachlicher Zweck:** Die Taillenweite aus Taillenumfang und Weitenzugabe bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 35; Originaltranskript `s540_digital_geprüft.md`, Zeile 61; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 35; Originaltranskript `s540.md`, Zeile 61; Buchseite 540.
 - **Originalbezeichnung:** `TaU + Wzg`.
 - **Normalisierte Bezeichnung:** `taillenweite_mit_weitenzugabe`
 
@@ -278,7 +278,7 @@ taillenweite = taillenumfang + taillen_weitenzugabe
 ## HOF-B1-S540-F08 — Vorderlänge aus der ganzen Vorderlänge
 
 - **Fachlicher Zweck:** Die Vorderlänge nach Abzug der Halslochbreite aus der ganzen gemessenen Vorderlänge bestimmen.
-- **Quelle:** `formeln_s540_digital_geprüft.md`, Zeile 40; Originaltranskript `s540_digital_geprüft.md`, Zeile 68; Buchseite 540.
+- **Quelle:** `formeln_s540.md`, Zeile 40; Originaltranskript `s540.md`, Zeile 68; Buchseite 540.
 - **Originalbezeichnung:** `VL = (gVL − HlB)`.
 - **Normalisierte Bezeichnung:** `vorderlaenge_aus_ganzer_vorderlaenge`
 

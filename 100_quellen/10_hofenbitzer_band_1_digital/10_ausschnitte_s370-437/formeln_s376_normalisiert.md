@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 376
 
-Quelle der Normalisierung: `formeln_s376_codex_v2.md`
-Originaltranskript: `s376_codex_v2.md`
+Quelle der Normalisierung: `formeln_s376.md`
+Originaltranskript: `s376.md`
 Buchseite: Hofenbitzer, Band 1, S. 376
 
 ## HOF-B1-S376-F01 — Gesamte Saumerweiterung über sechs Nähte
 
 - **Fachlicher Zweck:** Die gesamte Saumerweiterung des Modells aus der Erweiterung je Naht und der Anzahl der beteiligten Nähte berechnen.
-- **Quelle:** `formeln_s376_codex_v2.md`, Zeile 9; Originaltranskript `s376_codex_v2.md`, Zeile 41; Buchseite 376.
+- **Quelle:** `formeln_s376.md`, Zeile 9; Originaltranskript `s376.md`, Zeile 41; Buchseite 376.
 - **Originalbezeichnung:** `Erweiterung = 4,5 cm · 6 Nähte = 27 cm`
 - **Normalisierte Bezeichnung:** `gesamte_saumerweiterung_englische_naehte`
 

@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 440
 
-Quelle der Normalisierung: `formeln_s440_digital_geprüft.md`
-Originaltranskript: `s440_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s440.md`
+Originaltranskript: `s440.md`
 Buchseite: Hofenbitzer, Band 1, S. 440
 
 ## HOF-B1-S440-F01 — Öffnungsbetrag für eine Biese
 
 - **Fachlicher Zweck:** Den Öffnungsbetrag an der eingeschnittenen Biesenkante aus der Biesentiefe bestimmen.
-- **Quelle:** `formeln_s440_digital_geprüft.md`, Zeile 14; Originaltranskript `s440_digital_geprüft.md`, Zeile 42; Buchseite 440.
+- **Quelle:** `formeln_s440.md`, Zeile 14; Originaltranskript `s440.md`, Zeile 42; Buchseite 440.
 - **Originalbezeichnung:** doppelte Biesentiefe (`BiT`)
 - **Normalisierte Bezeichnung:** `biesenkanten_oeffnungsbetrag`
 
@@ -46,7 +46,7 @@ biesenkanten_oeffnungsbetrag = 2 * biesentiefe
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s440_digital_geprüft.md`, Zeile 9 | 1 | Passformklassen- und Grundschnittangabe mit Seitenverweis `192+193`; Anwendungsbereich, keine Rechenformel |
+| `formeln_s440.md`, Zeile 9 | 1 | Passformklassen- und Grundschnittangabe mit Seitenverweis `192+193`; Anwendungsbereich, keine Rechenformel |
 | **Summe** | **1** | **1 Kontext-/Anwendungszeile ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

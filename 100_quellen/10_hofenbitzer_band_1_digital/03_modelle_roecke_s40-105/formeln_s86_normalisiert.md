@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 86
 
-Quelle der Normalisierung: `formeln_s86_codex_v2_digital_geprueft.md`
-Originaltranskript: `s86_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `formeln_s86.md`
+Originaltranskript: `s86.md`
 Buchseite: Hofenbitzer, Band 1, S. 86
 
 ## HOF-B1-S086-F01 — Hüftweite und Teilmaße
 
 - **Fachlicher Zweck:** Die Hüftweite aus Hüftumfang und gewählter Zugabe sowie die halbe und viertel Hüftweite bestimmen.
-- **Quelle:** `formeln_s86_codex_v2_digital_geprueft.md`, Zeile 9; Originaltranskript `s86_codex_v2_digital_geprueft.md`, Zeile 49; Buchseite 86.
+- **Quelle:** `formeln_s86.md`, Zeile 9; Originaltranskript `s86.md`, Zeile 49; Buchseite 86.
 - **Originalbezeichnung:** `HüU Hüftumfang + Zugabe = Hüftweite HüW`
 - **Normalisierte Bezeichnung:** `hueftweite_faltenrock`
 
@@ -58,7 +58,7 @@ viertel_hueftweite = hueftweite / 4
 ## HOF-B1-S086-F02 — Taillenweite und Teilmaße
 
 - **Fachlicher Zweck:** Die Taillenweite aus Taillenumfang und gewählter Zugabe sowie die halbe und viertel Taillenweite bestimmen.
-- **Quelle:** `formeln_s86_codex_v2_digital_geprueft.md`, Zeile 10; Originaltranskript `s86_codex_v2_digital_geprueft.md`, Zeile 50; Buchseite 86.
+- **Quelle:** `formeln_s86.md`, Zeile 10; Originaltranskript `s86.md`, Zeile 50; Buchseite 86.
 - **Originalbezeichnung:** `TaU Taillenumfang + Zugabe = Taillenweite TaW`
 - **Normalisierte Bezeichnung:** `taillenweite_faltenrock`
 
@@ -109,7 +109,7 @@ viertel_taillenweite = taillenweite / 4
 ## HOF-B1-S086-F03 — Taillenausfall und halber Taillenausfall
 
 - **Fachlicher Zweck:** Den Taillenausfall aus halber Hüftweite und halber Taillenweite sowie dessen Hälfte bestimmen.
-- **Quelle:** `formeln_s86_codex_v2_digital_geprueft.md`, Zeile 11; Originaltranskript `s86_codex_v2_digital_geprueft.md`, Zeile 51; Buchseite 86.
+- **Quelle:** `formeln_s86.md`, Zeile 11; Originaltranskript `s86.md`, Zeile 51; Buchseite 86.
 - **Originalbezeichnung:** `TaAf Taillenausfall = 1/2 HüW - 1/2 TaW`
 - **Normalisierte Bezeichnung:** `taillenausfall_faltenrock`
 
@@ -155,7 +155,7 @@ halber_taillenausfall = taillenausfall / 2
 ## HOF-B1-S086-F04 — Faltenabstand an der Hüfte
 
 - **Fachlicher Zweck:** Den gleichmäßigen Faltenabstand an der Hüfte aus Hüftweite und Faltenanzahl bestimmen.
-- **Quelle:** `formeln_s86_codex_v2_digital_geprueft.md`, Zeilen 17, 22 und 27; Originaltranskript `s86_codex_v2_digital_geprueft.md`, Zeilen 56–62; Buchseite 86.
+- **Quelle:** `formeln_s86.md`, Zeilen 17, 22 und 27; Originaltranskript `s86.md`, Zeilen 56–62; Buchseite 86.
 - **Originalbezeichnung:** `Faltenabstand an der Hüfte (FaA_Hü) = HüW : Faltenanzahl (FaZ)`
 - **Normalisierte Bezeichnung:** `faltenabstand_huefte`
 
@@ -205,7 +205,7 @@ Buchwert             = 4,54 cm
 ## HOF-B1-S086-F05 — Faltenabstand an der Taille
 
 - **Fachlicher Zweck:** Den gleichmäßigen Faltenabstand an der Taille aus Taillenweite und Faltenanzahl bestimmen.
-- **Quelle:** `formeln_s86_codex_v2_digital_geprueft.md`, Zeilen 32, 37 und 42; Originaltranskript `s86_codex_v2_digital_geprueft.md`, Zeilen 64–70; Buchseite 86.
+- **Quelle:** `formeln_s86.md`, Zeilen 32, 37 und 42; Originaltranskript `s86.md`, Zeilen 64–70; Buchseite 86.
 - **Originalbezeichnung:** `Faltenabstand an der Taille (FaA_Ta) = TaW : Faltenanzahl (FaZ)`
 - **Normalisierte Bezeichnung:** `faltenabstand_taille`
 
@@ -255,7 +255,7 @@ Buchwert             = 3,36 cm
 ## HOF-B1-S086-F06 — Falteninhalt aus der Faltentiefe
 
 - **Fachlicher Zweck:** Den Falteninhalt einer Normalfalte als doppelte Faltentiefe bestimmen.
-- **Quelle:** `formeln_s86_codex_v2_digital_geprueft.md`, Zeile 47; Originaltranskript `s86_codex_v2_digital_geprueft.md`, Zeile 92; Buchseite 86.
+- **Quelle:** `formeln_s86.md`, Zeile 47; Originaltranskript `s86.md`, Zeile 92; Buchseite 86.
 - **Originalbezeichnung:** `FaI = 2 x FaT`
 - **Normalisierte Bezeichnung:** `falteninhalt_normalfalte`
 
@@ -295,7 +295,7 @@ falteninhalt = faktor_falteninhalt * faltentiefe
 ## HOF-B1-S086-F07 — Kontrolle der offenen Weite
 
 - **Fachlicher Zweck:** Die erforderliche offene Stoffweite aus Faltenanzahl, Faltentiefe und Hüftweite kontrollieren.
-- **Quelle:** `formeln_s86_codex_v2_digital_geprueft.md`, Zeilen 52, 57 und 62; Originaltranskript `s86_codex_v2_digital_geprueft.md`, Zeilen 104–110; Buchseite 86.
+- **Quelle:** `formeln_s86.md`, Zeilen 52, 57 und 62; Originaltranskript `s86.md`, Zeilen 104–110; Buchseite 86.
 - **Originalbezeichnung:** `ofW = FaZ · FaT · 2 + HüW`
 - **Normalisierte Bezeichnung:** `offene_weite_faltenrock`
 
@@ -356,7 +356,7 @@ offene_weite = faltenanzahl * 9,2 cm + hueftweite
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s86_codex_v2_digital_geprueft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s86.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 12 | 1 | Leere Tabellenzeile für den gemessenen Bundumfang; weder Werte noch ausführbare Rechenbeziehung vorhanden |
 | **Summe** | **1** | **1 unvollständige Kandidatenzeile ausgeschlossen** |

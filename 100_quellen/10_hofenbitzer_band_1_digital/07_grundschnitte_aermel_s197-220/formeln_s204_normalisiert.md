@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 204
 
-Quelle der Normalisierung: `formeln_s204_digital_geprüft.md`
-Originaltranskript: `s204_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s204.md`
+Originaltranskript: `s204.md`
 Buchseite: Hofenbitzer, Band 1, S. 204
 Extraktionsstand: v2
 
 ## HOF-B1-S204-F01 — Einhalteweite des schmalen Ärmels
 
 - **Fachlicher Zweck:** Die Einhalteweite der Ärmelkugel aus 8 Prozent des Armlochumfangs bestimmen.
-- **Quelle:** `formeln_s204_digital_geprüft.md`, Zeile 9; Originaltranskript `s204_digital_geprüft.md`, Zeile 17; Buchseite 204.
+- **Quelle:** `formeln_s204.md`, Zeile 9; Originaltranskript `s204.md`, Zeile 17; Buchseite 204.
 - **Originalbezeichnung:** `AlU`, `Einhalteweite in %`, `EW in cm`
 - **Normalisierte Bezeichnung:** `einhalteweite_schmaler_aermel`
 
@@ -48,7 +48,7 @@ gedruckte_einhalteweite = 3,3 cm
 ## HOF-B1-S204-F02 — Diagonale zur Ärmelkugellinie mit 48 Prozent des Ärmelkugelumfangs
 
 - **Fachlicher Zweck:** Die mathematisch exakter bezeichnete Diagonale zur Lage der Ärmelkugellinie aus 48 Prozent des Ärmelkugelumfangs bestimmen.
-- **Quelle:** `formeln_s204_digital_geprüft.md`, Zeile 19; Originaltranskript `s204_digital_geprüft.md`, Zeile 43; Buchseite 204.
+- **Quelle:** `formeln_s204.md`, Zeile 19; Originaltranskript `s204.md`, Zeile 43; Buchseite 204.
 - **Originalbezeichnung:** `48% ÄkU`
 - **Normalisierte Bezeichnung:** `diagonale_aermelkugellinie_48_prozent`
 
@@ -88,7 +88,7 @@ gedruckte_diagonale = 21,4 cm
 ## HOF-B1-S204-F03 — Kontrollbereich der Ärmelkugellinien-Position
 
 - **Fachlicher Zweck:** Die Höhe eines Kontrollschritts für die optimale Lage der Ärmelkugellinie als Zehntel der Armlochhöhe bestimmen.
-- **Quelle:** `formeln_s204_digital_geprüft.md`, Zeile 24; Originaltranskript `s204_digital_geprüft.md`, Zeilen 45–46; Buchseite 204.
+- **Quelle:** `formeln_s204.md`, Zeile 24; Originaltranskript `s204.md`, Zeilen 45–46; Buchseite 204.
 - **Originalbezeichnung:** `⅒ AlH`, `Kontrollbereich`
 - **Normalisierte Bezeichnung:** `kontrollschritt_aermelkugellinien_position`
 
@@ -129,7 +129,7 @@ gedrucktes_zeichnungslabel_ausserhalb_des_extrakts = 1,7 cm
 ## HOF-B1-S204-F04 — Ellenbogenlinie bei 60 Prozent Ärmellänge
 
 - **Fachlicher Zweck:** Den Abstand der Ellenbogenlinie als 60 Prozent der Ärmellänge bestimmen.
-- **Quelle:** `formeln_s204_digital_geprüft.md`, Zeile 29; Originaltranskript `s204_digital_geprüft.md`, Zeile 47; Buchseite 204.
+- **Quelle:** `formeln_s204.md`, Zeile 29; Originaltranskript `s204.md`, Zeile 47; Buchseite 204.
 - **Originalbezeichnung:** `60% ÄL`
 - **Normalisierte Bezeichnung:** `ellenbogenlinienhoehe_schmaler_aermel`
 
@@ -168,7 +168,7 @@ ellenbogenlinienhoehe = 60 cm * 0,60 = 36 cm
 ## HOF-B1-S204-F05 — Armlochtiefe aus Oberarmumfang
 
 - **Fachlicher Zweck:** Einen Kontrollwert für die Armlochtiefe aus dem Oberarmumfang bestimmen.
-- **Quelle:** `formeln_s204_digital_geprüft.md`, Zeile 34; Originaltranskript `s204_digital_geprüft.md`, Zeile 82; Buchseite 204.
+- **Quelle:** `formeln_s204.md`, Zeile 34; Originaltranskript `s204.md`, Zeile 82; Buchseite 204.
 - **Originalbezeichnung:** `ArD`, `OaU`
 - **Normalisierte Bezeichnung:** `armlochtiefe_kontrollwert_aus_oberarmumfang`
 
@@ -208,7 +208,7 @@ kontextrechnung = (28 cm / 10) * 6 - 7,5 cm = 9,3 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s204_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s204.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 14 | 1 | Isolierter Messwert `me = 2,7 cm`; Eingabe- beziehungsweise Zeichnungslabel ohne Rechenbeziehung |
 | **Summe** | **1** | **1 isolierter Messwert** |

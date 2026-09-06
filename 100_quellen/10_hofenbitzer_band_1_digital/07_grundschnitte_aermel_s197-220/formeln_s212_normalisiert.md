@@ -1,8 +1,8 @@
 # Fachlich normalisierte Formeln — S. 212 mit Wiederholungsnachweis S. 214
 
-Primärquelle der Normalisierung: `formeln_s212_digital_geprüft.md`
-Zusätzlicher Anwendungsnachweis: `formeln_s214_digital_geprüft.md`
-Originaltranskripte: `s212_digital_geprüft.md`, `s214_digital_geprüft.md`
+Primärquelle der Normalisierung: `formeln_s212.md`
+Zusätzlicher Anwendungsnachweis: `formeln_s214.md`
+Originaltranskripte: `s212.md`, `s214.md`
 Buchseiten: Hofenbitzer, Band 1, S. 212 und 214
 Extraktionsstand: v2
 
@@ -11,7 +11,7 @@ Die beiden Beziehungen erscheinen für den einfachen schmalen Ärmel und für de
 ## HOF-B1-S212-F01 — Gesamte Armlochverbreiterung
 
 - **Fachlicher Zweck:** Die gesamte Armlochverbreiterung aus vorderem und hinterem Anteil bestimmen.
-- **Quelle:** `formeln_s212_digital_geprüft.md`, Zeile 9, Originaltranskript `s212_digital_geprüft.md`, Zeile 23; zusätzlich `formeln_s214_digital_geprüft.md`, Zeile 14, Originaltranskript `s214_digital_geprüft.md`, Zeile 24; Buchseiten 212 und 214.
+- **Quelle:** `formeln_s212.md`, Zeile 9, Originaltranskript `s212.md`, Zeile 23; zusätzlich `formeln_s214.md`, Zeile 14, Originaltranskript `s214.md`, Zeile 24; Buchseiten 212 und 214.
 - **Originalbezeichnung:** Armloch-Verbreiterung, vordere Verbreiterung, hintere Verbreiterung
 - **Normalisierte Bezeichnung:** `gesamte_armlochverbreiterung`
 
@@ -58,7 +58,7 @@ armlochverbreiterung_gesamt = armlochverbreiterung_vorne + armlochverbreiterung_
 ## HOF-B1-S212-F02 — Vertiefungsanteil der neuen Ärmelkugellinie
 
 - **Fachlicher Zweck:** Den Anteil der Armlochvertiefung bestimmen, um den die neue Ärmelkugellinie vertieft wird.
-- **Quelle:** `formeln_s212_digital_geprüft.md`, Zeile 20, Originaltranskript `s212_digital_geprüft.md`, Zeilen 40–46 und 51; zusätzlich `formeln_s214_digital_geprüft.md`, Zeile 19, Originaltranskript `s214_digital_geprüft.md`, Zeilen 48–54; Buchseiten 212 und 214.
+- **Quelle:** `formeln_s212.md`, Zeile 20, Originaltranskript `s212.md`, Zeilen 40–46 und 51; zusätzlich `formeln_s214.md`, Zeile 19, Originaltranskript `s214.md`, Zeilen 48–54; Buchseiten 212 und 214.
 - **Originalbezeichnung:** ½ bis ganze Armlochvertiefung, Normwert ¾
 - **Normalisierte Bezeichnung:** `vertiefung_neue_aermelkugellinie`
 
@@ -108,14 +108,14 @@ normwert_vertiefungsfaktor = 0,75
 
 ### S. 212
 
-| Quelle in `formeln_s212_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s212.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 14–15 | 2 | Gemessene halbe Taillen- und Hüftweite des Oberteil-Grundschnitts; direkte Eingabewerte ohne Berechnung für die Ärmelanpassung |
 | **Summe S. 212** | **2** | **2 gemessene Eingabewerte** |
 
 ### S. 214
 
-| Quelle in `formeln_s214_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s214.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Bildnummernverweis `□2+3` und methodische Umstellungsanweisung; Pluszeichen ist kein Rechenoperator |
 | **Summe S. 214** | **1** | **1 Bildverweis/Methodenanweisung** |

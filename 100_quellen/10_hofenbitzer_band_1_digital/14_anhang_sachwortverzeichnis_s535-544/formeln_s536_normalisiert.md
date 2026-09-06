@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 536
 
-Quelle der Normalisierung: `formeln_s536_digital_geprüft.md`
-Originaltranskript: `s536_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s536.md`
+Originaltranskript: `s536.md`
 Buchseite: Hofenbitzer, Band 1, S. 536
 
 ## HOF-B1-S536-F01 — Taillenausfall des Rockgrundschnitts
 
 - **Fachlicher Zweck:** Den gesamten Taillenausfall aus halber Hüft- und Taillenweite bestimmen und anschließend halbieren.
-- **Quelle:** `formeln_s536_digital_geprüft.md`, Zeile 9; Originaltranskript `s536_digital_geprüft.md`, Zeile 15; Buchseite 536.
+- **Quelle:** `formeln_s536.md`, Zeile 9; Originaltranskript `s536.md`, Zeile 15; Buchseite 536.
 - **Originalbezeichnung:** `½ HüW − ½ TaW =; ½`.
 - **Normalisierte Bezeichnung:** `taillenausfall_rock_und_halbwert`
 
@@ -48,7 +48,7 @@ halber_taillenausfall = taillenausfall / 2
 ## HOF-B1-S536-F02 — Kontrolle der Taillenausfallverteilung
 
 - **Fachlicher Zweck:** Prüfen, ob die Summe der verteilten Taillenausfallanteile dem berechneten Taillenausfall entspricht.
-- **Quelle:** `formeln_s536_digital_geprüft.md`, Zeile 14; Originaltranskript `s536_digital_geprüft.md`, Zeile 29; Buchseite 536.
+- **Quelle:** `formeln_s536.md`, Zeile 14; Originaltranskript `s536.md`, Zeile 29; Buchseite 536.
 - **Originalbezeichnung:** `Σ = TaAf`.
 - **Normalisierte Bezeichnung:** `kontrolle_taillenausfallverteilung`
 
@@ -89,7 +89,7 @@ kontrolle_erfuellt = verteilte_summe == taillenausfall
 ## HOF-B1-S536-F03 — Vorder- und Hinterhosenbreite
 
 - **Fachlicher Zweck:** Vorder- und Hinterhosenbreite als komplementäre Viertel des Hüftumfangs mit Grundverschiebung und optionaler signierter Anpassung bestimmen.
-- **Quelle:** `formeln_s536_digital_geprüft.md`, Zeilen 19–20; Originaltranskript `s536_digital_geprüft.md`, Zeilen 51–52; Buchseite 536.
+- **Quelle:** `formeln_s536.md`, Zeilen 19–20; Originaltranskript `s536.md`, Zeilen 51–52; Buchseite 536.
 - **Originalbezeichnung:** `¼ HüU − 1 cm ±` und `¼ HüU + 1 cm ±`.
 - **Normalisierte Bezeichnung:** `vorder_und_hinterhosenbreite`
 
@@ -133,7 +133,7 @@ hinterhosenbreite = (hueftumfang / 4) + 1 cm + hinterhosenbreite_anpassung
 ## HOF-B1-S536-F04 — Kniehöhe aus der Schritthöhe
 
 - **Fachlicher Zweck:** Die Kniehöhe als vier Zehntel der Schritthöhe berechnen.
-- **Quelle:** `formeln_s536_digital_geprüft.md`, Zeile 25; Originaltranskript `s536_digital_geprüft.md`, Zeile 54; Buchseite 536.
+- **Quelle:** `formeln_s536.md`, Zeile 25; Originaltranskript `s536.md`, Zeile 54; Buchseite 536.
 - **Originalbezeichnung:** `SrH : 10 · 4`.
 - **Normalisierte Bezeichnung:** `kniehoehe_aus_schritthoehe`
 
@@ -171,7 +171,7 @@ kniehoehe = (schritthoehe / 10) * 4
 ## HOF-B1-S536-F05 — Einhalteweite und Ärmelkugelumfang
 
 - **Fachlicher Zweck:** Die Einhalteweite aus Armlochumfang und Prozentsatz sowie daraus den Ärmelkugelumfang bestimmen.
-- **Quelle:** `formeln_s536_digital_geprüft.md`, Zeilen 30–31; Originaltranskript `s536_digital_geprüft.md`, Zeilen 89–90; Buchseite 536.
+- **Quelle:** `formeln_s536.md`, Zeilen 30–31; Originaltranskript `s536.md`, Zeilen 89–90; Buchseite 536.
 - **Originalbezeichnung:** `EW in cm = AlU · Einhalteweite in %` und `ÄKU = AlU + Einhalteweite in cm`.
 - **Normalisierte Bezeichnung:** `einhalteweite_und_aermelkugelumfang`
 
@@ -214,7 +214,7 @@ aermelkugelumfang = armlochumfang + einhalteweite_cm
 ## HOF-B1-S536-F06 — Zugabenbereiche nach Ärmelform
 
 - **Fachlicher Zweck:** Oberarmweite, Ärmelsaumweite und Einhalteweite aus Körpermaßen, Passformklasse und gewählter Ärmelform bestimmen.
-- **Quelle:** `formeln_s536_digital_geprüft.md`, Zeilen 36–38; Originaltranskript `s536_digital_geprüft.md`, Zeilen 96–98; Buchseite 536.
+- **Quelle:** `formeln_s536.md`, Zeilen 36–38; Originaltranskript `s536.md`, Zeilen 96–98; Buchseite 536.
 - **Originalbezeichnung:** Berechnungstabelle für schmalen, engen und weiten Ärmel.
 - **Normalisierte Bezeichnung:** `aermelmasse_nach_aermelform`
 
@@ -282,7 +282,7 @@ Für weiten Ärmel: -1 <= einhalteweite_prozent <= 3
 ## HOF-B1-S536-F07 — Passformklasse des Oberteils
 
 - **Fachlicher Zweck:** Die Passformklasse entweder aus einer vorgegebenen Brustweitenzugabe zum halben Grundschnitt oder aus gemessener halber Brustweite minus halbem Brustumfang bestimmen.
-- **Quelle:** `formeln_s536_digital_geprüft.md`, Zeile 43; Originaltranskript `s536_digital_geprüft.md`, Zeile 100; Buchseite 536.
+- **Quelle:** `formeln_s536.md`, Zeile 43; Originaltranskript `s536.md`, Zeile 100; Buchseite 536.
 - **Originalbezeichnung:** `PK = BrW-Zugabe zum ½ Grundschnitt oder ½ BrW − ½ BrU`.
 - **Normalisierte Bezeichnung:** `passformklasse_oberteil`
 

@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 216
 
-Quelle der Normalisierung: `formeln_s216_digital_geprüft.md`
-Originaltranskript: `s216_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s216.md`
+Originaltranskript: `s216.md`
 Buchseite: Hofenbitzer, Band 1, S. 216
 Extraktionsstand: v2
 
 ## HOF-B1-S216-F01 — Öffnungen des Ärmels für eine Schulterpolster-Erhöhung
 
 - **Fachlicher Zweck:** Die waagerechte und senkrechte Öffnung des Ärmels aus der Schulterpolster-Erhöhung ableiten.
-- **Quelle:** `formeln_s216_digital_geprüft.md`, Zeilen 9 und 14; Originaltranskript `s216_digital_geprüft.md`, Zeilen 19–20 und 51; Buchseite 216.
+- **Quelle:** `formeln_s216.md`, Zeilen 9 und 14; Originaltranskript `s216.md`, Zeilen 19–20 und 51; Buchseite 216.
 - **Originalbezeichnung:** Schulterpolster-Erhöhung, Polsterdicke
 - **Normalisierte Bezeichnung:** `aermeloeffnungen_fuer_schulterpolster_erhoehung`
 

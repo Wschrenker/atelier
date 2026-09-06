@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 352 und S. 353
 
-Quelle der Normalisierung: `formeln_s352_digital_geprüft.md`, zusätzlicher Anwendungsnachweis in `formeln_s353_digital_geprüft.md`
-Originaltranskripte: `s352_digital_geprüft.md`, `s353_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s352.md`, zusätzlicher Anwendungsnachweis in `formeln_s353.md`
+Originaltranskripte: `s352.md`, `s353.md`
 Buchseiten: Hofenbitzer, Band 1, S. 352 und S. 353
 Extraktionsstand: v2
 
 ## HOF-B1-S352-F01 — Kapuzenhöhe aus dem Überkopfumfang
 
 - **Fachlicher Zweck:** Die Kapuzenhöhe als Hälfte des Überkopfumfangs bestimmen.
-- **Quelle:** `formeln_s352_digital_geprüft.md`, Zeilen 9 und 14; Originaltranskript `s352_digital_geprüft.md`, Zeilen 11 und 27; zusätzlicher Anwendungsnachweis in `formeln_s353_digital_geprüft.md`, Zeile 10, und `s353_digital_geprüft.md`, Zeile 12; Buchseiten 352 und 353.
+- **Quelle:** `formeln_s352.md`, Zeilen 9 und 14; Originaltranskript `s352.md`, Zeilen 11 und 27; zusätzlicher Anwendungsnachweis in `formeln_s353.md`, Zeile 10, und `s353.md`, Zeile 12; Buchseiten 352 und 353.
 - **Originalbezeichnung:** Kapuzenhöhe (KapH), üKoU
 - **Normalisierte Bezeichnung:** `kapuzenhoehe`
 

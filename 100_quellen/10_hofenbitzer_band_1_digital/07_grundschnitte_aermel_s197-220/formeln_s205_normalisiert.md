@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 205
 
-Quelle der Normalisierung: `formeln_s205_digital_geprüft.md`
-Originaltranskript: `s205_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s205.md`
+Originaltranskript: `s205.md`
 Buchseite: Hofenbitzer, Band 1, S. 205
 Extraktionsstand: v2
 
 ## HOF-B1-S205-F01 — Hinterer Hilfsabstand zur Ärmelkugel
 
 - **Fachlicher Zweck:** Den hinteren Hilfsabstand durch Addition von 0,5 cm zum gemessenen vorderen Abstand bestimmen.
-- **Quelle:** `formeln_s205_digital_geprüft.md`, Zeile 19; Originaltranskript `s205_digital_geprüft.md`, Zeile 23; Buchseite 205.
+- **Quelle:** `formeln_s205.md`, Zeile 19; Originaltranskript `s205.md`, Zeile 23; Buchseite 205.
 - **Originalbezeichnung:** `üb`, `üb + 0,5 cm`
 - **Normalisierte Bezeichnung:** `hinterer_hilfsabstand_aermelkugel`
 
@@ -46,7 +46,7 @@ hinterer_hilfsabstand = 2,7 cm + 0,5 cm = 3,2 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s205_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s205.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Direkte geometrische Übertragung von ¼ ArD+ auf den Ärmel; keine neue Berechnung im Extrakt |
 | Zeile 14 | 1 | Isolierter Messwert `üb = 2,7 cm`; derselbe Wert ist Operand der vollständig extrahierten Addition |

@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 219
 
-Quelle der Normalisierung: `formeln_s219_digital_geprüft.md`
-Originaltranskript: `s219_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s219.md`
+Originaltranskript: `s219.md`
 Buchseite: Hofenbitzer, Band 1, S. 219
 Extraktionsstand: v2
 
 ## HOF-B1-S219-F01 — Senkrechter Öffnungsbetrag nach Schulterpolster-Mehrweite
 
 - **Fachlicher Zweck:** Den verbleibenden senkrechten Öffnungsbetrag bestimmen, nachdem die durch die waagerechte Schulterpolster-Öffnung erzeugte Mehrweite von der Fehlweite abgezogen wurde.
-- **Quelle:** `formeln_s219_digital_geprüft.md`, Zeilen 9 und 14; Originaltranskript `s219_digital_geprüft.md`, Zeilen 7–13; Buchseite 219.
+- **Quelle:** `formeln_s219.md`, Zeilen 9 und 14; Originaltranskript `s219.md`, Zeilen 7–13; Buchseite 219.
 - **Originalbezeichnung:** Öffnung, Fehlweite, ⅔ SuPoE
 - **Normalisierte Bezeichnung:** `senkrechter_oeffnungsbetrag_nach_schulterpolster_mehrweite`
 
@@ -60,7 +60,7 @@ exakter_zweidrittelweg = 3,533333... cm
 ## HOF-B1-S219-F02 — Fehlbetrag des nachgemessenen neuen Ärmelkugelumfangs
 
 - **Fachlicher Zweck:** Die noch fehlende Nahtlänge der angepassten Ärmelkugel gegenüber dem gewünschten neuen Ärmelkugelumfang bestimmen.
-- **Quelle:** `formeln_s219_digital_geprüft.md`, Zeilen 19 und 24; Originaltranskript `s219_digital_geprüft.md`, Zeilen 25–31; Buchseite 219.
+- **Quelle:** `formeln_s219.md`, Zeilen 19 und 24; Originaltranskript `s219.md`, Zeilen 25–31; Buchseite 219.
 - **Originalbezeichnung:** Fehlbetrag, ÄkU_NEU, nachgemessene neue ÄkU
 - **Normalisierte Bezeichnung:** `fehlbetrag_neuer_aermelkugelumfang`
 

@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 171
 
-Quelle der Normalisierung: `formeln_s171_digital_geprüft.md`
-Originaltranskript: `s171_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s171.md`
+Originaltranskript: `s171.md`
 Buchseite: Hofenbitzer, Band 1, S. 171
 Extraktionsstand: v2
 
 ## HOF-B1-S171-F01 — Mindestweite der halben Taille
 
 - **Fachlicher Zweck:** Die gewünschte halbe Taillenweite der historischen Hose mindestens aus drei Vierteln des Hüftumfangs bestimmen.
-- **Quelle:** `formeln_s171_digital_geprüft.md`, Zeile 9; Originaltranskript `s171_digital_geprüft.md`, Zeile 19; Buchseite 171.
+- **Quelle:** `formeln_s171.md`, Zeile 9; Originaltranskript `s171.md`, Zeile 19; Buchseite 171.
 - **Originalbezeichnung:** `gewünschte ½ TaW = mind. ¾ HüU`
 - **Normalisierte Bezeichnung:** `mindestweite_halbe_taille_historische_hose`
 
@@ -50,7 +50,7 @@ Die technische Ungleichung bildet das gedruckte `mind.` ab; die Buchfassung mit 
 ## HOF-B1-S171-F02 — Unbezeichneter Mindestbetrag aus einem Viertel Hüftumfang
 
 - **Fachlicher Zweck:** Den auf zwei Schnittzeichnungen wiederholten Mindestbetrag aus einem Viertel des Hüftumfangs plus 1 cm erhalten, ohne seinen im Extrakt nicht bezeichneten geometrischen Referenten zu erfinden.
-- **Quelle:** `formeln_s171_digital_geprüft.md`, Zeilen 19 und 34; Originaltranskript `s171_digital_geprüft.md`, Zeilen 60 und 82; Buchseite 171.
+- **Quelle:** `formeln_s171.md`, Zeilen 19 und 34; Originaltranskript `s171.md`, Zeilen 60 und 82; Buchseite 171.
 - **Originalbezeichnung:** `mind. ¼ HüU + 1 cm`
 - **Normalisierte Bezeichnung:** `unbezeichneter_mindestbetrag_hueftumfang_viertel`
 
@@ -94,7 +94,7 @@ unbezeichneter_mindestbetrag = (hueftumfang / 4) + fester_zuschlag
 ## HOF-B1-S171-F03 — Unbezeichneter Bereich aus einem Achtel Hüftumfang
 
 - **Fachlicher Zweck:** Den unbezeichneten Wertebereich aus einem Achtel des Hüftumfangs plus 2 bis 3 cm als zwei Grenzen erhalten.
-- **Quelle:** `formeln_s171_digital_geprüft.md`, Zeile 24; Originaltranskript `s171_digital_geprüft.md`, Zeile 69; Buchseite 171.
+- **Quelle:** `formeln_s171.md`, Zeile 24; Originaltranskript `s171.md`, Zeile 69; Buchseite 171.
 - **Originalbezeichnung:** `⅛ HüU + 2 bis 3 cm`
 - **Normalisierte Bezeichnung:** `unbezeichneter_bereich_hueftumfang_achtel`
 
@@ -135,7 +135,7 @@ unbezeichneter_bereich_obere_grenze  = (hueftumfang / 8) + 3 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s171_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s171.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 14, 29 und 39 | 3 | Maßstabsbeschriftung `Maßstab 1:10`; Verhältnis der Buchzeichnung, keine Konstruktionsberechnung |
 | **Summe** | **3** | **3 Maßstabsbeschriftungen ausgeschlossen** |

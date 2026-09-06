@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 237
 
-Quelle der Normalisierung: `formeln_s237_codex_v2_digital_geprueft.md`
-Originaltranskript: `s237_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `formeln_s237.md`
+Originaltranskript: `s237.md`
 Buchseite: Hofenbitzer, Band 1, S. 237
 
 ## HOF-B1-S237-F01 — Mindestabstand des untersten Knopfes vom Saum
 
 - **Fachlicher Zweck:** Den Mindestabstand des untersten Ärmelknopfes vom Saum aus dem Knopfdurchmesser bestimmen.
-- **Quelle:** `formeln_s237_codex_v2_digital_geprueft.md`, Zeile 15; Originaltranskript `s237_codex_v2_digital_geprueft.md`, Zeile 50; Buchseite 237.
+- **Quelle:** `formeln_s237.md`, Zeile 15; Originaltranskript `s237.md`, Zeile 50; Buchseite 237.
 - **Originalbezeichnung:** `Abstand vom Saum mind. 2 × Knopfdurchmesser`
 - **Normalisierte Bezeichnung:** `mindestabstand_unterster_aermelknopf_zum_saum`
 
@@ -46,7 +46,7 @@ mindestabstand_unterster_aermelknopf_zum_saum = mindestfaktor * knopfdurchmesser
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s237_codex_v2_digital_geprueft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s237.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 9–10 und 20–21 | 4 | Zweimal wiederholte Schnittteil- und Zuschnittbeschriftungen von Ober- und Unterärmel; `2×-p` bezeichnet Stückzahl und paarigen Zuschnitt, keine Berechnung |
 | **Summe** | **4** | **4 Produktions-/Zuschnittbeschriftungen ausgeschlossen** |

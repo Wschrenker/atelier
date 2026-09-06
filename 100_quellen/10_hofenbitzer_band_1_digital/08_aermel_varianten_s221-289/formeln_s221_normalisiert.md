@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 221
 
-Quelle der Normalisierung: `formeln_s221_digital_geprüft.md`
-Originaltranskript: `s221_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s221.md`
+Originaltranskript: `s221.md`
 Buchseite: Hofenbitzer, Band 1, S. 221
 Extraktionsstand: v2
 
 ## HOF-B1-S221-F01 — Falteninhalt des simulierten Ärmelaufschlags
 
 - **Fachlicher Zweck:** Den Falteninhalt des als Biese simulierten Ärmelaufschlags aus der doppelten Biesentiefe bestimmen.
-- **Quelle:** `formeln_s221_digital_geprüft.md`, Zeile 14; Originaltranskript `s221_digital_geprüft.md`, Zeile 21; Buchseite 221.
+- **Quelle:** `formeln_s221.md`, Zeile 14; Originaltranskript `s221.md`, Zeile 21; Buchseite 221.
 - **Originalbezeichnung:** Biesentiefe, Falteninhalt
 - **Normalisierte Bezeichnung:** `falteninhalt_aermelaufschlag`
 
@@ -46,7 +46,7 @@ falteninhalt_aermelaufschlag = 2 * biesentiefe
 ## HOF-B1-S221-F02 — Anzeichnungsbetrag für den echten Ärmelaufschlag
 
 - **Fachlicher Zweck:** Den nach unten anzuzeichnenden Betrag aus der doppelten Aufschlagbreite bestimmen.
-- **Quelle:** `formeln_s221_digital_geprüft.md`, Zeile 19; Originaltranskript `s221_digital_geprüft.md`, Zeile 28; Buchseite 221.
+- **Quelle:** `formeln_s221.md`, Zeile 19; Originaltranskript `s221.md`, Zeile 28; Buchseite 221.
 - **Originalbezeichnung:** Aufschlagbreite
 - **Normalisierte Bezeichnung:** `anzeichnungsbetrag_echter_aermelaufschlag`
 
@@ -84,7 +84,7 @@ anzeichnungsbetrag_echter_aermelaufschlag = 2 * aufschlagbreite
 ## HOF-B1-S221-F03 — Saumeinschlag unter dem echten Ärmelaufschlag
 
 - **Fachlicher Zweck:** Den Saumeinschlag aus der Aufschlagbreite abzüglich eines ungefähren Zentimeters bestimmen.
-- **Quelle:** `formeln_s221_digital_geprüft.md`, Zeile 24; Originaltranskript `s221_digital_geprüft.md`, Zeile 74; Buchseite 221.
+- **Quelle:** `formeln_s221.md`, Zeile 24; Originaltranskript `s221.md`, Zeile 74; Buchseite 221.
 - **Originalbezeichnung:** Saum-Einschlag (SaEs), Aufschlagbreite
 - **Normalisierte Bezeichnung:** `saumeinschlag_echter_aermelaufschlag`
 
@@ -123,7 +123,7 @@ ungefaehrer_abzug = ca. 1 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s221_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s221.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Abbildungsnummern `□1` und `□4+5` mit Nahtdiagramm-Verweis; das Pluszeichen verbindet Abbildungen und ist keine Rechenoperation |
 | **Summe** | **1** | **1 Bildverweis** |

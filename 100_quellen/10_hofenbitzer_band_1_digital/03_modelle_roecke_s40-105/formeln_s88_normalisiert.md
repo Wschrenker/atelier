@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 88
 
-Quelle der Normalisierung: `formeln_s88_digital_geprüft.md`
-Originaltranskript: `s88_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s88.md`
+Originaltranskript: `s88.md`
 Buchseite: Hofenbitzer, Band 1, S. 88
 Extraktionsstand: v2
 
 ## HOF-B1-S088-F01 — Verbleibender Stoff für Falteninhalte
 
 - **Fachlicher Zweck:** Den aus der vorhandenen Stoffbreite verbleibenden Gesamtbetrag für alle Falteninhalte bestimmen.
-- **Quelle:** `formeln_s88_digital_geprüft.md`, Zeilen 9, 14 und 19; Originaltranskript `s88_digital_geprüft.md`, Zeilen 65, 67 und 69; Buchseite 88.
+- **Quelle:** `formeln_s88.md`, Zeilen 9, 14 und 19; Originaltranskript `s88.md`, Zeilen 65, 67 und 69; Buchseite 88.
 - **Originalbezeichnung:** `Σ FaI = StB - 2 · 1 cm NZg - geW`
 - **Normalisierte Bezeichnung:** `summe_falteninhalte`
 
@@ -61,7 +61,7 @@ summe_falteninhalte = stoffbreite
 ## HOF-B1-S088-F02 — Falteninhalt je geplanter Einheit
 
 - **Fachlicher Zweck:** Den gleichmäßigen Falteninhalt aus dem verfügbaren Gesamtbetrag und der Zahl der Falteninhalte bestimmen.
-- **Quelle:** `formeln_s88_digital_geprüft.md`, Zeilen 24, 29 und 34; Originaltranskript `s88_digital_geprüft.md`, Zeilen 73, 75 und 77; Buchseite 88.
+- **Quelle:** `formeln_s88.md`, Zeilen 24, 29 und 34; Originaltranskript `s88.md`, Zeilen 73, 75 und 77; Buchseite 88.
 - **Originalbezeichnung:** `FaI = Σ FaI : Zahl der Falteninhalte`
 - **Normalisierte Bezeichnung:** `falteninhalt_je_einheit`
 

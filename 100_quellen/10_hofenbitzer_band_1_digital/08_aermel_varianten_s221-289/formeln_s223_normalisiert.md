@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 223
 
-Quelle der Normalisierung: `formeln_s223_digital_geprüft.md`
-Originaltranskript: `s223_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s223.md`
+Originaltranskript: `s223.md`
 Buchseite: Hofenbitzer, Band 1, S. 223
 Extraktionsstand: v2
 
 ## HOF-B1-S223-F01 — Unbezeichnete Summe mit doppeltem Teilbetrag
 
 - **Fachlicher Zweck:** Die vollständig extrahierte Einsetzrechnung erhalten, ohne ihr die nur im Originaltranskript stehende fachliche Bezeichnung als verbindliche Buchfassung zuzuschreiben.
-- **Quelle:** `formeln_s223_digital_geprüft.md`, Zeile 9; Originaltranskript `s223_digital_geprüft.md`, Zeile 18; Buchseite 223. Fachlicher Kontext nur im Originaltranskript, Zeilen 14–16.
+- **Quelle:** `formeln_s223.md`, Zeile 9; Originaltranskript `s223.md`, Zeile 18; Buchseite 223. Fachlicher Kontext nur im Originaltranskript, Zeilen 14–16.
 - **Originalbezeichnung:** Im Extrakt nicht enthalten; dort steht nur die Einsetzrechnung.
 - **Normalisierte Bezeichnung:** `unbezeichnete_summe_mit_doppeltem_teilbetrag`
 
@@ -49,7 +49,7 @@ unbezeichnetes_ergebnis = 28 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s223_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s223.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 14–15 | 2 | Produktionsschnitt-Angaben zu Stückzahl, Oberstoff/Einlage und doppelter Manschettenbreite; keine berechnete Ausgabe |
 | Zeile 20 | 1 | Produktionsschnitt-Angabe `4× OSt+El`; Stückzahl und Material, keine Rechenformel |
@@ -57,4 +57,4 @@ unbezeichnetes_ergebnis = 28 cm
 
 ## Extraktionsgrenze
 
-Die allgemeine Beziehung `Manschettenweite + (Faltenzahl x Falteninhalt)` steht im Originaltranskript `s223_digital_geprüft.md`, Zeile 16, fehlt aber im verbindlichen Extrakt. Sie wurde deshalb nicht als Buchfassung ergänzt. Weitere formelartige Angaben zu halber Manschettenbreite und halber Ärmelsaum-Weite stehen ebenfalls nur im Transkript. Der Seitenabschluss gilt für den vorhandenen extrahierten Kandidatenbestand.
+Die allgemeine Beziehung `Manschettenweite + (Faltenzahl x Falteninhalt)` steht im Originaltranskript `s223.md`, Zeile 16, fehlt aber im verbindlichen Extrakt. Sie wurde deshalb nicht als Buchfassung ergänzt. Weitere formelartige Angaben zu halber Manschettenbreite und halber Ärmelsaum-Weite stehen ebenfalls nur im Transkript. Der Seitenabschluss gilt für den vorhandenen extrahierten Kandidatenbestand.

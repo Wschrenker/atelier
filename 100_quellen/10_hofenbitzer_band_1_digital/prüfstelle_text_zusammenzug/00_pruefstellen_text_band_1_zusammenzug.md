@@ -60,7 +60,7 @@ Quelle: [`03_pruefstellen.md`](<../prüfstellen text/03_pruefstellen.md>)
   „An den Formbundteilen die `UNLESBAR` reduzieren.“ — die Marke steht **anstelle eines
   Wortes mitten in einer Konstruktionsanweisung**, nicht am Rand einer Abbildung. Ohne dieses
   Wort ist der Schritt nicht ausführbar. *Am Buch nachlesen, was reduziert wird.*
-  Datei: `s79_codex_v2_digital_geprueft.md`, Zeile 35.
+  Datei: `s79.md`, Zeile 35.
 
 - **A7 — S.89, Bildunterschrift ☐5:** „Produktion**sss**chnitt Faltenteil" — drei „s", im Foto
   eindeutig. Fototreu übernommen. *Am Buch als Druckfehler bestätigen.*
@@ -489,7 +489,7 @@ Quelle: [`11_pruefstellen.md`](<../prüfstellen text/11_pruefstellen.md>)
 Quelle: [`12_pruefstellen.md`](<../prüfstellen text/12_pruefstellen.md>)
 
 - **N12 — S. 482:** Lange rote Erläuterung am mittleren Oberstoff-Rückteil → `UNLESBAR`.
-  Datei: `s482_codex_v2_digital_geprueft.md`, Zeile 62.
+  Datei: `s482.md`, Zeile 62.
 
 ## 13 — Sportswear, Wäsche, Unisex, S. 493–534
 

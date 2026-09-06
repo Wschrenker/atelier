@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 391
 
-Quelle der Normalisierung: `formeln_s391_codex_v2.md`
-Originaltranskript: `s391_codex_v2.md`
+Quelle der Normalisierung: `formeln_s391.md`
+Originaltranskript: `s391.md`
 Buchseite: Hofenbitzer, Band 1, S. 391
 
 ## HOF-B1-S391-F01 — Saumerweiterung an jeder Seitennaht
 
 - **Fachlicher Zweck:** Die gesamte Erweiterung an einer Seitennaht aus den beidseitigen Ausstellbeträgen bestimmen.
-- **Quelle:** `formeln_s391_codex_v2.md`, Zeilen 9 und 14; Originaltranskript `s391_codex_v2.md`, Zeilen 32 und 35; Buchseite 391.
+- **Quelle:** `formeln_s391.md`, Zeilen 9 und 14; Originaltranskript `s391.md`, Zeilen 32 und 35; Buchseite 391.
 - **Originalbezeichnung:** `4 cm an jeder Naht`; an den Seitennahtkanten jeweils `2 cm`.
 - **Normalisierte Bezeichnung:** `saumerweiterung_je_seitennaht`
 
@@ -52,7 +52,7 @@ saumerweiterung_je_seitennaht = anzahl_seitennahtkanten * ausstellbetrag_je_seit
 ## HOF-B1-S391-F02 — Vorderteil-Saumerweiterung nach Entfernen des Hüftausfalls
 
 - **Fachlicher Zweck:** Den am Vorderteil noch anzuzeichnenden Ausstellbetrag nach Abzug des durch den entfernten Hüftausfall entstehenden Weitenanteils berechnen und gleichmäßig auf zwei Kanten verteilen.
-- **Quelle:** `formeln_s391_codex_v2.md`, Zeile 15; Originaltranskript `s391_codex_v2.md`, Zeile 36; Buchseite 391.
+- **Quelle:** `formeln_s391.md`, Zeile 15; Originaltranskript `s391.md`, Zeile 36; Buchseite 391.
 - **Originalbezeichnung:** `Ausstellbetrag minus Hüftausfall = 4 cm - 1 cm = 2 · 1,5 cm = 3 cm`.
 - **Normalisierte Bezeichnung:** `vorderteil_ausstellbetrag_nach_hueftausfall`
 
@@ -104,7 +104,7 @@ kontrolle = anzahl_vorderteilkanten * vorderteil_ausstellbetrag_je_kante
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s391_codex_v2.md`, Zeile 20 | 1 | Zeichnungslabel `messen = 1 cm`; der Wert ist bereits als Hüftausfall in `HOF-B1-S391-F02` enthalten und liefert keine zusätzliche Rechenbeziehung |
+| `formeln_s391.md`, Zeile 20 | 1 | Zeichnungslabel `messen = 1 cm`; der Wert ist bereits als Hüftausfall in `HOF-B1-S391-F02` enthalten und liefert keine zusätzliche Rechenbeziehung |
 | **Summe** | **1** | **1 wiederholtes Mess- und Eingabelabel ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

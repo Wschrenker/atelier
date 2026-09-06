@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 286
 
-Quelle der Normalisierung: `formeln_s286_digital_geprüft.md`
-Originaltranskript: `s286_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s286.md`
+Originaltranskript: `s286.md`
 Buchseite: Hofenbitzer, Band 1, S. 286
 Extraktionsstand: v2
 
 ## HOF-B1-S286-F01 — Schulteröffnung für ein Schulterpolster
 
 - **Fachlicher Zweck:** Die günstige Schulteröffnung bei einem Fledermausärmel näherungsweise aus der Schulterpolsterdicke bestimmen.
-- **Quelle:** `formeln_s286_digital_geprüft.md`, Zeile 9; Originaltranskript `s286_digital_geprüft.md`, Zeile 13; Buchseite 286.
+- **Quelle:** `formeln_s286.md`, Zeile 9; Originaltranskript `s286.md`, Zeile 13; Buchseite 286.
 - **Originalbezeichnung:** Öffnung an der Schulter, Schulterpolsterdicke
 - **Normalisierte Bezeichnung:** `schulteroeffnung_fledermausaermel`
 

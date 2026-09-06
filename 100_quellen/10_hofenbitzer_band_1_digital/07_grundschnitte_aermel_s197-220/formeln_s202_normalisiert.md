@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 202
 
-Quelle der Normalisierung: `formeln_s202_digital_geprüft.md`
-Originaltranskript: `s202_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s202.md`
+Originaltranskript: `s202.md`
 Buchseite: Hofenbitzer, Band 1, S. 202
 Extraktionsstand: v2
 
 ## HOF-B1-S202-F01 — Ärmelsaumweite des weiten Ärmels
 
 - **Fachlicher Zweck:** Die anfängliche Ärmelsaumweite der Oberarmweite gleichsetzen.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 9; Originaltranskript `s202_digital_geprüft.md`, Zeile 28; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 9; Originaltranskript `s202.md`, Zeile 28; Buchseite 202.
 - **Originalbezeichnung:** `HgU`, `OaW`, `ÄSaW`
 - **Normalisierte Bezeichnung:** `aermelsaumweite_gleich_oberarmweite`
 
@@ -47,7 +47,7 @@ aermelsaumweite = oberarmweite = 37 cm
 ## HOF-B1-S202-F02 — Einhalteweite des weiten Ärmels
 
 - **Fachlicher Zweck:** Die Einhalteweite des Beispielärmels aus 3 Prozent des Armlochumfangs bestimmen.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 10; Originaltranskript `s202_digital_geprüft.md`, Zeile 29; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 10; Originaltranskript `s202.md`, Zeile 29; Buchseite 202.
 - **Originalbezeichnung:** `AlU`, `Einhalteweite in %`, `EW in cm`
 - **Normalisierte Bezeichnung:** `einhalteweite_weiter_aermel_beispiel`
 
@@ -87,7 +87,7 @@ gedruckte_einhalteweite = 1,3 cm
 ## HOF-B1-S202-F03 — Ellenbogenlinie bei 60 Prozent Ärmellänge
 
 - **Fachlicher Zweck:** Die Höhe der Ellenbogenlinie als 60 Prozent der Ärmellänge bestimmen.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 15; Originaltranskript `s202_digital_geprüft.md`, Zeile 45; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 15; Originaltranskript `s202.md`, Zeile 45; Buchseite 202.
 - **Originalbezeichnung:** `60% ÄL`, `Ellenbogenlinie`
 - **Normalisierte Bezeichnung:** `ellenbogenlinienhoehe_weiter_aermel`
 
@@ -126,7 +126,7 @@ ellenbogenlinienhoehe = 60 cm * 0,60 = 36 cm
 ## HOF-B1-S202-F04 — Vordere untere Hilfsteilung der Ärmelkugellinie
 
 - **Fachlicher Zweck:** Den vorderen unteren Hilfsabstand als Achtel der Ärmelkugellinie bestimmen.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 20; Originaltranskript `s202_digital_geprüft.md`, Zeile 54; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 20; Originaltranskript `s202.md`, Zeile 54; Buchseite 202.
 - **Originalbezeichnung:** `ÄkLi : 8`
 - **Normalisierte Bezeichnung:** `aermelkugellinie_achtel`
 
@@ -166,7 +166,7 @@ gedruckter_hilfsabstand = 4,6 cm
 ## HOF-B1-S202-F05 — Hintere untere Hilfsteilung der Ärmelkugellinie
 
 - **Fachlicher Zweck:** Den hinteren unteren Hilfsabstand als Fünftel der Ärmelkugellinie bestimmen.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 21; Originaltranskript `s202_digital_geprüft.md`, Zeile 55; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 21; Originaltranskript `s202.md`, Zeile 55; Buchseite 202.
 - **Originalbezeichnung:** `ÄkLi : 5`
 - **Normalisierte Bezeichnung:** `aermelkugellinie_fuenftel`
 
@@ -205,7 +205,7 @@ hilfsabstand_hinten_unten = 37 cm / 5 = 7,4 cm
 ## HOF-B1-S202-F06 — Vordere obere Hilfsteilung der Ärmelkugellinie
 
 - **Fachlicher Zweck:** Den vorderen oberen Hilfsabstand als Zwölftel der Ärmelkugellinie bestimmen.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 26; Originaltranskript `s202_digital_geprüft.md`, Zeile 61; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 26; Originaltranskript `s202.md`, Zeile 61; Buchseite 202.
 - **Originalbezeichnung:** `ÄkLi : 12`
 - **Normalisierte Bezeichnung:** `aermelkugellinie_zwoelftel`
 
@@ -245,7 +245,7 @@ gedruckter_hilfsabstand = 3,1 cm
 ## HOF-B1-S202-F07 — Hintere obere Hilfsteilung der Ärmelkugellinie
 
 - **Fachlicher Zweck:** Den hinteren oberen Hilfsabstand als Vierzehntel der Ärmelkugellinie bestimmen.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 31; Originaltranskript `s202_digital_geprüft.md`, Zeile 63; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 31; Originaltranskript `s202.md`, Zeile 63; Buchseite 202.
 - **Originalbezeichnung:** `ÄkLi : 14`
 - **Normalisierte Bezeichnung:** `aermelkugellinie_vierzehntel`
 
@@ -287,7 +287,7 @@ abweichung = 2,642857... cm - 2,4 cm = 0,242857... cm
 ## HOF-B1-S202-F08 — Länge der Ärmelkugellinie
 
 - **Fachlicher Zweck:** Die gemessene Ärmelkugellinie als Summe aus Oberarmweite und gewählter Zugabe kontrollieren.
-- **Quelle:** `formeln_s202_digital_geprüft.md`, Zeile 36; Originaltranskript `s202_digital_geprüft.md`, Zeile 91; Buchseite 202.
+- **Quelle:** `formeln_s202.md`, Zeile 36; Originaltranskript `s202.md`, Zeile 91; Buchseite 202.
 - **Originalbezeichnung:** `ÄkLi`, `OaW`, `Zugabe`
 - **Normalisierte Bezeichnung:** `aermelkugellinie_weiter_aermel`
 

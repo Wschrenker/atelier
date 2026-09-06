@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 538
 
-Quelle der Normalisierung: `formeln_s538_digital_geprüft.md`
-Originaltranskript: `s538_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s538.md`
+Originaltranskript: `s538.md`
 Buchseite: Hofenbitzer, Band 1, S. 538
 
 ## HOF-B1-S538-F01 — Brustbreite der DOB-Größentabelle für starke Figuren
 
 - **Fachlicher Zweck:** Die Brustbreite aus dem halben Brustumfang nach Abzug von Rückenbreite und Armdurchmesser bestimmen und die Tabellenwerte kontrollieren.
-- **Quelle:** `formeln_s538_digital_geprüft.md`, Zeile 9; Originaltranskript `s538_digital_geprüft.md`, Zeile 34; Buchseite 538.
+- **Quelle:** `formeln_s538.md`, Zeile 9; Originaltranskript `s538.md`, Zeile 34; Buchseite 538.
 - **Originalbezeichnung:** `BrB Brustbreite ½BrU − RüB − ArD`.
 - **Normalisierte Bezeichnung:** `brustbreite_starke_figuren`
 

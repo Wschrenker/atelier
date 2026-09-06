@@ -82,17 +82,17 @@ extrahierten Kandidatenbestand.
 **Quelle:** `../prüfstellen formel/00_index_normalisierte_formeln_band_1_v1.md`
 
 In den Originaltranskripten stehen weitere formelartige Beziehungen, die in den
-verbindlichen extrahierten Formeldateien fehlen: `s51_codex_v2_digital_geprueft.md`
+verbindlichen extrahierten Formeldateien fehlen: `s51.md`
 Zeilen 27, 41, 45 und 49 beschreiben seitliche 10-Prozent-Zuschläge und
 figurabhängige hintere Vertiefungen von der Hälfte bis zu drei Vierteln der
-vorderen Vertiefung. `s52_codex_v2_digital_geprueft.md` Zeilen 25, 27 und 65
+vorderen Vertiefung. `s52.md` Zeilen 25, 27 und 65
 enthält die allgemeine 10-Prozent-Regel und das Zahlenbeispiel `3 cm → 3,3 cm`.
-`s54_codex_v2_digital_geprueft.md` Zeilen 40–41 und
-`s55_codex_v2_digital_geprueft.md` Zeilen 41–42 enthalten Beziehungen zwischen
+`s54.md` Zeilen 40–41 und
+`s55.md` Zeilen 41–42 enthalten Beziehungen zwischen
 vorderer, hinterer und seitlicher Vertiefung sowie eine Hochrechnung der
-Weitenreduzierung auf den ganzen Rock. `s60_codex_v2_digital_geprueft.md` Zeile
+Weitenreduzierung auf den ganzen Rock. `s60.md` Zeile
 43 nennt die Mindestbreite des Untertritts als doppelten Knopfdurchmesser.
-`s62_codex_v2_digital_geprueft.md` Zeilen 21 und 52 verbindet viermal ca.
+`s62.md` Zeilen 21 und 52 verbindet viermal ca.
 `0,5 cm` mit einer gesamten Taillenweitenreduzierung von ca. `2 cm` und beschreibt
 die Verteilung des gemessenen Abnäherinhalts plus ca. `0,5 cm`.
 
@@ -129,7 +129,7 @@ sowie `s71.md` Zeilen 14 und 31 verteilen die Saumerweiterung auf zehn Nähte
 beziehungsweise bezeichnen je Stelle `1/20 Saumerweiterung`. `s72.md` Zeilen
 19, 22 und 32 sowie `s73.md` Zeilen 16–17 und 29 beschreiben Addition von
 Restabnähern, halbe Seitennaht-Öffnungen und die Teilung `2/5` zu `1/5`.
-`s78_codex_v2_digital_geprueft.md` Zeilen 32–33 nennt halbe Öffnungsbeträge.
+`s78.md` Zeilen 32–33 nennt halbe Öffnungsbeträge.
 
 Diese Stellen wurden in `R06` nicht ergänzt oder normalisiert. Sie müssen zuerst
 in der Extraktionsschicht ergänzt werden; der Abschluss von `R06` gilt für den
@@ -189,7 +189,7 @@ vorhandenen extrahierten Kandidatenbestand.
 
 **Quelle:** `../prüfstellen formel/00_index_normalisierte_formeln_band_1_v2.md`
 
-Die Originaltranskripte enthalten formelartige Konstruktionsbeziehungen, die in den verbindlichen Extrakten fehlen: `s98_digital_geprüft.md`, Zeile 49, verlängert den Tascheneingriff um `0,5 cm`; `s100_digital_geprüft.md`, Zeile 46, setzt den Abstand der Wickelkante zur Markierung mit dem Abnäherinhalt gleich; `s102_digital_geprüft.md`, Zeile 43, kürzt den Saum an der Untertrittkante um ca. `0,5 cm`; `s105_digital_geprüft.md`, Zeilen 21–23, fordert die Gleichheit der hinteren und vorderen Seitennahtlänge und beschreibt ihre Anpassung. Diese Stellen wurden nicht stillschweigend normalisiert. Der Abschluss von `V2-R02` gilt für den vorhandenen extrahierten Kandidatenbestand.
+Die Originaltranskripte enthalten formelartige Konstruktionsbeziehungen, die in den verbindlichen Extrakten fehlen: `s98.md`, Zeile 49, verlängert den Tascheneingriff um `0,5 cm`; `s100.md`, Zeile 46, setzt den Abstand der Wickelkante zur Markierung mit dem Abnäherinhalt gleich; `s102.md`, Zeile 43, kürzt den Saum an der Untertrittkante um ca. `0,5 cm`; `s105.md`, Zeilen 21–23, fordert die Gleichheit der hinteren und vorderen Seitennahtlänge und beschreibt ihre Anpassung. Diese Stellen wurden nicht stillschweigend normalisiert. Der Abschluss von `V2-R02` gilt für den vorhandenen extrahierten Kandidatenbestand.
 
 ## `04_grundschnitte_hosen_s106-137`
 
@@ -934,7 +934,7 @@ vorhandenen extrahierten Kandidatenbestand.
 
 **Quelle:** `../prüfstellen formel/00_index_normalisierte_formeln_band_1_v1.md`
 
-Das Originaltranskript `s486_codex_v2_digital_geprueft.md`, Zeile 21, enthält
+Das Originaltranskript `s486.md`, Zeile 21, enthält
 außerhalb des verbindlichen Extrakts die proportionale Beziehung, dass die
 Armlochauflockerung am Rückteil ca. `½ bis ⅔` der Armlochauflockerung am
 Vorderteil beträgt. Der Extrakt enthält von S. 486 nur die Grundschnittwahl mit

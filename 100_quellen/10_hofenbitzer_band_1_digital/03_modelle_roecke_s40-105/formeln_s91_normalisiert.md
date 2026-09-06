@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 91
 
-Quelle der Normalisierung: `formeln_s91_digital_geprüft.md`
-Originaltranskript: `s91_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s91.md`
+Originaltranskript: `s91.md`
 Buchseite: Hofenbitzer, Band 1, S. 91
 Extraktionsstand: v2
 
 ## HOF-B1-S091-F01 — Ansatzradius bei vier Kreisringen
 
 - **Fachlicher Zweck:** Den Ansatzradius jedes der vier Kreisringe aus Ansatzweite und Nahtzugabe bestimmen.
-- **Quelle:** `formeln_s91_digital_geprüft.md`, Zeilen 9, 14, 19 und 54; Originaltranskript `s91_digital_geprüft.md`, Zeilen 11, 13, 15 und 33; Buchseite 91.
+- **Quelle:** `formeln_s91.md`, Zeilen 9, 14, 19 und 54; Originaltranskript `s91.md`, Zeilen 11, 13, 15 und 33; Buchseite 91.
 - **Originalbezeichnung:** `r_AnW = (AnW + NZg) : (2 · π) : 4`
 - **Normalisierte Bezeichnung:** `ansatzradius_vier_kreisringe`
 
@@ -78,7 +78,7 @@ ansatzradius_aus_label = innerer_umfang_je_ring / (2 * pi_buch)
 ## HOF-B1-S091-F02 — Saumradius bei vier Kreisringen
 
 - **Fachlicher Zweck:** Den äußeren Radius jedes Kreisrings aus Ansatzradius und Volantbreite bestimmen.
-- **Quelle:** `formeln_s91_digital_geprüft.md`, Zeilen 24, 29 und 34; Originaltranskript `s91_digital_geprüft.md`, Zeilen 17, 19 und 21; Buchseite 91.
+- **Quelle:** `formeln_s91.md`, Zeilen 24, 29 und 34; Originaltranskript `s91.md`, Zeilen 17, 19 und 21; Buchseite 91.
 - **Originalbezeichnung:** `r_SaW = r_AnW + VoB`
 - **Normalisierte Bezeichnung:** `saumradius_vier_kreisringe`
 
@@ -127,7 +127,7 @@ saumradius = ansatzradius + volantbreite
 ## HOF-B1-S091-F03 — Gesamte Saumweite bei vier Kreisringen
 
 - **Fachlicher Zweck:** Die gesamte äußere Saumweite des Volants aus vier Kreisringen bestimmen.
-- **Quelle:** `formeln_s91_digital_geprüft.md`, Zeilen 39, 44, 49 und 55; Originaltranskript `s91_digital_geprüft.md`, Zeilen 23, 25, 27 und 34; Buchseite 91.
+- **Quelle:** `formeln_s91.md`, Zeilen 39, 44, 49 und 55; Originaltranskript `s91.md`, Zeilen 23, 25, 27 und 34; Buchseite 91.
 - **Originalbezeichnung:** `SaW = (2 · π · r_SaW) - NZg · 4`
 - **Normalisierte Bezeichnung:** `saumweite_vier_kreisringe`
 
@@ -195,7 +195,7 @@ Gerundet            = 615 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s91_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s91.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 60 | 1 | Isolierte Wiederholung `NZg = 2 x 1 cm = 2 cm`; bereits durch `HOF-B1-S090-F04` als Eingabeberechnung belegt |
 | **Summe** | **1** | **1 wiederholte Eingabe ausgeschlossen** |

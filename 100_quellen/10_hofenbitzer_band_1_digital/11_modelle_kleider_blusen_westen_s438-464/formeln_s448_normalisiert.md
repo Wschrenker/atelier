@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 448
 
-Quelle der Normalisierung: `formeln_s448_digital_geprüft.md`
-Originaltranskript: `s448_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s448.md`
+Originaltranskript: `s448.md`
 Buchseite: Hofenbitzer, Band 1, S. 448
 
 ## HOF-B1-S448-F01 — Übertrittbreite der Knopfleiste
 
 - **Fachlicher Zweck:** Die Übertrittbreite als halbe Leistenbreite bestimmen.
-- **Quelle:** `formeln_s448_digital_geprüft.md`, Zeile 14; Originaltranskript `s448_digital_geprüft.md`, Zeile 22; Buchseite 448.
+- **Quelle:** `formeln_s448.md`, Zeile 14; Originaltranskript `s448.md`, Zeile 22; Buchseite 448.
 - **Originalbezeichnung:** `Übertrittbreite = ½ Leisten-Breite`
 - **Normalisierte Bezeichnung:** `uebertrittbreite`
 
@@ -48,5 +48,5 @@ uebertrittbreite = 2 cm
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s448_digital_geprüft.md`, Zeile 9 | 1 | Passformklassen- und Grundschnittangabe mit Seitenverweis `192+193`; Anwendungsbereich, keine Rechenformel |
+| `formeln_s448.md`, Zeile 9 | 1 | Passformklassen- und Grundschnittangabe mit Seitenverweis `192+193`; Anwendungsbereich, keine Rechenformel |
 | **Summe** | **1** | **1 Kontext-/Anwendungszeile ausgeschlossen** |

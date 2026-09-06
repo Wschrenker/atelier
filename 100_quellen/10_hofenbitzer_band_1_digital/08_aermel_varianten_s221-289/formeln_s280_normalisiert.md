@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 280
 
-Quelle der Normalisierung: `formeln_s280_digital_geprüft.md`
-Originaltranskript: `s280_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s280.md`
+Originaltranskript: `s280.md`
 Buchseite: Hofenbitzer, Band 1, S. 280
 Extraktionsstand: v2
 
 ## HOF-B1-S280-F01 — Armlochverbreiterung aus der Armlochvertiefung
 
 - **Fachlicher Zweck:** Die Armlochverbreiterung vorne und hinten als ergänzende Anteile der Armlochvertiefung bestimmen.
-- **Quelle:** `formeln_s280_digital_geprüft.md`, Zeilen 14 und 24; Originaltranskript `s280_digital_geprüft.md`, Zeilen 32 und 47; Buchseite 280.
+- **Quelle:** `formeln_s280.md`, Zeilen 14 und 24; Originaltranskript `s280.md`, Zeilen 32 und 47; Buchseite 280.
 - **Originalbezeichnung:** Al-Verbreit., Al-Vert.
 - **Normalisierte Bezeichnung:** `armlochverbreiterung_vorne_hinten`
 
@@ -57,7 +57,7 @@ armlochverbreiterung_vorne + armlochverbreiterung_hinten = armlochvertiefung
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s280_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s280.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 9 | 1 | Bildnummern-/Konstruktionsanweisung mit einer Mindestvertiefung von `2 cm`; Eingabegrenze und Methode, keine berechnete Ausgabe |
 | Zeile 19 | 1 | Übertragungslabel `wie vorne (2×)`; Wiederholungsnotation ohne eigenständige Rechenbeziehung |

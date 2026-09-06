@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 90
 
-Quelle der Normalisierung: `formeln_s90_digital_geprüft.md`
-Originaltranskript: `s90_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s90.md`
+Originaltranskript: `s90.md`
 Buchseite: Hofenbitzer, Band 1, S. 90
 Extraktionsstand: v2
 
 ## HOF-B1-S090-F01 — Ansatzradius eines Vollkreis-Volants
 
 - **Fachlicher Zweck:** Den inneren Radius eines Vollkreis-Volants aus seiner Ansatzweite bestimmen.
-- **Quelle:** `formeln_s90_digital_geprüft.md`, Zeilen 9, 14 und 19; Originaltranskript `s90_digital_geprüft.md`, Zeilen 39, 41 und 43; Buchseite 90.
+- **Quelle:** `formeln_s90.md`, Zeilen 9, 14 und 19; Originaltranskript `s90.md`, Zeilen 39, 41 und 43; Buchseite 90.
 - **Originalbezeichnung:** `r_AnW = AnW : (2 · π)`
 - **Normalisierte Bezeichnung:** `ansatzradius_vollkreis_volant`
 
@@ -58,7 +58,7 @@ Buchwert     = 18,8 cm
 ## HOF-B1-S090-F02 — Saumradius eines Vollkreis-Volants
 
 - **Fachlicher Zweck:** Den äußeren Radius aus Ansatzradius und Volantbreite bestimmen.
-- **Quelle:** `formeln_s90_digital_geprüft.md`, Zeilen 24, 29 und 34; Originaltranskript `s90_digital_geprüft.md`, Zeilen 45, 47 und 49; Buchseite 90.
+- **Quelle:** `formeln_s90.md`, Zeilen 24, 29 und 34; Originaltranskript `s90.md`, Zeilen 45, 47 und 49; Buchseite 90.
 - **Originalbezeichnung:** `r_SaW = r_AnW + VoB`
 - **Normalisierte Bezeichnung:** `saumradius_vollkreis_volant`
 
@@ -107,7 +107,7 @@ saumradius = ansatzradius + volantbreite
 ## HOF-B1-S090-F03 — Saumweite eines Vollkreis-Volants
 
 - **Fachlicher Zweck:** Die äußere Saumweite des Vollkreis-Volants aus dem Saumradius bestimmen.
-- **Quelle:** `formeln_s90_digital_geprüft.md`, Zeilen 39, 44 und 49; Originaltranskript `s90_digital_geprüft.md`, Zeilen 51, 53 und 55; Buchseite 90.
+- **Quelle:** `formeln_s90.md`, Zeilen 39, 44 und 49; Originaltranskript `s90.md`, Zeilen 51, 53 und 55; Buchseite 90.
 - **Originalbezeichnung:** `SaW = 2 · π · r_SaW`
 - **Normalisierte Bezeichnung:** `saumweite_vollkreis_volant`
 
@@ -157,7 +157,7 @@ Buchwert  = 244 cm
 ## HOF-B1-S090-F04 — Gesamte Nahtzugabe je eingeschnittenem Kreisring
 
 - **Fachlicher Zweck:** Die für zwei Schnittkanten benötigte gesamte Nahtzugabe bestimmen.
-- **Quelle:** `formeln_s90_digital_geprüft.md`, Zeile 60; Originaltranskript `s90_digital_geprüft.md`, Zeile 67; Buchseite 90.
+- **Quelle:** `formeln_s90.md`, Zeile 60; Originaltranskript `s90.md`, Zeile 67; Buchseite 90.
 - **Originalbezeichnung:** `2 x 1 cm = 2 cm`
 - **Normalisierte Bezeichnung:** `nahtzugabe_kreisring_gesamt`
 
@@ -198,7 +198,7 @@ gesamte_nahtzugabe = anzahl_schnittkanten * nahtzugabe_je_schnittkante
 ## HOF-B1-S090-F05 — Ansatzradius bei zwei Kreisringen
 
 - **Fachlicher Zweck:** Den Ansatzradius jedes der zwei Kreisringe aus Ansatzweite und Nahtzugabe bestimmen.
-- **Quelle:** `formeln_s90_digital_geprüft.md`, Zeilen 65, 70, 75 und 110; Originaltranskript `s90_digital_geprüft.md`, Zeilen 71, 73, 75 und 93; Buchseite 90.
+- **Quelle:** `formeln_s90.md`, Zeilen 65, 70, 75 und 110; Originaltranskript `s90.md`, Zeilen 71, 73, 75 und 93; Buchseite 90.
 - **Originalbezeichnung:** `r_AnW = (AnW + NZg) : (2 · π) : 2`
 - **Normalisierte Bezeichnung:** `ansatzradius_zwei_kreisringe`
 
@@ -268,7 +268,7 @@ ansatzradius_aus_label = innerer_umfang_je_ring / (2 * pi_buch)
 ## HOF-B1-S090-F06 — Saumradius bei zwei Kreisringen
 
 - **Fachlicher Zweck:** Den äußeren Radius jedes Kreisrings aus Ansatzradius und Volantbreite bestimmen.
-- **Quelle:** `formeln_s90_digital_geprüft.md`, Zeilen 80, 85 und 90; Originaltranskript `s90_digital_geprüft.md`, Zeilen 77, 79 und 81; Buchseite 90.
+- **Quelle:** `formeln_s90.md`, Zeilen 80, 85 und 90; Originaltranskript `s90.md`, Zeilen 77, 79 und 81; Buchseite 90.
 - **Originalbezeichnung:** `r_SaW = r_AnW + VoB`
 - **Normalisierte Bezeichnung:** `saumradius_zwei_kreisringe`
 
@@ -317,7 +317,7 @@ saumradius = ansatzradius + volantbreite
 ## HOF-B1-S090-F07 — Gesamte Saumweite bei zwei Kreisringen
 
 - **Fachlicher Zweck:** Die gesamte äußere Saumweite des Volants aus zwei Kreisringen bestimmen.
-- **Quelle:** `formeln_s90_digital_geprüft.md`, Zeilen 95, 100, 105 und 111; Originaltranskript `s90_digital_geprüft.md`, Zeilen 83, 85, 87 und 94; Buchseite 90.
+- **Quelle:** `formeln_s90.md`, Zeilen 95, 100, 105 und 111; Originaltranskript `s90.md`, Zeilen 83, 85, 87 und 94; Buchseite 90.
 - **Originalbezeichnung:** `SaW = (2 · π · r_SaW) - NZg · 2`
 - **Normalisierte Bezeichnung:** `saumweite_zwei_kreisringe`
 
@@ -385,7 +385,7 @@ Gerundet            = 368 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s90_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s90.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 54–55 | 2 | Direkte Umfangs-/Begriffslabels des Vollkreises; die zugehörigen Rechenbeziehungen sind bereits in `HOF-B1-S090-F01` und `HOF-B1-S090-F03` vollständig belegt |
 | Zeile 116 | 1 | Wiederholte isolierte Nahtzugaben-Zuweisung `NZg = 2 x 1 cm = 2 cm`; bereits vollständig in `HOF-B1-S090-F04` abgebildet |

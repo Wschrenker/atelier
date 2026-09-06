@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 248 und S. 250
 
-Quelle der Normalisierung: `formeln_s248_digital_geprüft.md`, zusätzlicher Anwendungsnachweis in `formeln_s250_digital_geprüft.md`
-Originaltranskripte: `s248_digital_geprüft.md`, `s250_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s248.md`, zusätzlicher Anwendungsnachweis in `formeln_s250.md`
+Originaltranskripte: `s248.md`, `s250.md`
 Buchseiten: Hofenbitzer, Band 1, S. 248 und S. 250
 Extraktionsstand: v2
 
 ## HOF-B1-S248-F01 — Ärmelkugel-Teilstrecken mit Einhalteweite
 
 - **Fachlicher Zweck:** Drei am Armloch gemessene Teilstrecken um die jeweils gewählte Einhalteweite vergrößern und als Teilstrecken auf die Ärmelkugel übertragen.
-- **Quelle:** `formeln_s248_digital_geprüft.md`, Zeilen 9–14; Originaltranskript `s248_digital_geprüft.md`, Zeilen 45–50; zusätzlicher Anwendungsnachweis in `formeln_s250_digital_geprüft.md`, Zeilen 9–10, und `s250_digital_geprüft.md`, Zeilen 49–50; Buchseiten 248 und 250.
+- **Quelle:** `formeln_s248.md`, Zeilen 9–14; Originaltranskript `s248.md`, Zeilen 45–50; zusätzlicher Anwendungsnachweis in `formeln_s250.md`, Zeilen 9–10, und `s250.md`, Zeilen 49–50; Buchseiten 248 und 250.
 - **Originalbezeichnung:** EW; Teilstrecken am Armloch und an der Ärmelkugel
 - **Normalisierte Bezeichnung:** `aermelkugel_teilstrecken_mit_einhalteweite`
 
@@ -80,7 +80,7 @@ aermelkugel_teilstrecke_3 = 9,4 bis 9,9 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s248_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s248.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeilen 19–20 | 2 | Produktions- und Zuschnittbeschriftungen für Vorder- und Hinterärmel |
 | **Summe** | **2** | **2 Produktions-/Zuschnittzeilen** |

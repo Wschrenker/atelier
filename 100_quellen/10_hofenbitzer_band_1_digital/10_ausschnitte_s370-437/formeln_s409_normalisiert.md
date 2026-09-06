@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 409
 
-Quelle der Normalisierung: `formeln_s409_codex_v2.md`
-Originaltranskript: `s409_codex_v2.md`
+Quelle der Normalisierung: `formeln_s409.md`
+Originaltranskript: `s409.md`
 Buchseite: Hofenbitzer, Band 1, S. 409
 
 ## HOF-B1-S409-F01 — Ganze Taillennahtlänge des Rückenteils aus ihrer halben Länge
 
 - **Fachlicher Zweck:** Die für die rückwärtige Taillenblende zu berücksichtigende ganze Taillennahtlänge aus der Länge einer halben Rückenteil-Taillennaht bestimmen.
-- **Quelle:** `formeln_s409_codex_v2.md`, Zeile 19; Originaltranskript `s409_codex_v2.md`, Zeile 36; Buchseite 409.
+- **Quelle:** `formeln_s409.md`, Zeile 19; Originaltranskript `s409.md`, Zeile 36; Buchseite 409.
 - **Originalbezeichnung:** `2× Länge der halben Taillennaht am RT`.
 - **Normalisierte Bezeichnung:** `ganze_taillennahtlaenge_rueckenteil`
 
@@ -48,10 +48,10 @@ ganze_taillennahtlaenge_rueckenteil = verdopplungsfaktor * halbe_taillennahtlaen
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s409_codex_v2.md`, Zeile 9 | 1 | Bildnummernverweis `□4+5` und Konstruktionsanweisung für Rückschnitte; das Pluszeichen verbindet Bildnummern und ist kein Rechenoperator |
-| `formeln_s409_codex_v2.md`, Zeile 14 | 1 | Schnittteil- und Zuschnittbeschriftungen mit `1×` und `2×-p`; Produktionsangaben, keine Berechnung |
-| `formeln_s409_codex_v2.md`, Zeile 20 | 1 | `2× übertragen` ist eine direkte Übertragungsanweisung ohne bezeichnete berechnete Ausgabe |
-| `formeln_s409_codex_v2.md`, Zeile 25 | 1 | Produktionsbeschriftung `2×-p / 3`; Stückzahl, Zuschnittart und Schnittteilnummer, keine Berechnung |
+| `formeln_s409.md`, Zeile 9 | 1 | Bildnummernverweis `□4+5` und Konstruktionsanweisung für Rückschnitte; das Pluszeichen verbindet Bildnummern und ist kein Rechenoperator |
+| `formeln_s409.md`, Zeile 14 | 1 | Schnittteil- und Zuschnittbeschriftungen mit `1×` und `2×-p`; Produktionsangaben, keine Berechnung |
+| `formeln_s409.md`, Zeile 20 | 1 | `2× übertragen` ist eine direkte Übertragungsanweisung ohne bezeichnete berechnete Ausgabe |
+| `formeln_s409.md`, Zeile 25 | 1 | Produktionsbeschriftung `2×-p / 3`; Stückzahl, Zuschnittart und Schnittteilnummer, keine Berechnung |
 | **Summe** | **4** | **4 Bildverweis-, Produktions- oder Übertragungszeilen ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

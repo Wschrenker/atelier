@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 188
 
-Quelle der Normalisierung: `formeln_s188_digital_geprüft.md`
-Originaltranskript: `s188_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s188.md`
+Originaltranskript: `s188.md`
 Buchseite: Hofenbitzer, Band 1, S. 188
 Extraktionsstand: v2
 
 ## HOF-B1-S188-F01 — Brustumfang mit Zugabe und Halbierung
 
 - **Fachlicher Zweck:** Aus Brustumfang und Zugabe die Brustweite und deren Hälfte bestimmen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 9; Originaltranskript `s188_digital_geprüft.md`, Zeile 34; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 9; Originaltranskript `s188.md`, Zeile 34; Buchseite 188.
 - **Originalbezeichnung:** `BrU`, `BrW`, `½`
 - **Normalisierte Bezeichnung:** `brustweite_und_halbe_brustweite`
 
@@ -49,7 +49,7 @@ halbe_brustweite = brustweite / 2 = 90 cm / 2 = 45 cm
 ## HOF-B1-S188-F02 — Taillenweite ohne Zugabe und Halbierung
 
 - **Fachlicher Zweck:** Die Taillenweite ohne Zugabe übernehmen und halbieren.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 10; Originaltranskript `s188_digital_geprüft.md`, Zeile 35; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 10; Originaltranskript `s188.md`, Zeile 35; Buchseite 188.
 - **Originalbezeichnung:** `TaU`, `TaW`, `½`
 - **Normalisierte Bezeichnung:** `taillenweite_und_halbe_taillenweite`
 
@@ -90,7 +90,7 @@ halbe_taillenweite = taillenweite / 2 = 72 cm / 2 = 36 cm
 ## HOF-B1-S188-F03 — Hüftweite ohne Zugabe und Halbierung
 
 - **Fachlicher Zweck:** Aus Hüftumfang und Nullzugabe die Hüftweite und deren Hälfte bestimmen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 11; Originaltranskript `s188_digital_geprüft.md`, Zeile 36; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 11; Originaltranskript `s188.md`, Zeile 36; Buchseite 188.
 - **Originalbezeichnung:** `HüU`, `HüW`, `½`
 - **Normalisierte Bezeichnung:** `hueftweite_und_halbe_hueftweite`
 
@@ -131,7 +131,7 @@ halbe_hueftweite = hueftweite / 2 = 97 cm / 2 = 48,5 cm
 ## HOF-B1-S188-F04 — Rückenbreite mit Zugabe
 
 - **Fachlicher Zweck:** Die Rückenbreite um die Tabellenzugabe erhöhen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 16; Originaltranskript `s188_digital_geprüft.md`, Zeile 42; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 16; Originaltranskript `s188.md`, Zeile 42; Buchseite 188.
 - **Originalbezeichnung:** `RüB`, `RüB+`
 - **Normalisierte Bezeichnung:** `rueckenbreite_mit_zugabe`
 
@@ -172,7 +172,7 @@ rueckenbreite_mit_zugabe = halbe_rueckenbreite + rueckenbreitenzugabe
 ## HOF-B1-S188-F05 — Armdurchmesser mit Zugabe und Teilwerten
 
 - **Fachlicher Zweck:** ArD+ bilden und seine Viertel- und Drittelanteile bereitstellen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 17; Originaltranskript `s188_digital_geprüft.md`, Zeile 43; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 17; Originaltranskript `s188.md`, Zeile 43; Buchseite 188.
 - **Originalbezeichnung:** `ArD`, `ArD+`, `¼`, `⅓`
 - **Normalisierte Bezeichnung:** `armdurchmesser_mit_zugabe_und_teilwerte`
 
@@ -215,7 +215,7 @@ drittel_armdurchmesser = 9,6 cm / 3 = 3,2 cm
 ## HOF-B1-S188-F06 — Brustbreite mit Zugabe
 
 - **Fachlicher Zweck:** Die halbe Brustbreite um die Tabellenzugabe erhöhen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 18; Originaltranskript `s188_digital_geprüft.md`, Zeile 44; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 18; Originaltranskript `s188.md`, Zeile 44; Buchseite 188.
 - **Originalbezeichnung:** `BrB`, `BrB+`
 - **Normalisierte Bezeichnung:** `brustbreite_mit_zugabe`
 
@@ -254,7 +254,7 @@ brustbreite_mit_zugabe = 18,2 cm + 0,6 cm = 18,8 cm
 ## HOF-B1-S188-F07 — Kontrolle der halben Brustweite
 
 - **Fachlicher Zweck:** Die Summe der Brustteilmaße samt Zugaben gegen die halbe Brustweite kontrollieren.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 19; Originaltranskript `s188_digital_geprüft.md`, Zeile 45; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 19; Originaltranskript `s188.md`, Zeile 45; Buchseite 188.
 - **Originalbezeichnung:** `Kontrolle`, `Σ = ½ BrU`, `½ BrW`
 - **Normalisierte Bezeichnung:** `kontrolle_halbe_brustweite_tabelle`
 
@@ -298,7 +298,7 @@ kontrolle_bestanden = (45 cm == halbe_brustweite_soll)
 ## HOF-B1-S188-F08 — Gedruckter Taillenausfall
 
 - **Fachlicher Zweck:** Den Taillenausfall aus gemessener Taillenbreite und halber Taillenweite bestimmen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 29; Originaltranskript `s188_digital_geprüft.md`, Zeile 74; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 29; Originaltranskript `s188.md`, Zeile 74; Buchseite 188.
 - **Originalbezeichnung:** `TaAf Taillenausfall`
 - **Normalisierte Bezeichnung:** `taillenausfall_aus_gemessener_taillenbreite`
 
@@ -340,7 +340,7 @@ abweichung = 8,6 cm - 8,3 cm = 0,3 cm
 ## HOF-B1-S188-F09 — Hüftfehlbetrag
 
 - **Fachlicher Zweck:** Den Hüftfehlbetrag als Differenz der gemessenen Hüftbreite zur halben Soll-Hüftweite bestimmen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 30; Originaltranskript `s188_digital_geprüft.md`, Zeile 75; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 30; Originaltranskript `s188.md`, Zeile 75; Buchseite 188.
 - **Originalbezeichnung:** `HüFb Hüftfehlbetrag`
 - **Normalisierte Bezeichnung:** `hueftfehlbetrag`
 
@@ -381,7 +381,7 @@ hueftfehlbetrag = gemessene_hueftbreite - halbe_hueftweite
 ## HOF-B1-S188-F10 — Mehrweite im Armloch
 
 - **Fachlicher Zweck:** Die vorhandene Armlochmehrweite aus vorderem und hinterem Armlochumfang abzüglich Armloch-Rundungsmaß bestimmen.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 35; Originaltranskript `s188_digital_geprüft.md`, Zeile 77; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 35; Originaltranskript `s188.md`, Zeile 77; Buchseite 188.
 - **Originalbezeichnung:** `Mehrweite im Armloch`
 - **Normalisierte Bezeichnung:** `armlochmehrweite_ist`
 
@@ -421,7 +421,7 @@ armlochmehrweite_ist = vorderer_armlochumfang + hinterer_armlochumfang - armloch
 ## HOF-B1-S188-F11 — Sollwert und Toleranz der Armlochmehrweite
 
 - **Fachlicher Zweck:** Den Sollwert der Armlochmehrweite aus der doppelten Armlochtiefenzugabe und den gedruckten Toleranzbereich bilden.
-- **Quelle:** `formeln_s188_digital_geprüft.md`, Zeile 36; Originaltranskript `s188_digital_geprüft.md`, Zeile 78; Buchseite 188.
+- **Quelle:** `formeln_s188.md`, Zeile 36; Originaltranskript `s188.md`, Zeile 78; Buchseite 188.
 - **Originalbezeichnung:** `Sollwert der Mehrweite`
 - **Normalisierte Bezeichnung:** `armlochmehrweite_soll_und_toleranz`
 
@@ -466,7 +466,7 @@ armlochmehrweite_max = armlochmehrweite_soll + 2 cm = 3,0 cm
 
 ## Ausgeschlossene Kandidaten
 
-| Quelle in `formeln_s188_digital_geprüft.md` | Kandidatenzeilen | Ausschlussgrund |
+| Quelle in `formeln_s188.md` | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
 | Zeile 24 | 1 | Die Balance `3,7` wird ohne Korrektur unverändert als `3,7` übernommen; Tabellen- und Kontrollwert ohne neue Rechenbeziehung |
 | **Summe** | **1** | **1 unveränderte Tabellenübernahme ausgeschlossen** |

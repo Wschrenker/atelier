@@ -1,13 +1,13 @@
 # Fachlich normalisierte Formeln — S. 235
 
-Quelle der Normalisierung: `formeln_s235_codex_v2_digital_geprueft.md`
-Originaltranskript: `s235_codex_v2_digital_geprueft.md`
+Quelle der Normalisierung: `formeln_s235.md`
+Originaltranskript: `s235.md`
 Buchseite: Hofenbitzer, Band 1, S. 235
 
 ## HOF-B1-S235-F01 — Erhöhung der Futter-Ärmelkugelnaht unter der Achsel
 
 - **Fachlicher Zweck:** Die Futter-Ärmelkugelnaht unter der Achsel aus zwei Armloch-Nahtzugaben und einem zusätzlichen Betrag erhöhen.
-- **Quelle:** `formeln_s235_codex_v2_digital_geprueft.md`, Zeile 9 sowie Zeilen 29–30; Originaltranskript `s235_codex_v2_digital_geprueft.md`, Zeile 19 sowie Zeilen 48–49; Buchseite 235.
+- **Quelle:** `formeln_s235.md`, Zeile 9 sowie Zeilen 29–30; Originaltranskript `s235.md`, Zeile 19 sowie Zeilen 48–49; Buchseite 235.
 - **Originalbezeichnung:** `2× NZg (der Armlochnaht) + 0,5 cm`
 - **Normalisierte Bezeichnung:** `erhoehung_futter_aermelkugelnaht_unter_achsel`
 
@@ -54,7 +54,7 @@ erhoehung_futter_aermelkugelnaht = anzahl_nahtzugaben * armloch_nahtzugabe + zus
 ## HOF-B1-S235-F02 — Kürzung des Futterärmels mit Futtermehrlänge
 
 - **Fachlicher Zweck:** Die tatsächliche Kürzung des Futterärmels aus Saumeinschlag und notwendiger Futtermehrlänge bestimmen.
-- **Quelle:** `formeln_s235_codex_v2_digital_geprueft.md`, Zeilen 14, 19, 24 und 35; Originaltranskript `s235_codex_v2_digital_geprueft.md`, Zeilen 27, 29, 31 und 54; Buchseite 235.
+- **Quelle:** `formeln_s235.md`, Zeilen 14, 19, 24 und 35; Originaltranskript `s235.md`, Zeilen 27, 29, 31 und 54; Buchseite 235.
 - **Originalbezeichnung:** `Kürzung = SaEs - Futtermehrlänge`
 - **Normalisierte Bezeichnung:** `kuerzung_futteraermel_mit_mehrlaenge`
 
@@ -119,14 +119,14 @@ kuerzung_beispiel = 3 cm - 1,5 cm = 1,5 cm
 
 | Quelldatei und Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s231_codex_v2_digital_geprueft.md`, Zeile 9 | 1 | Schnittteil- und Zuschnittbeschriftung des festlichen Ärmels 3; `2×-p` bezeichnet Stückzahl und paarigen Zuschnitt, keine Berechnung |
-| `formeln_s232_codex_v2_digital_geprueft.md`, Zeilen 9 und 14–15 | 3 | Schnittteil- und Zuschnittbeschriftungen der festlichen Ärmel 4 und 6; keine Rechenformeln |
-| `formeln_s233_codex_v2_digital_geprueft.md`, Zeilen 9–10 und 15 | 3 | Schnittteil- und Zuschnittbeschriftungen des festlichen Ärmels 7; keine Rechenformeln |
-| `formeln_s234_codex_v2_digital_geprueft.md`, Zeile 9 | 1 | Schnittteil- und Zuschnittbeschriftung; keine Rechenformel |
-| `formeln_s234_codex_v2_digital_geprueft.md`, Zeile 14 | 1 | festgelegter Saumeinschlag `SaEs = 3 cm`; Eingabewert für `HOF-B1-S235-F02`, keine eigenständige Berechnung |
-| `formeln_s235_codex_v2_digital_geprueft.md`, Zeile 40 | 1 | Schnittteil- und Zuschnittbeschriftung des Futterärmels; keine Rechenformel |
-| `formeln_s235_codex_v2_digital_geprueft.md`, Zeile 45 | 1 | unvollständiges Nahtdiagramm-Label `2× 1 cm`; bereits im vollständigen Block von `HOF-B1-S235-F01` abgebildet |
-| `formeln_s236_codex_v2_digital_geprueft.md`, Zeilen 9–10 | 2 | Schnittteil- und Zuschnittbeschriftungen von Ober- und Unterärmel; keine Rechenformeln |
+| `formeln_s231.md`, Zeile 9 | 1 | Schnittteil- und Zuschnittbeschriftung des festlichen Ärmels 3; `2×-p` bezeichnet Stückzahl und paarigen Zuschnitt, keine Berechnung |
+| `formeln_s232.md`, Zeilen 9 und 14–15 | 3 | Schnittteil- und Zuschnittbeschriftungen der festlichen Ärmel 4 und 6; keine Rechenformeln |
+| `formeln_s233.md`, Zeilen 9–10 und 15 | 3 | Schnittteil- und Zuschnittbeschriftungen des festlichen Ärmels 7; keine Rechenformeln |
+| `formeln_s234.md`, Zeile 9 | 1 | Schnittteil- und Zuschnittbeschriftung; keine Rechenformel |
+| `formeln_s234.md`, Zeile 14 | 1 | festgelegter Saumeinschlag `SaEs = 3 cm`; Eingabewert für `HOF-B1-S235-F02`, keine eigenständige Berechnung |
+| `formeln_s235.md`, Zeile 40 | 1 | Schnittteil- und Zuschnittbeschriftung des Futterärmels; keine Rechenformel |
+| `formeln_s235.md`, Zeile 45 | 1 | unvollständiges Nahtdiagramm-Label `2× 1 cm`; bereits im vollständigen Block von `HOF-B1-S235-F01` abgebildet |
+| `formeln_s236.md`, Zeilen 9–10 | 2 | Schnittteil- und Zuschnittbeschriftungen von Ober- und Unterärmel; keine Rechenformeln |
 | **Summe** | **13** | **11 Produktions-/Zuschnittbeschriftungen, 1 Eingabelabel und 1 unvollständige Wiederholung ausgeschlossen** |
 
 ## Prüfhinweis zur Extraktionsgrenze

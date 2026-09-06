@@ -1,14 +1,14 @@
 # Fachlich normalisierte Formeln — S. 246–247
 
-Quelle der Normalisierung: `formeln_s246_digital_geprüft.md`, zusätzlicher Anwendungsnachweis in `formeln_s247_digital_geprüft.md`
-Originaltranskripte: `s246_digital_geprüft.md`, `s247_digital_geprüft.md`
+Quelle der Normalisierung: `formeln_s246.md`, zusätzlicher Anwendungsnachweis in `formeln_s247.md`
+Originaltranskripte: `s246.md`, `s247.md`
 Buchseiten: Hofenbitzer, Band 1, S. 246–247
 Extraktionsstand: v2
 
 ## HOF-B1-S246-F01 — Saumeinschlag mit Rollweite am separaten Ärmelaufschlag
 
 - **Fachlicher Zweck:** Den gesamten Saumeinschlag aus dem üblichen Saumeinschlag und der zusätzlichen Rollweite bestimmen.
-- **Quelle:** `formeln_s246_digital_geprüft.md`, Zeile 14; Originaltranskript `s246_digital_geprüft.md`, Zeile 25; zusätzlicher wortgleicher Anwendungsnachweis in `formeln_s247_digital_geprüft.md`, Zeile 14, und `s247_digital_geprüft.md`, Zeile 26; Buchseiten 246–247.
+- **Quelle:** `formeln_s246.md`, Zeile 14; Originaltranskript `s246.md`, Zeile 25; zusätzlicher wortgleicher Anwendungsnachweis in `formeln_s247.md`, Zeile 14, und `s247.md`, Zeile 26; Buchseiten 246–247.
 - **Originalbezeichnung:** Saumeinschlag, Rollweite
 - **Normalisierte Bezeichnung:** `saumeinschlag_mit_rollweite`
 
@@ -56,10 +56,10 @@ saumeinschlag_mit_rollweite = 3,5 cm
 
 | Quelle | Kandidatenzeilen | Ausschlussgrund |
 |---|---:|---|
-| `formeln_s246_digital_geprüft.md`, Zeile 9 | 1 | Geometrische Spiegel- und Kopieranweisung; keine skalare Rechenausgabe |
-| `formeln_s246_digital_geprüft.md`, Zeilen 19 und 24–25 | 3 | Produktions- und Zuschnittbeschriftungen mit Stückzahl, Material und Größe |
-| `formeln_s247_digital_geprüft.md`, Zeile 9 | 1 | Geometrische Kopieranweisung; keine skalare Rechenausgabe |
-| `formeln_s247_digital_geprüft.md`, Zeilen 19–20 und 25–26 | 4 | Produktions- und Zuschnittbeschriftungen für inneren und äußeren Aufschlag |
+| `formeln_s246.md`, Zeile 9 | 1 | Geometrische Spiegel- und Kopieranweisung; keine skalare Rechenausgabe |
+| `formeln_s246.md`, Zeilen 19 und 24–25 | 3 | Produktions- und Zuschnittbeschriftungen mit Stückzahl, Material und Größe |
+| `formeln_s247.md`, Zeile 9 | 1 | Geometrische Kopieranweisung; keine skalare Rechenausgabe |
+| `formeln_s247.md`, Zeilen 19–20 und 25–26 | 4 | Produktions- und Zuschnittbeschriftungen für inneren und äußeren Aufschlag |
 | **Summe** | **9** | **2 geometrische Methodenangaben + 7 Produktions-/Zuschnittzeilen** |
 
 ## Extraktionsgrenze
