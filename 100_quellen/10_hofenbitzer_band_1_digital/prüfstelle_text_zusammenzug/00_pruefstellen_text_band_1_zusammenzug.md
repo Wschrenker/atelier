@@ -1,11 +1,22 @@
 # Prüfstellen Text — Hofenbitzer Band 1 — Zusammenzug
 
-Dieser Zusammenzug enthält die Prüfstellen aus den nummerierten Kategoriedateien
-des Ordners [`prüfstellen text`](../prüfstellen%20text/). Die Einträge sind innerhalb
-der Buchkategorien nach der zuerst genannten Buchseite aufsteigend sortiert.
+Diese Datei führt die Prüfstellen der **ersten digitalen Zweitprüfung**, 127
+Einträge. Sie sind innerhalb der Buchkategorien nach der zuerst genannten
+Buchseite aufsteigend sortiert.
 
-Die Quelldateien bleiben unverändert. Status- und README-Dateien sind nicht Bestandteil
-dieses Zusammenzugs.
+**Sie ist nicht allein maßgeblich.** Die Prüfstellen der 24 späteren
+Nachprüfungsrunden stehen seit dem 2026-09-06 in zwei Nachbardateien desselben
+Ordners. Bei der Arbeit an einer Buchseite sind alle drei heranzuziehen:
+
+| Datei | Inhalt | Punkte | Richtung |
+|---|---|---:|---|
+| diese Datei | A/B/C/N der ersten Zweitprüfung | 127 | Buch prüfen |
+| [`01_abweichungen_transkript_vom_foto.md`](01_abweichungen_transkript_vom_foto.md) | Kategorie D | 509 | Datei berichtigen |
+| [`02_buchfehler_aus_dem_archiv.md`](02_buchfehler_aus_dem_archiv.md) | A/B/C aus den Nachprüfungen | 366 | Buch prüfen |
+
+Die früheren nummerierten Kategoriedateien im Ordner `prüfstellen text` sind vollständig
+hier aufgegangen und im Repo nicht mehr vorhanden. Ihre toten Verweise wurden am
+2026-09-06 entfernt.
 
 **Kennzeichnungen:** A = vermuteter Buchfehler · B = unlesbar/nicht zweifelsfrei ·
 C = dateiübergreifender Konflikt · N = aus den Transkripten nachgetragen.
@@ -14,7 +25,7 @@ C = dateiübergreifender Konflikt · N = aus den Transkripten nachgetragen.
 
 Quelle: die Transkripte `s4.md` bis `s7.md` in
 [`00_vorspann_s1-7`](../00_vorspann_s1-7/). Für diese Kategorie gibt es keine
-Kategoriedatei im Ordner `prüfstellen text`; die Punkte sind beim Transkribieren des
+frühere Kategoriedatei; die Punkte sind beim Transkribieren des
 Inhaltsverzeichnisses am 2026-09-06 angefallen und daher mit **N** gekennzeichnet.
 
 Alle acht Punkte betreffen **gedruckte Seitenverweise im Inhaltsverzeichnis**. Die
@@ -23,50 +34,61 @@ vergrößert geprüft. Die jeweils genannte tatsächliche Seite stammt aus dem A
 den Kapiteltranskripten und ist damit belegt, nicht geraten. Zu klären ist, ob das Buch
 selbst so gedruckt ist.
 
-- **N14 — S.5, Eintrag „Weite an erprobtem Oberteil-Grundschnitt reduzieren":** steht ohne
+- **N14-erledigt — S.5, Eintrag „Weite an erprobtem Oberteil-Grundschnitt reduzieren" (aufgelöst):** steht ohne
   Seitenzahl; die 196 steht erst in der Folgezeile bei „Korsagen-Grundschnitt". Tatsächlich
   beginnt auf S.196 der Abschnitt „Weite an erprobtem Oberteil-Grundschnitt reduzieren",
   der Korsagen-Grundschnitt steht dort als Randtitel. Die Zahl scheint um eine Zeile
-  verrutscht zu sein.
+  verrutscht zu sein. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
-- **N15 — S.5, Ärmel-Varianten 12-15 „Weite Ärmel und Form-Manschetten" = 236:** tatsächlich
-  **S.226**.
+- **N15-erledigt — S.5, Ärmel-Varianten 12-15 „Weite Ärmel und Form-Manschetten" = 236 (aufgelöst):** tatsächlich
+  **S.226**. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
-- **N16 — S.5, Ärmel-Varianten 16-17 „Keulenärmel" = 238:** tatsächlich **S.228**.
+- **N16-erledigt — S.5, Ärmel-Varianten 16-17 „Keulenärmel" = 238 (aufgelöst):** tatsächlich **S.228**. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
-- **N17 — S.5, Ärmel-Varianten 18-19 „Schmaler Ärmel in ⅞-Länge mit offenem Schlitz,
-  Trompetenärmel" = 239:** tatsächlich **S.229**. N15 bis N17 stehen unmittelbar
+- **N17-erledigt — S.5, Ärmel-Varianten 18-19 „Schmaler Ärmel in ⅞-Länge mit offenem Schlitz,
+  Trompetenärmel" = 239 (aufgelöst):** tatsächlich **S.229**. N15 bis N17 stehen unmittelbar
   untereinander und durchbrechen zusammen die aufsteigende Reihenfolge, weil die nächste
-  Zeile wieder mit 230 weitergeht.
+  Zeile wieder mit 230 weitergeht. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
-- **N18 — S.5, Ärmel-Varianten 40-41 „Zweinaht-Ärmel mit Saumaufschlägen" = 256:** steht
-  zwischen 245 und 248, also nicht aufsteigend; tatsächlich **S.246/247**.
+- **N18-erledigt — S.5, Ärmel-Varianten 40-41 „Zweinaht-Ärmel mit Saumaufschlägen" = 256 (aufgelöst):** steht
+  zwischen 245 und 248, also nicht aufsteigend; tatsächlich **S.246/247**. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
-- **N19 — S.5, dreimal 250 hintereinander** bei „Vorbereitungen für eine Ärmelanlage",
+- **N19-erledigt — S.5, dreimal 250 hintereinander** bei „Vorbereitungen für eine Ärmelanlage",
   „Ärmelanlage mit korrektem Ärmelfall, einfach" und „… aufgelockert": tatsächlich
-  **S.250, S.251 und S.252**.
+  **S.250, S.251 und S.252**. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
 - **N20 — S.6, Kragen-Modellnummern 35-38 und 38-39 überschneiden sich** bei „Einfache
   Flachkragen" (304) und „Rüschenkragen" (305). Die Nummer 38 ist doppelt vergeben.
-  *Am Buch klären, ob „35-37" gemeint ist.*
+  *Am Buch klären, ob „35-37" gemeint ist.* **Stand 2026-09-06, in Klärung:** Werner vermutet, dass die Überschneidung so beabsichtigt ist, weil die zugehörige Abbildung dieselbe Stelle für beide Systeme zeigt. Er ist im Thema noch nicht tief genug für eine feste Entscheidung. Wird bei der Bearbeitung von Kapitel 09, Kragen, S.290–369, endgültig geklärt.
 
-- **N21 — S.7, Modelle Jacken, „Saum formen" = 450:** steht zwischen 470 und 472, also nicht
-  aufsteigend; das Jacken-Kapitel läuft von S.465 bis S.492. Vermutlich ist **471** gemeint.
+- **N21-erledigt — S.7, Modelle Jacken, „Saum formen" = 450 (aufgelöst):** steht zwischen 470 und 472, also nicht
+  aufsteigend; das Jacken-Kapitel läuft von S.465 bis S.492. Vermutlich ist **471** gemeint. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
 ## 01 — Grundlagen, S. 8–31
 
-Quelle: [`01_pruefstellen.md`](<../prüfstellen text/01_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `01_pruefstellen.md`, nicht mehr im Repo.
 
-- **A1 — S.20, Zeile `7.HW bis Fußsohle`, Größe 58:** Im Foto steht eindeutig **„15,5"**
-  (deutlich kürzer als die Nachbarwerte 150,1 / 150,9). In der Reihe …150,1 → ? → 150,9 fehlt
-  offensichtlich eine Ziffer → vermutlich **150,5**. *Am Buch klären: Druckfehler oder beschädigte Stelle?*
+- **A1-erledigt — S.20, Zeile `7.HW bis Fußsohle`, Größe 58 (aufgelöst):** Im Foto stand
+  **„15,5"** (deutlich kürzer als die Nachbarwerte 150,1 / 150,9). Am Buch geklärt: der Wert
+  lautet **150,5** und ist in der Größentabelle so angepasst
+  ([`000_sprache/40_grössentabelle/1_dob_groessentabelle_s20.md`](<../../../000_sprache/40_grössentabelle/1_dob_groessentabelle_s20.md>)).
+  Die Transkription `s20.md` gibt weiterhin fototreu „15,5" wieder.
 
 - **A2 — S.20, Zeile `ArD` (Armdurchmesser), Größen 46/48/50 = 12,1 / 12,2 / 14,3:** Sprung
   12,2 → 14,3 ist unregelmäßig (sonst Schrittweite +1,1: 14,3→15,4→16,5…). Fototreu übernommen.
   *Am Buch klären (vermutlich soll Größe 48 = 13,2 lauten).*
 
-- **B1 — S.20, Vergleichstabelle US-Größe 52:** Zelle erscheint auch im Zoom leer/unklar → `UNLESBAR`.
-  (Niedrige Priorität — US-Größen sind nicht engine-relevant.)
+- **B1-erledigt — S.20, Vergleichstabelle US-Größe 52 (aufgelöst):** Am Buch geklärt: bei
+  Größe 52 steht ein **Strich**, bei Größe 54 steht **gar nichts**. Die US-Reihe endet damit
+  bei D 50. Die Markierung `UNLESBAR` ist in der Größentabelle entfernt.
+
+- **A90 — S.20, Vergleichstabelle Zeile `F (Frankreich)`:** Zwischen D 44 (→ 46) und D 46 (→ 50)
+  fehlt die französische 48; ab D 48 rechnet das Buch mit + 4 weiter (48 → 52, 50 → 54, 52 → 56,
+  54 → 58). Am Buch bestätigt, also kein Lesefehler. Die übliche Umrechnung lautet durchgehend
+  **französische Größe = deutsche Größe + 2**, danach gehörte bei D 46 die 48 hin. Die frei
+  zugänglichen Umrechnungstabellen enden meist bei D 42 bis D 46; für die großen Größen fand
+  sich keine Quelle, die den Sprung stützt. **Vermuteter Buchfehler**, nicht abschließend belegt.
+  Fototreu übernommen.
 
 - **B2 — S.22:** Schnittteil-Stempel-Abkürzungen `OSE`, `E1`/`EL`, `OSt`, `OSF`, „2x-g" sehr klein
   fotografiert, nicht zweifelsfrei; Bildunterschrift ☐2 nicht auffindbar.
@@ -93,16 +115,15 @@ _Keine Text-Prüfstellen in dieser Kategorie._
 
 ## 03 — Modelle: Röcke, S. 40–105
 
-Quelle: [`03_pruefstellen.md`](<../prüfstellen text/03_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `03_pruefstellen.md`, nicht mehr im Repo.
 
-- **N1 — S. 79, Arbeitsschritt 6 (höhere Priorität):** Der Schritt lautet im Transkript
-  „An den Formbundteilen die `UNLESBAR` reduzieren.“ — die Marke steht **anstelle eines
-  Wortes mitten in einer Konstruktionsanweisung**, nicht am Rand einer Abbildung. Ohne dieses
-  Wort ist der Schritt nicht ausführbar. *Am Buch nachlesen, was reduziert wird.*
-  Datei: `s79.md`, Zeile 35.
+- **N1 — S. 79, Arbeitsschritt 6 (aufgelöst):** Werner hat am gedruckten Buch bestätigt:
+  „An den Formbundteilen die `Teilweite` reduzieren.“ Die aktive Transkription `s79.md`
+  wurde entsprechend berichtigt; die historischen Archivfassungen bleiben unverändert.
 
-- **A7 — S.89, Bildunterschrift ☐5:** „Produktion**sss**chnitt Faltenteil" — drei „s", im Foto
-  eindeutig. Fototreu übernommen. *Am Buch als Druckfehler bestätigen.*
+- **A7-erledigt — S.89, Bildunterschrift ☐5 (aufgelöst):** „Produktion**sss**chnitt Faltenteil"
+  — drei „s", im Foto eindeutig. Werner hat am 2026-09-06 als Druckfehler im Buch bestätigt.
+  Die fototreue Übernahme bleibt unverändert.
 
 - **A8 — S.90, rechte Spalte:** „Hierfür muss zur **Anssatzweite** 2 mal die benötigte Nahtzugabe
   addiert werden" — doppeltes „s", im Foto eindeutig. Fototreu übernommen.
@@ -126,11 +147,13 @@ Quelle: [`03_pruefstellen.md`](<../prüfstellen text/03_pruefstellen.md>)
   „2×-p **Ost**" mit kleinem „s", die Schilder „Bund" und „Beleg" derselben Seite dagegen „**OSt**".
   Fototreu übernommen. *Am Buch als Satzfehler bestätigen.*
 
-- **A12 — S.102, Einleitungstext:** „…wird zu einem Modell **mit mit** Drapierfalten im oberen
-  vorderen Rockteil…" — „mit" doppelt, im Foto eindeutig. Fototreu übernommen.
+- **A12-erledigt — S.102, Einleitungstext (aufgelöst):** „…wird zu einem Modell **mit mit**
+  Drapierfalten im oberen vorderen Rockteil…" — „mit" doppelt, im Foto eindeutig. Werner hat am
+  2026-09-06 als Druckfehler im Buch bestätigt. Die fototreue Übernahme bleibt unverändert.
 
-- **A13 — S.103, Bildunterschrift □6:** „**Poduktionsschnitt** Übertritt-Beleg" — fehlendes „r".
-  Fototreu übernommen.
+- **A13-erledigt — S.103, Bildunterschrift □6 (aufgelöst):** „**Poduktionsschnitt**
+  Übertritt-Beleg" — fehlendes „r". Werner hat am 2026-09-06 als Druckfehler im Buch bestätigt.
+  Die fototreue Übernahme bleibt unverändert.
 
 ## 04 — Grundschnitte: Hosen, S. 106–137
 
@@ -142,13 +165,15 @@ _Keine Text-Prüfstellen in dieser Kategorie._
 
 ## 06 — Grundschnitte: Oberteile, S. 171–196
 
-Quelle: [`06_pruefstellen.md`](<../prüfstellen text/06_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `06_pruefstellen.md`, nicht mehr im Repo.
 
-- **A14 — S.171, „Pluderhose, historischer Schnitt":** „Die Bundvarianten **sindvielfältig**
-  (siehe oben)." — fehlendes Leerzeichen. Fototreu übernommen.
+- **A14-erledigt — S.171, „Pluderhose, historischer Schnitt" (aufgelöst):** „Die Bundvarianten
+  **sindvielfältig** (siehe oben)." — fehlendes Leerzeichen. Werner hat am gedruckten Buch als
+  Druckfehler bestätigt. Die fototreue Übernahme bleibt unverändert.
 
-- **A15 — S.171, „Pluderhose, moderner Schnitt":** „…kann wie skizziert am **Schitt** vertieft…"
-  — „Schritt" ohne „r". Fototreu übernommen.
+- **A15-erledigt — S.171, „Pluderhose, moderner Schnitt" (aufgelöst):** „…kann wie skizziert am
+  **Schitt** vertieft…" — „Schritt" ohne „r". Werner hat am gedruckten Buch als Druckfehler
+  bestätigt. Die fototreue Übernahme bleibt unverändert.
 
 - **A16 — S.182/S.183, Schnitte □6b und □7b:** Die Grafiken schreiben systematisch „Line" statt
   „Linie": `Brustabnäher-Line`, `vordere Seitenline`, `neue hintere Seitenline` (auf beiden Seiten),
@@ -184,7 +209,7 @@ Quelle: [`06_pruefstellen.md`](<../prüfstellen text/06_pruefstellen.md>)
 
 ## 07 — Grundschnitte: Ärmel, S. 197–220
 
-Quelle: [`07_pruefstellen.md`](<../prüfstellen text/07_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `07_pruefstellen.md`, nicht mehr im Repo.
 
 - **A24 — S.198, □10:** „Am hängenden Arm bilden sich am Ärmel und **u.U** am Armloch Falten." —
   ohne Leerzeichen und ohne zweiten Punkt. Fototreu übernommen.
@@ -240,10 +265,11 @@ Quelle: [`07_pruefstellen.md`](<../prüfstellen text/07_pruefstellen.md>)
 - **A36 — S.207 und S.208, Schritt ㉒:** „…zwischen **hÄp** und SuP…" — kleines „p", während
   Schritt ㉓ derselben Spalte „hÄP" schreibt. Auf beiden Seiten im Foto eindeutig.
 
-- **A37 — S.207, S.208 und S.211, „Oberamweite":** Fehlendes „r" in „Oberarmweite" — S.207/S.208
-  jeweils in Schritt ㉔ („Die **Oberamweite** (OaW) auf der Hälfte…"), S.211 in **beiden**
-  Kastenüberschriften („Einhalteweite vergrößern/verkleinern bei ähnlicher **Oberamweite**").
-  Vier Vorkommen, im Foto jeweils eindeutig.
+- **A37-erledigt — S.207, S.208 und S.211, „Oberamweite" (aufgelöst):** Fehlendes „r" in
+  „Oberarmweite" — S.207/S.208 jeweils in Schritt ㉔ („Die **Oberamweite** (OaW) auf der Hälfte…"),
+  S.211 in **beiden** Kastenüberschriften („Einhalteweite vergrößern/verkleinern bei ähnlicher
+  **Oberamweite**"). Vier Vorkommen, im Foto jeweils eindeutig. Werner hat am 2026-09-06 als
+  Druckfehler im Buch bestätigt. Die fototreue Übernahme bleibt unverändert.
 
 - **A38 — S.208, Schnitt □6:** Die Beschriftung des Abnäherschenkels lautet „**hÄB**
   (= Abnäherschenkel)" — fehlendes „r"; die Nachbarbeschriftung derselben Grafik schreibt
@@ -324,7 +350,7 @@ Quelle: [`07_pruefstellen.md`](<../prüfstellen text/07_pruefstellen.md>)
 
 ## 08 — Ärmel-Varianten, S. 221–289
 
-Quelle: [`08_pruefstellen.md`](<../prüfstellen text/08_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `08_pruefstellen.md`, nicht mehr im Repo.
 
 - **A56 — S.222, Bildunterschrift □1:** „Weiter Blusen**,,** Hemden- bzw. Kleider-Ärmel…" —
   doppeltes Komma statt „Blusen-,". Fototreu übernommen.
@@ -416,7 +442,7 @@ Quelle: [`08_pruefstellen.md`](<../prüfstellen text/08_pruefstellen.md>)
 
 ## 09 — Kragen, Kapuzen und Taschen, S. 290–369
 
-Quelle: [`09_pruefstellen.md`](<../prüfstellen text/09_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `09_pruefstellen.md`, nicht mehr im Repo.
 
 - **A77 — S.350/S.351, Bildunterschriften □4a, □5a, □6a:** Das Buch schreibt dort **`Hilflinien`**
   statt „Hilfslinien" (fehlendes „s"), auf **S.352 □8a** dagegen korrekt `Hilfslinien`.
@@ -454,7 +480,7 @@ Quelle: [`09_pruefstellen.md`](<../prüfstellen text/09_pruefstellen.md>)
 
 ## 10 — Ausschnitte, S. 370–437
 
-Quelle: [`10_pruefstellen.md`](<../prüfstellen text/10_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `10_pruefstellen.md`, nicht mehr im Repo.
 
 - **N2 — S. 392:** Rote senkrechte Kleinstbeschriftung neben der vorverlegten Seitennaht → `UNLESBAR`.
 
@@ -485,7 +511,7 @@ Quelle: [`10_pruefstellen.md`](<../prüfstellen text/10_pruefstellen.md>)
 
 ## 11 — Modelle: Kleider, Blusen, Westen, S. 438–464
 
-Quelle: [`11_pruefstellen.md`](<../prüfstellen text/11_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `11_pruefstellen.md`, nicht mehr im Repo.
 
 - **C1 — S.438/439 doppelt transkribiert:** in `s406-407_s438-439…` (geprüft) **und** in
   `s426-431_438-439…` (roh). Beide Fassungen stehen gemeinsam in `s438.md` / `s439.md` —
@@ -525,7 +551,7 @@ Quelle: [`11_pruefstellen.md`](<../prüfstellen text/11_pruefstellen.md>)
 
 ## 12 — Modelle: Jacken, S. 465–492
 
-Quelle: [`12_pruefstellen.md`](<../prüfstellen text/12_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `12_pruefstellen.md`, nicht mehr im Repo.
 
 - **N12 — S. 482:** Lange rote Erläuterung am mittleren Oberstoff-Rückteil → `UNLESBAR`.
   Datei: `s482.md`, Zeile 62.
@@ -536,7 +562,28 @@ _Keine Text-Prüfstellen in dieser Kategorie._
 
 ## 14 — Anhang und Sachwortverzeichnis, S. 535–544
 
-Quelle: [`14_pruefstellen.md`](<../prüfstellen text/14_pruefstellen.md>)
+Herkunft: frühere Kategoriedatei `14_pruefstellen.md`, nicht mehr im Repo.
+
+- **A91 — S.538, Größentabelle Starke Figuren, Spalte Größe 62 (höhere Priorität):**
+  Drei Reihen springen in **derselben** Spalte, während alle übrigen dort sauber
+  weiterlaufen: `TaU` 133,5 → **143,0** → 149,5 (Schrittweite sonst + 6,5, erwartet
+  140,0); `HüU` 144 → **153** → 159 (sonst + 5, erwartet 149); `AlT` 24,5 → **25,8**
+  → 26,5 (sonst + 0,4, erwartet 24,9). Bei `HüU` zusätzlich auffällig: sonst liegt
+  HüU knapp über `mHüU`, bei Größe 62 aber 2,5 cm darüber (153 zu 150,5), bei
+  Größe 60 sogar darunter (144 zu 144,5). Das Muster spricht für einen Satz- oder
+  Lesefehler in dieser einen Spalte. *Am Buch klären.*
+
+- **A92 — S.538, Zeile `BrPA Brustpunktabstand (½)` (höhere Priorität):** Die Werte
+  entsprechen fast genau dem **Doppelten** der ½-Werte auf S.20 (Gr. 48: 22,1 zu
+  2 × 11,0; Gr. 50: 23,2 zu 2 × 11,6; Gr. 60: 29,1 zu 2 × 14,6 — durchgehend
+  Abweichung ≤ 0,1). Vermutlich steht auf S.538 der **volle** Brustpunktabstand und
+  der Zusatz „(½)" ist falsch. Die anderen ½-Zeilen der Seite (`HlB`, `RüB`) zeigen
+  diesen Faktor nicht. Für die Konstruktion ist das ein Faktor 2. *Am Buch klären.*
+
+- **A93 — S.538, nachgerechnet und bestätigt (keine Fehlerstelle):** `BrB = ½ BrU −
+  RüB − ArD` geht in allen neun Spalten exakt auf. Damit sind `BrU`, `RüB` und `ArD`
+  auch in der auffälligen Spalte 62 gegenseitig bestätigt — der Fehler dort liegt
+  also nicht in diesen drei Zeilen. Hier nur als Beleg festgehalten.
 
 - **N13 — S. 544 (niedrige Priorität):** Aufgedruckte Skalen, Zahlen, Logos und
   Kleinstbeschriftungen der abgebildeten Zeichenschablonen → `UNLESBAR`.
