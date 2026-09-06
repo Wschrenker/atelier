@@ -106,4 +106,3 @@ rTaW = (TaW + 2 × NZg) : (2 × π)
 - Abb. ☐2: der innere Kreis ist als „Länge der Ansatznaht (z.B. Bund, Passe, Saum), hier der Taillenweite (TaW)"
   beschriftet; die Radien sind rTaW/rSaW, Achsen „Grundlinie"/„Seitenlinie", der äußere Radius als
   „Rocklänge = MoL (oder Volantlänge)". Damit gilt die rTaW-Formel für jede Ansatznaht, nicht nur den Bund.
-- Menschliche Freigabe am Buch: **erteilt durch Werner/Munkhuu am 2026-06-21**.
