@@ -1,5 +1,7 @@
 # 11 Bezier kubisch und Splines
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 `03_kurven_bezier.md` beschreibt die quadratische Bezier-Kurve: Startpunkt,

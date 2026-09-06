@@ -1,5 +1,7 @@
 # 05 Flaeche und Orientierung
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Eine geschlossene Kontur hat nicht nur eine Flaeche, sondern auch eine Laufrichtung: die Punkte koennen im Uhrzeigersinn oder gegen den Uhrzeigersinn angeordnet sein. Diese Richtung ist fuer Nahtzugaben wichtig, weil "aussen" auf der einen Seite der Linie liegt. Die Engine benutzt das Vorzeichen der Polygonflaeche, um diese Orientierung rechnerisch zu erkennen.

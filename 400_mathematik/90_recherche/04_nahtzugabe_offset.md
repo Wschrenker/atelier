@@ -1,5 +1,7 @@
 # 04 Nahtzugabe Offset
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Die Nahtlinie ist die eigentliche Konstruktionslinie. Die Schnittlinie liegt darum herum in einem festen Abstand: der Nahtzugabe. Rechnerisch ist das ein Parallelversatz der Kontur. Bei geraden Segmenten ist das einfach; an Ecken muss die Engine entscheiden, wo sich die verschobenen Nachbarsegmente treffen.

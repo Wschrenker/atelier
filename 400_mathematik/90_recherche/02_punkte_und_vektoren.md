@@ -1,5 +1,7 @@
 # 02 Punkte und Vektoren
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Ein Punkt beschreibt eine Stelle im Schnitt, ein Vektor beschreibt eine Richtung mit Laenge. Damit kann man fachliche Angaben wie "von Punkt A 20 cm nach unten" eindeutig rechnen. Linien bestehen in der Engine praktisch aus Start- und Endpunkt. Ganze Punktmengen, etwa ein Schnittteil oder eine Abnaeherfigur, koennen mit demselben Vektor verschoben werden.

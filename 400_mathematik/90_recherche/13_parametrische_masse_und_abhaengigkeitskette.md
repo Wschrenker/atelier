@@ -1,5 +1,7 @@
 # 13 Parametrische Masse und Abhaengigkeitskette
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Parametrisch heisst: Ein Schnitt wird nicht als feste Zeichnung gespeichert, sondern als Berechnung aus Eingabewerten. Aendert sich ein Mass, werden alle davon abhaengigen Hilfsmasse, Punkte und Linien wieder ausgerechnet. Wichtig ist die Trennung in drei Schichten: Eingabe-Masse, berechnete Hilfsmasse und daraus gebildete Konstruktionspunkte. Diese Datei beschreibt nur die Software-/CAD-Methode, nicht die fachlichen Hofenbitzer-Schnittformeln.

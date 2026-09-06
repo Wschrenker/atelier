@@ -1,5 +1,7 @@
 # 01 Koordinatensystem
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Ein Schnittmusterprogramm braucht ein festes X/Y-System, sonst bedeutet "20 cm nach unten" einmal Plus und einmal Minus. Fuer die Engine ist wichtig: ein Punkt hat Koordinaten in Millimetern, die X-Achse laeuft waagerecht, die Y-Achse muss projektweit gleich interpretiert werden. In SVG- und Bildschirmkoordinaten liegt der Ursprung oft oben links, X zeigt nach rechts und Y zeigt nach unten. Fuer Rock/Hose ist "oben links" als Nullpunkt eine sinnvolle Projektkonvention; fuer Oberteile nennt der Auftrag "oben hinten am 7. Halswirbel" als Konvention, fachlich aber noch gegen die Buchquelle zu pruefen.

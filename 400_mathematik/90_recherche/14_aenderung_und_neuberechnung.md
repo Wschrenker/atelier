@@ -1,5 +1,7 @@
 # 14 Aenderung und Neuberechnung
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Der Vorteil einer parametrischen Konstruktion ist nicht nur, dass man Werte eingibt. Der eigentliche Vorteil ist: Wenn ein Eingabe-Mass geaendert wird, muessen alle davon abhaengigen Werte automatisch neu entstehen. Die Konstruktion bleibt dieselbe Methode, aber sie passt sich an andere Koerpermasse, Groessentabellen oder Zugaben an. Damit das verlaesslich bleibt, darf jedes Mass nur eine Quelle der Wahrheit haben und muss vor der Berechnung plausibel geprueft werden.

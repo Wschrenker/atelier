@@ -1,5 +1,7 @@
 # Mathematik Uebersicht
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 Diese Uebersicht fasst den lokalen Ist-Stand der Mathematik-Notizen 01-14
 (Bloecke 1-5) zusammen. Die Anker-Lesung erfolgte am 2026-06-19 gegen
 `../src/geometry.js` und `../src/draft.js`. Genannte Code-Bezuege sind nur

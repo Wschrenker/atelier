@@ -1,5 +1,7 @@
 # Trigonometrie und Polarkoordinaten
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Trigonometrie ist die Mathematik hinter schraegen Richtungen: Wenn eine
@@ -74,11 +76,14 @@ X_neu = X_start + Laenge * cos(alpha_math)
 Y_neu = Y_start - Laenge * sin(alpha_math)
 ```
 
-Unsicher/zu pruefen: Fuer die Engine muss noch verbindlich festgelegt werden,
-ob kuenftige Winkel fachlich als mathematische Winkel (X-Achse, gegen den
-Uhrzeigersinn, Y nach oben) eingegeben werden oder direkt als Engine-Winkel
-(X-Achse, Y nach unten) gelten. Ohne diese Festlegung koennen gleiche Gradwerte
-visuell in entgegengesetzte Richtungen zeigen. [Q3], [Q10], [Q11]
+Für die neue Python-Arbeit ist die Entscheidung jetzt verbindlich: Engine-Winkel gelten direkt im X-rechts/Y-unten-System. `0°` zeigt nach rechts, positive Winkel drehen sichtbar im Uhrzeigersinn und werden mit
+
+```text
+X_neu = X_start + Laenge * cos(alpha_engine)
+Y_neu = Y_start + Laenge * sin(alpha_engine)
+```
+
+berechnet. Ein mathematischer Y-nach-oben-Winkel muss ausdrücklich als solcher bezeichnet und durch `alpha_engine = -alpha_math` umgerechnet werden. [Q3], [Q10], [Q11]
 
 ## Anwendung in der Schnittkonstruktion (ehrlich: heute vs. geplant)
 

@@ -1,5 +1,7 @@
 # Normalen und rechte Winkel
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Eine Normale ist die Richtung, die rechtwinklig zu einer Linie steht. In der
@@ -24,9 +26,11 @@ d = (dx, dy) = (b_x - a_x, b_y - a_y)
 erhaelt man senkrechte Vektoren durch eine Drehung um 90 Grad:
 
 ```text
-links  / +90 Grad: n_l = (-dy,  dx)
-rechts / -90 Grad: n_r = ( dy, -dx)
+rechts / +90 Grad sichtbar: n_r = (-dy,  dx)
+links  / -90 Grad sichtbar: n_l = ( dy, -dx)
 ```
+
+Im hier verbindlichen Bildschirm-/Schnittsystem mit Y nach unten ist die algebraische `+90°`-Drehung sichtbar im Uhrzeigersinn und weist bei einer nach rechts laufenden Kante auf deren rechte Seite.
 
 Die Drehmatrix fuer +90 Grad ist
 
@@ -58,8 +62,8 @@ len = sqrt(dx^2 + dy^2)
 gilt bei `len != 0`:
 
 ```text
-unit_left  = (-dy / len,  dx / len)
-unit_right = ( dy / len, -dx / len)
+unit_right = (-dy / len,  dx / len)
+unit_left  = ( dy / len, -dx / len)
 ```
 
 Diese Normalen haben Laenge `1`; deshalb verschiebt `unit_normal * distance`
@@ -94,10 +98,7 @@ cross(a, b) = a_x b_y - a_y b_x
 ```
 
 Sein Betrag entspricht der Flaeche des von `a` und `b` aufgespannten
-Parallelogramms; sein Vorzeichen unterscheidet die Orientierung: positive
-Werte fuer Drehung gegen den Uhrzeigersinn, negative fuer Drehung im
-Uhrzeigersinn. Fuer Normalen ist das nuetzlich, weil "links" und "rechts" einer
-Kante keine Laengenfrage, sondern eine Orientierungsfrage sind. [Q1]
+Parallelogramms; sein Vorzeichen unterscheidet die Orientierung. Im hier verwendeten Y-nach-unten-System bedeuten positive Werte eine sichtbare Drehung im Uhrzeigersinn bzw. nach rechts, negative Werte eine sichtbare Drehung gegen den Uhrzeigersinn bzw. nach links. Fuer Normalen ist das nuetzlich, weil "links" und "rechts" einer Kante keine Laengenfrage, sondern eine Orientierungsfrage sind. [Q1]
 
 ## Anwendung in der Schnittkonstruktion (Bezug zum Code: lineIntersection, offsetSegment, Eckenbildung bei der Nahtzugabe)
 

@@ -1,5 +1,7 @@
 # 03 Kurven Bezier
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Viele Schnittlinien sind keine harten Geraden: Seitennaht, Hueftbogen, Armloch oder Ausschnitt sollen weich laufen. Eine quadratische Bezier-Kurve beschreibt so eine weiche Linie mit drei Punkten: Start, Kontrollpunkt und Ende. Die Engine kann die Kurve in kurze Liniensegmente abtasten, damit Exportformate und Polygonfunktionen damit arbeiten koennen.

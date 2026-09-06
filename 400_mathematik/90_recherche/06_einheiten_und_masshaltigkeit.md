@@ -1,5 +1,7 @@
 # 06 Einheiten und Masshaltigkeit
 
+> **Aktueller Hinweis (2026-09-06):** Die in dieser Recherche genannten Dateien `geometry.js`, `draft.js` und `contract.js` sind im aktiven Repository `C:\ATELIER` nicht vorhanden. Die mathematischen Herleitungen bleiben Referenz; der damalige JavaScript-Befund ist kein heutiger Implementierungsstatus. Für neue Python-Arbeit gelten die Verträge unter `../20_codevertraege/`.
+
 ## Worum geht's (Klartext, auch fuer Nicht-Mathematiker)
 
 Ein Schnittmuster ist nur brauchbar, wenn 10 cm im Ausdruck wirklich 10 cm sind. Darum sollte die Engine intern eine eindeutige Einheit nutzen, hier Millimeter, und beim Export die Einheit sauber weitergeben. Ein Kontrollquadrat auf dem Ausdruck hilft, Druckskalierung sofort zu erkennen.
