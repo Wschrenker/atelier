@@ -12,7 +12,46 @@ C = dateiübergreifender Konflikt · N = aus den Transkripten nachgetragen.
 
 ## 00 — Vorspann, S. 1–7
 
-_Keine Text-Prüfstellen in dieser Kategorie._
+Quelle: die Transkripte `s4.md` bis `s7.md` in
+[`00_vorspann_s1-7`](../00_vorspann_s1-7/). Für diese Kategorie gibt es keine
+Kategoriedatei im Ordner `prüfstellen text`; die Punkte sind beim Transkribieren des
+Inhaltsverzeichnisses am 2026-09-06 angefallen und daher mit **N** gekennzeichnet.
+
+Alle acht Punkte betreffen **gedruckte Seitenverweise im Inhaltsverzeichnis**. Die
+Transkription ist an jeder Stelle fototreu; die Zahlen wurden am Foto mehrfach und stark
+vergrößert geprüft. Die jeweils genannte tatsächliche Seite stammt aus dem Abgleich mit
+den Kapiteltranskripten und ist damit belegt, nicht geraten. Zu klären ist, ob das Buch
+selbst so gedruckt ist.
+
+- **N14 — S.5, Eintrag „Weite an erprobtem Oberteil-Grundschnitt reduzieren":** steht ohne
+  Seitenzahl; die 196 steht erst in der Folgezeile bei „Korsagen-Grundschnitt". Tatsächlich
+  beginnt auf S.196 der Abschnitt „Weite an erprobtem Oberteil-Grundschnitt reduzieren",
+  der Korsagen-Grundschnitt steht dort als Randtitel. Die Zahl scheint um eine Zeile
+  verrutscht zu sein.
+
+- **N15 — S.5, Ärmel-Varianten 12-15 „Weite Ärmel und Form-Manschetten" = 236:** tatsächlich
+  **S.226**.
+
+- **N16 — S.5, Ärmel-Varianten 16-17 „Keulenärmel" = 238:** tatsächlich **S.228**.
+
+- **N17 — S.5, Ärmel-Varianten 18-19 „Schmaler Ärmel in ⅞-Länge mit offenem Schlitz,
+  Trompetenärmel" = 239:** tatsächlich **S.229**. N15 bis N17 stehen unmittelbar
+  untereinander und durchbrechen zusammen die aufsteigende Reihenfolge, weil die nächste
+  Zeile wieder mit 230 weitergeht.
+
+- **N18 — S.5, Ärmel-Varianten 40-41 „Zweinaht-Ärmel mit Saumaufschlägen" = 256:** steht
+  zwischen 245 und 248, also nicht aufsteigend; tatsächlich **S.246/247**.
+
+- **N19 — S.5, dreimal 250 hintereinander** bei „Vorbereitungen für eine Ärmelanlage",
+  „Ärmelanlage mit korrektem Ärmelfall, einfach" und „… aufgelockert": tatsächlich
+  **S.250, S.251 und S.252**.
+
+- **N20 — S.6, Kragen-Modellnummern 35-38 und 38-39 überschneiden sich** bei „Einfache
+  Flachkragen" (304) und „Rüschenkragen" (305). Die Nummer 38 ist doppelt vergeben.
+  *Am Buch klären, ob „35-37" gemeint ist.*
+
+- **N21 — S.7, Modelle Jacken, „Saum formen" = 450:** steht zwischen 470 und 472, also nicht
+  aufsteigend; das Jacken-Kapitel läuft von S.465 bis S.492. Vermutlich ist **471** gemeint.
 
 ## 01 — Grundlagen, S. 8–31
 
