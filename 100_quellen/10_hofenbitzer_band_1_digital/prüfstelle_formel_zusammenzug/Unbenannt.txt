@@ -1,0 +1,109 @@
+
+## 22 – 239 Formeldateien sind noch nicht normalisiert
+
+**Status:** entschieden
+
+**Bestand am 2026-09-06:**
+
+425 Buchseiten haben eine Formeldatei `formeln_s<Seite>.md`. Für **188** davon
+gibt es eine normalisierte Fassung `formeln_s<Seite>_normalisiert.md`, für
+**237** nicht. Die Überschrift nennt 239; die Differenz von zwei ist nicht
+geklärt und praktisch ohne Bedeutung. Umgekehrt gibt es keine normalisierte
+Datei ohne Rohfassung — es fehlt also nichts, es ist nur noch nicht aufbereitet.
+
+**Entscheidung von Werner am 2026-09-06 – im laufenden Python-Gang, nicht vorab:**
+
+Die 237 Seiten werden **nicht** vorab am Stück normalisiert. Jede Seite wird dann
+aufbereitet, wenn sie im laufenden Python-Gang an die Reihe kommt. Das ist
+dieselbe Arbeitsweise wie bei den Prüfstellen nach Entscheidung 14: nicht die
+Liste abarbeiten, sondern das Kapitel, das gerade ausgeformt wird.
+
+Damit ist die Normalisierung kein eigener Arbeitsgang vor dem Coden mehr,
+sondern Teil davon.
+
+**Was daraus folgt:**
+
+Die 188 vorhandenen normalisierten Dateien sind ein Vorsprung, kein Maßstab. Wo
+eine fehlt, wird sie im Gang erstellt; wo eine da ist, wird sie gelesen und ihre
+offenen Fragen mit erledigt, siehe
+`100_quellen/10_hofenbitzer_band_1_digital/prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md`.
+
+Anzumerken ist, dass fünf der vorhandenen normalisierten Dateien nur eine
+Kurzfassung sind — `formeln_s345`, `s346`, `s348`, `s514` und `s515`, alle aus
+der Extraktionswelle v3. Ihnen fehlen Eingabe- und Ausgabetabellen, offene
+Fragen und der Python-Hinweis; s514 und s515 enthalten überhaupt keine Formel.
+Sie sind im Gang wie nicht normalisierte Seiten zu behandeln.
+
+## 23 – 79 Formeldateien tragen alte Namen
+
+**Status:** offen
+
+**Entscheidung zu Zugriff und Benennung:**
+
+---
+
+# D – Ordnerstruktur in `200_funktionen`
+
+**Alle sechs Punkte hat Werner am 2026-09-06 vertagt.** Sie kommen im
+laufenden Gang dran, wenn die betroffenen Ordner tatsächlich bearbeitet
+werden — nicht vorab am Stück. Der Befund bleibt bestehen, entschieden ist
+noch nichts.
+
+## 24 – 125 echte Nummernkollisionen
+
+**Status:** vertagt – kommt im laufenden Gang dran
+
+**Entscheidung:**
+
+**Betroffene Kapitel und Vorgehen:**
+
+## 25 – 16 Seitenzahl-Dubletten
+
+**Status:** vertagt – kommt im laufenden Gang dran
+
+**Entscheidung:**
+
+## 26 – 25 Ordner ohne Seitenzahl im Namen
+
+**Status:** vertagt – kommt im laufenden Gang dran
+
+**Entscheidung:**
+
+## 27 – Zwei Nummernlücken
+
+**Status:** vertagt – kommt im laufenden Gang dran
+
+**Entscheidung:**
+
+## 28 – Zwei Gruppen beginnen mit 00 statt 01
+
+**Status:** vertagt – kommt im laufenden Gang dran
+
+**Entscheidung:**
+
+## 29 – Leere Ordner sind nicht durch Git versioniert
+
+**Status:** vertagt – kommt im laufenden Gang dran
+
+**Entscheidung zur dauerhaften Sicherung der Arbeitskarte:**
+
+---
+
+# Bereits in der Ausgangsliste als erledigt gemeldet
+
+Diese Angaben werden nicht ungeprüft zu aktuellen Entscheidungen erklärt. Sie bleiben
+hier als Ausgangsbefund und können bei Bedarf im Repo verifiziert werden.
+
+- Dritte Ordnerschicht ergänzt, wo sie fehlte.
+- Geprüft, wo laut Buch keine Schrittebene hingehört.
+- Bestand der Seitentexte, Formeldateien, Normalisierungen, Einzelformeln und
+  Kapitel-Prüfstellen aufgenommen.
+- Vier zusätzliche Prüfstellen gefunden.
+
+# Nächster Listenpunkt
+
+**15 – Menschliche Freigabe der Buchseiten** (von Werner vertagt)
+
+Danach: **21 – 257 offene Fragen in normalisierten Formeln**
+
+Vorher offen: die 354 A-, 3 B- und 2 C-Punkte aus dem v2-Prüfstand nach
