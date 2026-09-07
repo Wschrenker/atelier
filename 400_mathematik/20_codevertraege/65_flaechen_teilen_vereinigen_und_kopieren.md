@@ -2,7 +2,7 @@
 
 **Status:** `offen` für die konkrete robuste Bibliothek/Topologieimplementierung; Ergebnis- und Provenienzvertrag sind festgelegt.
 
-**Bedarfsbezug:** [`MATHEBEDARF.md`](../../200_funktionen/03_modelle_roecke_s40-105_funktionen/02_taille_bund_passe_und_verschluss_s40-41_s50-63_s74_s78-79_s88-89_s98-103/MATHEBEDARF.md); allgemeine Flächentopologie, keine Hofenbitzer-Fachregel.
+**Bedarfsbezug:** [`MATHEBEDARF.md`](../../200_funktionen/03_modelle_roecke_s40-105/00_archiv_alte_gruppierung_s40-105/MATHEBEDARF.md); allgemeine Flächentopologie, keine Hofenbitzer-Fachregel.
 
 ## Zielprimitiven
 

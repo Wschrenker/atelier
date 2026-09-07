@@ -24,8 +24,8 @@ Quelle und Bild prüfen
 
 ## Direkte Kinder
 
-- `02_grundschnitte_roecke_s32-39_funktionen/`
-- `03_modelle_roecke_s40-105_funktionen/`
+- `02_grundschnitte_roecke_s32-39/`
+- `03_modelle_roecke_s40-105/`
 - `04_grundschnitte_hosen_s106-137/`
 - `05_modelle_hosen_s138-170/`
 - `06_grundschnitte_oberteile_s171-196/`

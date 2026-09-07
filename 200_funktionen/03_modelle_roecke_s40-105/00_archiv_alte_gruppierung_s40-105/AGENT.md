@@ -1,4 +1,11 @@
-# Taille, Bund, Passe und Verschluss — Arbeitskontext
+# Taille, Bund, Passe und Verschluss — Arbeitskontext (Archiv)
+
+> **Archiv.** Diese Gruppe gibt es nicht mehr. Kapitel 03 folgt seit dem Umbau
+> der Buchreihenfolge, so wie die Kapitel 04–13. Die unten aufgeführten
+> Schrittordner liegen jetzt in den Gruppen ihrer Buchseite; die Namen der
+> Schritte sind unverändert, nur ihre Nummern wurden je Gruppe neu vergeben.
+> `INHALT.md`, `BILDVERWEISE.md` und `MATHEBEDARF.md` gelten fachlich weiter,
+> sind aber noch nicht auf die neuen Gruppen aufgeteilt.
 
 ## Ziel
 

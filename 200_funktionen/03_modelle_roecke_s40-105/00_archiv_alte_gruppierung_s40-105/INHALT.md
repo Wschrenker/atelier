@@ -19,7 +19,7 @@ Basis: `100_quellen/10_hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/`
 
 Diese Modellfunktionen setzen Geometrie aus dem geraden Rock und geraden Bund voraus. Besonders S. 40–41 verweisen auf S. 38–39. Der Python-Aufruf muss deshalb später einen belegten Ausgangsschnitt übernehmen; dieser Ordner rekonstruiert ihn nicht heimlich.
 
-- [`02_grundschnitte_roecke_s32-39_funktionen/`](../../02_grundschnitte_roecke_s32-39_funktionen/)
+- [`02_grundschnitte_roecke_s32-39/`](../../02_grundschnitte_roecke_s32-39/)
 
 ## Extrahierte Formelkandidaten
 
