@@ -4,6 +4,15 @@ Dieser Ordner ist eine **abgeleitete Arbeitsansicht** aus den archivierten Prüf
 
 **Die sieben Originaldateien liegen unverändert im Archiv.**
 
+Dieser Ordner wird **erzeugt, nicht von Hand gepflegt**. Wer einen Prüfstellen-Status ändert, ändert ihn in der Quelle im Archiv und erzeugt die Ansicht anschließend neu:
+
+```text
+python 600_prozess/werkzeuge/pruefstellen_ansicht_bauen.py             Probelauf
+python 600_prozess/werkzeuge/pruefstellen_ansicht_bauen.py --schreiben
+```
+
+Der Probelauf meldet, welche Seitendateien sich ändern würden, ohne etwas zu schreiben. Von Hand geänderte Dateien gehen beim nächsten Lauf verloren.
+
 ## Sortierregel
 
 - Buchkategorie, dann Buchseite aufsteigend.
@@ -16,7 +25,7 @@ Dieser Ordner ist eine **abgeleitete Arbeitsansicht** aus den archivierten Prüf
 - Seitendateien: **471**
 - Formel-Prüfabschnitte: **82**
 - Seitenblöcke mit offenen Formelfragen: **183** mit **541** einzelnen Formeln
-- Text-Prüfstellen erste Zweitprüfung: **127**
+- Text-Prüfstellen erste Zweitprüfung: **128**
 - D-Punkte Transkriptabweichungen: **509**
 - A/B/C-Punkte Buchprüfung: **366**
 - Einträge ohne eindeutige Seitenzuordnung: **11**

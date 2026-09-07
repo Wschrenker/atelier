@@ -63,14 +63,13 @@ liegt in der Gruppe seiner ersten Buchseite. Überlappende Seitenbereiche gibt e
 nicht mehr. Die Fachquelle bleibt eine einzige Datei in
 `100_quellen/10_hofenbitzer_band_1_digital/03_modelle_roecke_s40-105/`.
 
-## Noch ohne Schritte
+## Schrittebene
 
-Für diese Gruppen steht im Buch Inhalt, es ist aber noch kein Arbeitsschritt
-angelegt:
-
-- `08_rocklaengen_s49/`
-- `16_godetformen_s66-67/`
-- `23_saumerweiterter_passenrock_mit_dekorativen_streifen_s74/`
+Noch nicht angelegt. Sie wächst beim Bearbeiten. `schrittkandidaten.md` hält
+die Liste eines früheren, nie am Buch bestätigten Durchgangs zum Vergleichen.
+Für drei Gruppen enthielt schon diese Liste keinen einzigen Kandidaten,
+obwohl im Buch Inhalt steht: `08_rocklaengen_s49/`, `16_godetformen_s66-67/`
+und `23_saumerweiterter_passenrock_mit_dekorativen_streifen_s74/`.
 
 ## Vorherige Ordnung
 

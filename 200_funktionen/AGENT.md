@@ -2,7 +2,17 @@
 
 ## Aufgabe
 
-Dieser Ordner ist die funktionale Roadmap und spätere Montageschicht für belegte Hofenbitzer-Konstruktionen. Die vielen Schrittordner bilden Vollständigkeit und Arbeitsreihenfolge ab; ein vorhandener Ordner bedeutet nicht automatisch, dass eigener Python-Code nötig ist.
+Dieser Ordner ist die funktionale Roadmap und spätere Montageschicht für belegte Hofenbitzer-Konstruktionen. Ein vorhandener Ordner bedeutet nicht automatisch, dass eigener Python-Code nötig ist.
+
+## Die zwei Ebenen
+
+**Ebene 1 — Kapitel.** Die zwölf Kapitel des Buches, benannt wie ihre Gegenstücke in `100_quellen/10_hofenbitzer_band_1_digital/`.
+
+**Ebene 2 — Gruppen.** Ein Eintrag aus dem Inhaltsverzeichnis des Buches (S. 4–7). Die Seitenbereiche laufen in jedem Kapitel zusammenhängend und ohne Überlappung durch. **Hier liegt die Vollständigkeit**: jede Buchseite ist genau einmal abgedeckt, eine offene Seite ist an ihrer Gruppe erkennbar.
+
+**Ebene 3 — Schritte.** Wächst beim Arbeiten, nicht vorab. Ein Schrittordner entsteht erst, wenn die Buchseite gelesen und der Schritt als eigene Arbeitseinheit erkannt wurde. Ein leerer Ordner auf Vorrat ist keine Aussage über den Buchinhalt.
+
+Jedes Kapitel führt eine `schrittkandidaten.md`: die Schrittliste eines früheren, nie am Buch bestätigten Durchgangs. Sie dient beim Aufbau der Schrittebene zum Vergleichen, ist aber kein Arbeitsauftrag — beim Bearbeiten gilt, was am Buch gelesen wird.
 
 ## Arbeitsfolge
 

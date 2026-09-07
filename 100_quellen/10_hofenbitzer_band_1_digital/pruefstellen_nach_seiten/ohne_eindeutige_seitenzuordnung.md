@@ -139,8 +139,6 @@ Quelle: [`prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`](
   Schrittziffern, die graue mit den blauen. Alle Transkripte setzen sämtliche Rubriken einheitlich
   als `###`; die Zuordnung Rubrikfarbe ↔ Ziffernfarbe geht damit verloren.
 
----
-
 ## Buchfehler aus dem Archiv-Prüfstand (A/B/C)
 
 Quelle: [`prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md)
@@ -175,5 +173,3 @@ Quelle: [`prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`](../../3
   zweite Fassung wurde aufgeteilt, die Dublette liegt unverändert in `band_1/archiv_pruefstellen/`.
 
 > Betrifft allein den Altbestand und ist dort laut Eintrag erledigt. Für den aktiven Bestand ist nichts zu tun.
-
----

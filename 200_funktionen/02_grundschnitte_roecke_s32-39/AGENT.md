@@ -23,11 +23,15 @@ Die Gruppennummer folgt der Buchreihenfolge, nicht einem Sachthema. Ein Schritt
 liegt in der Gruppe seiner ersten Buchseite. Die Fachquelle bleibt eine einzige
 Datei in `100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/`.
 
-## Offene Stellen
+## Schrittebene
 
-- `01_.../03_kontrollsumme_taillenausfall_s33-35` reicht über S. 33–35 und liegt
-  deshalb in der Gruppe seiner ersten Seite. Fachlich gehört die Kontrolle eher
-  zur Abnäheraufteilung auf S. 34. Noch nicht entschieden.
-- `07_gerader_bund_s39` enthält `04_taillenmehrweite_kontrollieren_s39` und
-  `05_taillenmehrweite_pruefen_s39`. Beide standen vorher in verschiedenen
-  Gruppen und könnten derselbe Schritt sein. Am Buch zu prüfen.
+Noch nicht angelegt. Sie wächst beim Bearbeiten. `schrittkandidaten.md` hält
+die Liste eines früheren, nie am Buch bestätigten Durchgangs zum Vergleichen.
+
+Zwei Stellen aus dieser Liste sind beim Lesen im Auge zu behalten:
+
+- `kontrollsumme_taillenausfall` reicht ueber S. 33–35 und passt damit in keine
+  einzelne Gruppe sauber. Fachlich gehört die Kontrolle vermutlich zur
+  Abnäheraufteilung auf S. 34.
+- `taillenmehrweite_kontrollieren_s39` und `taillenmehrweite_pruefen_s39`
+  standen frueher in verschiedenen Gruppen und könnten derselbe Schritt sein.
