@@ -316,12 +316,12 @@ Einordnung nach Entscheidung 02 erfolgt erst bei der fachlichen Bearbeitung.
 Die zehn einzelnen Kapiteldateien sind ins Archiv gewandert und liegen dort als
 historischer Beleg unter
 `100_quellen/30_hofenbitzer_band_1_archiv/prüfstellen text/` mit zusammen 605
-Zeilen. Die aktive Fassung ist
-`100_quellen/10_hofenbitzer_band_1_digital/prüfstelle_text_zusammenzug/00_pruefstellen_text_band_1_zusammenzug.md`
-mit 15 Kapitelabschnitten (00 bis 14) und 127 Einträgen: 93 A (vermuteter
-Buchfehler), 12 B (unlesbar), 1 C (dateiübergreifender Konflikt) und 21 N (aus
-den Transkripten nachgetragen). Vor der Sitzung vom 2026-09-06 waren vier
-Einträge aufgelöst: A1, B1, N1 und A32.
+Zeilen. Auch die drei vollständigen Text-Zusammenzüge liegen inzwischen als
+unveränderte Quellbelege unter
+`100_quellen/30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/`.
+Die aktive Arbeitsfassung ist
+`100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/README.md`:
+Formel- und Text-Prüfstellen sind dort gemeinsam in 471 Seitendateien geordnet.
 
 **Entscheidung:**
 
@@ -341,11 +341,10 @@ Einträge aufgelöst: A1, B1, N1 und A32.
    B- und C-Punkte sind noch nachzurechnen und einzuordnen; erst danach ist der
    Satz „der Zusammenzug ist die SSOT" wieder uneingeschränkt richtig.
 
-   **Fortschreibung vom 2026-09-06 – der Bestand ist vollständig, die SSOT ist
-   dreiteilig.** Die A-, B- und C-Punkte sind nachgerechnet, siehe Punkt 20.
-   Werner hat entschieden, sie als eigene Datei danebenzulegen statt sie
-   einzusortieren. Die maßgebliche Fassung der Text-Prüfstellen besteht damit
-   aus **drei Dateien** im Ordner `prüfstelle_text_zusammenzug`:
+   **Fortschreibung – der Bestand ist vollständig und die aktive SSOT ist
+   seitenweise.** Die A-, B- und C-Punkte sind nachgerechnet, siehe Punkt 20.
+   Die drei unveränderten Quellzusammenzüge liegen gemeinsam im Archivordner
+   `100_quellen/30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/`:
 
    | Datei | Inhalt | Punkte | Richtung |
    |---|---|---:|---|
@@ -355,9 +354,9 @@ Einträge aufgelöst: A1, B1, N1 und A32.
 
    Zusammen 1.002 Einträge unter 995 Nummern; die Differenz sind die sieben
    doppelt vergebenen A-Nummern A330 bis A336. Damit ist nachgewiesen, dass aus
-   dem archivierten Prüfstand nichts mehr aussteht. Keine der drei Dateien ist
-   für sich allein die SSOT — bei der Arbeit an einer Buchseite sind alle drei
-   heranzuziehen.
+   dem archivierten Prüfstand nichts mehr aussteht. Für die laufende Arbeit ist
+   die passende Datei `sNNN.md` unter `pruefstellen_nach_seiten/` maßgeblich; sie
+   führt die Punkte aller drei Textquellen zusammen mit den Formel-Prüfstellen.
 2. Die toten Verweise auf den Ordner `prüfstellen text` werden **entfernt**.
    Betroffen waren der Kopftext, ein Hinweis im Vorspann-Abschnitt und zehn
    `Quelle:`-Zeilen. Sie zeigten ins Leere, weil der Ordner beim Umräumen ins
@@ -563,8 +562,11 @@ Seitendatei." Bei A prüft Werner das Buch. Bei D ist das Buch in Ordnung und
 Der Archivgrundsatz aus Entscheidung 18 gilt hier **nicht**. Bei den
 Index-Dateien war der Inhalt nachweislich in den aktiven Bestand übergegangen,
 hier nachweislich nicht. Die 509 D-Punkte wurden deshalb aus dem Archiv in den
-aktiven Bestand übernommen, nach Buchseite sortiert, als
-`100_quellen/10_hofenbitzer_band_1_digital/prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`.
+aktiven Bestand übernommen, nach Buchseite sortiert und anschließend als
+unveränderter Quellbeleg archiviert unter
+`100_quellen/30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`.
+Die aktive Seitenansicht liegt unter
+`100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/`.
 
 Ergebnis des maschinellen Abgleichs gegen die heutigen Seitendateien:
 
@@ -599,7 +601,7 @@ vollständig frei von D-Punkten. Der Start ist also nicht blockiert.
 Die 354 fehlenden A-Punkte sowie B10, B14, B15, C2 und C3 wurden nach derselben
 Methode nachgerechnet wie die D-Punkte. Werner hat entschieden, sie **nicht** in
 den Zusammenzug einzusortieren, sondern als eigene Datei danebenzulegen:
-`100_quellen/10_hofenbitzer_band_1_digital/prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`,
+`100_quellen/30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`,
 nach Buchseite gebündelt.
 
 359 Nummern in 366 Einträgen. Ergebnis des maschinellen Abgleichs gegen die
@@ -671,8 +673,10 @@ unblockiert.
 **Bestand am 2026-09-06:**
 
 Die offenen Fragen aus den normalisierten Formeldateien wurden zusammengezogen
-und nach Buchseite gebündelt als
-`100_quellen/10_hofenbitzer_band_1_digital/prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md`.
+und nach Buchseite gebündelt. Der unveränderte Quellzusammenzug liegt heute unter
+`100_quellen/30_hofenbitzer_band_1_archiv/prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md`;
+die aktive Seitenansicht liegt unter
+`100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/`.
 
 541 Formeln aus 183 Dateien führen die Zeile „Offene Fragen oder Widersprüche".
 Davon 243 zu klären, 65 Anmerkung, 233 geklärt. Die Zahl 257 aus der Überschrift
@@ -680,10 +684,10 @@ ist nicht nachvollziehbar; sie wäre bei Gelegenheit zu berichtigen.
 
 **Entscheidung von Werner am 2026-09-06 – verschoben:**
 
-Der Punkt ist **aus dieser Liste heraus**. Er liegt jetzt im Ordner
-`prüfstelle_formel_zusammenzug`, in dem ohnehin noch weitere Dinge zu
-verifizieren sind. Dort wird er zusammen mit ihnen abgearbeitet, nicht mehr als
-eigener Vorab-Punkt.
+Der Punkt ist **aus dieser Liste heraus**. Sein Quellbeleg liegt im Archivordner
+`100_quellen/30_hofenbitzer_band_1_archiv/prüfstelle_formel_zusammenzug/`.
+Abgearbeitet wird er seitenweise unter `pruefstellen_nach_seiten/`, nicht mehr
+als eigener Vorab-Punkt.
 
 Die Vorab-Klärung ist damit an dieser Stelle abgeschlossen. Entschieden ist über
 die 243 zu klärenden Fragen selbst noch nichts.
@@ -715,7 +719,7 @@ sondern Teil davon.
 Die 188 vorhandenen normalisierten Dateien sind ein Vorsprung, kein Maßstab. Wo
 eine fehlt, wird sie im Gang erstellt; wo eine da ist, wird sie gelesen und ihre
 offenen Fragen mit erledigt, siehe
-`100_quellen/10_hofenbitzer_band_1_digital/prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md`.
+`100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/README.md`.
 
 Anzumerken ist, dass fünf der vorhandenen normalisierten Dateien nur eine
 Kurzfassung sind — `formeln_s345`, `s346`, `s348`, `s514` und `s515`, alle aus
@@ -750,7 +754,8 @@ mehr**. Erst dadurch ließ sich der Bestand für Punkt 22 überhaupt gegenrechne
 
 **Was bewusst außen vor bleibt:**
 
-Im Ordner `99_pruefstellen_vom_archiv` liegen 96 Dateien mit den alten
+Im Archivordner
+`100_quellen/30_hofenbitzer_band_1_archiv/99_pruefstellen_vom_archiv/` liegen 96 Dateien mit den alten
 Sammelnamen wie `s99-104_codex_v2_mit_pruefstellen.md` und
 `Formeln_S448-544.md`. Das sind Tranchen über mehrere Buchseiten, keine
 Einzelseiten; sie ließen sich nur nach einer Aufteilung in das Muster
