@@ -98,7 +98,45 @@ Buch gedruckter Wortfehler fototreu übernommen wird, steht dahinter
 `[sic: <richtige Form>]`. Die Datei bleibt damit ein Abbild des Buches und
 ist trotzdem lesbar. Erste Anwendung: D32, S.162.
 
+**Punktnummern in den Zeichnungen - 2026-09-08, Werner.** Die blauen
+Kreisziffern in den Konstruktionszeichnungen werden in der Seitendatei mit
+erfasst, je Zeichnung getrennt, unter den Zeichnungs-Beschriftungen. Sie sind
+der Faden zwischen Text und Bild und werden für die Schritte in
+`200_funktionen` gebraucht.
+
+Zwei Fälle sind ausdrücklich zu vermerken, weil sie sonst falsch gelesen
+werden: dieselbe Nummer kann **in zwei Zeichnungen** stehen, und sie kann
+**innerhalb einer Zeichnung mehrfach** stehen. Beides wird ausgeschrieben
+(`(zweimal)`), nicht zusammengezogen. Nummern, die neben einer Tabelle oder
+einem Bildrand stehen und nur mit einer Linie in die Zeichnung zeigen, werden
+dort vermerkt, wo sie stehen. Erste Anwendung: S.35.
+
+**Doppelpunkt als Rechenzeichen in Zeichnungen - 2026-09-08, Werner.** In
+Zeichnungsbeschriftungen wird der Doppelpunkt **mit Leerzeichen** gesetzt:
+`TaU : 10`. Im Druck steht er in der Skizze eng (`TaU:10`), aber so klein,
+dass der Abstand nicht zu beurteilen ist. Die geschriebene Form ist deshalb
+einheitlich die mit Leerzeichen. Reichweite: alle Zeichnungsbeschriftungen im
+ganzen Band, auch die noch nicht angeschauten. Im Fließtext bleibt die
+gedruckte Form stehen.
+
 ## Bisher erledigt
+
+**2026-09-08 - Foto-Zeile auf den heutigen Bildordner umgestellt.** Die Zeile
+`Foto:` zeigte in elf Seitendateien noch auf `Photos-3-001 ...`, einen Ordner,
+den es im Repo nicht mehr gibt. Sie zeigt jetzt auf
+`100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/sNN.jpg`;
+der alte Kameradateiname steht als `(Kameradatei ...)` dahinter und bleibt
+damit als Beleg erhalten. Betroffen: s32-s36, s39 und s40-s44. Werner hat den
+Schreibschutz dafür am 2026-09-08 ausdrücklich aufgehoben.
+
+**2026-09-08 - S.35 nach Bildabgleich ergänzt.** Werner hat die Punkte
+einzeln entschieden. In `s35.md`: der Unsicherheitsvermerk an der
+Bildunterschrift ☐6 gestrichen (die Klammer `(Grün ☐4)` steht so im Buch, das
+Grün meint die Figur aus ☐4 auf S.34); der rote Seitenverweis `37`
+nachgetragen; die Zeichnungs-Beschriftungen vollständig gemacht - es fehlten
+das Maß `3,0 cm` und die Beschriftung `1. h. Abnäher` - und die Punktnummern
+je Zeichnung aufgenommen. Offen bleibt: ob die Unterstreichungen in den
+Bildunterschriften ☐8 und ☐9 (`einem` / `zwei`) mitgeschrieben werden.
 
 **2026-09-08 — 19 D-Punkte, reine Typografie.** Seiten 108, 112, 114, 146,
 152, 153, 156, 157, 159, 161, 162, 166, 168, 170 und 290:
