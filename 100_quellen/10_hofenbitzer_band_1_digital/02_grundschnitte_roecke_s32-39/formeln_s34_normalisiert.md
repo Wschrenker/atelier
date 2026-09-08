@@ -91,7 +91,7 @@ Buchbereich: 0,3 bis 0,5 cm
 - **Abhängigkeiten:** Gewählte `taillenerhoehung_seitenlinie`.
 - **Gültigkeitsbereich:** Seitenlinien-Erhöhung von `1 bis 1,5 cm` innerhalb dieser Konstruktion.
 - **Technische Randbedingung:** Das Buchzeichen `≙` wird als fachliche Entsprechung und nicht als mathematisch exakte Gleichheit behandelt.
-- **Offene Fragen oder Widersprüche:** Ein Drittel von `1 cm` ist rechnerisch etwa `0,33 cm`; der Buchbereich beginnt gerundet bei `0,3 cm`. Eine verbindliche Rundungsregel nennt die Quelle nicht.
+- **Offene Fragen oder Widersprüche:** Keine. Das Buchzeichen `≙` bezeichnet eine fachliche Entsprechung: Intern wird exakt ein Drittel der gewählten Seitenlinien-Erhöhung berechnet. Der Buchbereich `0,3 bis 0,5 cm` bleibt die praktische Bereichsangabe; daraus wird keine automatische Rundungsregel abgeleitet.
 - **Status:** `normalisiert`
 - **Hinweis für die spätere Python-Umsetzung:** Zunächst den exakten Drittelwert berechnen. Eine Rundung auf Millimeter erst nach einer gesondert belegten oder technisch festgelegten Rundungsregel anwenden.
 
@@ -135,7 +135,7 @@ Ergebnisbereich: 5 bis 5,5 cm
 - **Abhängigkeiten:** `taillenausfall` aus `HOF-B1-S033-F01` und fachlich gewählte `hueftform_korrektur`.
 - **Gültigkeitsbereich:** Nur für die im Buch als flach bezeichnete Hüftrundung.
 - **Technische Randbedingung:** Der Korrekturbetrag muss innerhalb `1 bis 1,5 cm` gewählt werden; wie innerhalb dieses Bereichs gewählt wird, belegt die Quelle nicht.
-- **Offene Fragen oder Widersprüche:** Der Ergebnisbereich `5 bis 5,5 cm` ist technisch aus `TaAf = 13 cm` berechnet, aber nicht als Ergebnis im Buch gedruckt.
+- **Offene Fragen oder Widersprüche:** Keine. Die allgemeine Buchformel ist eindeutig. Der Ergebnisbereich `5 bis 5,5 cm` ist ausdrücklich als aus dem Maßbeispiel `TaAf = 13 cm` abgeleitete Rechnung dokumentiert und kein gedruckter Buchwert; der Korrekturbetrag innerhalb `1 bis 1,5 cm` bleibt eine fachliche Entscheidung.
 - **Status:** `normalisiert`
 - **Hinweis für die spätere Python-Umsetzung:** Hüftform nicht automatisch aus Maßen klassifizieren; die Auswahl „flach“ bleibt eine separate fachliche Eingabe.
 
@@ -179,7 +179,7 @@ Ergebnisbereich: 7,5 bis 8 cm
 - **Abhängigkeiten:** `taillenausfall` aus `HOF-B1-S033-F01` und fachlich gewählte `hueftform_korrektur`.
 - **Gültigkeitsbereich:** Nur für die im Buch als stark bezeichnete Hüftrundung.
 - **Technische Randbedingung:** Der Korrekturbetrag muss innerhalb `1 bis 1,5 cm` gewählt werden; wie innerhalb dieses Bereichs gewählt wird, belegt die Quelle nicht.
-- **Offene Fragen oder Widersprüche:** Der Ergebnisbereich `7,5 bis 8 cm` ist technisch aus `TaAf = 13 cm` berechnet, aber nicht als Ergebnis im Buch gedruckt.
+- **Offene Fragen oder Widersprüche:** Keine. Die allgemeine Buchformel ist eindeutig. Der Ergebnisbereich `7,5 bis 8 cm` ist ausdrücklich als aus dem Maßbeispiel `TaAf = 13 cm` abgeleitete Rechnung dokumentiert und kein gedruckter Buchwert; der Korrekturbetrag innerhalb `1 bis 1,5 cm` bleibt eine fachliche Entscheidung.
 - **Status:** `normalisiert`
 - **Hinweis für die spätere Python-Umsetzung:** Hüftform und Korrekturbetrag als sichtbare Eingaben führen; keine unbelegte automatische Auswahl ergänzen.
 
@@ -222,7 +222,7 @@ abstand_vordere_abnaehermitte = 72 cm / 10
 - **Abhängigkeiten:** `taillenumfang` aus dem verwendeten Maßsatz.
 - **Gültigkeitsbereich:** Positionierung des vorderen Rockabnähers in dieser Konstruktion; gemessen vom vorderen Hüftbogen auf der erhöhten Abnäherlinie.
 - **Technische Randbedingung:** `positions_divisor` darf nicht `0` sein. Startpunkt und Richtung gehören zur geometrischen Konstruktion und dürfen in der Umsetzung nicht verloren gehen.
-- **Offene Fragen oder Widersprüche:** `7,2 cm` ist aus dem Maßsatz der S. 33 berechnet und auf S. 34 nicht als Ergebnis gedruckt.
+- **Offene Fragen oder Widersprüche:** Keine. `TaU : 10` ist als Buchformel eindeutig. `7,2 cm` ist ausdrücklich als aus `TaU = 72 cm` im Maßsatz der S. 33 abgeleitete Beispielrechnung dokumentiert und kein auf S. 34 gedruckter Wert. Startpunkt und Richtung bleiben Bestandteil der geometrischen Umsetzung.
 - **Status:** `normalisiert`
 - **Hinweis für die spätere Python-Umsetzung:** Nicht nur einen Zahlenwert liefern; das Ergebnis ist eine gerichtete Strecke ab dem vorderen Hüftbogen entlang der erhöhten Abnäherlinie.
 
