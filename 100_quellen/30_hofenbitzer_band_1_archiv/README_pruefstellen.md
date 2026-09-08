@@ -98,6 +98,21 @@ Buch gedruckter Wortfehler fototreu übernommen wird, steht dahinter
 `[sic: <richtige Form>]`. Die Datei bleibt damit ein Abbild des Buches und
 ist trotzdem lesbar. Erste Anwendung: D32, S.162.
 
+**Hervorgehobene Kästen - 2026-09-08, Werner.** Ein im Buch grau oder farbig
+hinterlegter Kasten bekommt eine Kopfzeile, sein Inhalt steht darunter als
+Blockzitat:
+
+```text
+**Grau hinterlegter Kasten:**
+
+> Der Taillen- und der Hüftumfang ist bei allen Figuren identisch.
+```
+
+So ist von außen zu sehen, wo der Kasten anfängt und wo er aufhört. Im Bestand
+stehen daneben noch die älteren Formen `[Kasten, grau hinterlegt:]` (S.11),
+`[Grau hinterlegter Kasten:]` (S.12) und die Variante mit Kastentitel auf S.438.
+Reichweite: ganzer Band. Erste Anwendung: S.37.
+
 **Punktnummern in den Zeichnungen - 2026-09-08, Werner.** Die blauen
 Kreisziffern in den Konstruktionszeichnungen werden in der Seitendatei mit
 erfasst, je Zeichnung getrennt, unter den Zeichnungs-Beschriftungen. Sie sind
