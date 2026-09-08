@@ -17,5 +17,5 @@ SaW_Rock = SaW_Godet × Anzahl_Godets + SaW_Rock-GS
 
 ### Quelle Zeilen 48–48
 ```text
-| 68 | hofenbitzer/band_1/Photos-3-001/20260617_160637.jpg |
+| 68 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s68.jpg (Kameradatei 20260617_160637.jpg) |
 ```

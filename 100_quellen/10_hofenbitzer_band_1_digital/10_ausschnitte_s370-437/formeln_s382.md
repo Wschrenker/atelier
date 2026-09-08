@@ -16,5 +16,5 @@ Quelle: `s382.md`
 
 ### Quelle Zeilen 74–74
 ```text
-| 382 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144534.jpg` | sichtbare Seitenzahl 382 |
+| 382 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s382.jpg` (Kameradatei `20260619_144534.jpg`) | sichtbare Seitenzahl 382 |
 ```

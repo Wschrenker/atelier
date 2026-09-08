@@ -11,5 +11,5 @@ Quelle: `s458.md`
 
 ### Quelle Zeilen 115–115
 ```text
-| 458 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145441.jpg` | sichtbare Seitenzahl 458 |
+| 458 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s458.jpg` (Kameradatei `20260619_145441.jpg`) | sichtbare Seitenzahl 458 |
 ```

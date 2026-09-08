@@ -12,7 +12,7 @@ Quelle: `s455.md`
 
 ### Quelle Zeilen 46–46
 ```text
-| 455 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145431.jpg` | sichtbare Seitenzahl 455 |
+| 455 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s455.jpg` (Kameradatei `20260619_145431.jpg`) | sichtbare Seitenzahl 455 |
 ```
 
 ### Quelle Zeilen 77–78
@@ -23,5 +23,5 @@ Quelle: `s455.md`
 
 ### Quelle Zeilen 101–101
 ```text
-| 455 | hofenbitzer/band_1/Photos-3-001 4/Photos-3-001 (3)/20260619_145431.jpg |
+| 455 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s455.jpg (Kameradatei 20260619_145431.jpg) |
 ```

@@ -6,5 +6,5 @@ Quelle: `s69.md`
 
 ### Quelle Zeilen 45–45
 ```text
-| 69 | hofenbitzer/band_1/Photos-3-001/20260617_160642.jpg |
+| 69 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s69.jpg (Kameradatei 20260617_160642.jpg) |
 ```

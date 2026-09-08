@@ -11,5 +11,5 @@ Quelle: `s460.md`
 
 ### Quelle Zeilen 100–100
 ```text
-| 460 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145449.jpg` | sichtbare Seitenzahl 460 |
+| 460 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s460.jpg` (Kameradatei `20260619_145449.jpg`) | sichtbare Seitenzahl 460 |
 ```

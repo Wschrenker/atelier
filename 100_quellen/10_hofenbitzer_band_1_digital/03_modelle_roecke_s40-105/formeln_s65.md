@@ -11,5 +11,5 @@ Quelle: `s65.md`
 
 ### Quelle Zeilen 58–58
 ```text
-| 65 | hofenbitzer/band_1/Photos-3-001/20260617_160605.jpg |
+| 65 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s65.jpg (Kameradatei 20260617_160605.jpg) |
 ```

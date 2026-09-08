@@ -20,5 +20,5 @@ Quelle: `s461.md`
 
 ### Quelle Zeilen 111–111
 ```text
-| 461 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145451.jpg` | sichtbare Seitenzahl 461 |
+| 461 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s461.jpg` (Kameradatei `20260619_145451.jpg`) | sichtbare Seitenzahl 461 |
 ```

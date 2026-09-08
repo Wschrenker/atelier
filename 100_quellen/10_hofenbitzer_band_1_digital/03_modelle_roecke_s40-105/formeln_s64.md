@@ -11,5 +11,5 @@ Quelle: `s64.md`
 
 ### Quelle Zeilen 58–58
 ```text
-| 64 | hofenbitzer/band_1/Photos-3-001/20260617_160602.jpg |
+| 64 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s64.jpg (Kameradatei 20260617_160602.jpg) |
 ```

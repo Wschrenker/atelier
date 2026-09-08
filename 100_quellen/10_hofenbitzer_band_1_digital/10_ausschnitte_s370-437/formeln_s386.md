@@ -11,5 +11,5 @@ Quelle: `s386.md`
 
 ### Quelle Zeilen 80–80
 ```text
-| 386 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144548.jpg` | sichtbare Seitenzahl 386 |
+| 386 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s386.jpg` (Kameradatei `20260619_144548.jpg`) | sichtbare Seitenzahl 386 |
 ```

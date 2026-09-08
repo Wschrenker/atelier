@@ -44,5 +44,5 @@ Quelle: `s537.md`
 
 ### Quelle Zeilen 97–97
 ```text
-| 537 | `Photos-3-001 4/Photos-3-001 (3)/20260619_150222.jpg` | sichtbare Seitenzahl 537 |
+| 537 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s537.jpg` (Kameradatei `20260619_150222.jpg`) | sichtbare Seitenzahl 537 |
 ```

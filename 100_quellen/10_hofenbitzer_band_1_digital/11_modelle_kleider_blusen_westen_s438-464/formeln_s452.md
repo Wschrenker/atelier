@@ -16,5 +16,5 @@ Quelle: `s452.md`
 
 ### Quelle Zeilen 42–42
 ```text
-| 452 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145423.jpg` | sichtbare Seitenzahl 452 |
+| 452 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s452.jpg` (Kameradatei `20260619_145423.jpg`) | sichtbare Seitenzahl 452 |
 ```

@@ -6,10 +6,10 @@ Quelle: `s454.md`
 
 ### Quelle Zeilen 50–50
 ```text
-| 454 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145429.jpg` | sichtbare Seitenzahl 454 |
+| 454 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s454.jpg` (Kameradatei `20260619_145429.jpg`) | sichtbare Seitenzahl 454 |
 ```
 
 ### Quelle Zeilen 109–109
 ```text
-| 454 | hofenbitzer/band_1/Photos-3-001 4/Photos-3-001 (3)/20260619_145429.jpg |
+| 454 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s454.jpg (Kameradatei 20260619_145429.jpg) |
 ```

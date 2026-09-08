@@ -6,5 +6,5 @@ Quelle: `s387.md`
 
 ### Quelle Zeilen 51–51
 ```text
-| 387 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144550.jpg` | sichtbare Seitenzahl 387 |
+| 387 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s387.jpg` (Kameradatei `20260619_144550.jpg`) | sichtbare Seitenzahl 387 |
 ```

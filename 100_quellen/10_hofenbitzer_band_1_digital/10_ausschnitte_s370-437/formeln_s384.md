@@ -6,5 +6,5 @@ Quelle: `s384.md`
 
 ### Quelle Zeilen 76–76
 ```text
-| 384 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144541.jpg` | sichtbare Seitenzahl 384 |
+| 384 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s384.jpg` (Kameradatei `20260619_144541.jpg`) | sichtbare Seitenzahl 384 |
 ```

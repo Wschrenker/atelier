@@ -6,5 +6,5 @@ Quelle: `s73.md`
 
 ### Quelle Zeilen 43–43
 ```text
-| 73 | hofenbitzer/band_1/Photos-3-001/20260617_160710.jpg |
+| 73 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s73.jpg (Kameradatei 20260617_160710.jpg) |
 ```

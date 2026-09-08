@@ -6,5 +6,5 @@ Quelle: `s401.md`
 
 ### Quelle Zeilen 38–38
 ```text
-| 401 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144819.jpg` | sichtbare Seitenzahl 401 |
+| 401 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s401.jpg` (Kameradatei `20260619_144819.jpg`) | sichtbare Seitenzahl 401 |
 ```

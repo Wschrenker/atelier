@@ -6,10 +6,10 @@ Quelle: `s457.md`
 
 ### Quelle Zeilen 48–48
 ```text
-| 457 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145437.jpg` | sichtbare Seitenzahl 457 |
+| 457 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s457.jpg` (Kameradatei `20260619_145437.jpg`) | sichtbare Seitenzahl 457 |
 ```
 
 ### Quelle Zeilen 108–108
 ```text
-| 457 | hofenbitzer/band_1/Photos-3-001 4/Photos-3-001 (3)/20260619_145437.jpg |
+| 457 | 100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s457.jpg (Kameradatei 20260619_145437.jpg) |
 ```

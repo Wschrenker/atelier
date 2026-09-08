@@ -6,5 +6,5 @@ Quelle: `s400.md`
 
 ### Quelle Zeilen 59–59
 ```text
-| 400 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144817.jpg` | sichtbare Seitenzahl 400 |
+| 400 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s400.jpg` (Kameradatei `20260619_144817.jpg`) | sichtbare Seitenzahl 400 |
 ```

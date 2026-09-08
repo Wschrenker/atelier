@@ -13,5 +13,5 @@ Quelle: `s459.md`
 
 ### Quelle Zeilen 139–139
 ```text
-| 459 | `Photos-3-001 4/Photos-3-001 (3)/20260619_145443.jpg` | sichtbare Seitenzahl 459 |
+| 459 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s459.jpg` (Kameradatei `20260619_145443.jpg`) | sichtbare Seitenzahl 459 |
 ```

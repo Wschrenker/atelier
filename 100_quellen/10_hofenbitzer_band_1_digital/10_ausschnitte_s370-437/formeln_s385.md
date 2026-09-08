@@ -6,5 +6,5 @@ Quelle: `s385.md`
 
 ### Quelle Zeilen 48–48
 ```text
-| 385 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144543.jpg` | sichtbare Seitenzahl 385 |
+| 385 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s385.jpg` (Kameradatei `20260619_144543.jpg`) | sichtbare Seitenzahl 385 |
 ```

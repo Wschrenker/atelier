@@ -11,5 +11,5 @@ Ein “Futterrock” ist ein separater Rock aus Futterstoff, der unter einem ung
 
 ### Quelle Zeilen 53–53
 ```text
-| 92 | `Photos-3-001/20260617_160928.jpg` | sichtbare Seitenzahl 92 |
+| 92 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s92.jpg` (Kameradatei `20260617_160928.jpg`) | sichtbare Seitenzahl 92 |
 ```

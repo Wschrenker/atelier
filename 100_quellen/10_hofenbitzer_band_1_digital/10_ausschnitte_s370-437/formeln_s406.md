@@ -6,5 +6,5 @@ Quelle: `s406.md`
 
 ### Quelle Zeilen 108–108
 ```text
-| 406 | `Photos-3-001 4/Photos-3-001 (3)/20260619_144840.jpg` | sichtbare Seitenzahl 406 |
+| 406 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s406.jpg` (Kameradatei `20260619_144840.jpg`) | sichtbare Seitenzahl 406 |
 ```

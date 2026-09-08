@@ -6,5 +6,5 @@ Quelle: `s96.md`
 
 ### Quelle Zeilen 63–63
 ```text
-| 96 | `Photos-3-001/20260617_160949.jpg` | sichtbare Seitenzahl 96 |
+| 96 | `100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s96.jpg` (Kameradatei `20260617_160949.jpg`) | sichtbare Seitenzahl 96 |
 ```
