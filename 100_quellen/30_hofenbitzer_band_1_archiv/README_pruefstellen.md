@@ -129,6 +129,14 @@ der alte Kameradateiname steht als `(Kameradatei ...)` dahinter und bleibt
 damit als Beleg erhalten. Betroffen: s32-s36, s39 und s40-s44. Werner hat den
 Schreibschutz dafür am 2026-09-08 ausdrücklich aufgehoben.
 
+**2026-09-08 - S.34, Zeichnungs-Beschriftung berichtigt.** In `s34.md` stand
+unter den Beschriftungen zu ☐5 „¼ wie bei P10". Im Foto steht eindeutig
+„½ wie bei P10", und Schritt (11) derselben Seite sagt ebenfalls ½
+(„0,5 bis 0,7 cm ca. ½ Erhöhung an der Seitenlinie"). Werner hat die
+Berichtigung entschieden; ein D-Punkt lag dazu nicht vor. Die Stelle ist beim
+Bildabgleich zu S.35 aufgefallen, weil die entsprechende Beschriftung dort
+„½ wie bei P10" und „½ wie nach P10" lautet.
+
 **2026-09-08 - S.35 nach Bildabgleich ergänzt.** Werner hat die Punkte
 einzeln entschieden. In `s35.md`: der Unsicherheitsvermerk an der
 Bildunterschrift ☐6 gestrichen (die Klammer `(Grün ☐4)` steht so im Buch, das
