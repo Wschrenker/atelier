@@ -49,6 +49,18 @@ Kontrolle = 6,5 cm + 2,5 cm + 4 cm + 0 cm = 13 cm
 - [`Numerik, Einheiten und Toleranzen`](../../../../400_mathematik/20_codevertraege/10_numerik_einheiten_und_toleranzen.md)
 - [`Parameterketten und Neuberechnung`](../../../../400_mathematik/20_codevertraege/80_parameterketten_und_neuberechnung.md)
 
+## Technische Prüfung
+
+Im Schrittordner ausführen:
+
+```text
+python test_konstruktionstabelle.py
+```
+
+Geprüft werden die Buchwerte der Tabelle, cm→mm, Zugabe- und Abnäherbereiche,
+fehlende Entscheidungen, Taillenausfall und Kontrollsumme, die Statuswerte und
+die Provenienz.
+
 ## Prüfgrenze
 
 Die Quelle gibt keine automatische Auswahlregel für Zugaben oder

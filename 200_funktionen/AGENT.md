@@ -32,6 +32,22 @@ Quelle und Bild prüfen
 - Quellen und Mathematik werden verlinkt, nicht kopiert.
 - Reine Näh-, Zuschnitt-, Beschriftungs- oder Gestaltungsanweisungen benötigen nicht zwangsläufig eigene Rechenlogik.
 
+## Prüf- und Statusgrenzen
+
+Rechnerisch vollständig, technisch geprüft und an einer realen Figur fachlich
+freigegeben sind drei verschiedene Zustände.
+
+- Ein grüner Python-Test bestätigt nur den technischen Rechen- oder
+  Geometrievertrag.
+- `vollstaendig` bei einer Kontrollsumme heißt nur, dass die ausdrücklich
+  eingegebenen Beträge rechnerisch aufgehen.
+- Digitale Geometrie, CLO-Prüfung, Toile, Anprobe und Produktionsfreigabe
+  bleiben getrennte Nachweisstufen.
+- Fehlende fachliche Entscheidungen werden nicht durch technische Vorgabewerte
+  ersetzt.
+
+Diese Grenze gilt für die ganze Funktionsschicht, nicht nur für Röcke.
+
 ## Direkte Kinder
 
 - `02_grundschnitte_roecke_s32-39/`

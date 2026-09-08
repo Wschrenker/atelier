@@ -65,6 +65,18 @@ P7 (250,0)   P8 (250,500) P9 (250,210)
 Der grüne Teststand ist eine digitale Vertragsprüfung. Er bestätigt keine
 visuelle, physische oder produktionsbezogene Freigabe des Schnitts.
 
+## Technische Prüfung
+
+Im Schrittordner ausführen:
+
+```text
+python test_grundgeruest.py
+```
+
+Geprüft werden die Buchpunkte P1–P9, die Halbierungen, der Geradenschnitt,
+Parallelität und Rechtwinkligkeit, die Lage von P9, die Fehlergrenzen und die
+Provenienz.
+
 ## Nächster Schritt
 
 Keine Erweiterung in diesem Schritt; Abnäher, Kurven und Produktionskontur
