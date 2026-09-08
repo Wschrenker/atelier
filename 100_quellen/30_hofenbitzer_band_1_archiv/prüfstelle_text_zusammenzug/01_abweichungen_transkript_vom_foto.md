@@ -131,13 +131,15 @@ weiteren im Eintragskopf.
 
 ### S.108
 
-**D7 — offen**
+**D7 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D. Abweichungen der v3-Transkription vom Foto — im Digitalisat zu korrigieren*
 
 - **D7 — S.108:** „90° am kürzesten" mit Leerzeichen; gedruckt „90°am" → **A98**.
 
 > Maschineller Befund: der Wortlaut "90° am kürzesten" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08** (vorher: offen). `s108.md`: „90° am kürzesten" → „90°am kürzesten".
 
 
 ### S.110
@@ -169,11 +171,13 @@ weiteren im Eintragskopf.
 
 ### S.112
 
-**D8 — nicht maschinell prüfbar**
+**D8 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D. Abweichungen der v3-Transkription vom Foto — im Digitalisat zu korrigieren*
 
 - **D8 — S.112:** Komma in „1,5 bis 2,5 cm, (2 cm)" nicht übernommen → **A109**.
+
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s112.md`: „1,5 bis 2,5 cm (2 cm)" → „1,5 bis 2,5 cm, (2 cm)".
 
 
 ### S.113
@@ -223,13 +227,15 @@ weiteren im Eintragskopf.
   „Figuren mit flachem Gesäß benötigen…" und „Hosen aus längselastischem Material…", auf S.115
   den Kasten „Bei Figuren mit flachem Gesäß benötigt man weniger…".
 
-**D15 — nicht maschinell prüfbar**
+**D15 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.113–115 und S.146–149*
 
 - **D15 — S.114:** „hHoB : 4" mit Leerzeichen auf beiden Seiten in Schritt ㉕ und in der
   Zeichnung □5; gedruckt ist dort „hHoB :4" → **A111**. Ebenso „−1 cm" / „+1 cm" in den beiden
   Formelzeilen; gedruckt ist „– 1 cm" / „+ 1 cm" mit Leerzeichen nach dem Vorzeichen.
+
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s114.md`: „hHoB : 4" → „hHoB :4" (4×); „bis −1 cm" → „bis − 1 cm"; „bis +1 cm" → „bis + 1 cm". Das Vorzeichen selbst blieb unverändert — ob im Druck ein Halbgeviert- oder ein Minusstrich steht, gehört zur offenen Strichtypen-Frage (D149).
 
 
 ## 05 Modelle Hosen, S.138–170
@@ -265,7 +271,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "(siehe auch die Variante auf Seite 165)" steht weiterhin in der aktiven Seitendatei.
 
-**D24 — offen**
+**D24 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.113–115 und S.146–149*
 
@@ -274,6 +280,8 @@ weiteren im Eintragskopf.
   („gemessene SaW **-** gewünschte SaW") setzt das Transkript ebenso.
 
 > Maschineller Befund: der Wortlaut "gemessene SaW - gewünschte SaW" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08** (vorher: offen). `s146.md`: beide ASCII-Bindestriche der SaW-Zeile → Halbgeviertstrich.
 
 
 ### S.147
@@ -408,7 +416,7 @@ weiteren im Eintragskopf.
 
 - **D55 — S.152:** siehe **D50** (dort als falsches Wort geführt) → **A150**.
 
-**D56 — offen**
+**D56 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.150–156*
 
@@ -416,7 +424,10 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "ca. 10 bis 14 cm kürzen" steht weiterhin in der aktiven Seitendatei.
 
-**D62 — offen**
+> **Berichtigt am 2026-09-08** (vorher: offen). `s152.md`: „ca. 10 bis 14 cm kürzen" → „ca.10 bis 14 cm kürzen".
+
+
+**D62 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.150–156*
 
@@ -424,6 +435,9 @@ weiteren im Eintragskopf.
   ASCII-Bindestrich; gedruckt ist der Minus-/Halbgeviertstrich „**–**". Vgl. **D24**.
 
 > Maschineller Befund: der Wortlaut "Saumeinschlag = Aufschlagbreite - 1 bis 2 cm" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08** (vorher: offen). `s152.md`: „Aufschlagbreite - 1 bis 2 cm" → „Aufschlagbreite – 1 bis 2 cm".
+
 
 **D65 — offen**
 
@@ -464,12 +478,15 @@ weiteren im Eintragskopf.
   Knieweite deutlich vergrößert ist."; gedruckt steht „…formen, **dass** die Knieweite…" → **A152**.
   Das Transkript repariert hier still einen Satzbaufehler des Buches.
 
-**D57 — nicht maschinell prüfbar**
+**D57 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.150–156*
 
 - **D57 — S.153:** „z. B. 12 cm**.**" mit Leerzeichen in der Abkürzung und mit Schlusspunkt;
   gedruckt „z.B. 12 cm" ohne beides → **A153**.
+
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s153.md`: „hier z. B. 12 cm." → „hier z.B. 12 cm".
+
 
 **D64 — nicht maschinell prüfbar** · auch S.156
 
@@ -530,13 +547,16 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "ggf. Abstand um ca. 0 bis 1,5 cm" steht weiterhin in der aktiven Seitendatei.
 
-**D61 — unklar**
+**D61 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.150–156*
 
 - **D61 — S.156, Einleitung:** „**d. h.**" mit Leerzeichen; gedruckt „d.h.". Ebenso setzt das
   Transkript „…wird hier gezeigt **–** eine Jeanskonstruktion…" mit Halbgeviertstrich, gedruckt
   steht der ASCII-Bindestrich „-". Vgl. **D24** (dort umgekehrt).
+
+> **Berichtigt am 2026-09-08** (vorher: unklar). `s156.md`: „d. h." → „d.h."; „hier gezeigt – eine" → ASCII-Bindestrich.
+
 
 **D66 — nicht maschinell prüfbar**
 
@@ -576,20 +596,26 @@ weiteren im Eintragskopf.
 - **D35 — S.157, S.160, S.161:** Die als Gedankenstriche gemeinten Bindestriche des Buches sind
   zu „–" vereinheitlicht (S.157 Schritt ⑩, S.160 Schritt ①, S.161 Schritt ⑥) → **A123**, **A135**.
 
-**D36 — nicht maschinell prüfbar**
+**D36 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.157–162*
 
 - **D36 — S.157, Schritt ⑦:** Transkript „**2 × 0,5 cm**"; gedruckt „**2× 0,5 cm**" — ohne
   Leerzeichen vor dem Mal-Zeichen. Dieselbe Klasse wie **A111**/**D15** (S.114).
 
-**D37 — nicht maschinell prüfbar** · auch S.159, S.161, S.162
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s157.md`: „sondern 2 × 0,5 cm" → „sondern 2× 0,5 cm".
+
+
+**D37 — erledigt 2026-09-08** · auch S.159, S.161, S.162
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.157–162*
 
 - **D37 — S.157, S.159, S.161, S.162:** Die Bildverweise sind mit Leerzeichen um das Plus gesetzt
   („□2 + 3", „□2 + 4", „□5 + 7", „□5 + 6"); gedruckt stehen sie durchgehend ohne
   („□2+3", „□2+4", „□5+7", „□5+6").
+
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s157.md` „□2 + 3" (2×), `s159.md` „□2 + 4", `s161.md` „□5 + 7" und „□5 + 6" → jeweils ohne Spatien. In `s162.md` stand keine solche Stelle.
+
 
 **D45 — offen** · auch S.160, S.161, S.162
 
@@ -627,12 +653,15 @@ weiteren im Eintragskopf.
 
 ### S.159
 
-**D34 — nicht maschinell prüfbar**
+**D34 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.157–162*
 
 - **D34 — S.159:** „**Hot-Pants**" mit Bindestrich in der Bildunterschrift □1 und im
   Randregister; gedruckt steht an beiden Stellen „**Hot Pants**" → **A127**.
+
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s159.md`: „Hot-Pants" → „Hot Pants" in der Bildunterschrift □1 und im Randregister. Die übrigen vier Stellen der Seite (Seitentitel, Zwischenüberschrift, zwei Schnittteil-Beschriftungen) nennt der Punkt nicht und blieben stehen.
+
 
 **D39 — offen**
 
@@ -739,7 +768,7 @@ weiteren im Eintragskopf.
 - **D29 — S.162, Schritt ⑧:** Transkript „…für die Abtrennung zur **Bermuda** bestimmen";
   gedruckt „zur **Bermudas** bestimmen" → **A138**.
 
-**D32 — offen**
+**D32 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.157–162*
 
@@ -748,6 +777,9 @@ weiteren im Eintragskopf.
   (**A113**) — hier nicht. Die Konvention ist innerhalb von v3 uneinheitlich.
 
 > Maschineller Befund: der Wortlaut "Passenabtrennung" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08** (vorher: offen). `s162.md`: „Passenabtrennung" → „Passenbtrennung [sic: Passenabtrennung]" — der gedruckte Fehler ist damit fototreu übernommen und bleibt als **A137** offen. Auf Werners Entscheidung vom 2026-09-08 trägt die Stelle zusätzlich den Lesehinweis `[sic: Passenabtrennung]`, damit beim Lesen klar ist, dass der fehlende Buchstabe im Buch steht und nicht in der Transkription.
+
 
 **D43 — offen**
 
@@ -904,20 +936,26 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Den RT-Abnäher ggf. etwas verschieben und an die Besatznaht verlängern." steht weiterhin in der aktiven Seitendatei.
 
-**D79 — nicht maschinell prüfbar**
+**D79 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.163–168*
 
 - **D79 — S.166:** „**d. h.**" und „**z. B.**" mit Leerzeichen; gedruckt „d.h." und „z.B."
   → **A171**. Vgl. **D61**.
 
-**D80 — unklar** · auch S.168
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s166.md`: „d. h." → „d.h.", „(z. B. Stecktaschen)" → „(z.B. Stecktaschen)".
+
+
+**D80 — erledigt 2026-09-08** · auch S.168
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.163–168*
 
 - **D80 — S.166 und S.168:** Halbgeviertstrich „**–**" statt des gedruckten ASCII-Bindestrichs
   „**-**": S.166 „…Kniebesätze **-** sie könnten auch bis zum Saum reichen.", S.168 „…bis zur
   Kniekehle reicht **-** ggf. zusätzlich…". Vgl. **D61**/**D62**.
+
+> **Berichtigt am 2026-09-08** (vorher: unklar). `s166.md` „Kniebesätze – sie" und `s168.md` „Kniekehle reicht – ggf." → jeweils ASCII-Bindestrich.
+
 
 **D84 — vermutlich behoben** · auch S.167, S.168
 
@@ -933,7 +971,7 @@ weiteren im Eintragskopf.
 
 ### S.168
 
-**D77 — offen**
+**D77 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.163–168*
 
@@ -941,6 +979,9 @@ weiteren im Eintragskopf.
   Komma; gedruckt „Hüftlinie,wie" → **A173**.
 
 > Maschineller Befund: der Wortlaut "von der Hüftlinie, wie vorgegeben" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08** (vorher: offen). `s168.md`: „Hüftlinie, wie vorgegeben" → „Hüftlinie,wie vorgegeben".
+
 
 **D78 — offen**
 
@@ -1023,7 +1064,7 @@ weiteren im Eintragskopf.
 
 ### S.170
 
-**D147 — vermutlich behoben**
+**D147 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.169–170 und S.290–293*
 
@@ -1031,6 +1072,9 @@ weiteren im Eintragskopf.
   Leerzeichen **und** den fehlenden Abkürzungspunkt → **A200**. Vgl. **D61**/**D79**.
 
 > Maschineller Befund: der Wortlaut "z. B. die Sarouel-Hose" steht nicht mehr so in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08** (vorher: vermutlich behoben). `s170.md`: „z. B. die Sarouel-Hose" → „z.B die Sarouel-Hose".
+
 
 **D148 — offen**
 
@@ -1063,7 +1107,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Tunnelbund nach außen oder nach innen geschlagen, angesetzt oder (wie hier) aufgesetzt" steht weiterhin in der aktiven Seitendatei.
 
-**D151 — offen**
+**D151 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.169–170 und S.290–293*
 
@@ -1072,6 +1116,9 @@ weiteren im Eintragskopf.
   räumlich getrennte Beschriftungen an derselben Kante. Vgl. **D87**.
 
 > Maschineller Befund: der Wortlaut "SN, Stb oder Naht" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08** (vorher: offen). `s170.md`: „SN, Stb oder Naht" und „vM+hM, Stb oder Naht" (je 2×) in zwei eigenständige Beschriftungen getrennt.
+
 
 **D154 — offen**
 
@@ -1095,7 +1142,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Sarouelhose, historischer Schnitt" steht nicht mehr so in der aktiven Seitendatei.
 
-**D152 — nicht maschinell prüfbar**
+**D152 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.169–170 und S.290–293*
 
@@ -1103,16 +1150,21 @@ weiteren im Eintragskopf.
   zweimal (Trapez und Zweibein-Skizze) und in □5 zweimal (beide Schnittteile), im Transkript je
   einmal.
 
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s170.md`: „VT + RT" → „VT+RT" (2×). Dass die Beschriftung im Druck viermal steht und im Transkript zweimal, ist damit **nicht** erledigt.
+
 
 ## 09 Kragen, Kapuzen und Taschen, S.290–369
 
 ### S.290
 
-**D156 — nicht maschinell prüfbar**
+**D156 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.169–170 und S.290–293*
 
 - **D156 — S.290:** „**u. v. m.**" mit Leerzeichen; gedruckt „u.v.m." → **A204**.
+
+> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s290.md`: „u. v. m." → „u.v.m.".
+
 
 **D157 — offen**
 

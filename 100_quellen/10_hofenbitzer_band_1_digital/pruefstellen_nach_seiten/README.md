@@ -13,6 +13,16 @@ python 600_prozess/werkzeuge/pruefstellen_ansicht_bauen.py --schreiben
 
 Der Probelauf meldet, welche Seitendateien sich ändern würden, ohne etwas zu schreiben. Von Hand geänderte Dateien gehen beim nächsten Lauf verloren.
 
+## Erledigte Punkte
+
+Ein Punkt, der in der Archivquelle den Status `erledigt` trägt, steht hier nicht mehr im Wortlaut, sondern als Zählzeile:
+
+```text
+*1 erledigt (D7) — Wortlaut in der Archivquelle.*
+```
+
+Diese Ansicht zeigt also die **offene** Arbeit. Der vollständige Bestand mit allen abgeschlossenen Punkten liegt im Archiv, beschrieben in [`README_pruefstellen.md`](../../30_hofenbitzer_band_1_archiv/README_pruefstellen.md). Eine Seite, auf der nur noch die Zählzeile steht, ist geprüft und abgearbeitet — nicht etwa nie angeschaut.
+
 ## Sortierregel
 
 - Buchkategorie, dann Buchseite aufsteigend.

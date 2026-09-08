@@ -40,11 +40,15 @@ Vermerk, dass geprüft und nichts gefunden wurde. Nur so ist später
 unterscheidbar, ob eine Seite geprüft und in Ordnung war oder nie
 angeschaut wurde.
 
+Das gilt für den **Beleg im Archiv**. In der erzeugten Arbeitsansicht wird ein
+erledigter Punkt nicht mehr ausgeschrieben, sondern nur noch gezählt — siehe
+die zweite Ausnahme.
+
 **Wo der Status geändert wird:** ausschließlich in den fünf Zusammenzügen im
 Archiv unter `100_quellen/30_hofenbitzer_band_1_archiv/`. Die liegen
 außerhalb dieses geschützten Ordners.
 
-## Einzige fachliche Ausnahme: Normalisierungen
+## Erste Ausnahme: Normalisierungen
 
 Wenn beim konkreten Aufbau der Engine eine noch fehlende Normalisierung
 benötigt und anhand der Quelle geprüft wird, darf im passenden Buchordner die
@@ -92,8 +96,35 @@ Dabei gilt:
    Seitendateien sich ändern würden.
 3. Von Hand in der Ansicht geänderte Dateien gehen beim nächsten Lauf
    verloren. Wer hier etwas ändern will, ändert die Quelle.
-4. Das Skript liest die Seitentranskriptionen und Formeldateien nicht und
+4. Ein Punkt, der in der Archivquelle den Status `erledigt` trägt, erscheint
+   in der Seitendatei nicht mehr im Wortlaut, sondern als Zählzeile
+   (`*1 erledigt (D7) — Wortlaut in der Archivquelle.*`). Die Ansicht zeigt
+   damit die offene Arbeit; der vollständige Beleg steht im Archiv.
+5. Das Skript liest die Seitentranskriptionen und Formeldateien nicht und
    schreibt außerhalb von `pruefstellen_nach_seiten/` nichts.
+
+## Dritte Ausnahme: fototreue Berichtigung nach belegtem D-Punkt
+
+Ein D-Punkt sagt das Gegenteil eines Buchfehlers: Das Buch ist an dieser
+Stelle in Ordnung, **unsere Transkription weicht davon ab**. Wer eine solche
+Stelle berichtigt, macht die Seitendatei fototreuer und nicht freier. Genau
+das ist der Zweck dieses Bestandes.
+
+Eine `sNNN.md` darf deshalb geändert werden, wenn alle vier Punkte erfüllt
+sind:
+
+1. Es liegt ein **nummerierter D-Punkt** aus
+   `30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`
+   vor, der die Stelle und die gedruckte Form benennt.
+2. Die Änderung stellt **ausschließlich** die gedruckte Form her. Ein im
+   Buch gedruckter Fehler wird dabei mit übernommen, nicht geglättet.
+3. Der beanstandete Wortlaut steht vorher nachweislich so in der Datei.
+4. Die Berichtigung wird im Archiv am zugehörigen D-Punkt mit Datum
+   vermerkt. Ohne diesen Vermerk gilt sie als nicht erfolgt.
+
+Nicht gedeckt sind: stille Korrekturen ohne D-Punkt, Vereinheitlichungen
+über die benannte Stelle hinaus und jede Änderung, die vom gedruckten
+Wortlaut wegführt.
 
 ## Was außerhalb dieses Ordners bleibt
 

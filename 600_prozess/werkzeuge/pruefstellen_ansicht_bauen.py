@@ -205,6 +205,13 @@ def zerlege_punkt(zeilen):
 
 EINTRAGSKOPF = re.compile(r"^\*\*[A-Za-z]+\d+[^*]* — [^*]+\*\*(.*)$")
 
+# Ein Punkt gilt als erledigt, wenn seine Kopfzeile den Status "erledigt"
+# traegt. Gesetzt wird das allein in der Archivquelle. Erledigte Punkte
+# werden in der Ansicht nicht mehr ausgeschrieben, sondern nur gezaehlt;
+# ihr Wortlaut bleibt vollstaendig im Archiv stehen.
+ERLEDIGT = re.compile(r"—\s*erledigt\b", re.I)
+PUNKTNUMMER = re.compile(r"([A-Za-z]+\d+)")
+
 
 def zerlege_eintrag(zeilen):
     """Einheit = '**D1 - offen**' bis zum naechsten Eintrag.
@@ -281,6 +288,8 @@ def einlesen():
         einheiten = ZERLEGER[art](lies(pfad))
         nummeriert = []
         for lauf, (seiten, text) in enumerate(einheiten, start=1):
+            erste = text.split("\n")[0]
+            nummer = PUNKTNUMMER.search(erste)
             nummeriert.append({
                 "schluessel": schluessel,
                 "titel": titel,
@@ -288,6 +297,8 @@ def einlesen():
                 "seiten": seiten,
                 "text": text,
                 "quelle": "%s/%s" % (unterordner, datei),
+                "erledigt": bool(ERLEDIGT.search(erste)),
+                "nummer": nummer.group(1) if nummer else None,
             })
         alles.append((schluessel, titel, unterordner, datei, nummeriert))
     return alles
@@ -315,16 +326,38 @@ def links_umhaengen(text, stufen, quellordner):
     return re.sub(r"\]\((<?)([^)>]+)", ersetze, text)
 
 
+def erledigt_zeile(erledigte):
+    """Eine Zeile statt der ausgeschriebenen erledigten Punkte.
+
+    Der Punkt bleibt in der Archivquelle vollstaendig stehen; hier bleibt
+    nur sichtbar, dass die Seite bearbeitet wurde und wie viele Punkte
+    dabei abgeschlossen sind. So ist eine geprueft-und-erledigte Seite
+    weiterhin von einer nie angeschauten unterscheidbar.
+    """
+    nummern = [e["nummer"] for e in erledigte if e["nummer"]]
+    if nummern:
+        return "*%d erledigt (%s) — Wortlaut in der Archivquelle.*" % (
+            len(erledigte), ", ".join(nummern))
+    return "*%d erledigt — Wortlaut in der Archivquelle.*" % len(erledigte)
+
+
 def rubrik_block(titel, unterordner, datei, einheiten, tiefe):
     hoch = "../" * tiefe
     zeilen = ["## %s" % titel, "",
               "Quelle: [`%s/%s`](%s30_hofenbitzer_band_1_archiv/%s/%s)"
               % (unterordner, datei, hoch, unterordner, datei), ""]
-    for i, einheit in enumerate(einheiten):
+    offene = [e for e in einheiten if not e["erledigt"]]
+    erledigte = [e for e in einheiten if e["erledigt"]]
+    for i, einheit in enumerate(offene):
         if i:
             zeilen.extend(["---", ""])
         zeilen.append("<!-- einheit: %s -->" % einheit["id"])
         zeilen.append(links_umhaengen(einheit["text"], tiefe - 2, unterordner))
+        zeilen.append("")
+    if erledigte:
+        if offene:
+            zeilen.extend(["---", ""])
+        zeilen.append(erledigt_zeile(erledigte))
         zeilen.append("")
     return zeilen
 
@@ -337,7 +370,12 @@ def seite_bauen(seite, rubriken):
               "**Buchkategorie:** %s" % kategorie, "",
               "## Inhalt", ""]
     for titel, _, _, einheiten in rubriken:
-        zeilen.append("- %s: %d" % (titel, len(einheiten)))
+        fertig = len([e for e in einheiten if e["erledigt"]])
+        if fertig:
+            zeilen.append("- %s: %d, davon %d erledigt"
+                          % (titel, len(einheiten), fertig))
+        else:
+            zeilen.append("- %s: %d" % (titel, len(einheiten)))
     zeilen.append("")
     for titel, unterordner, datei, einheiten in rubriken:
         zeilen.extend(rubrik_block(titel, unterordner, datei, einheiten, 3))
