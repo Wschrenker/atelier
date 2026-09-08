@@ -25,13 +25,12 @@ Datei in `100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-
 
 ## Schrittebene
 
-Noch nicht angelegt. Sie wächst beim Bearbeiten. `schrittkandidaten.md` hält
-die Liste eines früheren, nie am Buch bestätigten Durchgangs zum Vergleichen.
+Für `01_gerader_rock_konstruktionstabelle_und_grundgeruest_s32-33/` ist die
+Schrittebene nach dem Bildabgleich angelegt. Ihr lokales `AGENT.md` führt die
+zwei bestätigten Schritte. In den übrigen Gruppen wächst die Schrittebene erst
+beim Bearbeiten. `schrittkandidaten.md` bleibt nur der ungeprüfte Vergleichsstand.
 
-Zwei Stellen aus dieser Liste sind beim Lesen im Auge zu behalten:
+Eine Stelle aus dieser Liste bleibt beim späteren Lesen im Auge:
 
-- `kontrollsumme_taillenausfall` reicht ueber S. 33–35 und passt damit in keine
-  einzelne Gruppe sauber. Fachlich gehört die Kontrolle vermutlich zur
-  Abnäheraufteilung auf S. 34.
 - `taillenmehrweite_kontrollieren_s39` und `taillenmehrweite_pruefen_s39`
-  standen frueher in verschiedenen Gruppen und könnten derselbe Schritt sein.
+  standen früher in verschiedenen Gruppen und könnten derselbe Schritt sein.
