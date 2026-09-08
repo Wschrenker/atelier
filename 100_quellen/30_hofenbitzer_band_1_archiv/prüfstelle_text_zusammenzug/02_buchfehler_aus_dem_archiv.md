@@ -728,7 +728,7 @@ dem Urteil.
 
 ### S.159
 
-**A127 — teilweise wiedergefunden**
+**A127 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: A (Fortschreibung v2) — S.157–162, dritte Nachprüfung von v3-Seiten*
 
@@ -739,6 +739,8 @@ dem Urteil.
   Siehe **D34**.
 
 > Maschineller Befund: „für die Hot-Pants“ steht weiterhin so in der Seitendatei; „Hot Pants“ steht dort nicht mehr.
+
+> **Am Buch geprüft am 2026-09-08 durch Werner: gegenstandslos.** S.159 schreibt durchgehend „Hot-Pants“ mit Bindestrich. Die drei angeblich abweichenden Schreibweisen gibt es nicht. Siehe **D34**.
 
 **A128 — teilweise wiedergefunden**
 

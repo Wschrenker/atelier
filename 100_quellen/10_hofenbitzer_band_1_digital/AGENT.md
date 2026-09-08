@@ -126,6 +126,33 @@ Nicht gedeckt sind: stille Korrekturen ohne D-Punkt, Vereinheitlichungen
 über die benannte Stelle hinaus und jede Änderung, die vom gedruckten
 Wortlaut wegführt.
 
+### Stehende Entscheidung statt Einzelpunkt
+
+Manche Abweichung ist keine Stelle, sondern eine Gewohnheit: derselbe Fall
+kehrt auf hunderten Seiten wieder, und die D-Punkte nennen davon nur die
+Handvoll, die jemand zufällig angeschaut hat. Sie einzeln abzuarbeiten hieße,
+die Quelle in einem Zustand zu lassen, in dem die geprüften Seiten anders
+aussehen als die ungeprüften.
+
+Für solche Fälle darf ein Durchlauf über den ganzen Bestand laufen, wenn:
+
+1. **Werner die Entscheidung ausdrücklich getroffen** hat. Nicht der Agent
+   entscheidet, welche Form gilt.
+2. Die Entscheidung im Archiv unter „Stehende Entscheidungen" in
+   `README_pruefstellen.md` steht — mit Datum, Reichweite und benannten
+   Ausnahmen.
+3. Die Entscheidung durch die vorhandenen D-Punkte **gestützt** wird. Sagen
+   die geprüften Stellen mehrheitlich, dass das Buch es so setzt, gilt das
+   für die ungeprüften mit. Widerspricht ein Punkt, bleibt seine Stelle
+   ausgenommen und wird namentlich genannt.
+4. Der Durchlauf mechanisch nachvollziehbar ist: Zahl der Dateien, Zahl der
+   Ersetzungen, benannte Ausnahmen.
+
+Die betroffenen D-Punkte tragen anschließend den Vermerk, dass sie über die
+stehende Entscheidung erledigt sind. Eine stehende Entscheidung ersetzt nicht
+die Buchprüfung: findet Werner später eine Seite, auf der das Buch es anders
+setzt, wird die Ausnahme nachgetragen.
+
 ## Was außerhalb dieses Ordners bleibt
 
 Insbesondere nicht hier ablegen:

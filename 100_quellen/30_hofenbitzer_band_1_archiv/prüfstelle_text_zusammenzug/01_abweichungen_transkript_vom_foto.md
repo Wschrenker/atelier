@@ -589,12 +589,15 @@ weiteren im Eintragskopf.
 - **D33 — S.157, S.158:** Die Kopfzeile ist auf die deutsche Form „Selvage Jeans“ vereinheitlicht;
   gedruckt steht auf beiden Seiten die **hochgestellte** Öffnung → **A122**. Fortsetzung von **D9**.
 
-**D35 — nicht maschinell prüfbar** · auch S.160, S.161
+**D35 — erledigt 2026-09-08** · auch S.160, S.161
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.157–162*
 
 - **D35 — S.157, S.160, S.161:** Die als Gedankenstriche gemeinten Bindestriche des Buches sind
   zu „–" vereinheitlicht (S.157 Schritt ⑩, S.160 Schritt ①, S.161 Schritt ⑥) → **A123**, **A135**.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D36 — erledigt 2026-09-08**
 
@@ -660,7 +663,7 @@ weiteren im Eintragskopf.
 - **D34 — S.159:** „**Hot-Pants**" mit Bindestrich in der Bildunterschrift □1 und im
   Randregister; gedruckt steht an beiden Stellen „**Hot Pants**" → **A127**.
 
-> **Berichtigt am 2026-09-08** (vorher: nicht maschinell prüfbar). `s159.md`: „Hot-Pants" → „Hot Pants" in der Bildunterschrift □1 und im Randregister. Die übrigen vier Stellen der Seite (Seitentitel, Zwischenüberschrift, zwei Schnittteil-Beschriftungen) nennt der Punkt nicht und blieben stehen.
+> **Am Buch geprüft am 2026-09-08 durch Werner: gegenstandslos.** Auf S.159 steht durchgehend „Hot-Pants“ mit Bindestrich — auch in der Bildunterschrift □1 und im Randregister. Die Beanstandung trifft nicht zu. Die am selben Tag vorgenommene Änderung („Hot-Pants“ → „Hot Pants“ an drei Stellen) wurde deshalb zurückgedreht; `s159.md` steht wieder wie zuvor. Der Gegenpunkt **A127** ist damit ebenfalls hinfällig.
 
 
 **D39 — offen**
@@ -1087,7 +1090,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Je größer der Abstand" steht weiterhin in der aktiven Seitendatei.
 
-**D149 — unklar**
+**D149 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.169–170 und S.290–293*
 
@@ -1095,6 +1098,9 @@ weiteren im Eintragskopf.
   „…Schritte sind möglich **-** aber desto mehr Material…" (□4). Umgekehrt setzt das Transkript in
   „mind. ¼ HüU **−** prozentualer … Dehnbetrag" (□5) ein mathematisches Minuszeichen, wo im Buch
   ein Halbgeviertstrich steht. Vgl. **D61**/**D62**/**D80**.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D150 — offen**
 
@@ -1177,13 +1183,16 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Kapuzen-Grundformen mit Abnähern in verschiedenen Weiten" steht weiterhin in der aktiven Seitendatei.
 
-**D159 — nicht maschinell prüfbar**
+**D159 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.169–170 und S.290–293*
 
 - **D159 — S.290:** Sämtliche Nummernbereiche der Übersicht sind mit Halbgeviertstrich gesetzt
   („1–6", „7–13", „69–72" …), gedruckt steht durchgehend der ASCII-Bindestrich („1-6"). Dasselbe
   gilt für „□1–3" im Textblock und für „□1–7"/„□3–5" auf S.292. Vgl. **D149**.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D158 — offen**
 
@@ -1369,7 +1378,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Eng anliegender Kragen, Zuschnitt aus Maschenware" steht weiterhin in der aktiven Seitendatei.
 
-**D185 — unklar** · auch S.297, S.298
+**D185 — erledigt 2026-09-08** · auch S.297, S.298
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.294–299*
 
@@ -1379,7 +1388,10 @@ weiteren im Eintragskopf.
   („…identisch **–** sichtbar am transparenten Kreissegment **–** auch die Kragenabstich-Länge…").
   Vgl. **D61**/**D62**/**D80**.
 
-**D186 — nicht maschinell prüfbar** · auch S.299
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
+
+**D186 — erledigt 2026-09-08** · auch S.299
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.294–299*
 
@@ -1387,6 +1399,9 @@ weiteren im Eintragskopf.
   „□5-7" (S.297), „□1-6" (S.298), „□3+4" (S.298, Schritt ⑨), „□6+7" und „□8+9" (S.299) durchweg
   **ohne** Spatien; das Transkript setzt „□1–4", „□5–8", „□5–7", „□1–6", „□3 + 4", „□6 + 7",
   „□8 + 9" mit Halbgeviertstrich bzw. mit Leerzeichen um das Pluszeichen.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D190 — offen** · auch S.295
 
@@ -1859,7 +1874,7 @@ weiteren im Eintragskopf.
 - **D99 — S.304:** „**z. B.**" und „**d. h.**" mit Leerzeichen; gedruckt „z.B." und „d.h."
   → **A184**. Vgl. **D61**/**D79**.
 
-**D100 — unklar**
+**D100 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.300–305*
 
@@ -1868,6 +1883,8 @@ weiteren im Eintragskopf.
   Bemerkenswert: Dieselbe Sammlung lässt auf **S.305** die beiden ASCII-Striche in „Zuvor können -
   müssen aber nicht - die Brust- und Schulterabnäher…" **stehen**. Die Glättung ist nicht einmal
   in sich konsistent.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
 
 
 ### S.305
@@ -2325,7 +2342,7 @@ weiteren im Eintragskopf.
 - **D215 — S.320 und S.322:** Das Maß „**½**" fehlt — auf S.320 an der seitlichen Stegbreite, auf
   S.322 an der Halslochverbreiterung; ebenso das nackte „**4 cm**" auf S.320 (siehe **D210**).
 
-**D220 — offen** · auch S.321, S.322
+**D220 — erledigt 2026-09-08** · auch S.321, S.322
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.317–S.322*
 
@@ -2335,6 +2352,8 @@ weiteren im Eintragskopf.
   ein kurzer Strich steht. Fortsetzung von **D61**/**D62**/**D80**/**D185**.
 
 > Maschineller Befund: der Wortlaut "mit einer Naht verbunden – ebenso die hM" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
 
 
 ### S.322
@@ -2399,7 +2418,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Dann den Kragenbruch in den Reb einlaufend formen" steht weiterhin in der aktiven Seitendatei.
 
-**D244 — offen** · auch S.324, S.326, S.327
+**D244 — erledigt 2026-09-08** · auch S.324, S.326, S.327
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.323–328*
 
@@ -2413,6 +2432,9 @@ weiteren im Eintragskopf.
   eingefügtes Komma).
 
 > Maschineller Befund: der Wortlaut "Unfertige Schnittfläche der Belegvariante 1 – Fertigstellung auf nächster Seite" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D253 — nicht maschinell prüfbar** · auch S.328
 
@@ -2449,13 +2471,16 @@ weiteren im Eintragskopf.
 - **D242 — S.324, Oberkragen-Kasten, Schritt ④:** „…die Verstürzweite anzeichnen**.**" mit
   Satzpunkt; gedruckt steht dort **kein** Punkt → **A269**.
 
-**D245 — unklar**
+**D245 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.323–328*
 
 - **D245 — S.324, Kastenüberschrift:** „… und durch Anzeichnen **–** ist identisch!" mit
   Halbgeviertstrich; gedruckt steht der ASCII-Bindestrich „**-**" mit Spatien.
   Vgl. **D61**/**D62**/**D80**/**D185**.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D246 — offen**
 
@@ -2613,7 +2638,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Vorderteil vorbereiten und Kragengestaltung" steht weiterhin in der aktiven Seitendatei.
 
-**D322 — offen**
+**D322 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.329–S.334, dreizehnte Nachprüfung von v3-Seiten*
 
@@ -2623,6 +2648,9 @@ weiteren im Eintragskopf.
   Halbgeviertstrich ist zugefügt. Dieselbe Klasse wie **D185**.
 
 > Maschineller Befund: der Wortlaut "Breiter Schalkragen – Kragenbreite bis zur oder über die Schultermitte" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D323 — unklar**
 
@@ -2713,7 +2741,7 @@ weiteren im Eintragskopf.
 
 ### S.334
 
-**D325 — offen**
+**D325 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.329–S.334, dreizehnte Nachprüfung von v3-Seiten*
 
@@ -2722,6 +2750,8 @@ weiteren im Eintragskopf.
   Trennzeichen; der Gedankenstrich ist zugefügt. Dieselbe Klasse wie **D322**.
 
 > Maschineller Befund: der Wortlaut "Produktionsschnitte: VT und RT – wie der Kragen ans VT gelegt wird, ist optisch in Blau demonstriert" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
 
 
 ### S.335
@@ -2862,7 +2892,7 @@ weiteren im Eintragskopf.
 
 ### S.338
 
-**D306 — offen**
+**D306 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.335–S.340*
 
@@ -2873,7 +2903,10 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "breiter als 7 cm – damit reicht" steht weiterhin in der aktiven Seitendatei.
 
-**D307 — offen**
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
+
+**D307 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung) — S.335–S.340*
 
@@ -2882,6 +2915,9 @@ weiteren im Eintragskopf.
   untereinanderstehende Zeilen ohne Verknüpfungszeichen. Vgl. **D191**.
 
 > Maschineller Befund: der Wortlaut "Breiter Schalkragen – Kragenbreite bis zur oder über die Schultermitte" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D309 — offen** · auch S.339
 
@@ -3157,7 +3193,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "vordere Halslochlänge (vHlL) ausmessen" steht weiterhin in der aktiven Seitendatei.
 
-**D379 — offen**
+**D379 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.341 und S.342–S.346, sechzehnte Nachprüfung von v3-Seiten*
 
@@ -3169,6 +3205,9 @@ weiteren im Eintragskopf.
   **D325**.
 
 > Maschineller Befund: der Wortlaut "Kapuze mit engem Ausschnitt – sehr schmal" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D380 — offen**
 
@@ -3215,7 +3254,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "gewünschte Weite kontrollieren" steht weiterhin in der aktiven Seitendatei.
 
-**D405 — unklar**
+**D405 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.347–S.349 und S.466–S.468, siebzehnte Nachprüfung von v3-Seiten*
 
@@ -3224,6 +3263,9 @@ weiteren im Eintragskopf.
   jedes Trennzeichen; die Parallelunterschriften auf S.346 sind gleich gebaut („sehr schmal",
   „etwas weiter", „weit"). Der Halbgeviertstrich ist zugefügt, die rote Auszeichnung verloren.
   Dieselbe Klasse wie **D185**, **D322** und **D325**.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D412 — offen**
 
@@ -3983,7 +4025,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Die Drehpunkte sind dann" steht weiterhin in der aktiven Seitendatei.
 
-**D428 — offen**
+**D428 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.492–S.497, achtzehnte Nachprüfung von v3-Seiten*
 
@@ -3993,6 +4035,9 @@ weiteren im Eintragskopf.
   Klasse wie **D405**.
 
 > Maschineller Befund: der Wortlaut "Die Drehpunkte sind dann – ausgehend von diesem Schnitt mit zugelegtem Brustabnäher – jeweils an den Schulternähten." steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D430 — offen**
 
@@ -4241,7 +4286,7 @@ weiteren im Eintragskopf.
   hM…"; gedruckt steht auf beiden Seiten „an der Seitenlinie verlaufend aus der Geraden" ohne
   Komma. Zugefügt.
 
-**D458 — nicht maschinell prüfbar** · auch S.501, S.502
+**D458 — erledigt 2026-09-08** · auch S.501, S.502
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.498–S.503, neunzehnte Nachprüfung von v3-Seiten*
 
@@ -4249,6 +4294,8 @@ weiteren im Eintragskopf.
   −2 cm**", „TaU **− 0 bis −5 %**", „HüU **− 15 %**", „WaU **−15 %**"; gedruckt steht überall der
   Halbgeviertstrich „–" statt des Minuszeichens „−", und die Spatien liegen anders („FeU – 0 bis
   – 2 cm", „TaU – 0 bis – 5 %"; **A402**). Zeichen und Abstände sind vereinheitlicht.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
 
 
 ### S.500
@@ -4292,12 +4339,14 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "##### Beispielrechnung" steht weiterhin in der aktiven Seitendatei.
 
-**D469 — unklar**
+**D469 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.498–S.503, neunzehnte Nachprüfung von v3-Seiten*
 
 - **D469 — S.500, Absatz 2:** Transkript „…betragen **–** seltener auch mehr."; gedruckt steht ein
   kurzer **Bindestrich** („betragen - seltener auch mehr."). Der Halbgeviertstrich ist eingesetzt.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
 
 
 ### S.501
@@ -4595,7 +4644,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Weitere Konstruktions-, Kontroll- und Ärmelmaße" steht weiterhin in der aktiven Seitendatei.
 
-**D543 — offen**
+**D543 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.504–S.509, einundzwanzigste Nachprüfung von v3-Seiten*
 
@@ -4604,6 +4653,9 @@ weiteren im Eintragskopf.
   zwischen zwei Leerzeichen, kein Halbgeviertstrich (**A473**). Dieselbe Klasse wie **D405**.
 
 > Maschineller Befund: der Wortlaut "verkleinert werden – umgekehrt aber auch vergrößert werden" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D549 — offen**
 
@@ -4670,7 +4722,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Kürzel | Name | Wert/Berechnung | Ergebnis" steht weiterhin in der aktiven Seitendatei.
 
-**D501 — offen** · auch S.511, S.513
+**D501 — erledigt 2026-09-08** · auch S.511, S.513
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.510–S.515, zwanzigste Nachprüfung von v3-Seiten*
 
@@ -4680,6 +4732,9 @@ weiteren im Eintragskopf.
   wie **D405**.
 
 > Maschineller Befund: der Wortlaut "Brusthöhe – die obere SN" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D502 — offen**
 
@@ -4691,7 +4746,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "Alle Maßangaben in cm." steht weiterhin in der aktiven Seitendatei.
 
-**D504 — offen**
+**D504 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.510–S.515, zwanzigste Nachprüfung von v3-Seiten*
 
@@ -4701,6 +4756,9 @@ weiteren im Eintragskopf.
   VL **–** RüL" mit Halbgeviertstrich — die beiden Zeichen sind gegeneinander vertauscht.
 
 > Maschineller Befund: der Wortlaut "Differenz VL − RüL" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D505 — nicht maschinell prüfbar**
 
@@ -4757,7 +4815,7 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "1 bis 2 cm (Schulterpunkt)" steht weiterhin in der aktiven Seitendatei.
 
-**D497 — offen** · auch S.513
+**D497 — erledigt 2026-09-08** · auch S.513
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.510–S.515, zwanzigste Nachprüfung von v3-Seiten*
 
@@ -4769,13 +4827,19 @@ weiteren im Eintragskopf.
 
 > Maschineller Befund: der Wortlaut "(z. B. −5 % bis −10 %, hier minus 8 %)" steht weiterhin in der aktiven Seitendatei.
 
-**D498 — nicht maschinell prüfbar** · auch S.512, S.513
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
+
+**D498 — erledigt 2026-09-08** · auch S.512, S.513
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.510–S.515, zwanzigste Nachprüfung von v3-Seiten*
 
 - **D498 — S.511, S.512 und S.513, Prozentformeln:** Transkript „(100 % − 8 %) : 100 %"; gedruckt
   „(100% - 8%) : 100%" (**A444**). Bindestrich zu Minuszeichen vereinheitlicht, drei Spatien
   eingefügt.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D503 — nicht maschinell prüfbar**
 
@@ -5211,7 +5275,7 @@ weiteren im Eintragskopf.
   Wert 0,1666… (= 1 : 6). Beide Transkripte setzen „0,16" ohne Überstrich und machen aus einer
   exakten Angabe einen gerundeten Wert. Im Zoom auf beiden Seiten zweifelsfrei.
 
-**D598 — offen** · auch S.524, S.525, S.526, S.527
+**D598 — erledigt 2026-09-08** · auch S.524, S.525, S.526, S.527
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.522–S.527, dreiundzwanzigste Nachprüfung von v3-Seiten*
 
@@ -5224,6 +5288,9 @@ weiteren im Eintragskopf.
   übernommen.
 
 > Maschineller Befund: der Wortlaut "Body-Grundschnitt Variante 1 mit hM-Naht (1)" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D604 — nicht maschinell prüfbar**
 
@@ -5263,13 +5330,16 @@ weiteren im Eintragskopf.
   „HüW **: 10** + 1 bis 1,5 cm"; gedruckt steht durchgängig „HüW **:10**" — Spatium vor dem
   Doppelpunkt, keines danach (**A505**). Geglättet.
 
-**D589 — unklar**
+**D589 — erledigt 2026-09-08**
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.522–S.527, dreiundzwanzigste Nachprüfung von v3-Seiten*
 
 - **D589 — S.524, vierter Absatz:** Transkript „…eine sehr rund gebogene Naht **–** dafür kommt er
   ohne Abnäher aus"; gedruckt steht ein **Bindestrich**, kein Halbgeviertstrich (**A509**).
   Geglättet.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D599 — offen** · auch S.525, S.527
 
@@ -5388,7 +5458,7 @@ weiteren im Eintragskopf.
   Das Transkript dreht die Setzung um und vereinheitlicht damit eine Uneinheitlichkeit des Drucks
   weg. Dieselbe Klasse wie **D567**.
 
-**D613 — offen** · auch S.530, S.533, S.534
+**D613 — erledigt 2026-09-08** · auch S.530, S.533, S.534
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.528–S.534, vierundzwanzigste Nachprüfung von v3-Seiten*
 
@@ -5400,6 +5470,9 @@ weiteren im Eintragskopf.
   an allen sechs Stellen der kurze **Bindestrich** „-". Im Zoom auf allen vier Seiten zweifelsfrei.
 
 > Maschineller Befund: der Wortlaut "Bodysuit – hier konstruiert für Herren" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D614 — offen** · auch S.530, S.532, S.534
 
@@ -5424,7 +5497,7 @@ weiteren im Eintragskopf.
   trägt der Balken **keine** Marke — dort ist die Auslassung richtig, die Transkripte führen sie
   korrekt nicht. Dieselbe Klasse wie **D425** und **D569**.
 
-**D617 — offen** · auch S.531, S.532, S.533
+**D617 — erledigt 2026-09-08** · auch S.531, S.532, S.533
 
 *Einordnung im Prüfstand: D (Fortschreibung v2) — S.528–S.534, vierundzwanzigste Nachprüfung von v3-Seiten*
 
@@ -5439,6 +5512,9 @@ weiteren im Eintragskopf.
   wie **D423** und **D580**.
 
 > Maschineller Befund: der Wortlaut "Bodysuit-Grundschnitt – Ergänzung des engen Oberteil-GS" steht weiterhin in der aktiven Seitendatei.
+
+> **Berichtigt am 2026-09-08.** Werners stehende Entscheidung zu den Strichtypen: überall der ASCII-Bindestrich `-`, kein `–`, kein `—`, kein `−`. In den von diesem Punkt genannten Seitendateien sind alle langen Striche entsprechend ersetzt. Siehe `README_pruefstellen.md`, Abschnitt „Stehende Entscheidungen“.
+
 
 **D618 — offen**
 

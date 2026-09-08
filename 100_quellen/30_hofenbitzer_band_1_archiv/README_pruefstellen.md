@@ -76,6 +76,18 @@ Zwei belegte Gegenstellen bleiben ausgenommen: **D24** (S.146, SaW-Rechnung)
 und **D62** (S.152, Saumeinschlag). Dort nennt der Punkt den langen Strich
 ausdrücklich als gedruckte Form.
 
+**Durchgeführt am 2026-09-08.** Zwei Läufe über alle Seitentranskriptionen:
+
+| | Dateien | Ersetzungen |
+|---|---:|---:|
+| Seiten, die ein Strichtypen-Punkt nennt | 61 | 293 |
+| übrige Seiten | 190 | 884 |
+| **gesamt** | **251** | **1177** |
+
+Übrig sind danach genau die drei Striche der beiden Ausnahmen: zwei in
+`s146.md`, einer in `s152.md`. Betroffen waren nur die `sNNN.md`; die
+Formeldateien wurden nicht angefasst.
+
 Nicht von dieser Entscheidung betroffen sind Bindestriche **innerhalb von
 Wörtern** (D81 „Schlitz-Beleg", D181 „vorde-ren", D208 „Kragen-Kante").
 Das ist eine andere Frage: dort geht es um Worttrennung und Umbruch, nicht
@@ -94,7 +106,20 @@ ist trotzdem lesbar. Erste Anwendung: D32, S.162.
 D7, D8, D15, D24, D32, D34, D36, D37, D56, D57, D61, D62, D77, D79, D80,
 D147, D151, D152, D156.
 
-Zurückgestellt: **D81** (S.165, „Schlitz-Beleg"). Der Punkt sagt, im Druck
-stünden „Schlitz" und „Beleg" auf zwei Zeilen ohne Trennstrich — daraus geht
-nicht hervor, ob das eine umbrochene Beschriftung oder zwei eigenständige
-sind. Das entscheidet sich am Foto.
+**2026-09-08 — 27 Strichtypen-Punkte** über die stehende Entscheidung:
+D35, D100, D149, D159, D185, D186, D220, D244, D245, D306, D307, D322, D325,
+D379, D405, D428, D458, D469, D497, D498, D501, D504, D543, D589, D598, D613,
+D617.
+
+**2026-09-08 — D34 und A127 am Buch geprüft: gegenstandslos.** Werner hat
+S.159 aufgeschlagen: dort steht durchgehend „Hot-Pants" mit Bindestrich, auch
+in der Bildunterschrift □1 und im Randregister. Die Beanstandung trifft nicht
+zu; die am selben Tag vorgenommene Änderung wurde zurückgedreht. Beide Punkte
+bleiben mit diesem Befund stehen — geprüft und nichts gefunden ist etwas
+anderes als nie angeschaut.
+
+Zurückgestellt: **D81** (S.165, „Schlitz-Beleg"), **D181** (S.297,
+„vorde-ren") und **D208** (S.322, „Kragen-Kante"). Alle drei betreffen den
+Bindestrich **innerhalb** eines Wortes, also Worttrennung und Umbruch — nicht
+den Strichtyp. Die stehende Entscheidung deckt sie nicht ab; das entscheidet
+sich am Foto.

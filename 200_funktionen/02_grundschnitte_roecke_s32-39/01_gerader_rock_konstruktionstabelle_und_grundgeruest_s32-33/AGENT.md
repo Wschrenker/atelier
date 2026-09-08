@@ -27,17 +27,10 @@ zusammen. Quellen und mathematische Verträge bleiben an ihren SSOT-Pfaden.
   [`Foto S. 33`](../../../100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s33.jpg)
   und [`Prüfstellen S. 33`](../../../100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/02_grundschnitte_roecke_s32-39/s033.md)
 
-Der Bildabgleich hat zwei Grenzen gezeigt:
-
-1. Die Inhaltsliste im Foto von S. 32 ordnet Konstruktionstabelle S. 32,
-   Grundgerüst S. 33 und Abnäher positionieren S. 34 zu; `s32.md` nennt dafür
-   S. 33, S. 34 und S. 35.
-2. `s32.md` lässt den Absatz aus, dass Band 1 nur einige einfache
-   Figurenprobleme und Konstruktionslösungen behandelt.
-
-Die geschützten Quellen bleiben unverändert. Tabelle, Formeln, Schritte P1–P9
-und Zeichnungsbeschriftungen auf S. 33 stimmen im geprüften Umfang mit dem Foto
-überein.
+Die Inhaltsliste und der zuvor fehlende Absatz zu Haltungs- und
+Wuchsproblemen sind im aktuellen `s32.md` bildgetreu erfasst. Tabelle, Formeln,
+Schritte P1–P9 und Zeichnungsbeschriftungen auf S. 33 stimmen im geprüften
+Umfang mit dem Foto überein.
 
 ## Aktueller Stand
 
