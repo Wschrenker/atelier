@@ -27,8 +27,9 @@ Datei in `100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-
 
 Für `01_gerader_rock_konstruktionstabelle_und_grundgeruest_s32-33/`,
 `02_abnaeher_positionieren_s34/`,
-`03_rueckteil_mit_zwei_abnaehern_s35/` und
-`04_abnaeherformen_schablone_und_produktionsschnitt_s36/` ist die Schrittebene
+`03_rueckteil_mit_zwei_abnaehern_s35/`,
+`04_abnaeherformen_schablone_und_produktionsschnitt_s36/` und
+`05_proportionen_huefte_und_taille_s37/` ist die Schrittebene
 nach dem Bildabgleich angelegt. Ihre lokalen `AGENT.md` führen die bestätigten Schritte.
 In den übrigen Gruppen wächst die Schrittebene erst beim Bearbeiten.
 `schrittkandidaten.md` bleibt nur der ungeprüfte Vergleichsstand.
