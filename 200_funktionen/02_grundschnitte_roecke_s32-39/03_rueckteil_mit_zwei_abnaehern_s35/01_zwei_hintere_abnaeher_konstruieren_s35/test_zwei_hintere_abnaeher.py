@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import math
 import unittest
 
 from zwei_hintere_abnaeher import Punkt2D, zwei_hintere_abnaeher_konstruieren
@@ -96,6 +97,87 @@ class ZweiHintereAbnaeherTest(unittest.TestCase):
                 eingaben[name] = wert
                 with self.assertRaises(ValueError):
                     zwei_hintere_abnaeher_konstruieren(**eingaben)
+
+    def test_widerspruechliche_verteilung_stoppt_vor_der_geometrie(self) -> None:
+        eingaben = dict(BUCH_EINGABEN)
+        eingaben["hinterer_gesamtinhalt_mm"] = 50.0
+
+        with self.assertRaises(ValueError) as context:
+            zwei_hintere_abnaeher_konstruieren(**eingaben)
+
+        self.assertEqual(
+            context.exception.__class__.__name__,
+            "InkonsistenteVerteilungError",
+        )
+
+    def test_entartete_oder_schiefe_grundgeometrie_stoppt_typisiert(self) -> None:
+        for name, wert in (
+            ("p7", Punkt2D(500.0, 0.0)),
+            ("p8", Punkt2D(250.0, 0.0)),
+            ("p8", Punkt2D(500.0, 500.0)),
+        ):
+            with self.subTest(name=name, wert=wert):
+                eingaben = dict(BUCH_EINGABEN)
+                eingaben[name] = wert
+                with self.assertRaises(ValueError) as context:
+                    zwei_hintere_abnaeher_konstruieren(**eingaben)
+                self.assertEqual(
+                    context.exception.__class__.__name__,
+                    "GeometrieVertragError",
+                )
+
+    def test_nicht_endliche_masswerte_stoppen_vor_der_berechnung(self) -> None:
+        for name, wert in (
+            ("taillenausfall_mm", math.inf),
+            ("hueftabstich_mm", math.nan),
+            ("hinterer_gesamtinhalt_mm", -math.inf),
+        ):
+            with self.subTest(name=name):
+                eingaben = dict(BUCH_EINGABEN)
+                eingaben[name] = wert
+                with self.assertRaises(ValueError) as context:
+                    zwei_hintere_abnaeher_konstruieren(**eingaben)
+                self.assertEqual(
+                    context.exception.__class__.__name__,
+                    "NichtEndlicherWertError",
+                )
+
+    def test_negative_verteilungswerte_werden_nicht_als_geometrie_akzeptiert(self) -> None:
+        faelle = (
+            ("taillenausfall_mm", 0.0),
+            ("hueftabstich_mm", -1.0),
+            ("vorderer_abnaeherinhalt_mm", -1.0),
+            ("hinterer_gesamtinhalt_mm", -1.0),
+        )
+        for name, wert in faelle:
+            with self.subTest(name=name):
+                eingaben = dict(BUCH_EINGABEN)
+                eingaben[name] = wert
+                with self.assertRaises(ValueError) as context:
+                    zwei_hintere_abnaeher_konstruieren(**eingaben)
+                self.assertEqual(
+                    context.exception.__class__.__name__,
+                    "WertAusserhalbBereichError",
+                )
+
+    def test_abnaeher_und_hueftbogen_muessen_im_rueckteil_liegen(self) -> None:
+        zu_schmal = dict(BUCH_EINGABEN)
+        zu_schmal.update(
+            p7=Punkt2D(470.0, 0.0),
+            p8=Punkt2D(470.0, 500.0),
+            hinterer_hueftbogenpunkt=Punkt2D(475.0, -10.0),
+        )
+        ausserhalb = dict(BUCH_EINGABEN)
+        ausserhalb["hinterer_hueftbogenpunkt"] = Punkt2D(520.0, -10.0)
+
+        for eingaben in (zu_schmal, ausserhalb):
+            with self.subTest(eingaben=eingaben):
+                with self.assertRaises(ValueError) as context:
+                    zwei_hintere_abnaeher_konstruieren(**eingaben)
+                self.assertEqual(
+                    context.exception.__class__.__name__,
+                    "PositionAusserhalbRueckteilError",
+                )
 
 
 if __name__ == "__main__":
