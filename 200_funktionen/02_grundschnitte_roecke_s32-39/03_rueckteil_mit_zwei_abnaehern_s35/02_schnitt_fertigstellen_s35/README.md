@@ -1,27 +1,62 @@
 # Schnitt fertigstellen — S. 35
 
-## Zweck
+## Aktueller Schritt
 
-Die Taillennaht nach unten schwingen und Vorder- und Rückteil an der Seitennaht
-trennen.
+[Interaktive Kurvenansicht](kurvenansicht.html): Taille und Hüfte für VT/RT
+getrennt einstellen, Ausgangsform vergleichen und offene Nahtlängen ablesen.
+**Werners Freigabe:** „ja. einstellbare kurven entwickeln und mir zeigen.“
+Kurvenfamilie und Reglerbereiche sind unsere digitale Entscheidung, keine
+zusätzliche Hofenbitzer-Formel. Die visuelle Auswahl steht noch aus.
 
-## Aktueller Vertrag
+## Ausführbarer Vertrag
 
-Dieser Schritt besitzt bewusst keinen Python-Primitive:
+- [kurven.py](kurven.py): zwei C1-verbundene kubische Bézierkurven je freiem
+  Taillenabschnitt. Anker bleiben fest; `durchhang_mm >= 0` senkt den
+  Abschnittsmittelpunkt gegenüber seiner Sehne ab. Endtangenten waagrecht.
+- Hüftbogen: monotone Kubik von oberem Seitenpunkt zur Hüftlinie, dort
+  senkrechter Anschluss; expliziter dimensionsloser `0 < form <= 0.5`.
+- Adaptive Messung: Sehnensumme und Kontrollpolygonsumme begrenzen die
+  Kurvenlänge; `fehler_mm` begrenzt Intervallbreite und Abflachungsabstand.
+  Technische Genauigkeit, keine Näh- oder Passformtoleranz.
+- [grundkontur.py](grundkontur.py): geschlossene **Arbeits-Papierkontur** aus
+  diesen Kurven, geraden Abnähermundkanten, Mitte und Saum. Lokale aufrechte
+  Teile, Mitte `(0,0)` links, SN rechts, Millimeter und Y nach unten.
+  Ungeformte Abnäher bleiben interne Linien; kein Abnäherdach/Trueing.
+- Ungültige/entartete/nichtendliche Geometrie stoppt mit `KurvenVertragError`.
+  Kein Einrasten, keine still gewählten fehlenden Fachparameter.
 
-- Die Quelle gibt keine numerisch eindeutige Taillenkurve oder Kontrollpunkte
-  vor; ihre Form bleibt manuell und visuell zu entscheiden.
-- Das Trennen benötigt eine vollständige geschlossene Kontur. Der allgemeine
-  Topologievertrag ist noch offen und die Produktionskontur entsteht erst in
-  den Folgeschritten.
+## Prüfbeispiel und Ansicht
 
-## Belege und spätere Mathematik
+`arbeitsbeispiel()` montiert vorhandene S.-33/34/35-Funktionen unverändert.
+Die ausdrücklich gewählten neutralen Beispielmaße stehen in dieser Funktion
+und in der Ansicht; kein Kundinnenprofil, kein vollständig identischer
+Buchdatensatz. VT und RT haben jeweils lokale Mitte links; die Ansicht
+spiegelt nur die Darstellung des RT. Beide Halbteile erscheinen gleich skaliert.
 
-- [`s35.md`](../../../../100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s35.md), Schritte 22–23
-- [`Bezierkurven`](../../../../400_mathematik/20_codevertraege/50_bezierkurven.md)
-- [`Flächen teilen`](../../../../400_mathematik/20_codevertraege/65_flaechen_teilen_vereinigen_und_kopieren.md)
+[ansicht_erzeugen.py](ansicht_erzeugen.py) erzeugt aus
+[kurvenansicht.vorlage.html](kurvenansicht.vorlage.html) die Offline-HTML.
+Regler wählen in Python berechnete Geometrie, keine zweite JS-Kurvenformel.
+`kurvenansicht.html` ist ausschließlich die reproduzierbare Generatorausgabe.
+Regler ändern keine Datei; Auswahlwerte lassen sich im Textfeld ablesen.
 
-## Prüfgrenze
+Im Schrittordner, ohne Zusatzpakete:
 
-Keine Kontrollpunkte, Kurvenkrümmung oder vollständige Schnittfläche werden
-aus der Zeichnung geraten.
+```bash
+python -m unittest discover -s . -p 'test_*.py' -v
+python ansicht_erzeugen.py
+```
+
+## Belege und Mathematik
+
+- [S. 35, Schritte 22–23](../../../../100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s35.md): geschwungene Taille und getrennte Teile; keine eindeutigen Kontrollpunkte.
+- [Originalfoto](../../../../100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s35.jpg).
+- [Béziervertrag](../../../../400_mathematik/20_codevertraege/50_bezierkurven.md).
+- [Messen und Passung](../../../../400_mathematik/20_codevertraege/70_messen_passung_und_markierungen.md).
+
+## Nächste Grenze
+
+Zuerst die Kurven visuell wählen. Danach Abnäher schließen/ausformen und
+Taillenverlauf sowie Nahtpaarung ausgleichen. Erst darauf Zugaben,
+Saumeinschläge, Rückschnitte und Produktionsmarkierungen aus S. 36 / ab S. 22.
+Taillenlänge ohne Mundkante ist **kein genähter Taillenumfang**. Keine
+Produktionsfreigabe, kein maßstäblicher Zuschnitt, keine CLO-/Toile-Prüfung.

@@ -19,6 +19,6 @@ aufkleben. Dieser Schritt setzt eine fertiggestellte Grundschnittfläche voraus.
 ## Prüfgrenze und Status
 
 Anweisung eingeordnet; keine eigene Rechenformel erforderlich. Die
-Schablone wird hier noch nicht erzeugt: Die vollständige Kontur und die
-manuell bestimmte Taillennaht aus S. 35 fehlen. Beschriftungsdaten werden
+Schablone wird hier noch nicht erzeugt: Die einstellbare Arbeitskontur aus
+S. 35 muss zunächst visuell gewählt und an den Abnähern ausgeglichen werden. Beschriftungsdaten werden
 nicht erfunden; Kundinnendaten bleiben außerhalb dieses neutralen Bausteins.

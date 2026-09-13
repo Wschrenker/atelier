@@ -16,5 +16,6 @@ laden; gemeinsame Prüfgrenzen gelten aus `200_funktionen/AGENT.md`.
 
 Die Punktspiegelung ist der ausführbare Teilumfang. Der vollständige
 Produktionsschnitt bleibt offen; seine nächste Voraussetzung ist eine
-fertiggestellte Grundschnittkontur aus S. 35. Die genaue Quellenabweichung
+fachlich gewählte und ausgeglichene Grundschnittkontur aus S. 35; dort
+liegt jetzt eine einstellbare Arbeitsfassung zur Sichtprüfung vor. Die genaue Quellenabweichung
 und Werners Buchbestätigung stehen ausschließlich im dritten Schritt.

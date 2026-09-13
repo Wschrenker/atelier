@@ -70,9 +70,11 @@ ist nach bestehender Git-Regel ignoriert und nicht Bestandteil eines Commits.
 
 ## Offene Produktionsgrenzen
 
-- Vollständige Grundkontur einschließlich der Taillenform aus
-  [S. 35](../../03_rueckteil_mit_zwei_abnaehern_s35/02_schnitt_fertigstellen_s35/README.md).
-- Zusammenbau zu einer gültigen Schnittfläche; keine Polygonprüfung hier.
+- [S. 35](../../03_rueckteil_mit_zwei_abnaehern_s35/02_schnitt_fertigstellen_s35/README.md)
+  enthält jetzt geschlossene einstellbare Arbeitskonturen. Ihre visuelle Auswahl,
+  Abnäherausgleich und genähte Taillen-/Nahtprüfung bleiben Voraussetzung.
+- Produktionsfähige Schnittfläche einschließlich Abnäherdächer; keine
+  entsprechende Freigabe durch die Punktspiegelung.
 - Nahtzugaben, Saumeinschläge, Rückschnitte, Knipse und Bohrmarkierungen
   benötigen eigene Verträge; Breiten und Positionen werden hier nicht gewählt.
 - Beschriftung, Ausgabeformate, CLO, Toile und Produktionsfreigabe folgen später.

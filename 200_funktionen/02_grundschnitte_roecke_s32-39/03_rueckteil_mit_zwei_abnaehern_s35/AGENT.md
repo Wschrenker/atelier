@@ -2,8 +2,9 @@
 
 ## Rolle
 
-Diese Gruppe setzt ausschließlich die bildgeprüften Schritte 19–26 der
-Buchseite S. 35 um.
+Diese Gruppe setzt die bildgeprüften Schritte 19–26 der Buchseite S. 35 um.
+Die Fertigstellung ergänzt eine von Werner erlaubte eigene digitale
+Kurvenfamilie; sie wird ausdrücklich nicht als Buchformel geführt.
 
 ## Direkte Kinder
 
@@ -14,10 +15,9 @@ Buchseite S. 35 um.
 ## Belegte Grenze
 
 - Aufteilung, Positionen und Längen der zwei hinteren Abnäher sind ausführbar.
-- Schritt 22 verlangt eine nach unten geschwungene Taillennaht, belegt aber
-  keine eindeutige Kurvenform. Sie bleibt eine manuelle/visuelle Entscheidung.
-- Das Trennen von Vorder- und Rückteil benötigt eine vollständige geschlossene
-  Kontur; diese liegt in diesem Schritt noch nicht vor.
+- Schritt 22 belegt keine eindeutige Kurvenform. Im zweiten Schritt stehen
+  einstellbare Arbeitskurven und geschlossene Halbteilkonturen zur Sichtprüfung.
+  Auswahl, Abnäherausgleich und Produktionsfreigabe bleiben offen.
 - Die Verschiebungen aus Schritt 24–25 sind Empfehlungen von ungefähr `5 mm`.
   Der tatsächlich verwendete Betrag bleibt eine sichtbare Fachentscheidung.
 

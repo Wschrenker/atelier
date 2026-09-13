@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Atelier · Rockkontur S. 35 · Kurvenlabor</title>
+<style>
+:root{--papier:#faf8f3;--ink:#24352f;--muted:#58685f;--line:#d4d9d0;--accent:#2c7062;--rust:#a95435}
+*{box-sizing:border-box}body{margin:0;background:var(--papier);color:var(--ink);font:15px/1.5 'Segoe UI',sans-serif}header{padding:21px 30px 16px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;align-items:center;gap:20px}h1{font:normal 29px Georgia,serif;margin:0}header small{letter-spacing:.11em;text-transform:uppercase;font-size:11px}p{margin:8px 0}.status{font-size:13px;color:#854322;background:#f2e6d7;padding:7px 12px}main{display:grid;grid-template-columns:300px 1fr;min-height:calc(100vh - 98px)}aside{padding:22px 25px;border-right:1px solid var(--line)}h2{font-size:16px;margin:0 0 12px}h3{font-size:14px;margin:0 0 12px}fieldset{border:0;border-top:1px solid var(--line);padding:18px 0 10px;margin:17px 0 0}legend{font-weight:650;padding:0 8px 0 0}label.slider{display:flex;justify-content:space-between;font-size:13px;margin-bottom:7px}output{font-variant-numeric:tabular-nums;font-weight:650}input[type=range]{width:100%;accent-color:var(--accent);margin:0 0 14px;cursor:pointer;height:22px}button{font:inherit;background:transparent;color:var(--ink);border:1px solid #b8c5bb;border-radius:4px;padding:8px 12px;cursor:pointer}button:hover,button[aria-pressed=true]{background:#e3ece4}button:focus-visible,input:focus-visible,textarea:focus-visible{outline:3px solid #b48337;outline-offset:3px}.small{font-size:12px;color:var(--muted)}.toggles label{display:block;margin:10px 0;font-size:13px;cursor:pointer}.toggles input{accent-color:var(--accent)}.stage{padding:20px 24px;min-width:0}.tools{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}.legend{font-size:12px;color:var(--muted)}.legend span{margin-right:14px}.legend b{display:inline-block;width:20px;border-top:2px solid var(--accent);vertical-align:middle;margin-right:5px}.legend .dash{border-top:2px dashed #9b8573}.drawing{background:#fffefb;border:1px solid var(--line);min-height:340px;height:calc(100vh - 272px);max-height:850px}svg{width:100%;height:100%;display:block}.outline{fill:#e5ede5;stroke:#426052;stroke-width:.8}.waist,.hip{stroke:var(--accent);stroke-width:1.65;fill:none}.dart{stroke:#566f61;stroke-width:.8;fill:none}.mouth{stroke:#566f61;stroke-width:.8;stroke-dasharray:2 2;fill:none}.reference{stroke:#ae8d73;stroke-width:1.2;stroke-dasharray:4 3;fill:none}.guide{stroke:#a4b4a6;stroke-width:.6;stroke-dasharray:4 3;fill:none}.anchor{fill:var(--rust);stroke:white;stroke-width:.45}svg text{font-family:'Segoe UI',sans-serif;fill:#53695c;font-size:10px}svg .title{font-family:Georgia,serif;font-size:19px;fill:var(--ink)}.measure{display:grid;grid-template-columns:1fr 1fr;gap:25px;margin-top:12px;font-size:13px}.measure strong{font-variant-numeric:tabular-nums}.measure p{margin:3px 0}.note{font-size:12px;color:#854322;padding-top:9px;border-top:1px solid var(--line);margin-top:12px}details{margin-top:14px;font-size:12px;color:var(--muted)}summary{cursor:pointer;font-weight:600}textarea{width:100%;height:130px;padding:8px;background:white;border:1px solid var(--line);font:12px Consolas,monospace}#selection{margin-top:12px}.foot{padding:12px 30px;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}
+@media(max-width:850px){main{grid-template-columns:1fr}aside{border-right:0;border-bottom:1px solid var(--line)}fieldset{display:inline-block;vertical-align:top;width:48%;padding-right:20px}.drawing{height:520px}.stage{padding:18px}header{padding:18px}h1{font-size:23px}}@media print{body:before{content:'ARBEITSANSICHT — NICHT MASSSTÄBLICH ZUSCHNEIDEN';display:block;padding:20px;font-weight:bold}aside,.tools{display:none}main{display:block}.drawing{height:650px}}
+</style>
+<header><div><small>Atelier / Hofenbitzer S. 33–35</small><h1>Die Rockkontur formen</h1></div><div class="status">Arbeitsfassung · Keine Produktionsfreigabe</div></header>
+<main><aside><h2>Kurven einstellen</h2><p class="small">Die Punkte bleiben fest. Du veränderst nur den Verlauf dazwischen. Alle Reglerwerte sind unsere digitale Formwahl, keine Buchformeln.</p>
+<fieldset><legend>Vorderteil · VT</legend><label class="slider" for="vt-taille">Taille: Durchhang <output id="vt-taille-wert"></output></label><input id="vt-taille" type="range" min="0" max="12" step="1" value="4"><label class="slider" for="vt-huefte">Hüfte: Formfaktor <output id="vt-huefte-wert"></output></label><input id="vt-huefte" type="range" min="0" max="16" step="1" value="8"></fieldset>
+<fieldset><legend>Rückteil · RT</legend><label class="slider" for="rt-taille">Taille: Durchhang <output id="rt-taille-wert"></output></label><input id="rt-taille" type="range" min="0" max="12" step="1" value="4"><label class="slider" for="rt-huefte">Hüfte: Formfaktor <output id="rt-huefte-wert"></output></label><input id="rt-huefte" type="range" min="0" max="16" step="1" value="8"></fieldset>
+<p class="small"><b>Durchhang:</b> Absenkung in der Mitte jedes freien Taillenabschnitts. <b>Hüftfaktor:</b> verschiebt die Kurvengriffe in Längsrichtung, nicht die Endpunkte.</p>
+<div class="toggles"><label><input id="vergleich" type="checkbox" checked> Ausgangsform gestrichelt</label><label><input id="punkte" type="checkbox" checked> Feste Konstruktionspunkte</label></div>
+<button id="reset">Ausgangsform wiederherstellen</button>
+<details><summary>Werte für die Rückmeldung</summary><p>Reglerwerte werden beim Neuladen zurückgesetzt. Hier kannst du deine Auswahl ablesen und in den Chat kopieren.</p><textarea id="selection" readonly aria-label="Aktuelle Kurvenauswahl"></textarea></details>
+<details><summary>Was ist fest, was ist noch offen?</summary><p><b>Fest:</b> Konstruktionspunkte aus den vorhandenen Funktionen S. 33–35; Abnäherpositionen und -inhalte, Hüftlinie und Rocklänge.</p><p><b>Eigene Beispielwahl:</b> halbe Hüftweite 500 mm, Hüfttiefe 200 mm, Länge 500 mm, TaU 740 mm. Verteilung aus S. 35: 60 + 15 + 30 + 25 mm. Erhöhungen 10 / 5 / 10÷3 mm, Abnäherlängen 90 / 145 / 130 mm. Kein Kundinnenprofil und kein vollständig identischer Buchdatensatz.</p><p><b>Offen:</b> genähter Taillenverlauf, Ausformen und Ausgleichen der Abnäher, Zugaben, Rückschnitte, Produktionsmarkierungen und Passform. RV bleibt an der Seitennaht; hier werden noch keine RV-Marken gesetzt.</p></details>
+</aside>
+<section class="stage" aria-label="Schnittansicht"><div class="tools"><div><button id="detail" aria-pressed="true">Taille &amp; Hüfte</button> <button id="gesamt" aria-pressed="false">Ganzer Rock</button></div><div class="legend"><span><b></b>Aktuelle Kurve</span><span><b class="dash"></b>Ausgangsform</span></div></div>
+<div class="drawing"><svg id="zeichnung" xmlns="http://www.w3.org/2000/svg" viewBox="-28 -66 656 340" role="img" aria-label="Vorderteil links, Rückteil rechts; Maßstab auf beiden Seiten identisch">
+<defs><pattern id="raster" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#e7ebe3" stroke-width=".5"/></pattern></defs><rect x="-28" y="-66" width="656" height="645" fill="url(#raster)"/>
+<text class="title" x="0" y="-39">Vorderteil</text><text x="0" y="-23">Halbes VT · vM links</text><text class="title" x="600" y="-39" text-anchor="end">Rückteil</text><text x="600" y="-23" text-anchor="end">Halbes RT · hM rechts</text>
+<g id="teil-VT"></g><g id="teil-RT" transform="translate(600 0) scale(-1 1)"></g>
+<text x="5" y="191">Hüftlinie</text><text x="595" y="191" text-anchor="end">Hüftlinie</text><text x="278" y="119">SN</text><text x="308" y="119">SN</text>
+<text x="6" y="270">vM / Bruch</text><text x="594" y="270" text-anchor="end">hM / Naht</text><path d="M5 535H105M5 531V539M105 531V539" stroke="#53695c" fill="none"/><text x="5" y="554">100 mm · Anzeige nicht maßstäblich drucken</text>
+</svg></div>
+<div class="measure"><div><b>Vorderteil</b><p>Taille ohne Abnähermund: <strong id="vt-laenge"></strong></p><p>Seitennaht: <strong id="vt-seite"></strong></p></div><div><b>Rückteil</b><p>Taille ohne Abnähermünder: <strong id="rt-laenge"></strong></p><p>Seitennaht: <strong id="rt-seite"></strong></p></div></div>
+<p class="note" id="passung"></p><p class="small">Taillenlängen sind offene Kurvenlängen ohne Mundkanten, kein Nachweis des genähten Taillenumfangs. Abnäherdächer und das Schließen/Ausgleichen sind noch nicht berechnet.</p>
+</section></main><footer class="foot">Offline · Kurven und Messintervalle in Python berechnet · SVG zeigt dieselben Kontrollpunkte · Kein Zuschnitt aus dieser Ansicht</footer>
+<script id="kurvendaten" type="application/json">__KURVENDATEN__</script>
+<script>
+'use strict';
+const data=JSON.parse(document.getElementById('kurvendaten').textContent);
+const $=id=>document.getElementById(id), ns='http://www.w3.org/2000/svg';
+function svgEl(tag,attrs,parent){const e=document.createElementNS(ns,tag);for(const [k,v] of Object.entries(attrs))e.setAttribute(k,v);parent.appendChild(e);return e;}
+function num(n){return n.toLocaleString('de-CH',{minimumFractionDigits:2,maximumFractionDigits:2});}
+function render(){
+ const selection={},lengths={};
+ for(const name of ['VT','RT']){
+  const id=name.toLowerCase(),d=data.teile[name],wi=Number($(id+'-taille').value),hi=Number($(id+'-huefte').value),w=d.taillen[wi],h=d.hueften[hi];
+  const g=$('teil-'+name);g.replaceChildren();
+  svgEl('path',{class:'outline',d:w.kontur+h.kontur+d.schluss},g);
+  svgEl('path',{class:'guide',d:'M0,200H250'},g);
+  if($('vergleich').checked)svgEl('path',{class:'reference',d:d.taillen[4].naht+d.hueften[8].naht},g);
+  svgEl('path',{class:'waist',d:w.naht,'data-role':'taille'},g);
+  svgEl('path',{class:'hip',d:h.naht,'data-role':'huefte'},g);
+  svgEl('path',{class:'dart',d:d.abnaeher},g);
+  svgEl('path',{class:'mouth',d:d.muender},g);
+  if($('punkte').checked)for(const p of d.anker)svgEl('circle',{class:'anchor',cx:p.x_mm,cy:p.y_mm,r:1.75},g);
+  $(id+'-taille-wert').textContent=num(data.durchhang_mm[wi])+' mm';
+  $(id+'-huefte-wert').textContent=num(data.hueftform[hi]);
+  $(id+'-laenge').textContent=num((w.laenge_mm[0]+w.laenge_mm[1])/2)+' mm';
+  $(id+'-seite').textContent=num((h.laenge_mm[0]+h.laenge_mm[1])/2)+' mm';
+  lengths[name]=h.laenge_mm;
+  selection[name]={durchhang_mm:data.durchhang_mm[wi],hueftform:data.hueftform[hi]};
+ }
+ const delta=(lengths.RT[0]+lengths.RT[1]-lengths.VT[0]-lengths.VT[1])/2;
+ $('passung').textContent='Seitennaht-Differenz RT − VT: '+num(delta)+' mm. '+(Math.abs(delta)<0.01?'Rechnerisch gleiche Länge in dieser Ansicht; keine Nähfreigabe.':'Unterschiedliche Hüftformen verändern die Nahtlänge. Vor dem Nähen ausgleichen.');
+ $('selection').value=JSON.stringify({modell:'s35_einstellbare_arbeitskurven_v1',...selection,status:data.status},null,2);
+}
+for(const id of ['vt-taille','rt-taille','vt-huefte','rt-huefte','vergleich','punkte'])$(id).addEventListener('input',render);
+$('reset').addEventListener('click',()=>{for(const id of ['vt-taille','rt-taille'])$(id).value=4;for(const id of ['vt-huefte','rt-huefte'])$(id).value=8;render();});
+function zoom(detail){$('zeichnung').setAttribute('viewBox',detail?'-28 -66 656 340':'-28 -66 656 645');$('detail').setAttribute('aria-pressed',detail);$('gesamt').setAttribute('aria-pressed',!detail);}
+$('detail').addEventListener('click',()=>zoom(true));$('gesamt').addEventListener('click',()=>zoom(false));render();
+</script></html>
