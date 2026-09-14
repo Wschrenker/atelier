@@ -1,68 +1,44 @@
-# 200_funktionen — lokale Arbeitsregeln
+# 200_funktionen — Arbeitsregeln
 
-## Aufgabe
+## Ziel
 
-Dieser Ordner ist die funktionale Roadmap und spätere Montageschicht für belegte Hofenbitzer-Konstruktionen. Ein vorhandener Ordner bedeutet nicht automatisch, dass eigener Python-Code nötig ist.
-
-## Die zwei Ebenen
-
-**Ebene 1 — Kapitel.** Die zwölf Kapitel des Buches, benannt wie ihre Gegenstücke in `100_quellen/10_hofenbitzer_band_1_digital/`.
-
-**Ebene 2 — Gruppen.** Ein Eintrag aus dem Inhaltsverzeichnis des Buches (S. 4–7). Die Seitenbereiche laufen in jedem Kapitel zusammenhängend und ohne Überlappung durch. **Hier liegt die Vollständigkeit**: jede Buchseite ist genau einmal abgedeckt, eine offene Seite ist an ihrer Gruppe erkennbar.
-
-**Ebene 3 — Schritte.** Wächst beim Arbeiten, nicht vorab. Ein Schrittordner entsteht erst, wenn die Buchseite gelesen und der Schritt als eigene Arbeitseinheit erkannt wurde. Ein leerer Ordner auf Vorrat ist keine Aussage über den Buchinhalt.
-
-Jedes Kapitel führt eine `schrittkandidaten.md`: die Schrittliste eines früheren, nie am Buch bestätigten Durchgangs. Sie dient beim Aufbau der Schrittebene zum Vergleichen, ist aber kein Arbeitsauftrag — beim Bearbeiten gilt, was am Buch gelesen wird.
-
-## Arbeitsfolge
-
-```text
-Quelle und Bild prüfen
-→ Prüfstellen klären
-→ Sprache und Fachbegriffe zuordnen
-→ normalisierte Fachformel bestimmen
-→ benötigten Mathematikvertrag verlinken
-→ kleinste Python-Primitive bauen
-→ digital, visuell und später physisch prüfen
-```
-
-- `100_quellen/` besitzt Buchfassung, Bilder und normalisierte Fachformeln.
-- `400_mathematik/20_codevertraege/` besitzt modeblinde Rechen- und Geometrieverträge.
-- Der aktive Schrittordner besitzt nur seine konkrete fachliche Zusammensetzung, Python-Funktion und Tests.
-- Quellen und Mathematik werden verlinkt, nicht kopiert.
-- Reine Näh-, Zuschnitt-, Beschriftungs- oder Gestaltungsanweisungen benötigen nicht zwangsläufig eigene Rechenlogik.
-
-## Prüf- und Statusgrenzen
-
-Rechnerisch vollständig, technisch geprüft und an einer realen Figur fachlich
-freigegeben sind drei verschiedene Zustände.
-
-- Ein grüner Python-Test bestätigt nur den technischen Rechen- oder
-  Geometrievertrag.
-- `vollstaendig` bei einer Kontrollsumme heißt nur, dass die ausdrücklich
-  eingegebenen Beträge rechnerisch aufgehen.
-- Digitale Geometrie, CLO-Prüfung, Toile, Anprobe und Produktionsfreigabe
-  bleiben getrennte Nachweisstufen.
-- Fehlende fachliche Entscheidungen werden nicht durch technische Vorgabewerte
-  ersetzt.
-
-Diese Grenze gilt für die ganze Funktionsschicht, nicht nur für Röcke.
+Hier entsteht zuerst ein gerader Rock nach menschlich geprüftem Hofenbitzer-Wissen und den Verträgen aus `400_mathematik/`. Der Python-Code wird aus kleinen Modulen aufgebaut, die klare Anschlüsse besitzen und später zu Röcken, Oberteilen, Kleidern oder einem Brautkleid zusammengesetzt werden können.
 
 ## Direkte Kinder
 
-- `02_grundschnitte_roecke_s32-39/`
-- `03_modelle_roecke_s40-105/`
-- `04_grundschnitte_hosen_s106-137/`
-- `05_modelle_hosen_s138-170/`
-- `06_grundschnitte_oberteile_s171-196/`
-- `07_grundschnitte_aermel_s197-220/`
-- `08_aermel_varianten_s221-289/`
-- `09_kragen_kapuzen_taschen_s290-369/`
-- `10_ausschnitte_s370-437/`
-- `11_modelle_kleider_blusen_westen_s438-464/`
-- `12_modelle_jacken_s465-492/`
-- `13_sportswear_waesche_unisex_s493-534/`
+- `10_grundschnitte_roecke_s32-39/` — aktiver Grundschnittbereich für den geraden Rock.
+- `20_modelle_roecke_s40-105/` — spätere Rockmodelle; nur bei konkretem Auftrag laden.
+
+Neue Ordner entstehen erst für einen tatsächlich benötigten, belegten Codebaustein. Keine leeren Ordner auf Vorrat.
+
+## Grundlage eines Codebausteins
+
+- Die fachlich geprüfte Buchregel und ihre Quellen liegen in `100_quellen/`.
+- Benötigte Mathematik- und Geometrieverträge liegen in `400_mathematik/10_codevertraege/`.
+- Der Modulordner besitzt die konkrete Zusammensetzung, Python-Funktion, Tests und bei Bedarf eine kurze Spec.
+- Jedes Modul benennt Eingaben, Ausgaben, Einheiten, Abhängigkeiten, Fehlerfälle und Anschlussstellen.
+- Quellen und Mathematik werden verlinkt und verwendet, nicht kopiert oder neu erfunden.
+
+## Zwei-KI-Arbeitszug
+
+1. Eine **koordinierende KI** grenzt einen einzelnen Codebaustein ab und erstellt einen Vorprompt mit Ziel, Quellen, Mathematikverträgen, erlaubtem Dateibereich, erwarteten Anschlüssen und bekannten offenen Punkten.
+2. Die **codierende KI** führt zuerst nur die Bereitschaftsprüfung durch. Sie bestätigt, dass alle Zutaten vorhanden sind, oder nennt gezielt fehlende Quellen, Entscheidungen, Verträge oder Angaben.
+3. Fehlendes wird von Werner mit KI-Unterstützung geklärt und aufbereitet. Ohne ausreichende Grundlage beginnt die Codierung nicht.
+4. Danach erhält die codierende KI den Hauptprompt und implementiert ausschließlich den freigegebenen Baustein.
+5. Sie liefert Code, betroffene Tests und einen Bericht über Änderungen, Ergebnisse, Grenzen und offene Punkte an die koordinierende KI zurück.
+6. Die koordinierende KI prüft Diff, Tests und die Anschlussfähigkeit unabhängig, bevor der Baustein weiterverwendet wird.
+
+Hermes und Claude können beide Code erstellen oder prüfen. Die Rollen werden pro Auftrag festgelegt; in einem gemeinsamen Arbeitsbaum schreibt immer nur eine KI gleichzeitig.
+
+## Grenzen
+
+- Zuerst den geraden Rock vollständig aus den benötigten Modulen zusammensetzen; spätere Kleidungsstücke bleiben außerhalb des aktiven Scopes.
+- Fachlich ungeprüftes Wissen wird nicht als gültige Regel codiert.
+- Eine offene Prüfstelle blockiert nur den davon abhängigen Baustein.
+- Vorhandene Module und Verträge wiederverwenden, statt unverbundene Sonderlösungen zu bauen.
+- Technische Tests beweisen keine fachliche Passform; digitale Prüfung, CLO, Nessel und Anprobe bleiben getrennt.
+- Die Schutzregeln aus der obersten `AGENT.md` gelten vollständig.
 
 ## Ladeweise
 
-Zuerst diese Datei, dann nur das lokale `AGENT.md` des aktiven direkten Kindes. Tiefer wird ebenfalls nur entlang des aktiven Pfads geladen.
+Diese Datei lesen, dann nur das `AGENT.md` des aktiven direkten Kindes sowie die für den konkreten Baustein benannten Quellen, Mathematikverträge und die lokale Spec.

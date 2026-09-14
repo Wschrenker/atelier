@@ -1,11 +1,8 @@
-# Grundschnitte Röcke S. 32–39 — lokale Navigation
+# Grundschnitte Röcke S. 32–39 — Arbeitsregeln
 
-## Rolle
+## Ziel
 
-Diese Ebene folgt dem Inhaltsverzeichnis des Buches (S. 4, Abschnitt
-„Grundschnitte: Röcke"). Jede Gruppe ist ein Eintrag des Inhaltsverzeichnisses,
-die Seiten laufen zusammenhängend und ohne Überlappung durch. Nur der aktive
-direkte Kindordner wird weiter geladen.
+Dieser Bereich wird zuerst als modularer gerader Rock nach menschlich geprüftem Hofenbitzer-Wissen vollständig codiert. Maßgeblich ist [`spec_gerader_rock.md`](spec_gerader_rock.md).
 
 ## Direkte Kinder
 
@@ -17,24 +14,15 @@ direkte Kindordner wird weiter geladen.
 - `06_rock_an_natuerlicher_taille_taillenvertiefung_s38/`
 - `07_gerader_bund_s39/`
 
-## Grenze
+## Ladeweise
 
-Die Gruppennummer folgt der Buchreihenfolge, nicht einem Sachthema. Ein Schritt
-liegt in der Gruppe seiner ersten Buchseite. Die Fachquelle bleibt eine einzige
-Datei in `100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/`.
+Diese Datei und die Spec lesen. Danach nur das `AGENT.md` des aktiven Kindes sowie die dort benötigten geprüften Quellen und Mathematikverträge laden.
 
-## Schrittebene
+## Grenzen
 
-Für `01_gerader_rock_konstruktionstabelle_und_grundgeruest_s32-33/`,
-`02_abnaeher_positionieren_s34/`,
-`03_rueckteil_mit_zwei_abnaehern_s35/`,
-`04_abnaeherformen_schablone_und_produktionsschnitt_s36/` und
-`05_proportionen_huefte_und_taille_s37/` ist die Schrittebene
-nach dem Bildabgleich angelegt. Ihre lokalen `AGENT.md` führen die bestätigten Schritte.
-In den übrigen Gruppen wächst die Schrittebene erst beim Bearbeiten.
-`schrittkandidaten.md` bleibt nur der ungeprüfte Vergleichsstand.
-
-Eine Stelle aus dieser Liste bleibt beim späteren Lesen im Auge:
-
-- `taillenmehrweite_kontrollieren_s39` und `taillenmehrweite_pruefen_s39`
-  standen früher in verschiedenen Gruppen und könnten derselbe Schritt sein.
+- Die Fachquelle bleibt `100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/`.
+- Der aktive Codebaustein besitzt nur seine Python-Funktion, Tests und seinen kurzen lokalen Vertrag.
+- Jeder Baustein muss seine Eingaben, Ausgaben und Anschlüsse so festlegen, dass er mit den anderen Rockmodulen zusammengesetzt werden kann.
+- Ungeprüftes Fachwissen wird nicht codiert; offene Punkte außerhalb des aktiven Bausteins verhindern dessen Arbeit nicht.
+- Rockmodelle ab S. 40 werden erst später bearbeitet.
+- Die Regeln aus den übergeordneten `AGENT.md` gelten vollständig.
