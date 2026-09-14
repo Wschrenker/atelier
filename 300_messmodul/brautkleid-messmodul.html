@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Brautkleid-Messmodul · Pattern Engine 5.5</title>
+    <script>
+      // Schutz: Diese Seite ist eine Server-App. Direkt als Datei (file://) geoeffnet
+      // laedt der Browser weder Styles noch Module. Dann statt leerer Seite ein Hinweis.
+      if (location.protocol === "file:") {
+        document.addEventListener("DOMContentLoaded", function () {
+          document.title = "Bitte ueber das Desktop-Icon starten";
+          document.body.innerHTML =
+            '<div style="max-width:640px;margin:12vh auto;padding:32px;font-family:system-ui,Segoe UI,sans-serif;color:#30282d;text-align:center;line-height:1.6">' +
+            '<h1 style="font-family:Georgia,serif;font-weight:500">Bitte ueber das Programm starten</h1>' +
+            '<p>Dieses Messmodul ist eine kleine Programm-Anwendung und kann nicht direkt als Datei geoeffnet werden.</p>' +
+            '<p><strong>So oeffnest du es richtig:</strong><br>Doppelklick auf das Desktop-Icon <em>&bdquo;Brautkleid-Messmodul&ldquo;</em><br>oder auf <code>start-brautkleid.cmd</code> im Engine-Ordner.</p>' +
+            '<p style="color:#746970">Der Browser oeffnet sich dann von selbst.</p>' +
+            "</div>";
+        });
+      }
+    </script>
+    <link rel="stylesheet" href="/brautkleid-messmodul.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#measurementForm">Direkt zu den Maßen</a>
+    <div class="app-shell">
+      <header class="module-header">
+        <div>
+          <p class="eyebrow">Pattern Engine 5.5 · Messprofil v0.1</p>
+          <h1>Körpermaße für das Brautkleid</h1>
+          <p class="lead">Die gewählte Grundform bleibt erhalten. Die Messstrecken stammen aus der geprüften Transkription S. 12–15; HüT wird als echtes Körpermaß nach Werner-Entscheid 2026-07-11 erfasst, mit der Buch-Konstante auf S. 20–31 als Quellenbeleg. S. 11 dient nur der Proportion des neu gezeichneten Schemas.</p>
+          <a class="back-link" href="/brautkleid-grundformen.html">← Grundform ändern</a>
+        </div>
+        <div class="shape-card" aria-label="Gewählte Brautkleid-Grundform">
+          <span>Gewählte Grundform</span>
+          <strong id="selectedShapeLabel"></strong>
+          <code id="selectedShapeId"></code>
+        </div>
+      </header>
+
+      <aside class="measurement-context">
+        <strong>Vor dem Messen</strong>
+        <p id="measurementContext"></p>
+        <span>Quelle: Hofenbitzer, Band 1, S. 12</span>
+      </aside>
+
+      <main class="measurement-workspace">
+        <form id="measurementForm" class="measure-panel" novalidate>
+          <section class="bride-panel" aria-labelledby="bridesTitle">
+            <div class="bride-panel-heading">
+              <div>
+                <p class="eyebrow">Braut-Verwaltung</p>
+                <h2 id="bridesTitle">Bräute</h2>
+              </div>
+              <button id="newBrideButton" class="secondary-button" type="button">Neue Braut</button>
+            </div>
+            <div id="brideList" class="bride-list" aria-label="Gespeicherte Bräute"></div>
+            <label class="bride-field-label" for="brideName">Name</label>
+            <input id="brideName" class="bride-field" type="text" autocomplete="name" placeholder="Name der Braut">
+            <label class="bride-field-label" for="brideNotes">Notizen <span>(optional)</span></label>
+            <textarea id="brideNotes" class="bride-field" rows="2" placeholder="Freie Notizen"></textarea>
+            <div class="bride-actions">
+              <button id="saveBrideButton" class="bride-save-button" type="button">Speichern</button>
+              <button id="deleteBrideButton" class="danger-button" type="button" disabled>Löschen</button>
+            </div>
+            <p id="brideStatus" class="form-status" role="status"></p>
+          </section>
+
+          <section class="passformklasse-panel" aria-labelledby="passformklasseTitle">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">Passform</p>
+                <h2 id="passformklasseTitle">Passformklasse</h2>
+              </div>
+            </div>
+            <p class="passformklasse-intro">
+              Wie körpernah soll das Kleid sitzen? Die Passformklasse steuert die Taillenzugabe des
+              Oberteils — niedriger sitzt enger, höher lässt mehr Mehrweite. Das ist eine
+              Design-Entscheidung, kein Körpermaß. Die Empfehlung ist sichtbar vorgewählt und änderbar.
+            </p>
+            <div id="passformklasseOptions" class="passformklasse-options" role="radiogroup" aria-labelledby="passformklasseTitle"></div>
+          </section>
+
+          <section class="passformklasse-panel" aria-labelledby="waistSlopeFrontTitle">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">Figur-Beobachtung</p>
+                <h2 id="waistSlopeFrontTitle">Taillenschräglage vorne</h2>
+              </div>
+            </div>
+            <p class="passformklasse-intro">
+              Figur-Beobachtung, kein Körpermaß. Vorzeichen: Taillenband steigt +, fällt −,
+              waagerecht 0.
+            </p>
+            <label class="bride-field-label" for="waistSlopeFrontInput">Schräglage vorne <span>(cm)</span></label>
+            <input id="waistSlopeFrontInput" class="bride-field" type="number" step="any" value="0" inputmode="decimal">
+          </section>
+
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">01 Erfassen</p>
+              <h2>Messstellen</h2>
+            </div>
+            <div class="measurement-status-cluster">
+              <span id="enteredCount" class="count-pill">0 erfasst</span>
+              <span id="figureStatusCompact" class="figure-status-compact is-incomplete">Offen</span>
+            </div>
+          </div>
+          <label class="search-label" for="measurementSearch">Maß suchen</label>
+          <input id="measurementSearch" type="search" autocomplete="off" placeholder="z. B. Rücken, BrU, links">
+          <div id="measurementGroups" class="measurement-groups"></div>
+          <button class="primary-button" type="submit">Messprofil bereitstellen</button>
+          <p id="formStatus" class="form-status" role="status"></p>
+        </form>
+
+        <section class="visual-panel" aria-labelledby="visualTitle">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">02 Messstelle</p>
+              <h2 id="visualTitle">Grafische Orientierung</h2>
+            </div>
+            <span id="sourcePill" class="source-pill"></span>
+          </div>
+
+          <section id="figurePlausibilityPanel" class="figure-plausibility-panel is-incomplete" aria-labelledby="figurePlausibilityTitle" aria-live="polite">
+            <div class="figure-plausibility-heading">
+              <div>
+                <p class="eyebrow">Figur-Plausibilität</p>
+                <h3 id="figurePlausibilityTitle">Noch nicht vollständig prüfbar</h3>
+              </div>
+              <span id="figureStatusPill" class="figure-status-pill">Offen</span>
+            </div>
+            <p id="figurePlausibilitySummary" class="figure-plausibility-summary">Für die vollständige Prüfung fehlen noch Messwerte.</p>
+            <div id="figurePlausibilityFeedback" class="figure-plausibility-feedback"></div>
+            <details class="figure-technical-details">
+              <summary>Fachliche Details</summary>
+              <div id="figurePlausibilityDetails" class="figure-check-list"></div>
+            </details>
+          </section>
+
+          <div id="viewTabs" class="view-tabs" role="tablist" aria-label="Körperansicht"></div>
+          <div class="schema-frame">
+            <svg id="bodySchema" viewBox="0 0 240 520" role="img" aria-labelledby="schemaTitle schemaDescription">
+              <title id="schemaTitle"></title>
+              <desc id="schemaDescription"></desc>
+              <g id="bodyDrawing"></g>
+              <g id="measurementGuide"></g>
+            </svg>
+            <p id="viewHint" class="view-hint"></p>
+          </div>
+
+          <article class="instruction-card" aria-live="polite">
+            <div class="measure-title-row">
+              <div>
+                <p id="measurePosition" class="measure-position"></p>
+                <h3 id="measureLabel"></h3>
+              </div>
+              <strong id="measureAbbreviation" class="abbreviation"></strong>
+            </div>
+            <div class="measurement-kind-row">
+              <span id="rawMeasurementBadge" class="raw-measurement-badge" hidden>Rohmaß</span>
+              <output id="constructionValue" class="construction-value" aria-live="polite" hidden></output>
+            </div>
+            <p id="measureInstruction"></p>
+            <p class="source-line"><strong>Quelle:</strong> <span id="measureSource"></span></p>
+          </article>
+
+          <details class="profile-preview">
+            <summary>Strukturiertes Messobjekt</summary>
+            <pre id="profileOutput"></pre>
+          </details>
+        </section>
+      </main>
+    </div>
+    <script type="module" src="/brautkleid-messmodul.js"></script>
+  </body>
+</html>
