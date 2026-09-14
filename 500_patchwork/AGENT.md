@@ -22,7 +22,9 @@ Code" verlangt.
 
 ## Ladeweise
 
-1. Zuerst `PRODUKTZIEL.md` und `ARCHITEKTUR.md` im Repo-Wurzelordner lesen.
+1. Zuerst `PRODUKTZIEL.md`, `ARCHITEKTUR.md` und `DATENMODELL.md` im
+   Repo-Wurzelordner lesen (`DATENMODELL.md` definiert u. a. `Bausteinvertrag`,
+   das die offene Frage zum Baustein-Katalog in `SPEC.md` berührt).
 2. Danach diese Datei und `SPEC.md`.
 3. Erst danach, falls einschlägig, `300_messmodul/` ansehen (bestehendes
    Messmodul, dessen Stil und Datenformen als Orientierung dienen).

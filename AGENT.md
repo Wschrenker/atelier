@@ -6,8 +6,9 @@ Arbeitsordner: `C:\ATELIER`
 
 1. Zuerst [`PRODUKTZIEL.md`](PRODUKTZIEL.md) lesen.
 2. Danach [`ARCHITEKTUR.md`](ARCHITEKTUR.md) lesen.
-3. Bei Ordnerarbeit nur der `AGENT.md`-Kette entlang des tatsächlich bearbeiteten Pfads folgen.
-4. Für einen Codeschritt nur die zugehörigen verifizierten Quellen, Verträge und die lokale Spec laden.
+3. Danach [`DATENMODELL.md`](DATENMODELL.md) lesen.
+4. Bei Ordnerarbeit nur der `AGENT.md`-Kette entlang des tatsächlich bearbeiteten Pfads folgen.
+5. Für einen Codeschritt nur die zugehörigen verifizierten Quellen, Verträge und die lokale Spec laden.
 
 ## Arbeitsfluss
 
@@ -34,7 +35,9 @@ Eine offene Prüfstelle blockiert nur den Codeschritt, der von ihr abhängt. Fac
 - `000_sprache/`: Fachbegriffe, Abkürzungen und Symbole.
 - `100_quellen/`: Buchdaten, Bilder, Formeln, Prüfstellen und Quellenstatus.
 - `200_funktionen/`: verbindungsfähige Schnittmusterfunktionen und Tests.
+- `300_messmodul/`: Maßeingabe-Oberflächen, die Körpermaße für die Engine erfassen (aktuell: Brautkleid-Messmodul).
 - `400_mathematik/`: modeblinde Mathematik- und Geometriewerkzeuge.
+- `500_patchwork/`: visuelle Bausteinauswahl für ein Kleidungsstück (welcher Baustein, welche Position); Konzeptphase, kein Code.
 - `800_werners spick/`: Orientierung und Denkmodelle; keine automatische Fachwahrheit.
 
 ## Grenzen
