@@ -215,6 +215,36 @@ nützlich sein.
 - welche Ausgaben langfristige Ziele sind;
 - welche reale Prüfung für welche Produktstufe notwendig ist.
 
+**Für die erste Öffnung festgelegt (Werner, 14. September 2026):**
+
+- Erstes vollständiges Werkstück ist ein digitaler und physischer gerader Rock,
+  der aus freigegebenen Körpermaßen ein Schnittmuster erzeugt.
+- Größe 38 ist die bewusst gewählte, globale Ausgangsbasis für den Code aller
+  Schnittmuster; sie ist keine Begrenzung auf Größe 38.
+- Mindesteingaben sind Taille, Hüfte und Rocklänge. Weitere Maße werden nur
+  ergänzt, wenn sie fachlich nachweisbar nötig sind; fehlende Maße werden nicht
+  geschätzt. Werner gibt Maße frei.
+- Ein lokales Bedien-Modul zeigt eine Rockskizze und bietet feste, keine frei
+  verschiebbaren Wahlen: zwei Abnäher vorn und/oder zwei Abnäher hinten;
+  Verschluss keine / Reißverschluss / Knopf / Reißverschluss und Knopf; Position
+  Seite oder hinten.
+- Das Werkstück erzeugt SVG, PDF und DXF. DXF dient dem bereits erprobten Import
+  in CLO 3D.
+- Buchtreue gilt. Eine Ableitung bei Buchfehlern oder technischen Grenzen braucht
+  Werners ausdrückliche Entscheidung.
+- Der erste reale Durchfluss näht und beurteilt eine bewusst gewählte
+  Referenzvariante als Nessel in Größe 38. Alle vereinbarten Varianten müssen im
+  Bedien-Modul wählbar sein. Vor der Akzeptanz wird die Referenzvariante
+  mindestens in einer weiteren Größe ebenfalls als Nessel genäht und anprobiert.
+- Zielnutzen ist verlässlich entwickelte Maßkleidung: gezieltere Stoffbestellung,
+  Proben, Fotografie, Werbung und Verkauf werden dadurch möglich.
+
+**Reale Abschlussfrage:** Ein gerader Rock ist akzeptiert, wenn er von der
+Grundbasis Größe 38 aus anhand freigegebener Körpermaße berechnet, im
+Bedien-Modul in seinen vereinbarten Varianten gewählt, als SVG/PDF/DXF
+reproduzierbar ausgegeben, in CLO 3D geprüft und als Nessel in Größe 38 sowie
+mindestens einer weiteren Größe passend anprobiert wurde.
+
 **Hält, wenn:** Jede technische Entscheidung auf ein sichtbares Produktziel und
 eine reale Prüfart zurückgeführt werden kann.
 
