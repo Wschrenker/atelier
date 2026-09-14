@@ -255,16 +255,39 @@ eine reale Prüfart zurückgeführt werden kann.
 Die Grundordnung lautet:
 
 ```text
-Werner → Hermes → Claude Code → technische Tests → CLO / Nessel → Werner
+Werner / Munkhuu → Hermes → Claude Code → technische Tests → CLO / Nessel → Werner / Munkhuu
 ```
 
-- Werner entscheidet Richtung und fachliche Wirklichkeit.
+- Werner und Munkhuu entscheiden Richtung und fachliche Wirklichkeit.
 - Hermes übersetzt Entscheidungen in begrenzte Arbeit, schützt den Zusammenhang
   und prüft unabhängig.
 - Claude Code baut ein klar abgegrenztes technisches Werkstück.
 - Tests bestätigen nur ihren technischen Prüfbereich.
 - CLO und Nessel liefern fachliche und physische Beobachtungen.
-- Werner entscheidet, was diese Beobachtungen für den nächsten Stand bedeuten.
+- Werner oder Munkhuu entscheiden, was diese Beobachtungen für den nächsten Stand
+  bedeuten.
+
+**Für die erste Öffnung festgelegt (Werner, 14. September 2026):**
+
+- Werner und Munkhuu sind gleichberechtigte Bauherren. Beide dürfen fachliche,
+  technische und reale Entscheidungen treffen sowie einen technischen Git-Stand
+  jeweils allein freigeben. Munkhuu schneidert; Werner verantwortet Büro, KI und
+  Stick.
+- Hermes darf einen klar abgegrenzten Claude-Auftrag auslösen, wenn dessen
+  Voraussetzungen, erlaubter Datei-Scope und fachliche Entscheidungen sichtbar
+  sind. Hermes legt bei Unklarheit einen eigenen Vorschlag mit Begründung vor.
+- Claude darf die interne technische Umsetzung und Tests innerhalb seines engen
+  Auftrags selbst entscheiden. Er darf keine Fachregel, Produktgrenze oder
+  Architekturentscheidung erweitern.
+- Bei Widerspruch oder fehlender fachlicher Entscheidung stoppt Claude, berichtet
+  konkret und baut keine Annahme weiter. Der Bericht geht an Hermes; Hermes und
+  ein berechtigter Bauherr entscheiden den nächsten Auftrag.
+- Technische Tests belegen nur die vereinbarte technische Regel. CLO, Nessel und
+  Anprobe sind Beobachtungen, keine automatische Codeänderung. Ihre Bedeutung
+  entscheidet Werner oder Munkhuu.
+- Ein nicht passender Versuch bewahrt den letzten technisch funktionierenden
+  Stand. Ein neuer Versuch entsteht sichtbar daneben; ein akzeptierter Stand wird
+  nicht still überschrieben.
 
 **Hält, wenn:** Kein Agentenergebnis ohne sichtbare Entscheidungskette zur neuen
 fachlichen Wahrheit wird.
