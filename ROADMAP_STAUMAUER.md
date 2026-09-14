@@ -373,6 +373,28 @@ Noch offen:
 Bereit für Technik: ja / nein / teilweise
 ```
 
+**Für die erste Öffnung festgelegt (Werner, 14. September 2026):**
+
+- Einlaufkontrolle betrifft nur den tatsächlich für den geraden Rock benötigten
+  Seitenbereich, nicht das ganze Hofenbitzer-Buch.
+- Werner macht die erste menschliche Einordnung. Munkhuu wirkt mit, wenn
+  Bildbedeutung, Form oder Nähpraxis fachlich beurteilt werden müssen.
+- Pro benötigter Seite werden mindestens Zweck, Buchtext und Bildbedeutung,
+  benötigte Maße/Formeln, Fachbegriffe, offene Prüfstelle, Werner-/Munkhuu-
+  Verständnis und der Status „bereit für Technik: ja / nein / teilweise“ sichtbar.
+- Der klare, begrenzte Teil einer Seite darf codiert werden, obwohl eine andere
+  Einzelheit offen bleibt. Die offene Grenze wird dabei sichtbar geführt.
+- Bei unterschiedlicher Lesart von Bild und Text hält Werner oder Munkhuu die
+  konkrete Bildlesart fest, bevor sie als Fachregel codiert wird. Jede benötigte
+  Formel wird gegen Buchtext und Buchbild sowie durch Werner oder Munkhuu geprüft.
+- Quellen werden nicht nach `200_funktionen` kopiert. Menschlich vollständig
+  verifizierte, aufbereitete Seiten werden später ohne Prüfstellen nach
+  `100_quellen/11_hofenbitzer_band_1_human_verifiziert` überführt. Dort sind Bild,
+  Text und Formel zusammen auffindbar.
+- „Bereit für Technik“ heißt nicht „das ganze Buch verstanden“, sondern: Der für
+  das Werkstück benötigte Teil ist belegt oder bewusst entschieden; offene Punkte
+  und ihre Grenzen sind sichtbar.
+
 **Hält, wenn:** Die KI benennen kann, was belegt, entschieden, vorgeschlagen und
 offen ist, ohne Lücken mit plausiblen Annahmen zu füllen.
 
@@ -399,6 +421,20 @@ ATELIER-Dach
 - Ein späterer Einschub erzwingt keine Umbenennung bestehender Nachbarn.
 - Überlaufgruppen bleiben verständlich.
 - Pfade sind Adressen, keine fachliche Wahrheit.
+
+**Für die erste Öffnung festgelegt (Werner, 14. September 2026):**
+
+- Bestehende Nummern sind dauerhafte Adressen und werden nicht umnummeriert, nur
+  weil später eine vermeintlich bessere Ordnung denkbar wäre.
+- Die geprüften Hofenbitzer-Seiten erhalten ihren eigenen Statusbereich als
+  Schwesterbereich der digitalen Quellfassung; der konkrete Zielpfad besitzt
+  Bauteil 5.4.
+- Seitennamen wie `s32.md` bleiben stabil. Status wird durch Ordner und Inhalt,
+  nicht durch wechselnde Dateinamen sichtbar.
+- Größere neue Nummernbereiche werden erst bei realem Bedarf entschieden.
+- Eine neue Ordner- oder Nummernstufe entsteht nur, wenn sie eine eigenständige
+  Aufgabe, einen eigenen Arbeitszustand oder eine fachliche Kategorie sichtbar
+  trennt — nicht allein wegen Dateimenge oder Ordnungsliebe.
 
 **Hält, wenn:** Neue Bereiche eingefügt werden können, ohne die bestehende
 Arbeitswelt wieder umzubauen.
