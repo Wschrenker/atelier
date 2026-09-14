@@ -218,9 +218,9 @@ class GrundgeruestTest(unittest.TestCase):
         self.assertEqual(
             geruest.provenienz.math_contracts,
             (
-                "400_mathematik/20_codevertraege/10_numerik_einheiten_und_toleranzen.md",
-                "400_mathematik/20_codevertraege/20_punkte_vektoren_geraden_und_projektion.md",
-                "400_mathematik/20_codevertraege/80_parameterketten_und_neuberechnung.md",
+                "400_mathematik/10_codevertraege/01_numerik_einheiten_und_toleranzen.md",
+                "400_mathematik/10_codevertraege/02_punkte_vektoren_geraden_und_projektion.md",
+                "400_mathematik/10_codevertraege/09_zz_01_parameterketten_und_neuberechnung.md",
             ),
         )
         self.assertEqual(

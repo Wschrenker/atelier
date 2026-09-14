@@ -107,9 +107,9 @@ def seitennaht_oben_nach_vorn_verschieben(
             source_page=35,
             source_statement="Schritt 24",
             math_contracts=(
-                "400_mathematik/20_codevertraege/20_punkte_vektoren_geraden_und_projektion.md",
-                "400_mathematik/20_codevertraege/30_transformationen.md",
-                "400_mathematik/20_codevertraege/80_parameterketten_und_neuberechnung.md",
+                "400_mathematik/10_codevertraege/02_punkte_vektoren_geraden_und_projektion.md",
+                "400_mathematik/10_codevertraege/03_transformationen.md",
+                "400_mathematik/10_codevertraege/09_zz_01_parameterketten_und_neuberechnung.md",
             ),
             input_names=("seitennaht_oben", "richtungspunkt_vorne"),
             selected_options=(("verschiebung_mm", verschiebung_mm),),
@@ -197,10 +197,10 @@ def abnaeher_spitze_zur_seitennaht_verschieben(
             source_page=35,
             source_statement="Schritte 25-26",
             math_contracts=(
-                "400_mathematik/20_codevertraege/20_punkte_vektoren_geraden_und_projektion.md",
-                "400_mathematik/20_codevertraege/30_transformationen.md",
-                "400_mathematik/20_codevertraege/70_messen_passung_und_markierungen.md",
-                "400_mathematik/20_codevertraege/80_parameterketten_und_neuberechnung.md",
+                "400_mathematik/10_codevertraege/02_punkte_vektoren_geraden_und_projektion.md",
+                "400_mathematik/10_codevertraege/03_transformationen.md",
+                "400_mathematik/10_codevertraege/08_messen_passung_und_markierungen.md",
+                "400_mathematik/10_codevertraege/09_zz_01_parameterketten_und_neuberechnung.md",
             ),
             input_names=(
                 "schenkel_a",

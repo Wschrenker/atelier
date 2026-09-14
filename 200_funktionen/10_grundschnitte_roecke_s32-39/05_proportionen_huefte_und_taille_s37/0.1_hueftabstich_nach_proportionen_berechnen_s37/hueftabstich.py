@@ -102,8 +102,8 @@ def hueftabstich_berechnen(
             source_page=37,
             formula_ids=(formula_id,),
             math_contracts=(
-                "400_mathematik/20_codevertraege/10_numerik_einheiten_und_toleranzen.md",
-                "400_mathematik/20_codevertraege/80_parameterketten_und_neuberechnung.md",
+                "400_mathematik/10_codevertraege/01_numerik_einheiten_und_toleranzen.md",
+                "400_mathematik/10_codevertraege/09_zz_01_parameterketten_und_neuberechnung.md",
             ),
             input_names=("taillenausfall_mm",),
             selected_options=(

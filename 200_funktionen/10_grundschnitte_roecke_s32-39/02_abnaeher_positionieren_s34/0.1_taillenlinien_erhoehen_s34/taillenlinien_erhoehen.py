@@ -165,9 +165,9 @@ def taillenlinien_erhoehen(
             source_statement="Erhoehte Taillenlinien, Schritte 10-12",
             formula_ids=("HOF-B1-S034-F02",),
             math_contracts=(
-                "400_mathematik/20_codevertraege/10_numerik_einheiten_und_toleranzen.md",
-                "400_mathematik/20_codevertraege/20_punkte_vektoren_geraden_und_projektion.md",
-                "400_mathematik/20_codevertraege/80_parameterketten_und_neuberechnung.md",
+                "400_mathematik/10_codevertraege/01_numerik_einheiten_und_toleranzen.md",
+                "400_mathematik/10_codevertraege/02_punkte_vektoren_geraden_und_projektion.md",
+                "400_mathematik/10_codevertraege/09_zz_01_parameterketten_und_neuberechnung.md",
             ),
             input_names=(
                 "p7",

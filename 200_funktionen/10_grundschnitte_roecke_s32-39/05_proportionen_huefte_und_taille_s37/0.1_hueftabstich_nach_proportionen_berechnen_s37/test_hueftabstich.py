@@ -112,7 +112,7 @@ class HueftabstichTest(unittest.TestCase):
         import sys
         kapitel = Path(__file__).resolve().parents[2]
         pfad = (kapitel / "01_gerader_rock_konstruktionstabelle_und_grundgeruest_s32-33"
-                / "01_konstruktionstabelle_erstellen_s32-33" / "konstruktionstabelle.py")
+                / "0.1_konstruktionstabelle_erstellen_s32-33" / "konstruktionstabelle.py")
         name = "s37_test_vorgaenger_s33"
         spec = importlib.util.spec_from_file_location(name, pfad)
         modul = importlib.util.module_from_spec(spec)

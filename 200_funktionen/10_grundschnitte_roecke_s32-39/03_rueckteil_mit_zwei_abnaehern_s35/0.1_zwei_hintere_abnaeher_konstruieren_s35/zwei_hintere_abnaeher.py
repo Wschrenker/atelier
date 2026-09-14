@@ -385,9 +385,9 @@ def zwei_hintere_abnaeher_konstruieren(
             source_statement="Rückteil mit zwei RT-Abnähern, Schritte 19-21",
             formula_ids=("HOF-B1-S035-F01",),
             math_contracts=(
-                "400_mathematik/20_codevertraege/10_numerik_einheiten_und_toleranzen.md",
-                "400_mathematik/20_codevertraege/20_punkte_vektoren_geraden_und_projektion.md",
-                "400_mathematik/20_codevertraege/80_parameterketten_und_neuberechnung.md",
+                "400_mathematik/10_codevertraege/01_numerik_einheiten_und_toleranzen.md",
+                "400_mathematik/10_codevertraege/02_punkte_vektoren_geraden_und_projektion.md",
+                "400_mathematik/10_codevertraege/09_zz_01_parameterketten_und_neuberechnung.md",
             ),
             input_names=(
                 "p7",

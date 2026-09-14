@@ -61,10 +61,10 @@ def arbeitsbeispiel() -> dict[str, Teilbasis]:
     S.-35-Verteilung: Hüftabstich 60, VT 15, RT 30+25 mm.
     Nicht alle diese Entscheidungen sind ein zusammengehöriger Buchdatensatz.
     """
-    g = _laden('geruest', '01_gerader_rock_konstruktionstabelle_und_grundgeruest_s32-33/02_grundgeruest_zeichnen_s33/grundgeruest.py')
-    e = _laden('erhoehung', '02_abnaeher_positionieren_s34/01_taillenlinien_erhoehen_s34/taillenlinien_erhoehen.py')
+    g = _laden('geruest', '01_gerader_rock_konstruktionstabelle_und_grundgeruest_s32-33/0.2_grundgeruest_zeichnen_s33/grundgeruest.py')
+    e = _laden('erhoehung', '02_abnaeher_positionieren_s34/0.1_taillenlinien_erhoehen_s34/taillenlinien_erhoehen.py')
     h = _laden('hueftpunkte', '02_abnaeher_positionieren_s34/03_hueftbogen_und_abnaeher_zeichnen_s34/hueftbogen_und_abnaeher.py')
-    r = _laden('rueckteil', '03_rueckteil_mit_zwei_abnaehern_s35/01_zwei_hintere_abnaeher_konstruieren_s35/zwei_hintere_abnaeher.py')
+    r = _laden('rueckteil', '03_rueckteil_mit_zwei_abnaehern_s35/0.1_zwei_hintere_abnaeher_konstruieren_s35/zwei_hintere_abnaeher.py')
     geruest = g.grundgeruest_zeichnen(modelllaenge_mm=500,huefttiefe_mm=200,halbe_hueftweite_mm=500)
     erhoeht = e.taillenlinien_erhoehen(p7=geruest.p7,p8=geruest.p8,
         taillenlinie_start=geruest.p1,taillenlinie_ende=geruest.p4,
