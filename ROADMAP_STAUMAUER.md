@@ -313,6 +313,23 @@ Diese Zuläufe haben unterschiedliche Autorität. Ein Bild kann eine Form zeigen
 ohne eine exakte Kurvenformel zu liefern. Ein grüner Test kann eine Rechnung
 bestätigen, ohne den Sitz am Körper zu beweisen.
 
+**Für die erste Öffnung festgelegt (Werner, 14. September 2026):**
+
+- Hofenbitzer ist die fachliche Hauptquelle für die erste Rock-Konstruktion. Bei
+  abweichender oder mehrdeutiger Lesart hat das Buchbild Vorrang vor dem Buchtext.
+- Munkhuus Schneiderpraxis darf eine Buchregel ersetzen. Die ursprüngliche
+  Buchregel bleibt als Quelle erhalten; die Abweichung wird getrennt mit ihrem
+  Grund als Entscheidung festgehalten.
+- CLO, Nessel und Anprobe liefern Beobachtungen, zum Beispiel „an der Hüfte zu
+  eng“. Sie sind nicht selbst eine neue Konstruktionsregel.
+- Später dürfen weitere sorgfältig von Werner ausgewählte Fachquellen,
+  beispielsweise zu Corsett oder Corsage, als gleichwertige Fachquellen dienen.
+- Jede wichtige Aussage trägt ihre Herkunft: Buchseite, Munkhuus Schneiderpraxis,
+  Werner-/Munkhuu-Entscheid, CLO-/Nessel-Beobachtung oder technischer Vorschlag.
+- Bei Unklarheit wird situativ entschieden, ob Codierung stoppt oder ein klar als
+  Kandidat markierter Versuch gebaut wird. Diese Entscheidung bleibt bei Werner
+  oder Munkhuu; sie darf weder Quelle noch Fachregel still ersetzen.
+
 **Hält, wenn:** Jede wichtige Aussage erkennen lässt, aus welchem Zulauf sie
 stammt und wie weit dieser Zulauf sie tatsächlich trägt.
 
