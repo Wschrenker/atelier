@@ -159,4 +159,4 @@ Nach dem Pilot wird geprüft:
 
 ## Aktueller nächster Schritt
 
-Werner prüft zuerst den vorhandenen globalen Pflichtkontext und anschließend `spec_gerader_rock.md`. Danach wird der kleinste vollständige Pilotweg zwischen Messmodul, Patchwork-Modul und geradem Rock gemeinsam festgelegt.
+Werner prüft den vollständigen Pilotauftrag in `spec_gerader_rock.md`. Danach werden für den ersten begrenzten Codebaustein nur die benötigten Quellen, Mathematikverträge und offenen Fachentscheidungen bestimmt.

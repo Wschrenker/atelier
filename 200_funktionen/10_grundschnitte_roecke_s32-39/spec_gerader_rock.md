@@ -53,6 +53,23 @@ Jeder Baustein erhält einen kleinen Vertrag mit:
 
 Ein späterer Schritt übernimmt berechnete Ergebnisse über diese Anschlüsse; er setzt keine Ergebnisse früherer Schritte von Hand neu ein. Eine übergeordnete Rockfunktion verbindet die Module und gibt vollständige Schnittteile zurück. DXF, SVG und PDF verwenden dieselbe geprüfte Geometrie.
 
+## Vollständiger Pilotauftrag
+
+Der erste durchgängige Referenzauftrag verbindet das Personenprofil aus dem Messmodul mit der Auswahl aus dem Patchwork-Dashboard:
+
+| Herkunft | Typ | ID | Wert an der Engine-Grenze |
+|---|---|---|---:|
+| Messmodul | `MeasurementValue` | `waist_circumference_horizontal` | 720 mm |
+| Messmodul | `MeasurementValue` | `hip_circumference_horizontal` | 970 mm |
+| Messmodul | `MeasurementValue` | `waist_to_hip` | 210 mm |
+| Dashboard | `ChoiceValue` | `garment` | `straight_skirt` |
+| Dashboard | `ChoiceValue` | `model_length` | 500 mm |
+| Dashboard | `ChoiceValue` | `waistband` | gewählt |
+| Dashboard | `ChoiceValue` | `zipper_position` | hintere Mitte |
+| Engine | automatische Regel | `darts` | automatisch berechnen |
+
+Die `bridal_engine_v2` erhält daraus einen versionierten `ModuleRequest`. Erwartet wird ein validierter `ModuleResult` mit Vorderteil, Rückenteil und Bund, gemeinsamer Provenienz und sichtbaren Fehlerzuständen. Der Reißverschluss wird erst Bestandteil des Ergebnisses, wenn sein eigener belegter Codebaustein vorhanden und angeschlossen ist; bis dahin darf das Dashboard ihn nicht anbieten.
+
 ## Schnittteile und Ausgabe
 
 - Vorderteil: im Bruch;
