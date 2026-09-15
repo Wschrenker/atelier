@@ -7,8 +7,9 @@ Arbeitsordner: `C:\ATELIER`
 1. Zuerst [`PRODUKTZIEL.md`](PRODUKTZIEL.md) lesen.
 2. Danach [`ARCHITEKTUR.md`](ARCHITEKTUR.md) lesen.
 3. Danach [`DATENMODELL.md`](DATENMODELL.md) lesen.
-4. Bei Ordnerarbeit nur der `AGENT.md`-Kette entlang des tatsächlich bearbeiteten Pfads folgen.
-5. Für einen Codeschritt nur die zugehörigen verifizierten Quellen, Verträge und die lokale Spec laden.
+4. Bei Planung und Arbeitsübergaben zusätzlich [`ROADMAP.md`](ROADMAP.md) lesen.
+5. Bei Ordnerarbeit nur der `AGENT.md`-Kette entlang des tatsächlich bearbeiteten Pfads folgen.
+6. Für einen Codeschritt nur die zugehörigen verifizierten Quellen, Verträge und die lokale Spec laden.
 
 ## Arbeitsfluss
 
