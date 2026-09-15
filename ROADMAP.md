@@ -62,7 +62,7 @@ So besitzt jede Session ein gemeinsames Gedächtnis, ohne mit dem ganzen Reposit
 | Wichtigkeit | Datei und Ort | Aufgabe |
 |---|---|---|
 | A | `300_messmodul/AGENT.md` | Regelt den Bereich, seine direkten Kinder, die Grenze zwischen Körpermaß und Beobachtung sowie die Übergabe an `DATENMODELL.md`. |
-| A | `300_messmodul/SPEC.md` — **nur bei Beginn des Piloten anlegen** | Soll die für den Rock benötigten Maß-IDs, Einheiten, Pflichtwerte, Seitenwerte, Validierung und das erzeugte Personenprofil festlegen. |
+| A | `300_messmodul/SPEC.md` | Legt für den Rock-Pilot Maß-IDs, Einheiten, Pflichtwerte, Validierung und die Übergabe des Personenprofils fest. |
 
 Der vorhandene Code wird beim Pilot über eine kleine `SPEC.md` an den gemeinsamen Vertrag angeschlossen; kein vorsorglicher Detailbestand.
 
