@@ -61,10 +61,10 @@ So besitzt jede Session ein gemeinsames Gedächtnis, ohne mit dem ganzen Reposit
 
 | Wichtigkeit | Datei und Ort | Aufgabe |
 |---|---|---|
-| A | `300_messmodul/AGENT.md` — **noch anzulegen** | Soll den Bereich, seine direkten Kinder, die Grenze zwischen Körpermaß und Beobachtung sowie die Übergabe an `DATENMODELL.md` regeln. |
+| A | `300_messmodul/AGENT.md` | Regelt den Bereich, seine direkten Kinder, die Grenze zwischen Körpermaß und Beobachtung sowie die Übergabe an `DATENMODELL.md`. |
 | A | `300_messmodul/SPEC.md` — **nur bei Beginn des Piloten anlegen** | Soll die für den Rock benötigten Maß-IDs, Einheiten, Pflichtwerte, Seitenwerte, Validierung und das erzeugte Personenprofil festlegen. |
 
-Der Ordner ist derzeit leer. Deshalb wird noch kein vorsorglicher Detailbestand angelegt.
+Der vorhandene Code wird beim Pilot über eine kleine `SPEC.md` an den gemeinsamen Vertrag angeschlossen; kein vorsorglicher Detailbestand.
 
 ### Patchwork-Modul
 

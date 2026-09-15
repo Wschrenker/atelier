@@ -36,10 +36,12 @@ Eine offene Prüfstelle blockiert nur den Codeschritt, der von ihr abhängt. Fac
 - `000_sprache/`: Fachbegriffe, Abkürzungen und Symbole.
 - `100_quellen/`: Buchdaten, Bilder, Formeln, Prüfstellen und Quellenstatus.
 - `200_funktionen/`: verbindungsfähige Schnittmusterfunktionen und Tests.
-- `300_messmodul/`: Maßeingabe-Oberflächen, die Körpermaße für die Engine erfassen (aktuell: Brautkleid-Messmodul).
+- `300_messmodul/`: Maßeingabe-Oberflächen, die Körpermaße und Beobachtungen für die Engine erfassen (aktuell: Brautkleid-Messmodul).
 - `400_mathematik/`: modeblinde Mathematik- und Geometriewerkzeuge.
-- `500_patchwork/`: visuelle Bausteinauswahl für ein Kleidungsstück (welcher Baustein, welche Position); Konzeptphase, kein Code.
+- `500_patchwork/`: visuelles Eingabewerkzeug für die Auswahl und Positionierung tatsächlich codierter Kleidungsbausteine; Oberfläche noch in Konzeptphase.
 - `800_werners spick/`: Orientierung und Denkmodelle; keine automatische Fachwahrheit.
+- `900_prompts/`: Ablage für die späteren Arbeitsübergaben der koordinierenden KI an die codierende KI sowie deren Rückgaben.
+- `910_repertoire/`: kurze, leicht lesbare Bestandsübersichten zu vorhandenen Modulen; Orientierung, keine technische Spec.
 
 ## Grenzen
 
