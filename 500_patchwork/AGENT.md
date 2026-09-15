@@ -9,10 +9,9 @@ kein Ersatz für `300_messmodul/` (Körpermaße) und keine Konstruktionsengine.
 
 ## Status
 
-Konzeptphase. Kein Code, keine Oberfläche, kein festgelegtes Datenformat.
-Bevor hier programmiert wird, muss geklärt sein, welchen Baustein das Modul
-zuerst abbildet — sonst fehlt der Bezug, den `SPEC.md` unter "ehrlich zum
-Code" verlangt.
+Pilotumfang für den geraden Rock festgelegt. Noch kein Code, keine Oberfläche
+und kein festgelegtes Datenformat; verbindlich sind die Entscheidungen in
+`SPEC.md` und der Grundsatz "ehrlich zum Code".
 
 ## Direkte Kinder
 

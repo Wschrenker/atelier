@@ -1,8 +1,7 @@
 # Patchwork-Modul — Konzept
 
-> Stand 2026-09-14. Erster Entwurf aus einem Gespräch mit Werner, noch nichts
-> davon ist entschieden im Sinne von "so wird es gebaut" — nur "darum geht
-> es". Format, Technik und Ordnerbeziehungen sind offen.
+> Pilotentscheidungen für den geraden Rock sind festgehalten. Format und Technik
+> der späteren Oberfläche bleiben offen.
 
 ## Zweck
 
@@ -64,10 +63,22 @@ implementiert ist:
 4. **Zusammenspiel mit dem Messmodul** — beide Ausgaben zusammen sind der
    Input, der die Engine "zündet" (Werners Wort).
 
+## Erster Pilot: gerader Rock
+
+- Das Dashboard bietet zunächst nur den geraden Rock an.
+- Vorderteil und Rückenteil sind Pflicht; der Bund ist abwählbar.
+- Die Rocklänge wird aus drei festen Werten gewählt. Die Werte werden erst aus dem fachlich geprüften Buchkontext festgelegt.
+- Abnäher werden automatisch berechnet und sind nicht wählbar.
+- Der Reißverschluss ist zunächst nur in der hinteren Mitte vorgesehen.
+- Nicht codierte Möglichkeiten bleiben unsichtbar.
+
+Der Reißverschluss darf erst erscheinen, wenn der zugehörige Codebaustein
+tatsächlich vorhanden und mit dem Rock verbunden ist.
+
 ## Beispiel aus dem Gespräch
 
-Reißverschluss am geraden Rock, seitlich oder rückwärtig. Heute existiert
-dafür kein Baustein — nur ein Bund-Übertritt in
+Reißverschluss am geraden Rock, im ersten Pilot nur in der hinteren Mitte. Heute existiert
+dafür noch kein Baustein — nur ein Bund-Übertritt in
 `300_messmodul/src/drafting/straight-skirt.js`. Das wäre ein Kandidat für den
 ersten echten Eintrag im Baustein-Katalog, sobald der Reißverschluss-Baustein
 selbst gebaut ist.
@@ -85,6 +96,4 @@ selbst gebaut ist.
   Codeverträgen unter `400_mathematik/10_codevertraege`? etwas Drittes?).
 - Verhältnis zu `300_messmodul` im Code: eigenständige Anwendung, die sich
   später verbindet, oder von Anfang an ein gemeinsames Datenmodell?
-- Welches Kleidungsstück und welcher Baustein werden zuerst abgebildet?
-- Wie wird "noch nicht gebaut" sichtbar von "gebaut, aber hier nicht
-  gewählt" unterschieden?
+- Welche drei Rocklängen sind durch den geprüften Buchkontext fachlich belegt?
