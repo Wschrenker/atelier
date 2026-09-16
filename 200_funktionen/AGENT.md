@@ -23,10 +23,11 @@ Neue Ordner entstehen erst für einen tatsächlich benötigten, belegten Codebau
 
 1. Eine **koordinierende KI** grenzt einen einzelnen Codebaustein ab und erstellt einen Vorprompt mit Ziel, Quellen, Mathematikverträgen, erlaubtem Dateibereich, erwarteten Anschlüssen und bekannten offenen Punkten.
 2. Die **codierende KI** führt zuerst nur die Bereitschaftsprüfung durch. Sie bestätigt, dass alle Zutaten vorhanden sind, oder nennt gezielt fehlende Quellen, Entscheidungen, Verträge oder Angaben.
-3. Fehlendes wird von Werner mit KI-Unterstützung geklärt und aufbereitet. Ohne ausreichende Grundlage beginnt die Codierung nicht.
-4. Danach erhält die codierende KI den Hauptprompt und implementiert ausschließlich den freigegebenen Baustein.
-5. Sie liefert Code, betroffene Tests und einen Bericht über Änderungen, Ergebnisse, Grenzen und offene Punkte an die koordinierende KI zurück.
-6. Die koordinierende KI prüft Diff, Tests und die Anschlussfähigkeit unabhängig, bevor der Baustein weiterverwendet wird.
+3. Erkennt die codierende KI einen fachlichen Sonderfall, eine Unklarheit oder einen möglichen Hinweis für Verarbeitung oder Passform, legt sie das Softwareverhalten nicht selbst fest. Sie fragt konkret, ob der Fall blockiert, automatisch behandelt oder als nicht blockierende `warning` mit Wert und betroffener Stelle auf dem Schnittmuster ausgegeben werden soll.
+4. Fehlendes und solche Einzelfälle werden von Werner mit KI-Unterstützung geklärt und im zuständigen lokalen Vertrag festgehalten. Ohne ausreichende Grundlage beginnt die abhängige Codierung nicht; unabhängige Teile bleiben arbeitsfähig.
+5. Danach erhält die codierende KI den Hauptprompt und implementiert ausschließlich den freigegebenen Baustein und das ausdrücklich entschiedene Verhalten.
+6. Sie liefert Code, betroffene Tests und einen Bericht über Änderungen, Ergebnisse, Grenzen und offene Punkte an die koordinierende KI zurück.
+7. Die koordinierende KI prüft Diff, Tests und die Anschlussfähigkeit unabhängig, bevor der Baustein weiterverwendet wird.
 
 Hermes und Claude können beide Code erstellen oder prüfen. Die Rollen werden pro Auftrag festgelegt; in einem gemeinsamen Arbeitsbaum schreibt immer nur eine KI gleichzeitig.
 

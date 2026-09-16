@@ -22,7 +22,7 @@ Die Typen beschreiben die verbindliche Bedeutung an Modulgrenzen. Python darf si
 | `Connection` | `id`, `kind`, `geometry_ref`, erlaubte Gegenanschlüsse |
 | `PatternPiece` | `id`, `name`, Naht- und Schnittpfad, Anschlüsse, Markierungen, Zuschnittangabe, Status |
 | `Provenance` | Quellen, Regeln, Eingaben, Entscheidungen und Vertragsversion |
-| `ValidationIssue` | `code`, `message`, optional `data_ref` oder `geometry_ref` |
+| `ValidationIssue` | `code`, `message`, `severity` (`warning` oder `error`), optional `data_ref` oder `geometry_ref` |
 | `ValidationResult` | `valid`, Liste der `issues` |
 | `ModuleRequest` | `module_id`, `contract_version`, benötigte Werte, Entscheidungen und Geometrieanschlüsse |
 | `ModuleResult` | `module_id`, `contract_version`, erzeugte Werte, Geometrie, Anschlüsse, Provenienz und Validierung |
@@ -62,7 +62,7 @@ Jeder anschlussfähige Baustein benennt:
 - abgeleitete Konstruktionswerte;
 - Punkte, Linien, Kurven, Flächen und Schnittteile;
 - Provenienz: Regel, Quelle, Abhängigkeiten und Bausteinversion;
-- Validierungsstatus und offene Fehler.
+- Validierungsstatus, nicht blockierende Hinweise und offene Fehler.
 
 ### 5. Schnittteil
 
@@ -85,6 +85,7 @@ DXF, SVG und maßstäbliche PDF werden aus demselben geprüften Konstruktionssta
 - Körpermaß, Beobachtung, Wahlwert und berechneter Wert dürfen nicht vermischt werden.
 - Jede Ableitung nennt ihre Eingaben und ihren Quellen- oder Regelbezug.
 - Fehlende, ungültige oder fachlich offene Daten erzeugen einen sichtbaren Zustand statt eines stillen Ersatzwerts.
+- Eine `warning` blockiert die Schnitterzeugung nicht. Wenn sie die Verarbeitung oder Passform betrifft, erscheint sie mit Wert und betroffener Stelle auch sichtbar auf dem ausgegebenen Schnittmuster; nur ein `error` stoppt den abhängigen Schritt.
 - Technische Prüfung, CLO-Prüfung, Nessel und Anprobe bleiben getrennte Nachweise.
 
 ## Datenfluss

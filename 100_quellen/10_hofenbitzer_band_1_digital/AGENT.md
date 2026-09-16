@@ -77,7 +77,7 @@ zulässig.
 
 ## Zweite Ausnahme: die erzeugte Arbeitsansicht
 
-`pruefstellen_nach_seiten/` ist keine Quelle, sondern eine **abgeleitete
+`09_zz_zz_01_pruefstellen_nach_seiten/` ist keine Quelle, sondern eine **abgeleitete
 Ansicht**. Sie enthält keinen eigenen Inhalt: jede ihrer 472 Dateien wird
 aus den fünf Zusammenzügen im Archiv erzeugt.
 
@@ -85,8 +85,8 @@ Dieser Ordner darf deshalb überschrieben werden — aber **nur** durch das
 Skript, nie von Hand:
 
 ```text
-python 600_prozess/werkzeuge/pruefstellen_ansicht_bauen.py             Probelauf
-python 600_prozess/werkzeuge/pruefstellen_ansicht_bauen.py --schreiben
+python 100_quellen/30_hofenbitzer_band_1_archiv/werkzeuge/pruefstellen_ansicht_bauen.py             Probelauf
+python 100_quellen/30_hofenbitzer_band_1_archiv/werkzeuge/pruefstellen_ansicht_bauen.py --schreiben
 ```
 
 Dabei gilt:
@@ -101,7 +101,7 @@ Dabei gilt:
    (`*1 erledigt (D7) — Wortlaut in der Archivquelle.*`). Die Ansicht zeigt
    damit die offene Arbeit; der vollständige Beleg steht im Archiv.
 5. Das Skript liest die Seitentranskriptionen und Formeldateien nicht und
-   schreibt außerhalb von `pruefstellen_nach_seiten/` nichts.
+   schreibt außerhalb von `09_zz_zz_01_pruefstellen_nach_seiten/` nichts.
 
 ## Dritte Ausnahme: fototreue Berichtigung nach belegtem D-Punkt
 
@@ -190,7 +190,7 @@ aber die zugehörige Datei `formeln_sNNN_normalisiert.md` fehlt.
 | [`12_modelle_jacken_s465-492`](12_modelle_jacken_s465-492/) | 465–492 | 24 | 5 | 19 |
 | [`13_sportswear_waesche_unisex_s493-534`](13_sportswear_waesche_unisex_s493-534/) | 493–534 | 38 | 25 | 13 |
 | [`14_anhang_sachwortverzeichnis_s535-544`](14_anhang_sachwortverzeichnis_s535-544/) | 535–544 | 6 | 5 | 1 |
-| [`pruefstellen_nach_seiten`](pruefstellen_nach_seiten/) | seitenweise Prüfstellen | – | – | – |
+| [`09_zz_zz_01_pruefstellen_nach_seiten`](09_zz_zz_01_pruefstellen_nach_seiten/) | seitenweise Prüfstellen | – | – | – |
 | **Gesamt** | **1–544** | **425** | **188** | **237** |
 
 ## Offene Normalisierungen nach Bereich

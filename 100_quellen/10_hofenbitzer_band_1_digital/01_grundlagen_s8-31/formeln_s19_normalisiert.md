@@ -118,11 +118,11 @@ brusttiefe = gemessene_brusttiefe - halslochbreite
 | `brusttiefe` | Brusttiefe | `BrT` | cm |
 
 - **Abhängigkeiten:** `gemessene_brusttiefe`, `halslochbreite`; `halslochbreite` kann nach `HOF-B1-S019-F01` bestimmt werden.
-- **Gültigkeitsbereich:** Rechenfeld der Maßtabelle auf S. 19; dort sind rechte, linke und durchschnittliche Messwerte vorgesehen.
+- **Gültigkeitsbereich:** Rechenfeld der Maßtabelle auf S. 19; dort sind rechte, linke und durchschnittliche Messwerte vorgesehen. S. 17 legt fest, dass die Brusttiefe an beiden Körperseiten gemessen und in der Regel der Durchschnitt zur endgültigen Brusttiefe `BrT` gebildet wird.
 - **Technische Randbedingung:** Beide Eingaben müssen in derselben Längeneinheit vorliegen.
-- **Offene Fragen oder Widersprüche:** Die Formel legt nicht fest, ob `gBrT` der rechte, linke oder durchschnittliche Wert sein soll.
+- **Offene Fragen oder Widersprüche:** Keine für den Regelfall; S. 17 bestimmt den Durchschnitt aus rechter und linker Messung. Eine bewusste Abweichung von diesem Regelfall müsste als eigene fachliche Entscheidung sichtbar bleiben.
 - **Status:** `normalisiert`
-- **Hinweis für die spätere Python-Umsetzung:** Messseite beziehungsweise Durchschnitt als eigenen, noch zu belegenden Auswahlparameter führen.
+- **Hinweis für die spätere Python-Umsetzung:** Rechte und linke Messung getrennt bewahren und daraus standardmäßig den Durchschnitt für `BrT` bilden; eine abweichende fachliche Entscheidung nicht still überschreiben.
 
 ## HOF-B1-S019-F04 — Vorderlänge mit vorderer Taillenschräglage
 
@@ -581,6 +581,6 @@ balance_problem = optimale_balance - individuelle_balance
 - **Abhängigkeiten:** `optimale_balance`, `individuelle_balance`; die individuelle Balance wird in `HOF-B1-S019-F13` berechnet, die optimale Balance für die extrahierten Bereiche in `HOF-B1-S019-F09` bis `HOF-B1-S019-F12`.
 - **Gültigkeitsbereich:** Rechenfeld „Balance“ der Maßtabelle. Für `BrU` 80 bis 99 cm nennt das Originaltranskript feste Werte, die nicht Bestandteil der extrahierten Formeldatei sind.
 - **Technische Randbedingung:** Beide Eingaben müssen in derselben Einheit vorliegen.
-- **Offene Fragen oder Widersprüche:** Die Quelle bezeichnet das Ergebnis als „Balance-Problem“, gibt in der Formel selbst aber keine Bewertung des Vorzeichens vor. Der Hinweistext erlaubt Abweichungen bis 1 cm unter einer zusätzlichen Beobachtungsbedingung; daraus wird hier keine automatische Entscheidung abgeleitet.
+- **Offene Fragen oder Widersprüche:** Die Formel gibt keine automatische geometrische Korrekturregel für das Vorzeichen vor. S. 17 sagt, dass das festgestellte Balance-Problem „ggf. zu korrigieren“ ist und bei einem zunächst nicht an der Figur erkennbaren Problem Taillenmaßband, Rückenlänge und Vorderlänge erneut kontrolliert werden sollen. Das blockiert die Engine nicht: Sie berechnet den signierten Differenzwert selbstständig und führt die Schnitterzeugung fort.
 - **Status:** `normalisiert`
-- **Hinweis für die spätere Python-Umsetzung:** Differenzwert und fachliche Bewertung trennen; Toleranz und Figurbeobachtung nicht ohne eigene belegte Regel automatisieren.
+- **Hinweis für die spätere Python-Umsetzung:** Den signierten Differenzwert selbstständig berechnen und die Schnitterzeugung ohne Rückfrage fortsetzen. Bei einer Abweichung einen sichtbaren, nicht blockierenden Hinweis mit Wert und betroffener Stelle in den Konstruktionsstand und auf das ausgegebene Schnittmuster setzen. Der Hinweis macht die Schneiderin auf die besondere Beachtung aufmerksam und erlaubt ihr, bei Bedarf eine Zugabe oder andere fachliche Maßnahme vorzunehmen. Ohne weitere belegte Regel keine stille geometrische Korrektur erfinden.

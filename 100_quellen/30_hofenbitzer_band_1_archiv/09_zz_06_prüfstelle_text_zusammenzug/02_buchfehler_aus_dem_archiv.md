@@ -1120,16 +1120,16 @@ dem Urteil.
 
 ### S.290
 
-**A202 — im Digitalisat geglättet**
+**A202 — erledigt 2026-09-16**
 
 *Einordnung im Prüfstand: A (Fortschreibung v2) — S.169–170 und S.290–293, achte Nachprüfung von v3-Seiten*
 
-- **A202 — S.290, Übersicht, Modellnummer 38 doppelt vergeben:** Die Inhaltsübersicht führt
+- **A202 — S.290, Übersicht, Modellnummer 38 doppelt vergeben (aufgelöst):** Die Inhaltsübersicht führt
   „**35-38** Einfache Flachkragen | 304" und in der Zeile darunter „**38**-39 Rüschenkragen |
   305". Die 38 gehört damit zu zwei Themen. Das ist die Übersichts-Seite zu **A178** (dort im
-  Kapitel selbst: die rote 38 steht auf S.304 *und* auf S.305). Der Fehler ist also nicht ein
-  Satzfehler der Übersicht, sondern durchgezogen — *am Buch klären, welche Nummer der
-  Rüschenkragen tragen soll.*
+  Kapitel selbst: die rote 38 steht auf S.304 *und* auf S.305). Werner hat am 2026-09-16
+  bestätigt: Nummer 38 bezeichnet auf S.304 einen Flachkragen und auf S.305 einen
+  Rüschenkragen, der flach oder stehend sein kann. Die doppelte Nummer ist beabsichtigt.
 
 > Maschineller Befund: „35-38 Einfache Flachkragen 304“ steht dort nur ohne die beanstandete Schreibweise; „38-39 Rüschenkragen 305“ steht dort nur ohne die beanstandete Schreibweise.
 
@@ -1524,7 +1524,7 @@ dem Urteil.
 
 > Maschineller Befund: „Flachkragen in unterschiedlichen Steghöhen am Hals“ steht weiterhin so in der Seitendatei; „Wird die Länge der Kragenkante verringert, begradigt das die Kragennaht und der Kragenbruch am Hals rutscht nach oben“ steht dort nicht mehr; „begradigt sich die Kragennaht“ steht dort nicht mehr; „begradigt das die Kragennaht und“ steht dort nicht mehr.
 
-**A178 — maschinell nicht prüfbar** · auch S.305
+**A178 — erledigt 2026-09-16** · auch S.305
 
 *Einordnung im Prüfstand: A (Fortschreibung v2) — S.300–305, sechste Nachprüfung von v3-Seiten*
 
@@ -1532,8 +1532,9 @@ dem Urteil.
   **38** steht auf S.304 an □6 („Hoher" Flachkragen) **und** auf S.305 an □1 (Flacher
   Rüschenkragen). Die Nummernkette des Kragen-Kapitels läuft sonst lückenlos: 25/26 (S.300),
   27–30 (S.301), 31 (S.302), 32–34 (S.303), 35–38 (S.304) — S.305 müsste demnach mit 39
-  beginnen, trägt aber 38 und 39. Beide Nummern im Zoom zweifelsfrei. *Am Buch klären*, ob die
-  Rüschenkragen um eins zu niedrig nummeriert sind. Siehe auch Abschnitt **C**.
+  beginnen, trägt aber 38 und 39. Beide Nummern im Zoom zweifelsfrei. Werner hat am 2026-09-16
+  geklärt: Nummer 38 bezeichnet auf S.304 einen Flachkragen und auf S.305 einen Rüschenkragen,
+  der flach oder stehend sein kann. Die doppelte Nummer ist beabsichtigt. Siehe auch Abschnitt **C**.
 
 **A180 — im Digitalisat geglättet**
 
@@ -1553,7 +1554,7 @@ dem Urteil.
 
 > Maschineller Befund: „wie z.B. der Bubikragen“ steht dort nur ohne die beanstandete Schreibweise; „(siehe □3), d.h. je runder die Kragennaht ist“ steht dort nur ohne die beanstandete Schreibweise.
 
-**C3 — maschinell nicht prüfbar** · auch S.305
+**C3 — erledigt 2026-09-16** · auch S.305
 
 *Einordnung im Prüfstand: C. Datei-übergreifende Konflikte*
 
@@ -1565,6 +1566,10 @@ dem Urteil.
   im Digitalisat ist die Nummernkette des gesamten Kragen-Kapitels in einem Zug durchzuzählen.
 
 > Handprobe am 2026-09-06: **steht weiterhin so.** `s304.md` führt „Hoher“ Flachkragen als Modell 38, `s305.md` beginnt mit „38 Flacher Rüschenkragen“ und setzt mit 39 fort. **Das ist derselbe Fall wie N20** im [Text-Zusammenzug](00_pruefstellen_text_band_1_zusammenzug.md) — dort am 2026-09-06 von Werner in Klärung gestellt und der Bearbeitung von Kapitel 09 zugewiesen. C3 und N20 sind zusammen zu entscheiden.
+
+> Fachentscheidung am 2026-09-16, Werner: Nummer 38 bezeichnet auf S.304 einen Flachkragen.
+> Auf S.305 bezeichnet Nummer 38 einen Rüschenkragen, der flach oder stehend sein kann.
+> Die Doppelvergabe ist deshalb beabsichtigt; keine Nummer wird geändert.
 
 
 ### S.305

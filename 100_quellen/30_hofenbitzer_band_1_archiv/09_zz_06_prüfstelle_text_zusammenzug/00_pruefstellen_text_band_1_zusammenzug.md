@@ -57,9 +57,11 @@ selbst so gedruckt ist.
   „Ärmelanlage mit korrektem Ärmelfall, einfach" und „… aufgelockert": tatsächlich
   **S.250, S.251 und S.252**. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.
 
-- **N20 — S.6, Kragen-Modellnummern 35-38 und 38-39 überschneiden sich** bei „Einfache
-  Flachkragen" (304) und „Rüschenkragen" (305). Die Nummer 38 ist doppelt vergeben.
-  *Am Buch klären, ob „35-37" gemeint ist.* **Stand 2026-09-06, in Klärung:** Werner vermutet, dass die Überschneidung so beabsichtigt ist, weil die zugehörige Abbildung dieselbe Stelle für beide Systeme zeigt. Er ist im Thema noch nicht tief genug für eine feste Entscheidung. Wird bei der Bearbeitung von Kapitel 09, Kragen, S.290–369, endgültig geklärt.
+- **N20-erledigt — S.6, Kragen-Modellnummern 35-38 und 38-39 überschneiden sich
+  (aufgelöst):** Nummer 38 bezeichnet auf S.304 einen Flachkragen. Auf S.305 bezeichnet
+  Nummer 38 einen Rüschenkragen, der flach oder stehend ausgeführt werden kann. Die doppelte
+  Nummer ist deshalb beabsichtigt; `35-38` darf nicht zu `35-37` geändert werden. Werner hat
+  diese fachliche Zuordnung am 2026-09-16 bestätigt. Die fototreue Übernahme bleibt unverändert.
 
 - **N21-erledigt — S.7, Modelle Jacken, „Saum formen" = 450 (aufgelöst):** steht zwischen 470 und 472, also nicht
   aufsteigend; das Jacken-Kapitel läuft von S.465 bis S.492. Vermutlich ist **471** gemeint. Werner hat am 2026-09-06 am gedruckten Buch bestätigt: so gedruckt, Druckfehler im Buch. Die fototreue Übernahme bleibt unverändert.

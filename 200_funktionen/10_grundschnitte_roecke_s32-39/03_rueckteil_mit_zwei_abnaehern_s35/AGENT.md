@@ -26,7 +26,7 @@ Kurvenfamilie; sie wird ausdrücklich nicht als Buchformel geführt.
 - [`s35.md`](../../../100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s35.md)
 - [`Foto S. 35`](../../../100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s35.jpg)
 - [`formeln_s35_normalisiert.md`](../../../100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s35_normalisiert.md)
-- [`Prüfstellen S. 35`](../../../100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/02_grundschnitte_roecke_s32-39/s035.md)
+- [`Prüfstellen S. 35`](../../../100_quellen/10_hofenbitzer_band_1_digital/09_zz_zz_01_pruefstellen_nach_seiten/02_grundschnitte_roecke_s32-39/s035.md)
 
 ## Stand
 

@@ -25,7 +25,7 @@ zusammen. Quellen und mathematische Verträge bleiben an ihren SSOT-Pfaden.
   und [`Foto S. 32`](../../../100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s32.jpg)
 - [`s33.md`](../../../100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s33.md),
   [`Foto S. 33`](../../../100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s33.jpg)
-  und [`Prüfstellen S. 33`](../../../100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/02_grundschnitte_roecke_s32-39/s033.md)
+  und [`Prüfstellen S. 33`](../../../100_quellen/10_hofenbitzer_band_1_digital/09_zz_zz_01_pruefstellen_nach_seiten/02_grundschnitte_roecke_s32-39/s033.md)
 
 Die Inhaltsliste und der zuvor fehlende Absatz zu Haltungs- und
 Wuchsproblemen sind im aktuellen `s32.md` bildgetreu erfasst. Tabelle, Formeln,

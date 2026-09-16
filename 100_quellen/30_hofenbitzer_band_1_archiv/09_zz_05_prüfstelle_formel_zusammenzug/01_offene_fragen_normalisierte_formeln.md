@@ -95,16 +95,16 @@ Quelle: `formeln_s11_normalisiert.md` · 2 Formeln, davon 0 zu klären.
   Keine rechnerische oder sprachliche Abweichung innerhalb der extrahierten Formel.
 
 
-### S.14
+### S.14 — erledigt 2026-09-16
 
-Quelle: `formeln_s14_normalisiert.md` · 3 Formeln, davon 1 zu klären.
+Quelle: `formeln_s14_normalisiert.md` · 3 Formeln, davon 0 zu klären.
 
 - **HOF-B1-S014-F01 — geklärt** · *Rückenbreite aus gemessener Rückenbreite*
   Keine innerhalb der extrahierten Formel.
 - **HOF-B1-S014-F02 — geklärt** · *Armdurchmesser aus Oberarmumfang*
   Keine innerhalb der extrahierten Formel; ein Zahlenbeispiel ist nicht angegeben.
-- **HOF-B1-S014-F03 — zu klären** · *Brustbreite aus Brustumfang, Rückenbreite und Armdurchmesser*
-  Die Buchfassung nennt den gemessenen Brustumfang im Text `BrU`; auf derselben Seite wird im Fließtext auch `gBrU` verwendet. Die Normalisierung übernimmt für diese Formel das ausdrücklich gesetzte Kürzel `BrU`.
+- **HOF-B1-S014-F03 — geklärt 2026-09-16** · *Brustbreite aus Brustumfang, Rückenbreite und Armdurchmesser*
+  Bildabgleich: Der rote Kasten bezeichnet `BrU` ausdrücklich als gemessenen Brustumfang. Im rechten Folgeabsatz wird derselbe Messwert zunächst `gBrU` und unmittelbar danach verkürzt `BrU` genannt. Für die Formel ist der gemessene vollständige Brustumfang gemeint; es liegt keine unterschiedliche Eingabe vor.
 
 
 ### S.19

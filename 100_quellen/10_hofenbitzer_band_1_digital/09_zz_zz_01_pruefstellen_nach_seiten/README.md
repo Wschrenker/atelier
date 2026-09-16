@@ -7,8 +7,8 @@ Dieser Ordner ist eine **abgeleitete Arbeitsansicht** aus den archivierten Prüf
 Dieser Ordner wird **erzeugt, nicht von Hand gepflegt**. Wer einen Prüfstellen-Status ändert, ändert ihn in der Quelle im Archiv und erzeugt die Ansicht anschließend neu:
 
 ```text
-python 600_prozess/werkzeuge/pruefstellen_ansicht_bauen.py             Probelauf
-python 600_prozess/werkzeuge/pruefstellen_ansicht_bauen.py --schreiben
+python 100_quellen/30_hofenbitzer_band_1_archiv/werkzeuge/pruefstellen_ansicht_bauen.py             Probelauf
+python 100_quellen/30_hofenbitzer_band_1_archiv/werkzeuge/pruefstellen_ansicht_bauen.py --schreiben
 ```
 
 Der Probelauf meldet, welche Seitendateien sich ändern würden, ohne etwas zu schreiben. Von Hand geänderte Dateien gehen beim nächsten Lauf verloren.
@@ -60,8 +60,8 @@ Diese Ansicht zeigt also die **offene** Arbeit. Der vollständige Bestand mit al
 
 ## Quellen
 
-- Formel-Prüfabschnitte: [`prüfstelle_formel_zusammenzug/00_pruefstellen_formeln_band_1.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_formel_zusammenzug/00_pruefstellen_formeln_band_1.md)
-- Offene Fragen in normalisierten Formeln: [`prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md)
-- Text-Prüfstellen der ersten Zweitprüfung: [`prüfstelle_text_zusammenzug/00_pruefstellen_text_band_1_zusammenzug.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/00_pruefstellen_text_band_1_zusammenzug.md)
-- Abweichungen der Transkription vom Foto (D): [`prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md)
-- Buchfehler aus dem Archiv-Prüfstand (A/B/C): [`prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md)
+- Formel-Prüfabschnitte: [`09_zz_05_prüfstelle_formel_zusammenzug/00_pruefstellen_formeln_band_1.md`](../../30_hofenbitzer_band_1_archiv/09_zz_05_prüfstelle_formel_zusammenzug/00_pruefstellen_formeln_band_1.md)
+- Offene Fragen in normalisierten Formeln: [`09_zz_05_prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md`](../../30_hofenbitzer_band_1_archiv/09_zz_05_prüfstelle_formel_zusammenzug/01_offene_fragen_normalisierte_formeln.md)
+- Text-Prüfstellen der ersten Zweitprüfung: [`09_zz_06_prüfstelle_text_zusammenzug/00_pruefstellen_text_band_1_zusammenzug.md`](../../30_hofenbitzer_band_1_archiv/09_zz_06_prüfstelle_text_zusammenzug/00_pruefstellen_text_band_1_zusammenzug.md)
+- Abweichungen der Transkription vom Foto (D): [`09_zz_06_prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`](../../30_hofenbitzer_band_1_archiv/09_zz_06_prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md)
+- Buchfehler aus dem Archiv-Prüfstand (A/B/C): [`09_zz_06_prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`](../../30_hofenbitzer_band_1_archiv/09_zz_06_prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md)

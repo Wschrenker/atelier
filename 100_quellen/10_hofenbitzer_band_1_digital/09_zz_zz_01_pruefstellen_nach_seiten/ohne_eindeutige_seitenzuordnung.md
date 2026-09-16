@@ -4,7 +4,7 @@
 
 ## Abweichungen der Transkription vom Foto (D)
 
-Quelle: [`prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md)
+Quelle: [`09_zz_06_prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`](../../30_hofenbitzer_band_1_archiv/09_zz_06_prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md)
 
 <!-- einheit: text_abweichungen:0501 -->
 **D141 — nicht maschinell prüfbar**
@@ -141,7 +141,7 @@ Quelle: [`prüfstelle_text_zusammenzug/01_abweichungen_transkript_vom_foto.md`](
 
 ## Buchfehler aus dem Archiv-Prüfstand (A/B/C)
 
-Quelle: [`prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`](../../30_hofenbitzer_band_1_archiv/prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md)
+Quelle: [`09_zz_06_prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md`](../../30_hofenbitzer_band_1_archiv/09_zz_06_prüfstelle_text_zusammenzug/02_buchfehler_aus_dem_archiv.md)
 
 <!-- einheit: text_buchfehler:0365 -->
 **B10 — maschinell nicht prüfbar**

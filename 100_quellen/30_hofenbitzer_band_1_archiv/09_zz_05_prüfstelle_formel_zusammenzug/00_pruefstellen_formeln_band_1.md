@@ -37,7 +37,7 @@ Keine ausdrücklich gekennzeichneten Prüfabschnitte in den ausgewerteten Indize
 
 ## `01_grundlagen_s8-31`
 
-### S. 8.1, 17–18, 21–24 — K01
+### S. 8.1, 17–18, 21–24 — K01 — erledigt 2026-09-16
 
 **Quellabschnitt:** Ausgeschlossene Kandidaten — Tranche K01
 
@@ -45,7 +45,9 @@ Keine ausdrücklich gekennzeichneten Prüfabschnitte in den ausgewerteten Indize
 
 **Quelle:** `../prüfstellen formel/00_index_normalisierte_formeln_band_1_v1.md`
 
-Das Originaltranskript `01_grundlagen_s8-31/s17.md` beschreibt in den Zeilen 21, 43 und 51 formelartige Beziehungen zur Mittelung und zur Balance. Diese Textstellen fehlen in der abgeleiteten Quelle `01_grundlagen_s8-31/formeln_s17.md`. Sie wurden deshalb in dieser Normalisierung nicht ergänzt: Die Zielschicht darf keine Buchfassung erzeugen, die im verbindlichen Formel-Quellbestand nicht vorhanden ist.
+Das Originaltranskript `01_grundlagen_s8-31/s17.md` beschreibt in den Zeilen 21, 43 und 51 formelartige Beziehungen zur Mittelung und zur Balance. Diese Textstellen fehlen in der abgeleiteten Quelle `01_grundlagen_s8-31/formeln_s17.md`.
+
+**Geklärt am 2026-09-16 durch Werner und Bildabgleich mit S.17 und S.19:** S.17 erklärt, dass die Brusttiefe an beiden Körperseiten gemessen und in der Regel der Durchschnitt zur endgültigen Brusttiefe `BrT` gebildet wird. S.17 erklärt außerdem individuelle und optimale Balance sowie das Balance-Problem. Die zugehörigen ausgeschriebenen Rechenbeziehungen stehen im Rechenfeld der Maßtabelle auf S.19 und sind dort bereits in `formeln_s19.md` erfasst: `VL minus RüL = individuelle Balance` und `Bal - individuelle Balance = Balance-Problem`. Die Erklärung bleibt über S.17 belegt; die Formeln bleiben ohne Doppelung S.19 zugeordnet. Es fehlt keine ausführbare Buchformel mehr in `formeln_s17.md`.
 
 ## `02_grundschnitte_roecke_s32-39`
 

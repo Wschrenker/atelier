@@ -126,6 +126,6 @@ halbierungsfaktor = 2
 - **Abhängigkeiten:** `brustumfang`, `rueckenbreite`, `armdurchmesser`, `halbierungsfaktor`; `rueckenbreite` kann nach `HOF-B1-S014-F01`, `armdurchmesser` nach `HOF-B1-S014-F02` bestimmt werden.
 - **Gültigkeitsbereich:** Die Formel ist Teil der alternativen Bestimmung von `RüB`, `ArD` und `BrB` auf S. 14.
 - **Technische Randbedingung:** Alle Eingaben müssen in derselben Längeneinheit vorliegen; der feste Divisor `2` ist ungleich `0`.
-- **Offene Fragen oder Widersprüche:** Die Buchfassung nennt den gemessenen Brustumfang im Text `BrU`; auf derselben Seite wird im Fließtext auch `gBrU` verwendet. Die Normalisierung übernimmt für diese Formel das ausdrücklich gesetzte Kürzel `BrU`.
+- **Offene Fragen oder Widersprüche:** Keine für die Eingabe. Der rote Kasten bezeichnet `BrU` ausdrücklich als gemessenen Brustumfang; im rechten Folgeabsatz wird derselbe Messwert zunächst `gBrU` und unmittelbar danach verkürzt `BrU` genannt. Für die Formel ist in beiden Fällen der gemessene vollständige Brustumfang gemeint.
 - **Status:** `normalisiert`
-- **Hinweis für die spätere Python-Umsetzung:** Die Auswertungsreihenfolge durch Klammern erhalten und keine automatische Korrektur negativer Ergebnisse ergänzen.
+- **Hinweis für die spätere Python-Umsetzung:** Als technische Eingabe eindeutig den gemessenen vollständigen Brustumfang verwenden, unabhängig von der wechselnden Buchschreibweise `gBrU`/`BrU`. Die Auswertungsreihenfolge durch Klammern erhalten und keine automatische Korrektur negativer Ergebnisse ergänzen.

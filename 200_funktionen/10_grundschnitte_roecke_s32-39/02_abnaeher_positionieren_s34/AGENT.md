@@ -27,7 +27,7 @@ Buchseite S. 34 als kleine, reine Python-Verträge um.
 - [`s34.md`](../../../100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/s34.md)
 - [`Foto S. 34`](../../../100_quellen/20_hofenbitzer_band_1_bilder/1.1_Photos_hofenb_ba1_total/s34.jpg)
 - [`formeln_s34_normalisiert.md`](../../../100_quellen/10_hofenbitzer_band_1_digital/02_grundschnitte_roecke_s32-39/formeln_s34_normalisiert.md)
-- [`Prüfstellen S. 34`](../../../100_quellen/10_hofenbitzer_band_1_digital/pruefstellen_nach_seiten/02_grundschnitte_roecke_s32-39/s034.md)
+- [`Prüfstellen S. 34`](../../../100_quellen/10_hofenbitzer_band_1_digital/09_zz_zz_01_pruefstellen_nach_seiten/02_grundschnitte_roecke_s32-39/s034.md)
 
 ## Stand
 
