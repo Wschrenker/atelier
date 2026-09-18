@@ -1,0 +1,66 @@
+MEIN_SCHNITTMUSTER_REPO/
+│
+├── 000_CORE_SPECS_UND_STANDARDS/           <-- Globale Vorgaben & "Gehirn" für KIs
+│   ├── 10_massdefinitionen/
+│   │   ├── masse_schema.json               [JSON]  Definiert alle Körpermaße (Brust, Taille, etc.)
+│   │   └── ankerpunkte.md                  [MD]    Namen & Definitionen aller Punkte (z. B. H_Linie, T_Linie)
+│   ├── 20_visuelle_standards/
+│   │   ├── linien_und_ebenen.json          [JSON]  Farben, Strichstärken & DXF-Layer (Fadenlauf, Naht)
+│   │   └── passzeichen_regeln.md           [MD]    Vorgaben für Knipse, Abnäher, Beschriftungen
+│   ├── 30_code_templates/
+│   │   ├── 0.0_TEMPLATE_baustein.py        [PY]    Standard-Boilerplate für jedes Python-Modul
+│   │   └── 0.0_TEMPLATE_formeln.json       [JSON]  Schema für Mistral OCR Extraktionen
+│   └── 40_ai_prompts/
+│       ├── system_prompt_extraktion.txt    [TXT]   Prompt für Mistral OCR -> JSON
+│       └── system_prompt_coding.txt        [TXT]   Prompt für Claude/Codex -> Python Modul
+│
+├── 100_PIPELINE_TOOLS/                     <-- Automatisierung & Hilfsskripte
+│   ├── 10_ocr_extraktion/
+│   │   └── mistral_ocr_batch.py            [PY]    Liest Buchseiten-Scans & erzeugt JSONs
+│   └── 20_konverter/
+│       ├── dxf_builder.py                  [PY]    Hilfs-Engine für ezdxf (Layer, Stile)
+│       └── svg_builder.py                  [PY]    Hilfs-Engine für Vektorexport
+│
+├── 200_QUELLEN_ARCHIV_ENTITAETEN/          <-- DEIN BUCH-ARCHIV (Alles zu Seite X am Ort)
+│   ├── 300_hosen/
+│   │   └── 20_buchseiten/
+│   │       ├── S033_Hosenbund_Formbund/
+│   │       │   ├── S033_scan.jpg           [JPG]   Original Buchscan
+│   │       │   ├── S033_skizze_A.jpg       [JPG]   Ausgeschnittene Detail-Skizze
+│   │       │   ├── S033_transkription.md   [MD]    Volltext der Buchseite
+│   │       │   └── S033_formeln.json       [JSON]  Extrahierte Mathematik & Punkte
+│   │       └── S034_Gesaesstasche/
+│   │           ├── S034_scan.jpg           [JPG]
+│   │           └── ...
+│   ├── 400_blusen/
+│   └── 500_corsagen/
+│
+├── 300_FUNKTIONEN_BAUSTEINE_LIB/           <-- Zentrale Python-Bibliothek (Die LEGO-Steine)
+│   ├── 10_geometrie_core/
+│   │   └── mathe_helpers.py                [PY]    Winkelberechnungen, Kurven (Bezier), Schnittpunkte
+│   ├── 20_hosen_bausteine/
+│   │   ├── 0.1_ZZA_hosen_grundschnitt.py   [PY]    Berechnet Basispunkte der Hose
+│   │   ├── 0.2_ZZB_hosenbund_form.py       [PY]    Nimmt Grundschnitt & fügt Formbund an
+│   │   └── 0.3_ZZC_gesaesstasche.py        [PY]    Nimmt Grundschnitt & zeichnet Tasche
+│   ├── 30_blusen_bausteine/
+│   └── 40_details_und_passzeichen/
+│       ├── knipse_und_markierungen.py      [PY]    Setzt Knipse auf Nahtlinien
+│       └── beschriftung.py                 [PY]    Schreibt Größen, Fadenlauf & Namen auf Teile
+│
+├── 400_VERTEILERSYSSTEME_ORCHESTRATOR/     <-- Das "Gehirn" für den Zusammenbau
+│   ├── 10_kategorie_verteiler/
+│   │   ├── hose_verteiler.py               [PY]    Steuert: Grundschnitt + Bund + Tasche
+│   │   ├── bluse_verteiler.py              [PY]    Steuert: Blusengrundschnitt + Kragen + Ärmel
+│   │   └── rock_verteiler.py               [PY]
+│   └── 20_meta_verteiler/
+│       ├── kleid_verteiler.py              [PY]    Kombiniert Bluse-Verteiler + Rock-Verteiler
+│       └── ensemble_verteiler.py           [PY]    Erstellt komplettes Outfit (Hose + Bluse)
+│
+├── 500_EXPORTS_UND_OUTPUTS/                <-- Das Endergebnis (vom Python-Code erzeugt)
+│   ├── dxf_files/                          [DXF]   CAD-Dateien für Schnittmusterprogramm
+│   ├── svg_files/                          [SVG]   Vektoren für Web/Druck
+│   └── pdf_files/                          [PDF]   Druckfertige A4/A0 Schnittmuster
+│
+├── CLAUDE.md                               [MD]    Haupt-Instruktion für KIs (Claude Code/Codex)
+├── main.py                                 [PY]    Haupt-Startskript / CLI-Eingabe der Maße
+└── requirements.txt                        [TXT]   Python-Pakete (ezdxf, shapely, svgwrite, mistralai)
