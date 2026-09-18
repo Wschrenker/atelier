@@ -1,0 +1,326 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "3-m) Konstruktionsschritte\n\n# Linienarten\n\nBei der Schnittkonstruktion werden Flächen auf Papier oder digital an einem Bildschirm konstruiert. Mit diesen Flächen geben sie ein textiles Produkt, z. B. einen Rock.\n\nLinien begrenzen und unterteilen diese Flächen. Sie sind also elementare Bestandteile eines jeden Schnitts.\n\nBei der manuellen Schnitterstellung und bei digitalen Schnitten wird oft nur eine Linienart, die durchgezogene Linie verwendet. Die Bedeutung der Linien ergeben sich für den Profi aus dem Zusammenhang und der Linienposition.\n\n# Verwendung verschiedener Linienarten in diesem Buch\n\nFür ein besseres Verständnis sind hier verschiedenen Linienarten bestimmte Bedeutungen zugeordnet. Linienarten geben somit zusätzliche Informationen:\n\n![img-0.jpeg](img-0.jpeg)\n\n1 Nahtlinie\n\nStrichlinien in normaler Breite symbolisieren eine Naht bzw. unsichtbare Kanten (dann mit feiner Linie).\n\n2 Hilfslinie\n\nKonstruktions-, Maß- und Maßhilfslinien werden als schmale bzw. helle Voll-Linien gezeichnet.\n\n3 Schnittlinie\n\nDie Konturen werden mit einer breiten Volllinie gezeichnet. An diesen Linien wird die Schablone bzw. der Stoff ausgeschnitten.\n\n4 Umbruch-Linie\n\nUmbruch- und Bügelkanten werden mit einer Strich-Zweipunkt-Linie gezeichnet.\n\n5 Symmetrielinie\n\nAls Mittellinie weist sie darauf hin, dass sich auf beiden Seiten der Linie die selbe Größe und Form einer Schnittfläche befindet (Spiegellinie). Sie wird als Strich-Punkt-Linie gezeichnet.\n\n6 Demonstrationslinie\n\nIn diesem Buch demonstrieren i.d.R. grüne Punktlinien die ursprüngliche Schnittkontur vor einer erfolgten Schnittveränderung.\n\n7 Konstruktionslinien\n\noder Proportionslinien kennzeichnen bei Schnittteilen z. B. die Brust-, Taillen-, Hüft-, Knie-, Ellenbogen-, Armvorrittslinien usw. Sind mit langen Strichen und kurzen Unterbrechungen dargestellt.\n\n8 Bemaßungslinien + Pfeile\n\nGrüne schmale oder helle Linien mit Pfeilspitzen sind Bemaßungslinien, als Kontrollstrecken sind sie oft orange arben.\n\n# Bemaßungen in diesem Buch\n\nLinien und Abstände müssen bei einer Konstruktion sehr häufig exakte Maße besitzen. Diese abzutragenden Längen- aber auch Abstände oder Kurvenlängen- werden an den Bemaßungslinien mit grünen Werten beschriftet (siehe unten bei Punkt 8, P8). Es kann sich um reale Zahlenwerte in cm, aber auch um Körper- oder um zuvor berechnete Konstruktionsmaße handeln, die manchmal mit Abkürzungen versehen sind. Diese Abkürzung steht dann für den berechneten oder gemessenen Zahlenwert in cm, der dann in Richtung des Bemaßungsfeldes abzutragen oder zu messen ist (z. B. hSuB).\n\nManchmal sind aus Platzmagel oder wegen der besseren Übersichtlichkeit einige Werte in kleinen grünen Zahlen dargestellt (ohne die in diesem Buch einheitlich verwendete Längeneinheit Zentimeter, siehe bei P8).\n\nStandards\nLinien und Bemaßungen\n\n# Reihenfolge der Konstruktionsschritte\n\n1 2 3 4 5\n\nIn diesem Buch sind bei nahezu allen Konstruktionen die jeweiligen Konstruktionsschritte in einem Text neben der Skizze beschrieben. Die Reihenfolge der Schritte ist immer zu beachten. Diese Schrittabfolge ist durch blaue Punkte mit weißen Zahlen sowohl im Text als auch an den entsprechenden Stellen an den Konstruktions-Skizzen verdeutlicht (siehe oben - hier stellen sie allerdings keine Schrittabfolge dar, sondern Ordnungszahlen). Somit ist eine schnelle und einfache Orientierung bei der Konstruktion gewährleistet.\n\nMitunter sind die Punkte in anderen Farben dargestellt, um verschiedene Konstruktionen auf einer Doppelseite besser zu unterscheiden.",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 923,
+          "top_left_y": 49,
+          "bottom_right_x": 2683,
+          "bottom_right_y": 1804,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 1348,
+          "bottom_right_x": 57,
+          "bottom_right_y": 2095,
+          "content": "3-m) Konstruktionsschritte",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 102,
+          "top_left_y": 2490,
+          "bottom_right_x": 147,
+          "bottom_right_y": 2732,
+          "content": "# Linienarten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 167,
+          "top_left_y": 1617,
+          "bottom_right_x": 380,
+          "bottom_right_y": 2757,
+          "content": "Bei der Schnittkonstruktion werden Flächen auf Papier oder digital an einem Bildschirm konstruiert. Mit diesen Flächen geben sie ein textiles Produkt, z. B. einen Rock.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 380,
+          "top_left_y": 1617,
+          "bottom_right_x": 486,
+          "bottom_right_y": 2760,
+          "content": "Linien begrenzen und unterteilen diese Flächen. Sie sind also elementare Bestandteile eines jeden Schnitts.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 486,
+          "top_left_y": 1617,
+          "bottom_right_x": 698,
+          "bottom_right_y": 2760,
+          "content": "Bei der manuellen Schnitterstellung und bei digitalen Schnitten wird oft nur eine Linienart, die durchgezogene Linie verwendet. Die Bedeutung der Linien ergeben sich für den Profi aus dem Zusammenhang und der Linienposition.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 751,
+          "top_left_y": 1636,
+          "bottom_right_x": 825,
+          "bottom_right_y": 2772,
+          "content": "# Verwendung verschiedener Linienarten in diesem Buch",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 829,
+          "top_left_y": 1911,
+          "bottom_right_x": 1025,
+          "bottom_right_y": 2790,
+          "content": "Für ein besseres Verständnis sind hier verschiedenen Linienarten bestimmte Bedeutungen zugeordnet. Linienarten geben somit zusätzliche Informationen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 923,
+          "top_left_y": 49,
+          "bottom_right_x": 2683,
+          "bottom_right_y": 1804,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1095,
+          "top_left_y": 2518,
+          "bottom_right_x": 1152,
+          "bottom_right_y": 2797,
+          "content": "1 Nahtlinie",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1172,
+          "top_left_y": 1927,
+          "bottom_right_x": 1327,
+          "bottom_right_y": 2809,
+          "content": "Strichlinien in normaler Breite symbolisieren eine Naht bzw. unsichtbare Kanten (dann mit feiner Linie).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 2533,
+          "bottom_right_x": 1458,
+          "bottom_right_y": 2818,
+          "content": "2 Hilfslinie",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1478,
+          "top_left_y": 1973,
+          "bottom_right_x": 1642,
+          "bottom_right_y": 2830,
+          "content": "Konstruktions-, Maß- und Maßhilfslinien werden als schmale bzw. helle Voll-Linien gezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1723,
+          "top_left_y": 2487,
+          "bottom_right_x": 1781,
+          "bottom_right_y": 2836,
+          "content": "3 Schnittlinie",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1805,
+          "top_left_y": 1939,
+          "bottom_right_x": 2022,
+          "bottom_right_y": 2849,
+          "content": "Die Konturen werden mit einer breiten Volllinie gezeichnet. An diesen Linien wird die Schablone bzw. der Stoff ausgeschnitten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2111,
+          "top_left_y": 2417,
+          "bottom_right_x": 2173,
+          "bottom_right_y": 2858,
+          "content": "4 Umbruch-Linie",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2193,
+          "top_left_y": 1902,
+          "bottom_right_x": 2312,
+          "bottom_right_y": 2864,
+          "content": "Umbruch- und Bügelkanten werden mit einer Strich-Zweipunkt-Linie gezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2406,
+          "top_left_y": 2417,
+          "bottom_right_x": 2467,
+          "bottom_right_y": 2867,
+          "content": "5 Symmetrielinie",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2483,
+          "top_left_y": 1893,
+          "bottom_right_x": 2798,
+          "bottom_right_y": 2882,
+          "content": "Als Mittellinie weist sie darauf hin, dass sich auf beiden Seiten der Linie die selbe Größe und Form einer Schnittfläche befindet (Spiegellinie). Sie wird als Strich-Punkt-Linie gezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2892,
+          "top_left_y": 2313,
+          "bottom_right_x": 2953,
+          "bottom_right_y": 2892,
+          "content": "6 Demonstrationslinie",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2957,
+          "top_left_y": 1532,
+          "bottom_right_x": 3182,
+          "bottom_right_y": 2901,
+          "content": "In diesem Buch demonstrieren i.d.R. grüne Punktlinien die ursprüngliche Schnittkontur vor einer erfolgten Schnittveränderung.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3275,
+          "top_left_y": 2331,
+          "bottom_right_x": 3341,
+          "bottom_right_y": 2907,
+          "content": "7 Konstruktionslinien",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3341,
+          "top_left_y": 1519,
+          "bottom_right_x": 3643,
+          "bottom_right_y": 2919,
+          "content": "oder Proportionslinien kennzeichnen bei Schnittteilen z. B. die Brust-, Taillen-, Hüft-, Knie-, Ellenbogen-, Armvorrittslinien usw. Sind mit langen Strichen und kurzen Unterbrechungen dargestellt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3737,
+          "top_left_y": 2205,
+          "bottom_right_x": 3815,
+          "bottom_right_y": 2925,
+          "content": "8 Bemaßungslinien + Pfeile",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3794,
+          "top_left_y": 1501,
+          "bottom_right_x": 3990,
+          "bottom_right_y": 2928,
+          "content": "Grüne schmale oder helle Linien mit Pfeilspitzen sind Bemaßungslinien, als Kontrollstrecken sind sie oft orange arben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 180,
+          "top_left_y": 1020,
+          "bottom_right_x": 233,
+          "bottom_right_y": 1541,
+          "content": "# Bemaßungen in diesem Buch",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 241,
+          "top_left_y": 456,
+          "bottom_right_x": 707,
+          "bottom_right_y": 1553,
+          "content": "Linien und Abstände müssen bei einer Konstruktion sehr häufig exakte Maße besitzen. Diese abzutragenden Längen- aber auch Abstände oder Kurvenlängen- werden an den Bemaßungslinien mit grünen Werten beschriftet (siehe unten bei Punkt 8, P8). Es kann sich um reale Zahlenwerte in cm, aber auch um Körper- oder um zuvor berechnete Konstruktionsmaße handeln, die manchmal mit Abkürzungen versehen sind. Diese Abkürzung steht dann für den berechneten oder gemessenen Zahlenwert in cm, der dann in Richtung des Bemaßungsfeldes abzutragen oder zu messen ist (z. B. hSuB).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 727,
+          "top_left_y": 432,
+          "bottom_right_x": 923,
+          "bottom_right_y": 1538,
+          "content": "Manchmal sind aus Platzmagel oder wegen der besseren Übersichtlichkeit einige Werte in kleinen grünen Zahlen dargestellt (ohne die in diesem Buch einheitlich verwendete Längeneinheit Zentimeter, siehe bei P8).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 323,
+          "top_left_y": 263,
+          "bottom_right_x": 711,
+          "bottom_right_y": 349,
+          "content": "Standards\nLinien und Bemaßungen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2961,
+          "top_left_y": 588,
+          "bottom_right_x": 3034,
+          "bottom_right_y": 1440,
+          "content": "# Reihenfolge der Konstruktionsschritte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2961,
+          "top_left_y": 208,
+          "bottom_right_x": 3022,
+          "bottom_right_y": 508,
+          "content": "1 2 3 4 5",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3051,
+          "top_left_y": 153,
+          "bottom_right_x": 3635,
+          "bottom_right_y": 1434,
+          "content": "In diesem Buch sind bei nahezu allen Konstruktionen die jeweiligen Konstruktionsschritte in einem Text neben der Skizze beschrieben. Die Reihenfolge der Schritte ist immer zu beachten. Diese Schrittabfolge ist durch blaue Punkte mit weißen Zahlen sowohl im Text als auch an den entsprechenden Stellen an den Konstruktions-Skizzen verdeutlicht (siehe oben - hier stellen sie allerdings keine Schrittabfolge dar, sondern Ordnungszahlen). Somit ist eine schnelle und einfache Orientierung bei der Konstruktion gewährleistet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3635,
+          "top_left_y": 132,
+          "bottom_right_x": 3864,
+          "bottom_right_y": 1418,
+          "content": "Mitunter sind die Punkte in anderen Farben dargestellt, um verschiedene Konstruktionen auf einer Doppelseite besser zu unterscheiden.",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4088225
+  }
+}

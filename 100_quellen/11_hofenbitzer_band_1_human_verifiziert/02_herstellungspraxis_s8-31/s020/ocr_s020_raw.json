@@ -1,0 +1,343 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Einführung\n\nGrößentabellen\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\nGrößentabellen\n\n# Konfektionsgrößen\n\nNational festgelegte Standardgrößen,\nnach denen Bekleidungsartikel innerhalb eines Wirtschaftsraumes (z.B.\nDeutschland) verkauft werden, bezeichnet man als Konfektionsgrößen.\n\nIn der Damen-Oberbekleidung (DOB)\nwerden die Größenbezeichnungen von\nden Maßen KöH, BrU und HüU abgeleitet (Konfektionsgröße = BrU/2 - 6 cm).\n\nDie einzelnen Körpermaße werden\ndurch Reihenmessungen ermittelt und\ngetten so lange, wie die Bekleidungsbetriebe mit diesen Maßen ihre Ware problemlos absetzen können. Die Werte\nder letzten frei veröffentlichten Reihenmessung von 1994 sind veraltet, die\nVerwendung allerdings unbedenklich.\n\n□1 Etikett aus einer Warnweste\n\nMit der EU-Norm EN 13402 soll ein neues Code-System entwickelt werden,\ndas gegebenenfalls die vielen nationalen Größensysteme ablösen soll.\n\nDie neu entwickelten Piktogramme für\ndie Auszeichnung von Bekleidung sollen die für das jeweilige Kleidungsstück\nrelevanten Körpermaße enthalten.\n\nDOB*-Größentabelle der Damen-Konfektionsgrößen\n\nbasierend auf den Reihenmessungen von 1994\n\nalle Maßangaben in cm\n\n© Europa-Lehrman\n\n[tbl-0.md](tbl-0.md)\n\n* D2B = Damenoberbekleidung\n\nInternationale Damen-Größen im Vergleich\n\n[tbl-1.md](tbl-1.md)\n\n20\n\nStandard\nLinienart\n\nLinienarten\nBei der Schnitte\ndigital an ein\ndann d\ngeben sie ein\nLinien begr\nso element\nBei der r\nSchnitten\nnie verwe\nden Profi\n\nVerwen\nFür ein b\nschiede\ntungen\nmit zusa\n\n① Mah\nStrichli\nsieren\n(dann\n\n② Hil\nKonst\nwerde\nLinien\n\n③ S\nDie\nVoll\nwiro\nschu\n\n④\nUn\nne\n\n⑤\nA\na\nu\n(\nl",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 343,
+          "top_left_y": 2515,
+          "bottom_right_x": 894,
+          "bottom_right_y": 2775,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 433,
+          "top_left_y": 1241,
+          "bottom_right_x": 825,
+          "bottom_right_y": 1740,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 433,
+          "top_left_y": 377,
+          "bottom_right_x": 907,
+          "bottom_right_y": 1121,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  G | Größe | 32 | 34 | 36 | 38 | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54 | 56 | 58 | 60 | 62  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  KöH |   | 168 |   |   | 168 |   |   | 168  |   |   |   |   |   |   |   |   |   |\n|  BrU | Brustumfang | 76 | 80 | 84 | 88 | 92 | 96 | 100 | 104 | 110 | 116 | 122 | 128 | 134 | 140 | 144 | 149  |\n|  uBrU | Unterbrustumfang | 68 | 71 | 74 | 77 | 80 | 84 | 88 | 92 | 98 | 104 | 110 | 116 | 122 | 128 | 134 | 139  |\n|  TaU | Tallenumfang | 62 | 65 | 68 | 72 | 76 | 80 | 84 | 88 | 94,5 | 101 | 107,5 | 114 | 120,5 | 127 | 133,5 | 133,5  |\n|  HüU | Hüftumfang | 86 | 90 | 94 | 97 | 100 | 103 | 106 | 109 | 114 | 119 | 124 | 129 | 134 | 139 | 144 | 144  |\n|  HaU | Halsansatzumfang | 34,2 | 34,8 | 35,4 | 36 | 36,6 | 37,2 | 37,8 | 38,4 | 39,6 | 40,8 | 42 | 43,2 | 44,4 | 45,6 | 46,8 | 46,8  |\n|  HIB | Halslochbreite (½) | 6,2 | 6,3 | 6,4 | 6,5 | 6,6 | 6,7 | 6,8 | 6,9 | 7,1 | 7,3 | 7,5 | 7,7 | 7,9 | 8,1 | 8,3 | 8,3  |\n|  AIT | Armlochtiefe | 18,9 | 19,3 | 19,7 | 20,1 | 20,5 | 20,9 | 21,3 | 21,7 | 22,1 | 22,5 | 22,9 | 23,3 | 23,7 | 24,1 | 24,5 | 24,5  |\n|  RUL | Rückenlänge | 41,4 | 41,4 | 41,4 | 41,6 | 41,8 | 42 | 42,2 | 42,4 | 42,7 | 43 | 43,3 | 43,6 | 43,6 | 43,6 | 43,6 | 43,6  |\n|   | 7.HW bis Kniekehle | 100,6 | 100,9 | 101,2 | 101,5 | 101,8 | 102,1 | 102,4 | 102,7 | 103,1 | 103,5 | 103,9 | 104,3 | 104,7 | 105,1 | 105,5 | 105,5  |\n|   | 7.HW bis Fußsohle | 146 | 146,3 | 146,6 | 146,9 | 147,2 | 147,5 | 147,8 | 148,1 | 148,5 | 148,9 | 149,3 | 149,7 | 150,1 | 15,5 | 150,9 | 150,9  |\n|  HüT | Hüfttiefe | 21 |   |   | 21 |   |   | 21  |   |   |   |   |   |   |   |   |   |\n|  BrT | Brusttiefe | 25,7 | 26,5 | 27,3 | 28,1 | 28,9 | 29,7 | 30,5 | 31,3 | 32,5 | 33,7 | 34,9 | 36,1 | 37,3 | 38,5 | 39,7 | 39,7  |\n|  VL | Vorderlänge | 43,9 | 44,3 | 44,7 | 45,3 | 45,9 | 46,5 | 47,1 | 47,7 | 48,8 | 49,9 | 51 | 52,1 | 52,9 | 53,7 | 54,5 | 54,5  |\n|  oRUB | obere Rückenbreite (½) | 16,2 | 16,7 | 17,2 | 17,7 | 18,2 | 18,7 | 19,2 | 19,7 | 20,5 | 21,2 | 22 | 22,7 | 23,5 | 24,2 | 25 | 25  |\n|  RUB | Rückenbreite (½) | 15 | 15,5 | 16 | 16,5 | 17 | 17,5 | 18 | 18,5 | 19,2 | 19,9 | 20,6 | 21,3 | 22 | 22,7 | 23,4 | 23,4  |\n|  ArD | Armdurchmesser | 7,2 | 7,9 | 8,6 | 9,3 | 10 | 10,7 | 11,4 | 12,1 | 12,2 | 14,3 | 15,4 | 16,5 | 17,6 | 18,7 | 19,8 | 19,8  |\n|  BrB | Brustbreite (½) | 15,8 | 16,6 | 17,4 | 18,2 | 19 | 19,8 | 20,6 | 21,4 | 22,6 | 23,8 | 25 | 26,2 | 27,4 | 28,6 | 29,8 | 29,8  |\n|  BrPA | Brustpunktabstand (½) | 7,6 | 8 | 8,4 | 8,8 | 9,2 | 9,6 | 10 | 10,4 | 11 | 11,6 | 12,2 | 12,8 | 13,4 | 14 | 14,6 | 14,6  |\n|  SuB | Schulterbreite | 11,9 | 12 | 12,1 | 12,2 | 12,4 | 12,6 | 12,8 | 13 | 13,2 | 13,4 | 13,6 | 13,8 | 14 | 14,2 | 14,4 | 14,4  |\n|  SuWi | Schulterwinkel in Grad | 20° |   |   | 20° |   |   | 20°  |   |   |   |   |   |   |   |   |   |\n|  ArL | Armlänge | 59,4 | 59,6 | 59,8 | 60 | 60,2 | 60,4 | 60,6 | 60,8 | 61,1 | 61,4 | 61,7 | 62 | 62 | 62 | 62 | 62  |\n|  OaU | Oberarmumfang | 25,6 | 26,2 | 26,8 | 28 | 29,2 | 30,4 | 31,6 | 32,8 | 34,6 | 36,4 | 38,2 | 40 | 41,8 | 43,6 | 45,4 | 45,4  |\n|  HgU | Handgelenkumfang | 14,6 | 15 | 15,4 | 15,8 | 16,2 | 16,6 | 17 | 17,4 | 18 | 18,6 | 19,2 | 19,8 | 20,4 | 21 | 21,6 | 21,6  |\n|  sTaH | seitliche Taillenhöhe | 106 |   |   | 106 |   |   | 106  |   |   |   |   |   |   |   |   |   |\n|  OsU | Oberschenkelumfang | 50,2 | 52 | 53,8 | 55,6 | 57,4 | 59,2 | 61 | 62,8 | 65 | 67,2 | 69,4 | 71,6 | 73,8 | 76 | 78,2 | 78,2  |\n|  SiH | Sitzhöhe | 24,9 | 25,3 | 25,7 | 26,1 | 26,5 | 26,9 | 27,3 | 27,7 | 28,3 | 28,9 | 29,5 | 30,1 | 30,7 | 31,3 | 31,9 | 31,9  |\n|  SrH | Schritthöhe | 81,1 | 80,7 | 80,3 | 79,9 | 79,5 | 79,1 | 78,7 | 78,3 | 77,7 | 77,1 | 76,5 | 75,9 | 75,3 | 74,7 | 74,1 | 74,1  |\n|  FeU | Fesselumfang | 23 | 23,5 | 24 | 24,5 | 25 | 25,5 | 26 | 26,5 | 27 | 27,5 | 28 | 28,5 | 29 | 29,5 | 30 | 30  |\n|  KoU | Kopfumfang | 55,2 | 55,4 | 55,6 | 55,8 | 56 | 56,2 | 56,4 | 56,6 | 56,8 | 57 | 57,2 | 57,4 | 57,6 | 57,8 | 58 | 58  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  D (Deutschland) | 32 | 34 | 36 | 38 | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  International | XS | S | M | M/L | L | XL | XXL | XXL | XXXL | XXXL | XXXL | XXXL  |\n|  UK (Großbritannien) | - | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28  |\n|  US (USA)8 | 9 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | - | -  |\n|  F (Frankreich) | - | 36 | 38 | 40 | 42 | 44 | 46 | 50 | 52 | 54 | 56 | 58  |\n|  IT (Italien) | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54 | 56 | 58 | 60 | -  |\n|  Japan | 9 | 11 | 13 | 15 | 17 | 19 | 21 | 23 | 25 | - | - | -  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 225,
+          "top_left_y": 2310,
+          "bottom_right_x": 282,
+          "bottom_right_y": 2610,
+          "content": "Einführung",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 225,
+          "top_left_y": 1743,
+          "bottom_right_x": 278,
+          "bottom_right_y": 2159,
+          "content": "Größentabellen",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 343,
+          "top_left_y": 2515,
+          "bottom_right_x": 894,
+          "bottom_right_y": 2775,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 433,
+          "top_left_y": 1241,
+          "bottom_right_x": 825,
+          "bottom_right_y": 1740,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 433,
+          "top_left_y": 377,
+          "bottom_right_x": 907,
+          "bottom_right_y": 1121,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 653,
+          "top_left_y": 2561,
+          "bottom_right_x": 882,
+          "bottom_right_y": 2610,
+          "content": "Größentabellen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 437,
+          "top_left_y": 2086,
+          "bottom_right_x": 474,
+          "bottom_right_y": 2417,
+          "content": "# Konfektionsgrößen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 490,
+          "top_left_y": 1795,
+          "bottom_right_x": 678,
+          "bottom_right_y": 2444,
+          "content": "National festgelegte Standardgrößen,\nnach denen Bekleidungsartikel innerhalb eines Wirtschaftsraumes (z.B.\nDeutschland) verkauft werden, bezeichnet man als Konfektionsgrößen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 694,
+          "top_left_y": 1804,
+          "bottom_right_x": 858,
+          "bottom_right_y": 2469,
+          "content": "In der Damen-Oberbekleidung (DOB)\nwerden die Größenbezeichnungen von\nden Maßen KöH, BrU und HüU abgeleitet (Konfektionsgröße = BrU/2 - 6 cm).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 870,
+          "top_left_y": 1813,
+          "bottom_right_x": 1209,
+          "bottom_right_y": 2515,
+          "content": "Die einzelnen Körpermaße werden\ndurch Reihenmessungen ermittelt und\ngetten so lange, wie die Bekleidungsbetriebe mit diesen Maßen ihre Ware problemlos absetzen können. Die Werte\nder letzten frei veröffentlichten Reihenmessung von 1994 sind veraltet, die\nVerwendung allerdings unbedenklich.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 845,
+          "top_left_y": 1222,
+          "bottom_right_x": 882,
+          "bottom_right_y": 1746,
+          "content": "□1 Etikett aus einer Warnweste",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1001,
+          "top_left_y": 1066,
+          "bottom_right_x": 1176,
+          "bottom_right_y": 1761,
+          "content": "Mit der EU-Norm EN 13402 soll ein neues Code-System entwickelt werden,\ndas gegebenenfalls die vielen nationalen Größensysteme ablösen soll.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1005,
+          "top_left_y": 343,
+          "bottom_right_x": 1209,
+          "bottom_right_y": 1002,
+          "content": "Die neu entwickelten Piktogramme für\ndie Auszeichnung von Bekleidung sollen die für das jeweilige Kleidungsstück\nrelevanten Körpermaße enthalten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1266,
+          "top_left_y": 977,
+          "bottom_right_x": 1348,
+          "bottom_right_y": 2515,
+          "content": "DOB*-Größentabelle der Damen-Konfektionsgrößen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1348,
+          "top_left_y": 1611,
+          "bottom_right_x": 1397,
+          "bottom_right_y": 2515,
+          "content": "basierend auf den Reihenmessungen von 1994",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1364,
+          "top_left_y": 787,
+          "bottom_right_x": 1401,
+          "bottom_right_y": 1133,
+          "content": "alle Maßangaben in cm",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1364,
+          "top_left_y": 343,
+          "bottom_right_x": 1429,
+          "bottom_right_y": 686,
+          "content": "© Europa-Lehrman",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1429,
+          "top_left_y": 178,
+          "bottom_right_x": 3329,
+          "bottom_right_y": 2754,
+          "content": "|  G | Größe | 32 | 34 | 36 | 38 | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54 | 56 | 58 | 60 | 62  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  KöH |   | 168 |   |   | 168 |   |   | 168  |   |   |   |   |   |   |   |   |   |\n|  BrU | Brustumfang | 76 | 80 | 84 | 88 | 92 | 96 | 100 | 104 | 110 | 116 | 122 | 128 | 134 | 140 | 144 | 149  |\n|  uBrU | Unterbrustumfang | 68 | 71 | 74 | 77 | 80 | 84 | 88 | 92 | 98 | 104 | 110 | 116 | 122 | 128 | 134 | 139  |\n|  TaU | Tallenumfang | 62 | 65 | 68 | 72 | 76 | 80 | 84 | 88 | 94,5 | 101 | 107,5 | 114 | 120,5 | 127 | 133,5 | 133,5  |\n|  HüU | Hüftumfang | 86 | 90 | 94 | 97 | 100 | 103 | 106 | 109 | 114 | 119 | 124 | 129 | 134 | 139 | 144 | 144  |\n|  HaU | Halsansatzumfang | 34,2 | 34,8 | 35,4 | 36 | 36,6 | 37,2 | 37,8 | 38,4 | 39,6 | 40,8 | 42 | 43,2 | 44,4 | 45,6 | 46,8 | 46,8  |\n|  HIB | Halslochbreite (½) | 6,2 | 6,3 | 6,4 | 6,5 | 6,6 | 6,7 | 6,8 | 6,9 | 7,1 | 7,3 | 7,5 | 7,7 | 7,9 | 8,1 | 8,3 | 8,3  |\n|  AIT | Armlochtiefe | 18,9 | 19,3 | 19,7 | 20,1 | 20,5 | 20,9 | 21,3 | 21,7 | 22,1 | 22,5 | 22,9 | 23,3 | 23,7 | 24,1 | 24,5 | 24,5  |\n|  RUL | Rückenlänge | 41,4 | 41,4 | 41,4 | 41,6 | 41,8 | 42 | 42,2 | 42,4 | 42,7 | 43 | 43,3 | 43,6 | 43,6 | 43,6 | 43,6 | 43,6  |\n|   | 7.HW bis Kniekehle | 100,6 | 100,9 | 101,2 | 101,5 | 101,8 | 102,1 | 102,4 | 102,7 | 103,1 | 103,5 | 103,9 | 104,3 | 104,7 | 105,1 | 105,5 | 105,5  |\n|   | 7.HW bis Fußsohle | 146 | 146,3 | 146,6 | 146,9 | 147,2 | 147,5 | 147,8 | 148,1 | 148,5 | 148,9 | 149,3 | 149,7 | 150,1 | 15,5 | 150,9 | 150,9  |\n|  HüT | Hüfttiefe | 21 |   |   | 21 |   |   | 21  |   |   |   |   |   |   |   |   |   |\n|  BrT | Brusttiefe | 25,7 | 26,5 | 27,3 | 28,1 | 28,9 | 29,7 | 30,5 | 31,3 | 32,5 | 33,7 | 34,9 | 36,1 | 37,3 | 38,5 | 39,7 | 39,7  |\n|  VL | Vorderlänge | 43,9 | 44,3 | 44,7 | 45,3 | 45,9 | 46,5 | 47,1 | 47,7 | 48,8 | 49,9 | 51 | 52,1 | 52,9 | 53,7 | 54,5 | 54,5  |\n|  oRUB | obere Rückenbreite (½) | 16,2 | 16,7 | 17,2 | 17,7 | 18,2 | 18,7 | 19,2 | 19,7 | 20,5 | 21,2 | 22 | 22,7 | 23,5 | 24,2 | 25 | 25  |\n|  RUB | Rückenbreite (½) | 15 | 15,5 | 16 | 16,5 | 17 | 17,5 | 18 | 18,5 | 19,2 | 19,9 | 20,6 | 21,3 | 22 | 22,7 | 23,4 | 23,4  |\n|  ArD | Armdurchmesser | 7,2 | 7,9 | 8,6 | 9,3 | 10 | 10,7 | 11,4 | 12,1 | 12,2 | 14,3 | 15,4 | 16,5 | 17,6 | 18,7 | 19,8 | 19,8  |\n|  BrB | Brustbreite (½) | 15,8 | 16,6 | 17,4 | 18,2 | 19 | 19,8 | 20,6 | 21,4 | 22,6 | 23,8 | 25 | 26,2 | 27,4 | 28,6 | 29,8 | 29,8  |\n|  BrPA | Brustpunktabstand (½) | 7,6 | 8 | 8,4 | 8,8 | 9,2 | 9,6 | 10 | 10,4 | 11 | 11,6 | 12,2 | 12,8 | 13,4 | 14 | 14,6 | 14,6  |\n|  SuB | Schulterbreite | 11,9 | 12 | 12,1 | 12,2 | 12,4 | 12,6 | 12,8 | 13 | 13,2 | 13,4 | 13,6 | 13,8 | 14 | 14,2 | 14,4 | 14,4  |\n|  SuWi | Schulterwinkel in Grad | 20° |   |   | 20° |   |   | 20°  |   |   |   |   |   |   |   |   |   |\n|  ArL | Armlänge | 59,4 | 59,6 | 59,8 | 60 | 60,2 | 60,4 | 60,6 | 60,8 | 61,1 | 61,4 | 61,7 | 62 | 62 | 62 | 62 | 62  |\n|  OaU | Oberarmumfang | 25,6 | 26,2 | 26,8 | 28 | 29,2 | 30,4 | 31,6 | 32,8 | 34,6 | 36,4 | 38,2 | 40 | 41,8 | 43,6 | 45,4 | 45,4  |\n|  HgU | Handgelenkumfang | 14,6 | 15 | 15,4 | 15,8 | 16,2 | 16,6 | 17 | 17,4 | 18 | 18,6 | 19,2 | 19,8 | 20,4 | 21 | 21,6 | 21,6  |\n|  sTaH | seitliche Taillenhöhe | 106 |   |   | 106 |   |   | 106  |   |   |   |   |   |   |   |   |   |\n|  OsU | Oberschenkelumfang | 50,2 | 52 | 53,8 | 55,6 | 57,4 | 59,2 | 61 | 62,8 | 65 | 67,2 | 69,4 | 71,6 | 73,8 | 76 | 78,2 | 78,2  |\n|  SiH | Sitzhöhe | 24,9 | 25,3 | 25,7 | 26,1 | 26,5 | 26,9 | 27,3 | 27,7 | 28,3 | 28,9 | 29,5 | 30,1 | 30,7 | 31,3 | 31,9 | 31,9  |\n|  SrH | Schritthöhe | 81,1 | 80,7 | 80,3 | 79,9 | 79,5 | 79,1 | 78,7 | 78,3 | 77,7 | 77,1 | 76,5 | 75,9 | 75,3 | 74,7 | 74,1 | 74,1  |\n|  FeU | Fesselumfang | 23 | 23,5 | 24 | 24,5 | 25 | 25,5 | 26 | 26,5 | 27 | 27,5 | 28 | 28,5 | 29 | 29,5 | 30 | 30  |\n|  KoU | Kopfumfang | 55,2 | 55,4 | 55,6 | 55,8 | 56 | 56,2 | 56,4 | 56,6 | 56,8 | 57 | 57,2 | 57,4 | 57,6 | 57,8 | 58 | 58  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 3259,
+          "top_left_y": 2221,
+          "bottom_right_x": 3320,
+          "bottom_right_y": 2735,
+          "content": "* D2B = Damenoberbekleidung",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 3378,
+          "top_left_y": 1804,
+          "bottom_right_x": 3463,
+          "bottom_right_y": 2763,
+          "content": "Internationale Damen-Größen im Vergleich",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3467,
+          "top_left_y": 153,
+          "bottom_right_x": 3990,
+          "bottom_right_y": 2830,
+          "content": "|  D (Deutschland) | 32 | 34 | 36 | 38 | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  International | XS | S | M | M/L | L | XL | XXL | XXL | XXXL | XXXL | XXXL | XXXL  |\n|  UK (Großbritannien) | - | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 28  |\n|  US (USA)8 | 9 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | - | -  |\n|  F (Frankreich) | - | 36 | 38 | 40 | 42 | 44 | 46 | 50 | 52 | 54 | 56 | 58  |\n|  IT (Italien) | 40 | 42 | 44 | 46 | 48 | 50 | 52 | 54 | 56 | 58 | 60 | -  |\n|  Japan | 9 | 11 | 13 | 15 | 17 | 19 | 21 | 23 | 25 | - | - | -  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 3880,
+          "top_left_y": 2971,
+          "bottom_right_x": 3949,
+          "bottom_right_y": 3051,
+          "content": "20",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 343,
+          "top_left_y": 3,
+          "bottom_right_x": 474,
+          "bottom_right_y": 248,
+          "content": "Standard\nLinienart",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 555,
+          "top_left_y": 3,
+          "bottom_right_x": 1046,
+          "bottom_right_y": 224,
+          "content": "Linienarten\nBei der Schnitte\ndigital an ein\ndann d\ngeben sie ein\nLinien begr\nso element\nBei der r\nSchnitten\nnie verwe\nden Profi",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1123,
+          "top_left_y": 3,
+          "bottom_right_x": 1352,
+          "bottom_right_y": 172,
+          "content": "Verwen\nFür ein b\nschiede\ntungen\nmit zusa",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1421,
+          "top_left_y": 3,
+          "bottom_right_x": 1613,
+          "bottom_right_y": 147,
+          "content": "① Mah\nStrichli\nsieren\n(dann",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1683,
+          "top_left_y": 3,
+          "bottom_right_x": 1883,
+          "bottom_right_y": 119,
+          "content": "② Hil\nKonst\nwerde\nLinien",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1960,
+          "top_left_y": 3,
+          "bottom_right_x": 2218,
+          "bottom_right_y": 95,
+          "content": "③ S\nDie\nVoll\nwiro\nschu",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2303,
+          "top_left_y": 3,
+          "bottom_right_x": 2471,
+          "bottom_right_y": 64,
+          "content": "④\nUn\nne",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2553,
+          "top_left_y": 3,
+          "bottom_right_x": 2892,
+          "bottom_right_y": 43,
+          "content": "⑤\nA\na\nu\n(\nl",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4362365
+  }
+}

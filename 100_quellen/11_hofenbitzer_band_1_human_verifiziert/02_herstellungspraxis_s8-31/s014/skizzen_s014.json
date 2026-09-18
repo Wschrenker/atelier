@@ -1,0 +1,42 @@
+{
+  "source": "s14.jpg",
+  "note": "Bounding Boxes beziehen sich auf den temporären, aufrecht gedrehten Seitenzuschnitt (ohne Nachbarseite 15), nicht auf die Pixelkoordinaten des unveränderten Originalbilds.",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s014_skizze_01.png",
+      "gehoert_zu_abbildung": "☐4 Obere Rückenbreite (Rückansicht)",
+      "bbox_raw_pixels": [1496, 372, 2102, 674]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s014_skizze_02.png",
+      "gehoert_zu_abbildung": "☐4 Obere Rückenbreite (Seitenansicht)",
+      "bbox_raw_pixels": [2116, 404, 2525, 747]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s014_skizze_03.png",
+      "gehoert_zu_abbildung": "☐5 Armlochtiefe (zwei Ansichten)",
+      "bbox_raw_pixels": [1508, 858, 2533, 1209]
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s014_skizze_04.png",
+      "gehoert_zu_abbildung": "☐6 Gemessene Rückenbreite und gemessene Armdurchmesser",
+      "bbox_raw_pixels": [1522, 1348, 2629, 2067]
+    },
+    {
+      "id": "img-4.jpeg",
+      "file": "skizzen/s014_skizze_05.png",
+      "gehoert_zu_abbildung": "☐7 Gemessene Brustbreite (Vorderansicht)",
+      "bbox_raw_pixels": [1651, 2222, 2187, 2659]
+    },
+    {
+      "id": "img-5.jpeg",
+      "file": "skizzen/s014_skizze_06.png",
+      "gehoert_zu_abbildung": "☐7 Gemessene Brustbreite (Seitenansicht)",
+      "bbox_raw_pixels": [2313, 2254, 2649, 2777]
+    }
+  ]
+}

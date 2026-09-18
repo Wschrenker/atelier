@@ -1,0 +1,42 @@
+{
+  "source": "s18.jpg",
+  "regions": [
+    {
+      "id": "manuell-1",
+      "file": "skizzen/s018_skizze_01.png",
+      "bbox_raw_pixels": [250, 760, 1180, 1070],
+      "caption_im_foto": "☐1 Flaches Gesäß"
+    },
+    {
+      "id": "manuell-2",
+      "file": "skizzen/s018_skizze_02.png",
+      "bbox_raw_pixels": [250, 380, 1180, 690],
+      "caption_im_foto": "☐2 Starkes Gesäß"
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s018_skizze_03.png",
+      "bbox_raw_pixels": [2075, 2313, 3553, 2714],
+      "caption_im_foto": "☐3 Großer Busen"
+    },
+    {
+      "id": "manuell-4",
+      "file": "skizzen/s018_skizze_04.png",
+      "bbox_raw_pixels": [2060, 1620, 3760, 2240],
+      "caption_im_foto": "☐4 Aufrechte Haltung, vorgedrückte Brust"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s018_skizze_05.png",
+      "bbox_raw_pixels": [2046, 1078, 3680, 1415],
+      "caption_im_foto": "☐5 Flacher Busen"
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s018_skizze_06.png",
+      "bbox_raw_pixels": [2050, 322, 3717, 680],
+      "caption_im_foto": "☐6 Runder Rücken"
+    }
+  ],
+  "hinweis": "img-0.jpeg aus der OCR-Antwort deckte nur einen Teil von ☐1/☐2 ab und wurde verworfen; ☐1, ☐2 und ☐4 wurden von Hand aus dem Originalbild nachgeschnitten, da die automatische Bilderkennung sie nicht oder nicht vollständig als eigene Region erkannt hat."
+}

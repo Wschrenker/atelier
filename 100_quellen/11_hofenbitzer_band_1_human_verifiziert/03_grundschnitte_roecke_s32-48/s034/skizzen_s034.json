@@ -1,0 +1,25 @@
+{
+  "source": "s34.jpg (linke Seite zugeschnitten, siehe s034.md)",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s034_skizze_01.png",
+      "bbox_raw_pixels": [
+        1200,
+        441,
+        2548,
+        1866
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s034_skizze_02.png",
+      "bbox_raw_pixels": [
+        346,
+        1487,
+        953,
+        2181
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Punkt- und Linien-Namen auf Schablonen und Schnittteilen:\n\n[tbl-0.md](tbl-0.md)\n\n# Verwendung der Schnittteilleiste\n\nSämtliche Schnittteile eines Modells, also der komplette Schnittsatz, werden immer gemeinsam gelagert und müssen auf seine Vollständigkeit überprüft werden können. Hierzu ist die Schnittteilleiste unerlässlich.\n\n![img-0.jpeg](img-0.jpeg)\n\nModellname, verantwortliche/-r Bearbeiter/-in sowie das Datum sind notwendige Informationen zum Schnittsatz.\n\nDie Nummerierung vereinfacht die Zuordnung und gibt auf einen Blick die Gesamtzahl der Schnittteile für die Kontrolle an.\n\nJedes Schnittteilname darf nur einmal pro Schnittsatz vergeben werden.\n\nDie Materialangabe gibt an, in welchem Material das jeweilige Schnittteil zugeschnitten, und ob es ggf. mit einer Einlage fixiert werden soll. Sollen mehrere verschiedene Oberstoffe, Einlagen und Futter verwendet werden, können sie ggf. mit verschiedenen Nummern versehen und somit unterschieden werden.\n\nIn welcher Anzahl das Schnittteil benötigt wird, soll in der letzten Spalte notiert werden. Auch muss angegeben werden, ob es spiegelsymmetrisch zugeschnitten sein soll.\n\n# Lagerung von Schnitten\n\nEin Schnittsatz besteht aus sämtlichen Schnittschablonen eines Modells. Hierzu gehören auch Anzeichen- und Bügelscha-blonen.\n\nDie Schnittschablonen aus Karton werden mit einem großen Locher (Hase) gelocht und mit einer speziellen Klammer, einem Haken mit Schlaufe oder einfach mit einem zur Schlaufe gebundenen Band aufgefaßelt und aufgehängt.\n\nDie Produktdokumentation wird zuoberst angehängt, um eine schnelle Identifikation des Schnittsatzes zu gewährleisten und um die Vollständigkeit des Schnittsatzes überprüfen zu können. Je nach betrieblicher Anforderung kann die Produktdokumentation aus folgenden Dokumenten bestehen:\n\nTechnische Skizze\nModellbeschreibung\nSchnittteiliste\nMaterialiste\nArbeitsplan\nBetriebsmittelliste\n\n[tbl-1.md](tbl-1.md)\n\nStandards Schnittteilleiste und Lagerung\n\n31",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 698,
+          "top_left_y": 432,
+          "bottom_right_x": 1376,
+          "bottom_right_y": 1032,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  VM | vordere Mitte | vAp | vorderer Ärmelpunkt  |\n| --- | --- | --- | --- |\n|  hM | hintere Mitte | hAP | hinterer Ärmelpunkt  |\n|  SN | Seitennaht | tP | tiefster Punkt  |\n|  BU | Brustlinie | SuP | Schulterpunkt  |\n|  UT | Übertritt | Reb | Reversbruch  |\n|  UT | Untertritt | Krb | Kragenbruch  |\n|  RV | Reißverschluss(-ende) | StKa | Schlitzkante  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  Schnittteilleiste |   |   | Modell | Toscana 035  |   |   |\n| --- | --- | --- | --- | --- | --- | --- |\n|   | Kollektion | HW-2026 | Bearbeiter | Andrea Muster | Datum | 02.08.2024  |\n|  Nr. | Schnittteilname |   | Material | Name Intern | Farbe | No. Intern Anzahl  |\n|  1. | Vorderteil |   | OSt.1, El.1 |  |  | 2x-p  |\n|  2. | Seitenteil |   | OSt.1, El.1 |  |  | 2x-p  |\n|  3. | RT-Passe |   | OSt.1, El.2 |  |  | 1x  |\n|  4. | Rückteil |   | OSt.1 |  |  | 2x-p  |\n|  5. | Unterärmel |   | OSt.1 |  |  | 2x-p  |\n|  6. | Oberärmel |   | OSt.1 |  |  | 2x-p  |\n|  7. | VT-Beleg |   | OSt.1, El.2 |  |  | 2x-p  |\n|  8. | RT-Beleg |   | OSt.1, El.2 |  |  | 1x  |\n|  9. | Oberkragen |   | OSt.2, El.2 |  |  | 1x  |\n|  10. | Unterkragen |   | OSt.2, El.2 |  |  | 2x-p  |\n|  11. | Kragensteg |   | OSt.2, El.2 |  |  | 2x  |\n|  12. | Taschenspiegel |   | OSt.1 |  |  | 2x-p  |\n|  13. | Paspelstreifen |   | OSt.2 |  |  | 4x  |\n|  14. | VT-Futter |   | Fu.1 |  |  | 2x-p  |\n|  15. | ST-Futter |   | Fu.1 |  |  | 2x-p  |\n|  16. | RT-Futter links |   | Fu.1 |  |  | 1x  |\n|  17. | RT-Futter rechts |   | Fu.1 |  |  | 1x  |\n|  18. | v-Armel-Futter |   | Fu.2 |  |  | 2x-p  |\n|  19. | h-Armel-Futter |   | Fu.2 |  |  | 2x-p  |\n|  20. | v-Taschenbeutel |   | Fu.3 |  |  | 2x-p  |\n|  21. | h-Taschenbeutel |   | Fu.3 |  |  | 2x-p  |\n|  22. | v-Armelkugel |   | El.3 |  |  | 2x-p  |\n|  23. | h-Armelkugel |   | El.3 |  |  | 2x-p  |\n|  24. | ST-Armloch |   | El.3 |  |  | 2x-p  |\n|  25. | RT-Armloch |   | El.3 |  |  | 2x-p  |\n|  26. | ST-Saum |   | El.2 |  |  | 2x-p  |\n|  27. | RT-Saum |   | El.2 |  |  | 2x-p  |\n|  28. | RT-Schlitz |   | El.2 |  |  | 2x-p  |\n|  29. | Plack 1 |   | El.4 |  |  | 2x-p  |\n|  30. | Plack 2 |   | El.4 |  |  | 1x  |\n|  31. | Bügelschablone Kantenabstich |   | Pappe |  |  |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 82,
+          "top_left_y": 1933,
+          "bottom_right_x": 135,
+          "bottom_right_y": 2910,
+          "content": "Punkt- und Linien-Namen auf Schablonen und Schnittteilen:",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 139,
+          "top_left_y": 1875,
+          "bottom_right_x": 388,
+          "bottom_right_y": 2913,
+          "content": "|  VM | vordere Mitte | vAp | vorderer Ärmelpunkt  |\n| --- | --- | --- | --- |\n|  hM | hintere Mitte | hAP | hinterer Ärmelpunkt  |\n|  SN | Seitennaht | tP | tiefster Punkt  |\n|  BU | Brustlinie | SuP | Schulterpunkt  |\n|  UT | Übertritt | Reb | Reversbruch  |\n|  UT | Untertritt | Krb | Kragenbruch  |\n|  RV | Reißverschluss(-ende) | StKa | Schlitzkante  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 490,
+          "top_left_y": 2257,
+          "bottom_right_x": 539,
+          "bottom_right_y": 2925,
+          "content": "# Verwendung der Schnittteilleiste",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 560,
+          "top_left_y": 1795,
+          "bottom_right_x": 743,
+          "bottom_right_y": 2947,
+          "content": "Sämtliche Schnittteile eines Modells, also der komplette Schnittsatz, werden immer gemeinsam gelagert und müssen auf seine Vollständigkeit überprüft werden können. Hierzu ist die Schnittteilleiste unerlässlich.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 698,
+          "top_left_y": 432,
+          "bottom_right_x": 1376,
+          "bottom_right_y": 1032,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 760,
+          "top_left_y": 1792,
+          "bottom_right_x": 858,
+          "bottom_right_y": 2950,
+          "content": "Modellname, verantwortliche/-r Bearbeiter/-in sowie das Datum sind notwendige Informationen zum Schnittsatz.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 874,
+          "top_left_y": 1789,
+          "bottom_right_x": 968,
+          "bottom_right_y": 2950,
+          "content": "Die Nummerierung vereinfacht die Zuordnung und gibt auf einen Blick die Gesamtzahl der Schnittteile für die Kontrolle an.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 988,
+          "top_left_y": 1789,
+          "bottom_right_x": 1090,
+          "bottom_right_y": 2950,
+          "content": "Jedes Schnittteilname darf nur einmal pro Schnittsatz vergeben werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1103,
+          "top_left_y": 1774,
+          "bottom_right_x": 1397,
+          "bottom_right_y": 2959,
+          "content": "Die Materialangabe gibt an, in welchem Material das jeweilige Schnittteil zugeschnitten, und ob es ggf. mit einer Einlage fixiert werden soll. Sollen mehrere verschiedene Oberstoffe, Einlagen und Futter verwendet werden, können sie ggf. mit verschiedenen Nummern versehen und somit unterschieden werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 110,
+          "top_left_y": 714,
+          "bottom_right_x": 245,
+          "bottom_right_y": 1758,
+          "content": "In welcher Anzahl das Schnittteil benötigt wird, soll in der letzten Spalte notiert werden. Auch muss angegeben werden, ob es spiegelsymmetrisch zugeschnitten sein soll.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 257,
+          "top_left_y": 1299,
+          "bottom_right_x": 302,
+          "bottom_right_y": 1740,
+          "content": "# Lagerung von Schnitten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 319,
+          "top_left_y": 686,
+          "bottom_right_x": 445,
+          "bottom_right_y": 1749,
+          "content": "Ein Schnittsatz besteht aus sämtlichen Schnittschablonen eines Modells. Hierzu gehören auch Anzeichen- und Bügelscha-blonen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 466,
+          "top_left_y": 671,
+          "bottom_right_x": 641,
+          "bottom_right_y": 1746,
+          "content": "Die Schnittschablonen aus Karton werden mit einem großen Locher (Hase) gelocht und mit einer speziellen Klammer, einem Haken mit Schlaufe oder einfach mit einem zur Schlaufe gebundenen Band aufgefaßelt und aufgehängt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 653,
+          "top_left_y": 1032,
+          "bottom_right_x": 1050,
+          "bottom_right_y": 1734,
+          "content": "Die Produktdokumentation wird zuoberst angehängt, um eine schnelle Identifikation des Schnittsatzes zu gewährleisten und um die Vollständigkeit des Schnittsatzes überprüfen zu können. Je nach betrieblicher Anforderung kann die Produktdokumentation aus folgenden Dokumenten bestehen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1095,
+          "top_left_y": 1268,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 1694,
+          "content": "Technische Skizze\nModellbeschreibung\nSchnittteiliste\nMaterialiste\nArbeitsplan\nBetriebsmittelliste",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1425,
+          "top_left_y": 708,
+          "bottom_right_x": 3733,
+          "bottom_right_y": 2965,
+          "content": "|  Schnittteilleiste |   |   | Modell | Toscana 035  |   |   |\n| --- | --- | --- | --- | --- | --- | --- |\n|   | Kollektion | HW-2026 | Bearbeiter | Andrea Muster | Datum | 02.08.2024  |\n|  Nr. | Schnittteilname |   | Material | Name Intern | Farbe | No. Intern Anzahl  |\n|  1. | Vorderteil |   | OSt.1, El.1 |  |  | 2x-p  |\n|  2. | Seitenteil |   | OSt.1, El.1 |  |  | 2x-p  |\n|  3. | RT-Passe |   | OSt.1, El.2 |  |  | 1x  |\n|  4. | Rückteil |   | OSt.1 |  |  | 2x-p  |\n|  5. | Unterärmel |   | OSt.1 |  |  | 2x-p  |\n|  6. | Oberärmel |   | OSt.1 |  |  | 2x-p  |\n|  7. | VT-Beleg |   | OSt.1, El.2 |  |  | 2x-p  |\n|  8. | RT-Beleg |   | OSt.1, El.2 |  |  | 1x  |\n|  9. | Oberkragen |   | OSt.2, El.2 |  |  | 1x  |\n|  10. | Unterkragen |   | OSt.2, El.2 |  |  | 2x-p  |\n|  11. | Kragensteg |   | OSt.2, El.2 |  |  | 2x  |\n|  12. | Taschenspiegel |   | OSt.1 |  |  | 2x-p  |\n|  13. | Paspelstreifen |   | OSt.2 |  |  | 4x  |\n|  14. | VT-Futter |   | Fu.1 |  |  | 2x-p  |\n|  15. | ST-Futter |   | Fu.1 |  |  | 2x-p  |\n|  16. | RT-Futter links |   | Fu.1 |  |  | 1x  |\n|  17. | RT-Futter rechts |   | Fu.1 |  |  | 1x  |\n|  18. | v-Armel-Futter |   | Fu.2 |  |  | 2x-p  |\n|  19. | h-Armel-Futter |   | Fu.2 |  |  | 2x-p  |\n|  20. | v-Taschenbeutel |   | Fu.3 |  |  | 2x-p  |\n|  21. | h-Taschenbeutel |   | Fu.3 |  |  | 2x-p  |\n|  22. | v-Armelkugel |   | El.3 |  |  | 2x-p  |\n|  23. | h-Armelkugel |   | El.3 |  |  | 2x-p  |\n|  24. | ST-Armloch |   | El.3 |  |  | 2x-p  |\n|  25. | RT-Armloch |   | El.3 |  |  | 2x-p  |\n|  26. | ST-Saum |   | El.2 |  |  | 2x-p  |\n|  27. | RT-Saum |   | El.2 |  |  | 2x-p  |\n|  28. | RT-Schlitz |   | El.2 |  |  | 2x-p  |\n|  29. | Plack 1 |   | El.4 |  |  | 2x-p  |\n|  30. | Plack 2 |   | El.4 |  |  | 1x  |\n|  31. | Bügelschablone Kantenabstich |   | Pappe |  |  |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 127,
+          "top_left_y": 484,
+          "bottom_right_x": 613,
+          "bottom_right_y": 573,
+          "content": "Standards Schnittteilleiste und Lagerung",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3537,
+          "top_left_y": 153,
+          "bottom_right_x": 3598,
+          "bottom_right_y": 221,
+          "content": "31",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4111875
+  }
+}

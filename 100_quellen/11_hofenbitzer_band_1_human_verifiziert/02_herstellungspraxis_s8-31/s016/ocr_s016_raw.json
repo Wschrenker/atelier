@@ -1,0 +1,391 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Einführung\n\n# Körpermaße und Maßnahmen (5)\n\n![img-0.jpeg](img-0.jpeg)\n\n# HUT\n\n6.2 Hütten\nMit dem Maßband wird der Abstand zwischen Unterkante des Taillenbandes und der stärksten Stelle an der seitlichen Hüfte entlang der Körperrundung gemessen.\n\n# 6.3 Scheinhöhe\n\nSH\nDas Maß zwischen Schritt und Standfläche und wird mit einem Schritt-Maßband gemessen - aber häufig bei Damen auch nur berechnet.\n\n# 6.7 Sitzhöhe\n\nSH\nDie Sitzhöhe wird im Sitzen auf einer ebenen Fläche gemessen. Das Taillenband muss hierbei waagerecht liegen (siehe Taillenhöhen). Das Maß wird links und rechts von der Unterkante des Taillenmaßbandes bis zur Ebene der Sitzfläche entlang der seitlichen Körperrundung gemessen. Man verwendet das mittlere oder kürzere gemessene Maß. Geeignetes Messgerät ist das Lötband.\n\n![img-1.jpeg](img-1.jpeg)\n\n10 Sitzhöhe von der waagerechten Taille\n\n9 Maße unterhalb der Taille\n\n# 6.2 Oberschenkelumfang OsU\n\n![img-2.jpeg](img-2.jpeg)\n\n11 Das Maß wird über der stärksten Stelle der Oberschenkel gemessen.\n\n# 6.3 Knieumfang KnU\n\nDas Maß wird über die stärkste Stelle des Knies gemessen.\n\n# 6.4 Unterknelumfang uKnU\n\nDas Maß wird über der engsten Stelle unter dem Knie gemessen.\n\n# 6.5 Wadenumfang VeU\n\nDas Maß wird über der stärksten Stelle der Wade gemessen.\n\n# 6.6 Fusselumfang FeU\n\nDas Maß wird über der stärksten Stelle der Fußknöchel gemessen.\n\n# 6.7 Fersen-/Bistumfang RIU\n\nDas Maß wird unter der Ferse und über dem Rist (Fußrücken) bei gestrecktem Fuß gemessen.\n\n# 6.8 Unterleibumfang UIU\n\nDas Maß wird entlang der vorderen und der hinteren Mitte zwischen den Beinen jeweils zur Unterkante des Taillenbandes extrem eng am Körper gemessen.\n\n11 Spezielle Hosenmaße\n\n# Hinweise\n\nGemessene Maße\nDie Maße, z. B. (eigene, mengenensene) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende\n\nBerechnete\nManche, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, 1\n\nKontrollmaße\nZur Kontrollmaße\nanhand and\nmit kontrol-\ntiefe (AIT)\nweichung\nWert des k-\nden.\n\nBeide Kö-\nDie Brust-\nden Körp-\nin der Re-\nnet, um\nzu bestir\n\nFigurbu-\nFür die\ng. (Rü-\nmuss m-\nlenban-\nSeite\nwaage\n\n1\nz. B. u.\ngeme\ncm ge\nSteig\nmuss\n(gVL\nden.\n\nDie\nkon\nno\nde\nslt\nab\nFi\nTa\ng\nm\nd\nr\nc\nH\n\n16",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 453,
+          "top_left_y": 331,
+          "bottom_right_x": 1903,
+          "bottom_right_y": 1311,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1262,
+          "top_left_y": 1620,
+          "bottom_right_x": 1903,
+          "bottom_right_y": 2319,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2136,
+          "top_left_y": 230,
+          "bottom_right_x": 3569,
+          "bottom_right_y": 1345,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 372,
+          "top_left_y": 2178,
+          "bottom_right_x": 421,
+          "bottom_right_y": 2441,
+          "content": "# Einführung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 327,
+          "top_left_y": 1293,
+          "bottom_right_x": 400,
+          "bottom_right_y": 2055,
+          "content": "# Körpermaße und Maßnahmen (5)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 453,
+          "top_left_y": 331,
+          "bottom_right_x": 1903,
+          "bottom_right_y": 1311,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 555,
+          "top_left_y": 1706,
+          "bottom_right_x": 588,
+          "bottom_right_y": 1780,
+          "content": "# HUT",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 555,
+          "top_left_y": 1418,
+          "bottom_right_x": 698,
+          "bottom_right_y": 2297,
+          "content": "6.2 Hütten\nMit dem Maßband wird der Abstand zwischen Unterkante des Taillenbandes und der stärksten Stelle an der seitlichen Hüfte entlang der Körperrundung gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 731,
+          "top_left_y": 2034,
+          "bottom_right_x": 764,
+          "bottom_right_y": 2306,
+          "content": "# 6.3 Scheinhöhe",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 731,
+          "top_left_y": 1418,
+          "bottom_right_x": 878,
+          "bottom_right_y": 2325,
+          "content": "SH\nDas Maß zwischen Schritt und Standfläche und wird mit einem Schritt-Maßband gemessen - aber häufig bei Damen auch nur berechnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 911,
+          "top_left_y": 2095,
+          "bottom_right_x": 943,
+          "bottom_right_y": 2331,
+          "content": "# 6.7 Sitzhöhe",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 911,
+          "top_left_y": 1421,
+          "bottom_right_x": 1217,
+          "bottom_right_y": 2371,
+          "content": "SH\nDie Sitzhöhe wird im Sitzen auf einer ebenen Fläche gemessen. Das Taillenband muss hierbei waagerecht liegen (siehe Taillenhöhen). Das Maß wird links und rechts von der Unterkante des Taillenmaßbandes bis zur Ebene der Sitzfläche entlang der seitlichen Körperrundung gemessen. Man verwendet das mittlere oder kürzere gemessene Maß. Geeignetes Messgerät ist das Lötband.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1262,
+          "top_left_y": 1620,
+          "bottom_right_x": 1903,
+          "bottom_right_y": 2319,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1932,
+          "top_left_y": 1804,
+          "bottom_right_x": 2009,
+          "bottom_right_y": 2175,
+          "content": "10 Sitzhöhe von der waagerechten Taille",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1924,
+          "top_left_y": 686,
+          "bottom_right_x": 1964,
+          "bottom_right_y": 1198,
+          "content": "9 Maße unterhalb der Taille",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2120,
+          "top_left_y": 1813,
+          "bottom_right_x": 2173,
+          "bottom_right_y": 2496,
+          "content": "# 6.2 Oberschenkelumfang OsU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2136,
+          "top_left_y": 230,
+          "bottom_right_x": 3569,
+          "bottom_right_y": 1345,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2189,
+          "top_left_y": 1397,
+          "bottom_right_x": 2283,
+          "bottom_right_y": 2515,
+          "content": "11 Das Maß wird über der stärksten Stelle der Oberschenkel gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2324,
+          "top_left_y": 1826,
+          "bottom_right_x": 2377,
+          "bottom_right_y": 2527,
+          "content": "# 6.3 Knieumfang KnU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2393,
+          "top_left_y": 1544,
+          "bottom_right_x": 2450,
+          "bottom_right_y": 2542,
+          "content": "Das Maß wird über die stärkste Stelle des Knies gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2487,
+          "top_left_y": 1813,
+          "bottom_right_x": 2540,
+          "bottom_right_y": 2548,
+          "content": "# 6.4 Unterknelumfang uKnU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2561,
+          "top_left_y": 1443,
+          "bottom_right_x": 2622,
+          "bottom_right_y": 2564,
+          "content": "Das Maß wird über der engsten Stelle unter dem Knie gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2655,
+          "top_left_y": 1847,
+          "bottom_right_x": 2712,
+          "bottom_right_y": 2573,
+          "content": "# 6.5 Wadenumfang VeU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2732,
+          "top_left_y": 1528,
+          "bottom_right_x": 2798,
+          "bottom_right_y": 2588,
+          "content": "Das Maß wird über der stärksten Stelle der Wade gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2826,
+          "top_left_y": 1868,
+          "bottom_right_x": 2887,
+          "bottom_right_y": 2594,
+          "content": "# 6.6 Fusselumfang FeU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2904,
+          "top_left_y": 1421,
+          "bottom_right_x": 2990,
+          "bottom_right_y": 2610,
+          "content": "Das Maß wird über der stärksten Stelle der Fußknöchel gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3006,
+          "top_left_y": 1893,
+          "bottom_right_x": 3075,
+          "bottom_right_y": 2619,
+          "content": "# 6.7 Fersen-/Bistumfang RIU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3083,
+          "top_left_y": 1421,
+          "bottom_right_x": 3206,
+          "bottom_right_y": 2637,
+          "content": "Das Maß wird unter der Ferse und über dem Rist (Fußrücken) bei gestrecktem Fuß gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3243,
+          "top_left_y": 1911,
+          "bottom_right_x": 3316,
+          "bottom_right_y": 2650,
+          "content": "# 6.8 Unterleibumfang UIU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3324,
+          "top_left_y": 1427,
+          "bottom_right_x": 3512,
+          "bottom_right_y": 2680,
+          "content": "Das Maß wird entlang der vorderen und der hinteren Mitte zwischen den Beinen jeweils zur Unterkante des Taillenbandes extrem eng am Körper gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3606,
+          "top_left_y": 404,
+          "bottom_right_x": 3676,
+          "bottom_right_y": 922,
+          "content": "11 Spezielle Hosenmaße",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 363,
+          "top_left_y": 3,
+          "bottom_right_x": 421,
+          "bottom_right_y": 276,
+          "content": "# Hinweise",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 535,
+          "top_left_y": 3,
+          "bottom_right_x": 743,
+          "bottom_right_y": 251,
+          "content": "Gemessene Maße\nDie Maße, z. B. (eigene, mengenensene) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende Seite) (folgende",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 760,
+          "top_left_y": 3,
+          "bottom_right_x": 1037,
+          "bottom_right_y": 230,
+          "content": "Berechnete\nManche, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, Kunst, 1",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1062,
+          "top_left_y": 3,
+          "bottom_right_x": 1389,
+          "bottom_right_y": 202,
+          "content": "Kontrollmaße\nZur Kontrollmaße\nanhand and\nmit kontrol-\ntiefe (AIT)\nweichung\nWert des k-\nden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1421,
+          "top_left_y": 3,
+          "bottom_right_x": 1683,
+          "bottom_right_y": 168,
+          "content": "Beide Kö-\nDie Brust-\nden Körp-\nin der Re-\nnet, um\nzu bestir",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1719,
+          "top_left_y": 3,
+          "bottom_right_x": 2042,
+          "bottom_right_y": 141,
+          "content": "Figurbu-\nFür die\ng. (Rü-\nmuss m-\nlenban-\nSeite\nwaage",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2062,
+          "top_left_y": 3,
+          "bottom_right_x": 2426,
+          "bottom_right_y": 116,
+          "content": "1\nz. B. u.\ngeme\ncm ge\nSteig\nmuss\n(gVL\nden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2455,
+          "top_left_y": 3,
+          "bottom_right_x": 3251,
+          "bottom_right_y": 61,
+          "content": "Die\nkon\nno\nde\nslt\nab\nFi\nTa\ng\nm\nd\nr\nc\nH",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3529,
+          "top_left_y": 2812,
+          "bottom_right_x": 3590,
+          "bottom_right_y": 2876,
+          "content": "16",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3488366
+  }
+}

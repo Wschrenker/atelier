@@ -1,0 +1,601 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Einführung\n\nKörpermaße und Maßnahmen (3)\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n# 13 Obere Rückenbreite gRüB\n\n☐4 Kontrollmaß: Zwischen den Armansatzfalten über die Schulterblätter messen.\n\nNun einen ca. 2 cm bis 4 cm breiten (ggf. schwach klebenden) Papier(-klebe)streifen unter der höchsten Stelle der Arme hindurchführen und exakt waagerecht über den Rücken kleben/legen. Der Streifen muss vorne sichtbar sein.\n\n![img-2.jpeg](img-2.jpeg)\n\n# 14 Armlochtiefe AIT\n\n☐4 Vom 7. Halswirbel entlang der Wirbelsäule bis zur Oberkante des Papierstreifens messen.\n\nZur Kontrolle kann das Maß auch berechnet werden (siehe Maßtabelle). Bei starker Abweichung korrigiert man das gemessene Maß in die Richtung des berechneten Wertes.\n\n# 15 gemessene Rückenbreite gRüB\n\n☐4 Auf dem Papierstreifen die hinteren Armansätze bei locker und natürlich hängenden Armen mit einem senkrecht zum Körper gehaltenen Stift markieren. Die zur Schnittkonstruktion verwendete RüB ergibt sich aus gRüB : 2\n\n![img-3.jpeg](img-3.jpeg)\n\n# 16 gemessener Armdurchmesser gArD\n\n☐4+5 Auf den Papierstreifen beide vorderen Armansätze bei locker und natürlich hängenden Armen an der Oberkante des Papierstreifens markieren. Der zur Schnittkonstruktion benötigte ArD ist der Durchschnittswert zwischen rechter und linker Messung.\n\n# 17 gemessene Brustbreite gBrB\n\n☐5 Über die stärksten Rundungen der Brüste zu den vorderen Armansätzen messen, dabei muss das Maßband exakt waagerecht unter die zumeist höher liegenden vorderen Armansatz-Markierungen verlaufen. Die zur Schnittkonstruktion verwendete BrB ergibt sich aus gBrB : 2.\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n# Alternative Bestimmung von RüB, ArD und BrB\n\nEr ergeben sich häufig Messprobleme, insbesondere bei der Bestimmung des gArD und der gBrB.\n\nDie RüB ist vergleichsweise sicher, wie oben beschrieben, zu bestimmen: RüB = gRüB : 2\n\nDer ArD ist sicherer aus dem Oberarmumfang (OaU, siehe folgende Seite) zu berechnen:\n\n$$\\text{ArD} = \\text{OaU} \\cdot 0,6 - 7,5 \\text{ cm}$$\n\nDie BrB kann nun mit Hilfe des gemessenen Brustumfangs (BrU) berechnet werden: BrB = BrU : 2 - RüB - ArD\n\nFür die Konstruktion eines Oberteilgrundschnitts werden für die hier gezeigten Konstruktionen nur die berechneten bzw. waagerecht gemessenen Teilstrecken Rückenbreite, Armdurchmesser und Brustbreite verwendet.\n\nDie Summe der Teilstrecken kann um einige Zentimeter größer sein als der gemessene BrU. Dies ist darauf zurückzuführen, dass die Einzelstrecken bei den waagerechten Messungen am Papierklebestreifen länger sind als die schräge und direkte Messung des BrU.\n\n☐4 Obere Rückenbreite\n\n☐5 Armlochtiefe\n\n☐6 Gemessene Rückenbreite und gemessene Armdurchmesser\n\n☐7 Gemessene Brustbreite\n\ngBrB exakt waagerecht zur vorderen Armansatz-Markierung messen - nicht zum Oberarm!\n\nErfahrene Fachleute können diese drei Maße mit einiger Übung auch ohne Klebestreifen sicher ermitteln:\n\nZunächst den gemessenen Brustumfang (gBrU), wie auf Seite 12 beschrieben, messen.\n\nDen ArD sicher aus dem Oberarmumfang berechnen.\n\nDie gRüB zwischen den Armansätzen messen und halbieren, das ist die RüB.\n\nDie BrB kann ermittelt werden, indem man vom halben BrU die RüB und den ArD abzieht. Trotzdem sollte die BrB nochmals wie in ☐7 kontrolliert werden. Eine geringfügige Abweichung kann toleriert werden.\n\nKörper\n\n18\n\n☐6 Be\n\nderen Ar\n\n19\n\n☐6\n\ndem ar\n\nUnterk\n\n20\n\n☐6\n\nund u\n\n21\n\n☐6\n\nmit\n\nder\n\n2\n\n☐\n\nW x\n\no",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1496,
+          "top_left_y": 372,
+          "bottom_right_x": 2102,
+          "bottom_right_y": 674,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 2116,
+          "top_left_y": 404,
+          "bottom_right_x": 2525,
+          "bottom_right_y": 747,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1508,
+          "top_left_y": 858,
+          "bottom_right_x": 2533,
+          "bottom_right_y": 1209,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1522,
+          "top_left_y": 1348,
+          "bottom_right_x": 2629,
+          "bottom_right_y": 2067,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1651,
+          "top_left_y": 2222,
+          "bottom_right_x": 2187,
+          "bottom_right_y": 2659,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 2313,
+          "top_left_y": 2254,
+          "bottom_right_x": 2649,
+          "bottom_right_y": 2777,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2815
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 282,
+          "top_left_y": 237,
+          "bottom_right_x": 572,
+          "bottom_right_y": 286,
+          "content": "Einführung",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 719,
+          "top_left_y": 200,
+          "bottom_right_x": 1564,
+          "bottom_right_y": 278,
+          "content": "Körpermaße und Maßnahmen (3)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 1496,
+          "top_left_y": 372,
+          "bottom_right_x": 2102,
+          "bottom_right_y": 674,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 2116,
+          "top_left_y": 404,
+          "bottom_right_x": 2525,
+          "bottom_right_y": 747,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 462,
+          "top_left_y": 429,
+          "bottom_right_x": 1181,
+          "bottom_right_y": 466,
+          "content": "# 13 Obere Rückenbreite gRüB",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 451,
+          "top_left_y": 474,
+          "bottom_right_x": 1434,
+          "bottom_right_y": 560,
+          "content": "☐4 Kontrollmaß: Zwischen den Armansatzfalten über die Schulterblätter messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 431,
+          "top_left_y": 633,
+          "bottom_right_x": 1423,
+          "bottom_right_y": 805,
+          "content": "Nun einen ca. 2 cm bis 4 cm breiten (ggf. schwach klebenden) Papier(-klebe)streifen unter der höchsten Stelle der Arme hindurchführen und exakt waagerecht über den Rücken kleben/legen. Der Streifen muss vorne sichtbar sein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1508,
+          "top_left_y": 858,
+          "bottom_right_x": 2533,
+          "bottom_right_y": 1209,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 414,
+          "top_left_y": 858,
+          "bottom_right_x": 1124,
+          "bottom_right_y": 894,
+          "content": "# 14 Armlochtiefe AIT",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 392,
+          "top_left_y": 907,
+          "bottom_right_x": 1426,
+          "bottom_right_y": 988,
+          "content": "☐4 Vom 7. Halswirbel entlang der Wirbelsäule bis zur Oberkante des Papierstreifens messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 375,
+          "top_left_y": 1005,
+          "bottom_right_x": 1426,
+          "bottom_right_y": 1131,
+          "content": "Zur Kontrolle kann das Maß auch berechnet werden (siehe Maßtabelle). Bei starker Abweichung korrigiert man das gemessene Maß in die Richtung des berechneten Wertes.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 366,
+          "top_left_y": 1233,
+          "bottom_right_x": 1138,
+          "bottom_right_y": 1278,
+          "content": "# 15 gemessene Rückenbreite gRüB",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 330,
+          "top_left_y": 1295,
+          "bottom_right_x": 1420,
+          "bottom_right_y": 1474,
+          "content": "☐4 Auf dem Papierstreifen die hinteren Armansätze bei locker und natürlich hängenden Armen mit einem senkrecht zum Körper gehaltenen Stift markieren. Die zur Schnittkonstruktion verwendete RüB ergibt sich aus gRüB : 2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1522,
+          "top_left_y": 1348,
+          "bottom_right_x": 2629,
+          "bottom_right_y": 2067,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 330,
+          "top_left_y": 1536,
+          "bottom_right_x": 1124,
+          "bottom_right_y": 1581,
+          "content": "# 16 gemessener Armdurchmesser gArD",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 287,
+          "top_left_y": 1601,
+          "bottom_right_x": 1417,
+          "bottom_right_y": 1834,
+          "content": "☐4+5 Auf den Papierstreifen beide vorderen Armansätze bei locker und natürlich hängenden Armen an der Oberkante des Papierstreifens markieren. Der zur Schnittkonstruktion benötigte ArD ist der Durchschnittswert zwischen rechter und linker Messung.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 1903,
+          "bottom_right_x": 1105,
+          "bottom_right_y": 1948,
+          "content": "# 17 gemessene Brustbreite gBrB",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 237,
+          "top_left_y": 1969,
+          "bottom_right_x": 1409,
+          "bottom_right_y": 2214,
+          "content": "☐5 Über die stärksten Rundungen der Brüste zu den vorderen Armansätzen messen, dabei muss das Maßband exakt waagerecht unter die zumeist höher liegenden vorderen Armansatz-Markierungen verlaufen. Die zur Schnittkonstruktion verwendete BrB ergibt sich aus gBrB : 2.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1651,
+          "top_left_y": 2222,
+          "bottom_right_x": 2187,
+          "bottom_right_y": 2659,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 2313,
+          "top_left_y": 2254,
+          "bottom_right_x": 2649,
+          "bottom_right_y": 2777,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 228,
+          "top_left_y": 2312,
+          "bottom_right_x": 1178,
+          "bottom_right_y": 2365,
+          "content": "# Alternative Bestimmung von RüB, ArD und BrB",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 214,
+          "top_left_y": 2389,
+          "bottom_right_x": 1403,
+          "bottom_right_y": 2499,
+          "content": "Er ergeben sich häufig Messprobleme, insbesondere bei der Bestimmung des gArD und der gBrB.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 186,
+          "top_left_y": 2520,
+          "bottom_right_x": 1398,
+          "bottom_right_y": 2630,
+          "content": "Die RüB ist vergleichsweise sicher, wie oben beschrieben, zu bestimmen: RüB = gRüB : 2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 172,
+          "top_left_y": 2655,
+          "bottom_right_x": 1381,
+          "bottom_right_y": 2769,
+          "content": "Der ArD ist sicherer aus dem Oberarmumfang (OaU, siehe folgende Seite) zu berechnen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 733,
+          "top_left_y": 2773,
+          "bottom_right_x": 1381,
+          "bottom_right_y": 2830,
+          "content": "$$\\text{ArD} = \\text{OaU} \\cdot 0,6 - 7,5 \\text{ cm}$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 155,
+          "top_left_y": 2847,
+          "bottom_right_x": 1398,
+          "bottom_right_y": 2969,
+          "content": "Die BrB kann nun mit Hilfe des gemessenen Brustumfangs (BrU) berechnet werden: BrB = BrU : 2 - RüB - ArD",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 90,
+          "top_left_y": 3263,
+          "bottom_right_x": 1389,
+          "bottom_right_y": 3512,
+          "content": "Für die Konstruktion eines Oberteilgrundschnitts werden für die hier gezeigten Konstruktionen nur die berechneten bzw. waagerecht gemessenen Teilstrecken Rückenbreite, Armdurchmesser und Brustbreite verwendet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 48,
+          "top_left_y": 3537,
+          "bottom_right_x": 1386,
+          "bottom_right_y": 3864,
+          "content": "Die Summe der Teilstrecken kann um einige Zentimeter größer sein als der gemessene BrU. Dies ist darauf zurückzuführen, dass die Einzelstrecken bei den waagerechten Messungen am Papierklebestreifen länger sind als die schräge und direkte Messung des BrU.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1496,
+          "top_left_y": 735,
+          "bottom_right_x": 1877,
+          "bottom_right_y": 772,
+          "content": "☐4 Obere Rückenbreite",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1493,
+          "top_left_y": 1246,
+          "bottom_right_x": 1772,
+          "bottom_right_y": 1282,
+          "content": "☐5 Armlochtiefe",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1482,
+          "top_left_y": 2083,
+          "bottom_right_x": 2564,
+          "bottom_right_y": 2136,
+          "content": "☐6 Gemessene Rückenbreite und gemessene Armdurchmesser",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1479,
+          "top_left_y": 2749,
+          "bottom_right_x": 1984,
+          "bottom_right_y": 2798,
+          "content": "☐7 Gemessene Brustbreite",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2277,
+          "top_left_y": 2789,
+          "bottom_right_x": 2677,
+          "bottom_right_y": 2965,
+          "content": "gBrB exakt waagerecht zur vorderen Armansatz-Markierung messen - nicht zum Oberarm!",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1465,
+          "top_left_y": 3079,
+          "bottom_right_x": 2736,
+          "bottom_right_y": 3202,
+          "content": "Erfahrene Fachleute können diese drei Maße mit einiger Übung auch ohne Klebestreifen sicher ermitteln:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1462,
+          "top_left_y": 3226,
+          "bottom_right_x": 2750,
+          "bottom_right_y": 3349,
+          "content": "Zunächst den gemessenen Brustumfang (gBrU), wie auf Seite 12 beschrieben, messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1462,
+          "top_left_y": 3378,
+          "bottom_right_x": 2595,
+          "bottom_right_y": 3447,
+          "content": "Den ArD sicher aus dem Oberarmumfang berechnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1460,
+          "top_left_y": 3467,
+          "bottom_right_x": 2767,
+          "bottom_right_y": 3590,
+          "content": "Die gRüB zwischen den Armansätzen messen und halbieren, das ist die RüB.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1457,
+          "top_left_y": 3623,
+          "bottom_right_x": 2787,
+          "bottom_right_y": 3888,
+          "content": "Die BrB kann ermittelt werden, indem man vom halben BrU die RüB und den ArD abzieht. Trotzdem sollte die BrB nochmals wie in ☐7 kontrolliert werden. Eine geringfügige Abweichung kann toleriert werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2629,
+          "top_left_y": 306,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 363,
+          "content": "Körper",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 2666,
+          "top_left_y": 506,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 547,
+          "content": "18",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2666,
+          "top_left_y": 555,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 592,
+          "content": "☐6 Be",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2666,
+          "top_left_y": 596,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 633,
+          "content": "deren Ar",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2694,
+          "top_left_y": 686,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 727,
+          "content": "19",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2694,
+          "top_left_y": 739,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 776,
+          "content": "☐6",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2694,
+          "top_left_y": 780,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 817,
+          "content": "dem ar",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2694,
+          "top_left_y": 821,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 858,
+          "content": "Unterk",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2719,
+          "top_left_y": 907,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 948,
+          "content": "20",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2719,
+          "top_left_y": 964,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1001,
+          "content": "☐6",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2719,
+          "top_left_y": 1005,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1041,
+          "content": "und u",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2745,
+          "top_left_y": 1099,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1139,
+          "content": "21",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2745,
+          "top_left_y": 1156,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1193,
+          "content": "☐6",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2745,
+          "top_left_y": 1197,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1233,
+          "content": "mit",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2745,
+          "top_left_y": 1237,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1274,
+          "content": "der",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2776,
+          "top_left_y": 1335,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1376,
+          "content": "2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2776,
+          "top_left_y": 1389,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1425,
+          "content": "☐",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2776,
+          "top_left_y": 1429,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1466,
+          "content": "W x",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2776,
+          "top_left_y": 1470,
+          "bottom_right_x": 2815,
+          "bottom_right_y": 1507,
+          "content": "o",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3840422
+  }
+}

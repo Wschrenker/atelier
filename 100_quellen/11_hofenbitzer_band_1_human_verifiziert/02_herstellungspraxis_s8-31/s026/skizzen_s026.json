@@ -1,0 +1,134 @@
+{
+  "seite": "s026",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s26.jpg (rechter Bildrand zeigt einen Streifen der Nachbarseite 27 mitfotografiert; kein Zuschnitt vor der OCR nötig, da keine Inhalte von Seite 26 dadurch gefährdet waren)",
+  "hinweis": "Bounding Boxes beziehen sich auf die Pixelorientierung des unveränderten Originalbilds (Querformat, EXIF-Orientation 6). Die gespeicherten PNG-Ausschnitte wurden nach dem Zuschnitt entsprechend der EXIF-Orientierung aufrecht gedreht.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s026_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 265,
+        "top_left_y": 1078,
+        "bottom_right_x": 653,
+        "bottom_right_y": 1617
+      },
+      "beschreibung": "Rechteckiges Schnittteil mit Marker ①, Labels 'Naht' (zweimal, links und rechts oben), 'Einschlag-breite', 'Saumkante = Einschlagkante', 'Schnittkante' — erstes Teilbild der linken oberen Diagrammreihe",
+      "sichtbare_labels": ["①", "Naht", "Einschlag-breite", "Saumkante = Einschlagkante", "Schnittkante"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 261,
+        "top_left_y": 303,
+        "bottom_right_x": 694,
+        "bottom_right_y": 986
+      },
+      "beschreibung": "Schnittteil mit gewölbter Saumkante, Labels 'Naht' (links und rechts) und 'ca. 0,2 cm' mit Marker ②",
+      "sichtbare_labels": ["②", "Naht", "ca. 0,2 cm"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_03.png",
+      "ocr_id": "img-2.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 698,
+        "top_left_y": 999,
+        "bottom_right_x": 1111,
+        "bottom_right_y": 1682
+      },
+      "beschreibung": "Rechteckiges Schnittteil mit Maßlinien 'me = 13,9 cm' (oben) und 'me = 13,5 cm' (unten) und Marker ③",
+      "sichtbare_labels": ["③", "me = 13,9 cm", "me = 13,5 cm"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_04.png",
+      "ocr_id": "img-3.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 702,
+        "top_left_y": 303,
+        "bottom_right_x": 1131,
+        "bottom_right_y": 953
+      },
+      "beschreibung": "Schnittteil mit gewölbter Saumkante, Label 'Rock/Kleid' oben, Marker ④ zweimal (unten links und rechts)",
+      "sichtbare_labels": ["④", "Rock/Kleid"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_05.png",
+      "ocr_id": "img-4.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1323,
+        "top_left_y": 245,
+        "bottom_right_x": 1817,
+        "bottom_right_y": 1617
+      },
+      "beschreibung": "Foto eines grauen Stoffsaums mit sichtbarer Nahtquerschnitt-Aufsteppung, rechts daneben ein schräg angeschnittenes Stoffeck mit vertikalem Label 'Einschlag' — zugehörig zur Bildunterschrift ☐1",
+      "sichtbare_labels": ["Einschlag"],
+      "zugehoerige_ocr_bildunterschrift": "☐1 Saumverarbeitung von innen mit Nahtquerschnitt und Nahtdiagramm (Nahtbild)",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_06.png",
+      "ocr_id": "img-5.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2177,
+        "top_left_y": 946,
+        "bottom_right_x": 2859,
+        "bottom_right_y": 1761
+      },
+      "beschreibung": "Schnittteil mit gewölbter Saumkante, Maßlinien 'me = 13,1 cm' und 'me = 13,6 cm', Labels 'Saumkante = Einschlagkante', 'Saumnaht/Futteransatznaht', 'max. 0,4 cm' (zweimal), Marker ⑤ ⑥ ⑦",
+      "sichtbare_labels": ["⑤", "⑥", "⑦", "me = 13,1 cm", "me = 13,6 cm", "Saumkante = Einschlagkante", "Saumnaht/Futteransatznaht", "max. 0,4 cm"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_07.png",
+      "ocr_id": "img-6.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2177,
+        "top_left_y": 202,
+        "bottom_right_x": 2789,
+        "bottom_right_y": 916
+      },
+      "beschreibung": "Schnittteil mit gewölbter Saumkante, Label 'Jacke/Mantel' oben, 'ca. 0,5 cm einhalten' und Marker ⑧",
+      "sichtbare_labels": ["⑧", "Jacke/Mantel", "ca. 0,5 cm einhalten"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_08.png",
+      "ocr_id": "img-7.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 3161,
+        "top_left_y": 1697,
+        "bottom_right_x": 3639,
+        "bottom_right_y": 2732
+      },
+      "beschreibung": "Foto eines dunkel gestreiften Stoffsaums (rund gefüttert), Saumkante sichtbar eingebügelt — zugehörig zur Bildunterschrift ☐2",
+      "sichtbare_labels": [],
+      "zugehoerige_ocr_bildunterschrift": "☐2 Saumverarbeitung eines runden gefütterten Saumes",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s026_skizze_09.png",
+      "ocr_id": "img-8.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 3149,
+        "top_left_y": 141,
+        "bottom_right_x": 3847,
+        "bottom_right_y": 554
+      },
+      "beschreibung": "GEHÖRT VERMUTLICH NICHT ZU SEITE 26: Foto/Diagramm mit vertikalen Labels 'Futter', 'Rückteil', 'Einschlag' auf einem schmalen Bildstreifen — liegt am rechten Bildrand über dem mitfotografierten Kopfbereich 'Standards / Belegk...' der Nachbarseite 27. Vermutlich fälschlich der Seite 26 zugeordnete Bildregion.",
+      "sichtbare_labels": ["Futter", "Rückteil", "Einschlag"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false,
+      "gehoert_zu_seite_26": false
+    }
+  ]
+}

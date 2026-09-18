@@ -1,0 +1,20 @@
+{
+  "quelle": "s09_preview.jpg (aufrecht gedrehtes Originalbild, EXIF-Orientierung 6 angewendet), 3060x4080px, wie es als OCR-Eingabe diente",
+  "hinweis": "Pixelkoordinaten beziehen sich auf dieses aufrecht gedrehte Bild. Die Mistral-Layout-Antwort meldete fuer diese Seite keine Bildregionen (images: []); der Ausschnitt unten wurde von Hand ergaenzt, weil er im OCR-Markdown nur unvollstaendig als Text erscheint.",
+  "ausgeschlossen": [
+    {
+      "ocr_id": null,
+      "box": null,
+      "grund": "Am linken Bildrand ist ein schmaler Streifen der Nachbarseite (vermutlich s008) sichtbar: abgeschnittene Wortfragmente wie 'wen-', 'n, Li-', 'be-', 'Fahr-', 'mutig', 'icke', 'rma-', 'eite', 'von', 'In-', 'n-', 'er', 'r', 'e'. Die OCR hat diese Fragmente als eigene Textzeilen am Anfang von ocr_s009.md (Zeilen 3-18) ausgegeben. Sie gehoeren nicht zu s009 und wurden nicht in s009.md oder tabellen_s009.md uebernommen."
+    }
+  ],
+  "skizzen": [
+    {
+      "datei": "skizzen/s009_skizze_01.png",
+      "ocr_id": null,
+      "box": [0, 2244, 3060, 4080],
+      "beschreibung": "Unterer Seitenbereich mit den Abschnitten 'Einige wichtige Symbole' (Icons: rotes Kaestchen '99', blauer Punkt '1', roter Punkt '46', rotes Ausrufezeichen, Kreise 'AP' und 'ZP', Scherensymbol, rechter-Winkel-Symbol) und 'Fertigungsinformationen' (gezeichnete Symbole: Klammer mit Beschriftung 'hM', drei Kreuze 'XXX' fuer Dehnen, geschwungene Linie fuer Einhalten, drei 'S'-Schwuenge fuer Kraeuselzeichen). Diese Grafiken wurden von der OCR nicht als Bildregion erkannt und erscheinen im OCR-Markdown nur als reiner Beschreibungstext ohne die Symbole selbst.",
+      "labels_geprueft": false
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Hinweise zum Maßnahmen und zur Maßtabelle (1)\n\n# Gemessene Maße\n\nDie Maße, z. B. der Taillenumfang, werdengemessenen und in der Maßtabelle (folgende Seite, Kopiervorlagen im Anhang) notiert.\n\n# Berechnete Maße\n\nManche Konstruktionsmaße kann man nur berechnen, wie z. B. die Halslochbreite (HB), die aus dem Halsansatz-Umfang (HaU) berechnet wird. Die Formeln stehen in der Maßtabelle, die Werte sind ebenfalls dort zu notieren.\n\n# Kontrollmaße\n\nZur Kontrolle werden bestimmte Maße anhand anderer Maße errechnet und somit kontrolliert, wie z. B. die Armlochtiefe (AIT). Hier kann bei starker Abweichung das gemessene Maß an den Wert des Kontrollmaßes anpasst werden.\n\n# Beide Körperselten\n\nDie Brusttiefe (gBrT) wird z. B. an beiden Körperselten gemessen. Hier wird in der Regel der Durchschnitt errechnet, um die endgültige Brusttiefe (BrT) zu bestimmen.\n\n# Figurbedingte Korrekturen\n\nFür die korrekten Maße der Rückenlänge (RüL) und der Vorderlänge (VL) muss man zusätzlich die Lage des Taillenbandes beobachten, das, von der Seite aus betrachtet, optimalerweise waagerecht liegen sollte.\n\n☐1 Liegt das Taillenband hinten z. B. um 1 cm tiefer, muss der Wert der gemessenen Rückenlänge (gRüL) um 1 cm gekürzt werden, da es zu lang ist. Steigt z. B. das Taillenband vorne an, muss hier die gemessene Vorderlänge (gVL) entsprechend verlängert werden.\n\nDie Taillenschräglage ist nur für die korrekte Messung von RüL und VL notwendig. Es hat zunächst nichts mit der Lage eines Bundes an der Bundposition, bzw. mit den gemessenen Bundabständen zu tun!\n\n☐2 Größere Probleme können bei Figuren entstehen, an denen sich das Taillenmaßband nicht waagerecht legen lässt. Dies beobachtet man manchmal bei stärkeren Figuren. Bei diesen ist es zudem schwierig, die korrekte Höhe der Taille zu bestimmen, da die unteren Rippenbögen und die Hüftknochen schwer zu ertasten sind.\n\nHier nutscht das Taillenmaßband gerne in die Bauchfalte, d. h. an die Bundposition und das Band fällt von der Seite aus nach vorne hin ab. ☐2. Die korrekte Position des Taillenmaßbandes muss hier erzwungen werden!\n\n# Kontrolle der Balance von RüL und VL\n\nBei den Maßen in der Größentabelle stehen die Rückenlänge (RüL) und Vorderlänge (VL) bei jeder einzelnen Größe in optimaler Balance zueinander.\n\nBei individuell gemessenen Maßen ist jedoch unbedingt eine Kontrolle der Balance (in der Maßtabelle unten rechts) vorzunehmen.\n\n# Individuelle Balance\n\nRüL und VL werden also zum waagerechten Taillenmaßband gemessen, bzw. um eine Taillenschräglage korrigiert. Nun kann die Differenz von VL minus RüL ermittelt werden. Dies ist die individuelle Balance.\n\n# Optimale Balance\n\nDie Werte von VL und RüL müssen bei waagerechtem Taillenumfangs eine bestimmte Differenz aufweisen. Man findet die Werte in der Maßtabelle im roten Rahmen.\n\n# Balance-Problem\n\nDie Differenz zwischen individueller und optimaler Balance stellt das Balance-Problem dar, das es ggf. zu korrigieren gilt.\n\n# TIPP:\n\nStellt man ein Balance-Problem fest, das sich an der Figur zunächst nicht beobachten lässt, ist es immer ratsam, noch einmal die Lage des Taillenmaßbandes zu kontrollieren und die RüL und die VL nachzu messen.\n\n# Figurbeobachtung / Abweichung\n\n☐1+2 Bei der Figurbeobachtung werden die Haltung und die besonderen Proportionen einer Figur analysiert (Seiten 174+175). Dies ist neben dem Messen der Körpermaße die andere wichtige Aufgabe beim Maßnahmen.\n\nIst die gVL zu lang, könnte es sich z. B. um eine Figur mit großem Busen oder mit sehr geradem Rücken handeln.\n\nIst die gRüL zu lang, könnte es sich z. B. um eine Figur mit kleinen Busen oder mit rundem Rücken handeln.\n\nDies sind einige Möglichkeiten, wie solche Maßabweichung interpretiert werden können. Nur durch eine gründliche Figurbeobachtung können sie zweifelsfrei bestimmt und der Schnitt passformgerecht optimiert werden (hierzu sei auf Band 2 „Maßschnitte und Passform“ verwiesen).\n\n![img-0.jpeg](img-0.jpeg)",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1781,
+          "top_left_y": 3,
+          "bottom_right_x": 3868,
+          "bottom_right_y": 1927,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 274,
+          "top_left_y": 1397,
+          "bottom_right_x": 339,
+          "bottom_right_y": 2656,
+          "content": "# Hinweise zum Maßnahmen und zur Maßtabelle (1)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 470,
+          "top_left_y": 2359,
+          "bottom_right_x": 506,
+          "bottom_right_y": 2659,
+          "content": "# Gemessene Maße",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 523,
+          "top_left_y": 2031,
+          "bottom_right_x": 670,
+          "bottom_right_y": 2677,
+          "content": "Die Maße, z. B. der Taillenumfang, werdengemessenen und in der Maßtabelle (folgende Seite, Kopiervorlagen im Anhang) notiert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 698,
+          "top_left_y": 2359,
+          "bottom_right_x": 735,
+          "bottom_right_y": 2674,
+          "content": "# Berechnete Maße",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 756,
+          "top_left_y": 2031,
+          "bottom_right_x": 984,
+          "bottom_right_y": 2699,
+          "content": "Manche Konstruktionsmaße kann man nur berechnen, wie z. B. die Halslochbreite (HB), die aus dem Halsansatz-Umfang (HaU) berechnet wird. Die Formeln stehen in der Maßtabelle, die Werte sind ebenfalls dort zu notieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1021,
+          "top_left_y": 2438,
+          "bottom_right_x": 1062,
+          "bottom_right_y": 2699,
+          "content": "# Kontrollmaße",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1078,
+          "top_left_y": 2025,
+          "bottom_right_x": 1368,
+          "bottom_right_y": 2723,
+          "content": "Zur Kontrolle werden bestimmte Maße anhand anderer Maße errechnet und somit kontrolliert, wie z. B. die Armlochtiefe (AIT). Hier kann bei starker Abweichung das gemessene Maß an den Wert des Kontrollmaßes anpasst werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1405,
+          "top_left_y": 2349,
+          "bottom_right_x": 1450,
+          "bottom_right_y": 2726,
+          "content": "# Beide Körperselten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1462,
+          "top_left_y": 2022,
+          "bottom_right_x": 1687,
+          "bottom_right_y": 2754,
+          "content": "Die Brusttiefe (gBrT) wird z. B. an beiden Körperselten gemessen. Hier wird in der Regel der Durchschnitt errechnet, um die endgültige Brusttiefe (BrT) zu bestimmen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1723,
+          "top_left_y": 2202,
+          "bottom_right_x": 1777,
+          "bottom_right_y": 2754,
+          "content": "# Figurbedingte Korrekturen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1789,
+          "top_left_y": 2019,
+          "bottom_right_x": 2079,
+          "bottom_right_y": 2781,
+          "content": "Für die korrekten Maße der Rückenlänge (RüL) und der Vorderlänge (VL) muss man zusätzlich die Lage des Taillenbandes beobachten, das, von der Seite aus betrachtet, optimalerweise waagerecht liegen sollte.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 2019,
+          "bottom_right_x": 2516,
+          "bottom_right_y": 2809,
+          "content": "☐1 Liegt das Taillenband hinten z. B. um 1 cm tiefer, muss der Wert der gemessenen Rückenlänge (gRüL) um 1 cm gekürzt werden, da es zu lang ist. Steigt z. B. das Taillenband vorne an, muss hier die gemessene Vorderlänge (gVL) entsprechend verlängert werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2520,
+          "top_left_y": 2019,
+          "bottom_right_x": 2867,
+          "bottom_right_y": 2818,
+          "content": "Die Taillenschräglage ist nur für die korrekte Messung von RüL und VL notwendig. Es hat zunächst nichts mit der Lage eines Bundes an der Bundposition, bzw. mit den gemessenen Bundabständen zu tun!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2883,
+          "top_left_y": 2019,
+          "bottom_right_x": 3431,
+          "bottom_right_y": 2861,
+          "content": "☐2 Größere Probleme können bei Figuren entstehen, an denen sich das Taillenmaßband nicht waagerecht legen lässt. Dies beobachtet man manchmal bei stärkeren Figuren. Bei diesen ist es zudem schwierig, die korrekte Höhe der Taille zu bestimmen, da die unteren Rippenbögen und die Hüftknochen schwer zu ertasten sind.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3443,
+          "top_left_y": 2009,
+          "bottom_right_x": 3847,
+          "bottom_right_y": 2892,
+          "content": "Hier nutscht das Taillenmaßband gerne in die Bauchfalte, d. h. an die Bundposition und das Band fällt von der Seite aus nach vorne hin ab. ☐2. Die korrekte Position des Taillenmaßbandes muss hier erzwungen werden!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 474,
+          "top_left_y": 1366,
+          "bottom_right_x": 511,
+          "bottom_right_y": 1963,
+          "content": "# Kontrolle der Balance von RüL und VL",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 523,
+          "top_left_y": 1345,
+          "bottom_right_x": 666,
+          "bottom_right_y": 1973,
+          "content": "Bei den Maßen in der Größentabelle stehen die Rückenlänge (RüL) und Vorderlänge (VL) bei jeder einzelnen Größe in optimaler Balance zueinander.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 678,
+          "top_left_y": 1329,
+          "bottom_right_x": 825,
+          "bottom_right_y": 1973,
+          "content": "Bei individuell gemessenen Maßen ist jedoch unbedingt eine Kontrolle der Balance (in der Maßtabelle unten rechts) vorzunehmen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 858,
+          "top_left_y": 1593,
+          "bottom_right_x": 898,
+          "bottom_right_y": 1960,
+          "content": "# Individuelle Balance",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 911,
+          "top_left_y": 1299,
+          "bottom_right_x": 1144,
+          "bottom_right_y": 1970,
+          "content": "RüL und VL werden also zum waagerechten Taillenmaßband gemessen, bzw. um eine Taillenschräglage korrigiert. Nun kann die Differenz von VL minus RüL ermittelt werden. Dies ist die individuelle Balance.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1184,
+          "top_left_y": 1623,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 1954,
+          "content": "# Optimale Balance",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1237,
+          "top_left_y": 1274,
+          "bottom_right_x": 1454,
+          "bottom_right_y": 1963,
+          "content": "Die Werte von VL und RüL müssen bei waagerechtem Taillenumfangs eine bestimmte Differenz aufweisen. Man findet die Werte in der Maßtabelle im roten Rahmen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1491,
+          "top_left_y": 1614,
+          "bottom_right_x": 1536,
+          "bottom_right_y": 1948,
+          "content": "# Balance-Problem",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1548,
+          "top_left_y": 1253,
+          "bottom_right_x": 1740,
+          "bottom_right_y": 1960,
+          "content": "Die Differenz zwischen individueller und optimaler Balance stellt das Balance-Problem dar, das es ggf. zu korrigieren gilt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 474,
+          "top_left_y": 1195,
+          "bottom_right_x": 511,
+          "bottom_right_y": 1283,
+          "content": "# TIPP:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 515,
+          "top_left_y": 665,
+          "bottom_right_x": 727,
+          "bottom_right_y": 1280,
+          "content": "Stellt man ein Balance-Problem fest, das sich an der Figur zunächst nicht beobachten lässt, ist es immer ratsam, noch einmal die Lage des Taillenmaßbandes zu kontrollieren und die RüL und die VL nachzu messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 792,
+          "top_left_y": 689,
+          "bottom_right_x": 833,
+          "bottom_right_y": 1253,
+          "content": "# Figurbeobachtung / Abweichung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 845,
+          "top_left_y": 597,
+          "bottom_right_x": 1070,
+          "bottom_right_y": 1256,
+          "content": "☐1+2 Bei der Figurbeobachtung werden die Haltung und die besonderen Proportionen einer Figur analysiert (Seiten 174+175). Dies ist neben dem Messen der Körpermaße die andere wichtige Aufgabe beim Maßnahmen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1082,
+          "top_left_y": 573,
+          "bottom_right_x": 1205,
+          "bottom_right_y": 1234,
+          "content": "Ist die gVL zu lang, könnte es sich z. B. um eine Figur mit großem Busen oder mit sehr geradem Rücken handeln.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1217,
+          "top_left_y": 548,
+          "bottom_right_x": 1344,
+          "bottom_right_y": 1222,
+          "content": "Ist die gRüL zu lang, könnte es sich z. B. um eine Figur mit kleinen Busen oder mit rundem Rücken handeln.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1356,
+          "top_left_y": 496,
+          "bottom_right_x": 1703,
+          "bottom_right_y": 1198,
+          "content": "Dies sind einige Möglichkeiten, wie solche Maßabweichung interpretiert werden können. Nur durch eine gründliche Figurbeobachtung können sie zweifelsfrei bestimmt und der Schnitt passformgerecht optimiert werden (hierzu sei auf Band 2 „Maßschnitte und Passform“ verwiesen).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1781,
+          "top_left_y": 3,
+          "bottom_right_x": 3868,
+          "bottom_right_y": 1927,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3799077
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "s33.jpg",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s033_skizze_01.png",
+      "bbox_raw_pixels": [
+        1035,
+        1711,
+        2726,
+        3537
+      ]
+    }
+  ]
+}

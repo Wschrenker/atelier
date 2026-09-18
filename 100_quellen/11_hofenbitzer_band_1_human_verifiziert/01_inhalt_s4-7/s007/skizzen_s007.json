@@ -1,0 +1,41 @@
+{
+  "quelle": "ocr_s007_raw.json",
+  "hinweis": "Pixelkoordinaten beziehen sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewendet), 3060x4080px, wie es als OCR-Eingabe diente.",
+  "ausgeschlossen": [
+    {
+      "ocr_id": "img-0.jpeg",
+      "box": [0, 0, 417, 800],
+      "grund": "Sichtbarer Ausschnitt der Nachbarseite (linke Buchseite, vermutlich s006: Zeichenschablonen-Illustration plus Seitenzahlenspalte 332-361). Kein Bestandteil von s007, daher nicht als Skizze dieser Seite übernommen."
+    }
+  ],
+  "skizzen": [
+    {
+      "datei": "skizzen/s007_skizze_01.png",
+      "ocr_id": "img-1.jpeg",
+      "box": [1394, 2745, 2852, 3030],
+      "beschreibung": "Foto einer pattern-max-Schablone (langes Lineal mit Kurvenstück), Teil der Werbeabbildung 'Zeichenschablonen für die Schnittkonstruktion' unten auf der Seite.",
+      "labels_geprueft": false
+    },
+    {
+      "datei": "skizzen/s007_skizze_02.png",
+      "ocr_id": "img-2.jpeg",
+      "box": [291, 3075, 1639, 3525],
+      "beschreibung": "Foto einer größeren pattern-max-Schablone mit Kurvenstück, gleiche Werbeabbildung.",
+      "labels_geprueft": false
+    },
+    {
+      "datei": "skizzen/s007_skizze_03.png",
+      "ocr_id": "img-3.jpeg",
+      "box": [1761, 3059, 2901, 3288],
+      "beschreibung": "Foto einer weiteren pattern-max-Schablone mit Kurvenstück, gleiche Werbeabbildung.",
+      "labels_geprueft": false
+    },
+    {
+      "datei": "skizzen/s007_skizze_04.png",
+      "ocr_id": "img-4.jpeg",
+      "box": [251, 3561, 1654, 3823],
+      "beschreibung": "Foto eines geraden pattern-max-Lineals mit Zentimeterskala, gleiche Werbeabbildung.",
+      "labels_geprueft": false
+    }
+  ]
+}

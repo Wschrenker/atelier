@@ -1,0 +1,83 @@
+{
+  "source": "s22.jpg",
+  "regions": [
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s022_skizze_01.png",
+      "bbox_raw_pixels": [441, 1176, 1119, 1865],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s022_skizze_02.png",
+      "bbox_raw_pixels": [306, 735, 564, 1121],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s022_skizze_03.png",
+      "bbox_raw_pixels": [306, 459, 449, 735],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s022_skizze_04.png",
+      "bbox_raw_pixels": [531, 429, 1103, 741],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "manuell-01",
+      "file": "skizzen/s022_skizze_05.png",
+      "bbox_raw_pixels": [700, 229, 1215, 1189],
+      "hinweis": "Von der OCR-Layoutantwort nicht als eigene Bildregion erkannt (Zeichnung □3 Modellschnitt). Ausschnitt manuell aus dem unveraenderten Originalbild bestimmt: aus der EXIF-aufrechten Vorschau abgemessen und ueber die bestaetigte Rotationsformel (ux = 3059 - ry, uy = rx fuer Orientation 6) in Rohpixel-Koordinaten des Originalbilds zurueckgerechnet, dann direkt aus dem Original zugeschnitten. Keine Bildmanipulation ausser Zuschnitt und Aufrichtung."
+    },
+    {
+      "id": "img-5.jpeg",
+      "file": "skizzen/s022_skizze_06.png",
+      "bbox_raw_pixels": [1242, 1237, 1511, 1835],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-4.jpeg",
+      "file": "skizzen/s022_skizze_07.png",
+      "bbox_raw_pixels": [1201, 392, 1478, 1023],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-7.jpeg",
+      "file": "skizzen/s022_skizze_08.png",
+      "bbox_raw_pixels": [1487, 1204, 2009, 1902],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-6.jpeg",
+      "file": "skizzen/s022_skizze_09.png",
+      "bbox_raw_pixels": [1487, 689, 2009, 1115],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-8.jpeg",
+      "file": "skizzen/s022_skizze_10.png",
+      "bbox_raw_pixels": [2263, 1152, 3092, 1939],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-9.jpeg",
+      "file": "skizzen/s022_skizze_11.png",
+      "bbox_raw_pixels": [2263, 312, 3104, 1143],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-10.jpeg",
+      "file": "skizzen/s022_skizze_12.png",
+      "bbox_raw_pixels": [3320, 1173, 3790, 2019],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    },
+    {
+      "id": "img-11.jpeg",
+      "file": "skizzen/s022_skizze_13.png",
+      "bbox_raw_pixels": [3382, 248, 3831, 1081],
+      "hinweis": "OCR-Layout-Bildregion, unveraendert uebernommen."
+    }
+  ]
+}

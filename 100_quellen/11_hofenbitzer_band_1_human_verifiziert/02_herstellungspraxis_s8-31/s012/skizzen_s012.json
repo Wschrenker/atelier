@@ -1,0 +1,24 @@
+{
+  "seite": "s012",
+  "ocr_eingabe": "ocr_s012_raw.json (gleiche Antwort wie ocr_s012.md)",
+  "hinweis": "Bounding Boxes beziehen sich auf die aufrecht gedrehte, rechts maskierte OCR-Eingabe (3060x4080 px, identisch zur EXIF-korrigierten Ausrichtung des Originalfotos). Die Maskierung deckte nur den rechten Rand ab, an dem im Originalfoto Seite 13 sichtbar ist; der hier dokumentierte Bildbereich liegt vollständig links davon und ist unverändert.",
+  "bildregionen": [
+    {
+      "id": "s012_skizze_01",
+      "quelle_block": "img-0.jpeg (aus ocr_s012_raw.json, automatisch erkannt)",
+      "original_bbox_px": {
+        "top_left_x": 138,
+        "top_left_y": 1621,
+        "bottom_right_x": 1467,
+        "bottom_right_y": 3623
+      },
+      "datei": "skizzen/s012_skizze_01.png",
+      "beschreibung": "Zwei Körperfiguren (Vorderansicht groß links, Seitenansicht rechts) mit Hilfslinien Scheitelebene/Standebene und Maßlinien 1 KöH, 9 HaU, 2 BrU, 3 TaU, 5 BuU, 4 HüU sowie den blauen Beschriftungen „unterer Rippenbogen“ und „seitlicher Hüftknochen“.",
+      "bildunterschrift_im_buch": "☐1 Hauptmaße (steht unterhalb der Zeichnung, nicht Teil des Bildausschnitts)",
+      "geprueft": false
+    }
+  ],
+  "nicht_erkannt_aber_zu_pruefen": [
+    "Automatische Erkennung meldete nur eine Bildregion. Das vollständige Originalfoto ist gegen zusätzliche, von der OCR übersehene Beschriftungen oder Linien zu prüfen (siehe Prüfstellen in s012.md)."
+  ]
+}

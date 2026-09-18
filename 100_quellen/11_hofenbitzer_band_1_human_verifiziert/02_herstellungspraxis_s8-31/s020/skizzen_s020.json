@@ -1,0 +1,23 @@
+{
+  "source": "s20.jpg",
+  "note": "Die OCR-Layoutantwort meldete drei Bildregionen (img-0, img-1, img-2); alle drei zeigten bei der Kontrolle jedoch nur Fließtext- bzw. Tabellenausschnitte, keine echten Zeichnungen. Die beiden tatsächlichen Zeichnungen der Seite wurden von der OCR nicht als Bildregion erkannt und deshalb von Hand am aufrecht gedrehten Originalbild abgegrenzt.",
+  "regions": [
+    {
+      "id": "manuell-01",
+      "file": "skizzen/s020_skizze_01.png",
+      "bbox_upright_pixels": [1300, 410, 1880, 880],
+      "bildunterschrift_im_foto": "□1 Etikett aus einer Warnweste"
+    },
+    {
+      "id": "manuell-02",
+      "file": "skizzen/s020_skizze_02.png",
+      "bbox_upright_pixels": [1930, 410, 2790, 930],
+      "bildunterschrift_im_foto": "□2 Beispiele für Piktogramme"
+    }
+  ],
+  "ocr_bildregionen_verworfen": [
+    {"id": "img-0.jpeg", "bbox_raw_pixels": [343, 2515, 894, 2775], "inhalt": "Fließtext („Die einzelnen Körpermaße werden...“)"},
+    {"id": "img-1.jpeg", "bbox_raw_pixels": [433, 1241, 825, 1740], "inhalt": "Tabellenkopf (DOB*-Größentabelle, erste Zeilen)"},
+    {"id": "img-2.jpeg", "bbox_raw_pixels": [433, 377, 907, 1121], "inhalt": "Fließtext („Konfektionsgrößen...“)"}
+  ]
+}

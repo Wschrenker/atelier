@@ -1,0 +1,92 @@
+{
+  "seite": "s027",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s27.jpg (am linken Bildrand ein schwacher Streifen der Nachbarseite sichtbar, kein Fließtext daraus übernommen; kein Zuschnitt vor der OCR nötig)",
+  "hinweis": "Bounding Boxes beziehen sich auf die Pixelorientierung des unveränderten Originalbilds (Querformat, EXIF-Orientation 6). Die gespeicherten PNG-Ausschnitte wurden nach dem Zuschnitt entsprechend der EXIF-Orientierung aufrecht gedreht. skizze_06 wurde vom OCR-Modell NICHT als Bildregion erkannt und von Hand anhand des Originalfotos nachgezogen (siehe Anmerkung in s027.md).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s027_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 229,
+        "top_left_y": 1323,
+        "bottom_right_x": 1327,
+        "bottom_right_y": 2781
+      },
+      "beschreibung": "Zwei Schnittteile nebeneinander: links 'Modellentwicklung Top Vorderteil' mit Markern ①③⑤⑥, 'verbundener Beleg', 'paralleler Beleg' (Marker ②) und Bemaßungen zur Reduzierung/Zulegung; rechts 'Top VT 1× OSt' mit Abnäher-Notiz und schmalem Streifen 'vorderer Beleg / Saumbeleg / Vorderteil'",
+      "sichtbare_labels": ["①", "②", "③", "⑤", "⑥", "verbundener Beleg", "paralleler Beleg", "Belegbreite mindestens 3 cm", "Top VT 1× OSt", "vorderer Beleg", "Saumbeleg", "Vorderteil", "vM"],
+      "zugehoeriger_abschnitt": "Belegbreiten und Belegformen / Reduzierung an Belegen",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s027_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2144,
+        "top_left_y": 2071,
+        "bottom_right_x": 2373,
+        "bottom_right_y": 2843
+      },
+      "beschreibung": "Schematischer Streifen 'Vorderteil' mit 'vorderer angeschnittener Beleg', 'Futter' (grün) und 'Armlochbeleg' (orange)",
+      "sichtbare_labels": ["Vorderteil", "vorderer angeschnittener Beleg", "Futter", "Armlochbeleg"],
+      "zugehoeriger_abschnitt": "Belege für die Verarbeitung von Modellen mit und ohne Futter",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s027_skizze_03.png",
+      "ocr_id": "img-2.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 931,
+        "top_left_y": 322,
+        "bottom_right_x": 1654,
+        "bottom_right_y": 1553
+      },
+      "beschreibung": "Zwei Schnittteile: oben 'vBe 1× OSt+El' (Weste-Beleg mit Schulternaht, Halsloch, Verstürznaht, Verstürznaht Armloch, Belegkante, Marker ⑥⑧) und unten 'SaBe 1× OSt+El' (Belegkante/Verstürznaht, Marker ⑦)",
+      "sichtbare_labels": ["vBe", "1× OSt+El", "Schulternaht", "Halsloch", "Verstürznaht", "Verstürznaht Armloch", "Belegkante", "⑥", "⑧", "SaBe", "⑦", "0,3 cm zugelegt"],
+      "zugehoeriger_abschnitt": "Belegbreiten und Belegformen",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s027_skizze_04.png",
+      "ocr_id": "img-3.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2263,
+        "top_left_y": 214,
+        "bottom_right_x": 3672,
+        "bottom_right_y": 855
+      },
+      "beschreibung": "Zwei Schnittteile übereinander: oben 'Weste Armloch Beleg 2×-p OSt+El' mit Marker ⑥ und '0,3 cm zugelegt', unten 'Weste VT-Futter 2×-p Fu' mit Brustfalte (Marker ⑪) und Text 'Falteninhalt wird nach unten gebügelt ...'",
+      "sichtbare_labels": ["Weste", "Armloch", "Beleg", "2×-p OSt+El", "⑥", "0,3 cm zugelegt", "Weste VT-Futter", "2×-p Fu", "⑪", "SN"],
+      "zugehoeriger_abschnitt": "Belege für die Verarbeitung von Modellen mit und ohne Futter",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s027_skizze_05.png",
+      "ocr_id": "img-4.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2299,
+        "top_left_y": 943,
+        "bottom_right_x": 3749,
+        "bottom_right_y": 2077
+      },
+      "beschreibung": "Schnittteil 'Weste VT 2×-p OSt' mit angeschnittener Belegfläche (Marker ⑨, 'mit Einlage fixieren'), 'vordere Kante', Abnäher-Notiz ('Derselbe Abnäher wie oben. Hier wird der Abnäherinhalt nach unten gebügelt.') und Marker ⑥ / ⑩",
+      "sichtbare_labels": ["Weste VT", "2×-p OSt", "⑥", "⑨", "⑩", "0,3 cm zugelegt", "angeschnittene Belegfläche mit Einlage fixieren", "vordere Kante", "vM", "SN"],
+      "zugehoeriger_abschnitt": "Belege für die Verarbeitung von Modellen mit und ohne Futter",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s027_skizze_06.png",
+      "ocr_id": null,
+      "hinweis": "Vom OCR-Modell NICHT als Bildregion erkannt (fehlt in ocr_s027_raw.json/images) — von Hand aus dem Originalfoto nachgezogen. Bounding Box daher nicht aus der OCR-Antwort, sondern manuell anhand des aufrecht gedrehten Fotos bestimmt und auf die Pixelorientierung der OCR-Eingabe zurückgerechnet.",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2260,
+        "top_left_y": 1909,
+        "bottom_right_x": 3800,
+        "bottom_right_y": 3059
+      },
+      "beschreibung": "Schnittteil 'Modellentwicklung Weste Vorderteil' mit 'angeschnittener Beleg', 'paralleler Beleg', Marker ④⑤⑥, Bemaßungen ('je ca. 0,2 cm Reduzierung', 'max. 0,4 cm zulegen', 'bis ca. 0,2 cm Reduzierung', 'bis ca. 0,4 cm Reduzierung'), 'Belegbreite mindestens 3 cm', 'Futter' (grün), 'SN', 'vM'",
+      "sichtbare_labels": ["Modellentwicklung Weste Vorderteil", "angeschnittener Beleg", "paralleler Beleg", "④", "⑤", "⑥", "Belegbreite mindestens 3 cm", "Futter", "SN", "vM"],
+      "zugehoeriger_abschnitt": "Reduzierung an Belegen",
+      "bestaetigt": false
+    }
+  ]
+}

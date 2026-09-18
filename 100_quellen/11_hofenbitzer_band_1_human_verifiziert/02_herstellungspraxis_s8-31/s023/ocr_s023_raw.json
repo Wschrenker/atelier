@@ -1,0 +1,335 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Standards bei Schnittkonstruktionen (3)\n\n# Spiegelungen an Kanten (Tascheneinschlag und einfache Briefecke)\n\n# Spiegelungen am Tascheneingriff\n\n① Taschenform der aufgesetzten Tasche gestalten.\n② Den Einschlag in das Schnittteil in gewünschter Breite und Form einzeichnen.\n③ Die Einschlaglinie parallel zur Kante (hier zur Tascheneingriffs-Kante) im selbst Abstand oberhalb zeichnen.\n4 Trifft die Naht rechtwinkelig auf die Kante, kann die Naht gerade verlangert werden.\n5 Wo Naht und Kante nicht rechtwinkelig aufeinander treffen, wird das Ende des Einschlags an der Kante gespiegelt.\n6 Alle weiteren Arbeiten wie die Reduzierungen, Nahtzugaben, Knipse und Beschriftungen sowie Symbole für einen Produktionsschnitt sind auf den folgenden Seiten beschrieben.\n\n# Einfache Briefecke\n\nDie Ecke z.B. von Saum und Schlitz ist sehr haufig rechtwinkelig.\nDie Einschlage anzeichnen; sie konnen gleich oder unterschiedlich breit sein (hier 2 cm und 4 cm).\nDie Einschlage anschließend in das Schnitttteil spiegeln.\nDie Schnittpunkte an den Einschlägen markieren.\nVon dort jeweils die Naht gerade über die Ecke zeichnen.\nDer Inhalt der Briefecke kann unter den Einschlägen verbleiben.\nAlternativ kann er auch herausgeschnitten, bzw. bereits vorher mit einer Nahtzugabe versehen werden.\n\nWeitere Schritte wie z.B. Rückschnitte, Markierungen usw. siehe folgende Seiten.\n\nStandards Rückschnitte\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\nReduzierung um 0,2 bis 0,5 cm\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\n☐1 Einschlag an aufgesetzter Tasche konstruieren\n\n![img-7.jpeg](img-7.jpeg)\n\n![img-8.jpeg](img-8.jpeg)\n\n![img-9.jpeg](img-9.jpeg)\n\n☐2 Tascheneinschlag und -Futter vor dem Verstürzen\n\n☐3 Rechtwinklige Briefecke von rechts\n\n☐4 Rechtwinklige Briefecke von links",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1176,
+          "top_left_y": 2181,
+          "bottom_right_x": 1866,
+          "bottom_right_y": 2800,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1156,
+          "top_left_y": 1434,
+          "bottom_right_x": 1846,
+          "bottom_right_y": 2046,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1421,
+          "top_left_y": 294,
+          "bottom_right_x": 1944,
+          "bottom_right_y": 891,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2062,
+          "top_left_y": 2181,
+          "bottom_right_x": 2855,
+          "bottom_right_y": 2836,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 2001,
+          "top_left_y": 1342,
+          "bottom_right_x": 2867,
+          "bottom_right_y": 2068,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 1973,
+          "top_left_y": 211,
+          "bottom_right_x": 2573,
+          "bottom_right_y": 833,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 2569,
+          "top_left_y": 144,
+          "bottom_right_x": 3173,
+          "bottom_right_y": 772,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 3010,
+          "top_left_y": 2068,
+          "bottom_right_x": 3835,
+          "bottom_right_y": 2861,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-8.jpeg",
+          "top_left_x": 3063,
+          "top_left_y": 772,
+          "bottom_right_x": 3855,
+          "bottom_right_y": 2034,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-9.jpeg",
+          "top_left_x": 3206,
+          "top_left_y": 61,
+          "bottom_right_x": 3876,
+          "bottom_right_y": 720,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 106,
+          "top_left_y": 1596,
+          "bottom_right_x": 176,
+          "bottom_right_y": 2729,
+          "content": "# Standards bei Schnittkonstruktionen (3)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 176,
+          "top_left_y": 928,
+          "bottom_right_x": 245,
+          "bottom_right_y": 2729,
+          "content": "# Spiegelungen an Kanten (Tascheneinschlag und einfache Briefecke)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 335,
+          "top_left_y": 2095,
+          "bottom_right_x": 384,
+          "bottom_right_y": 2729,
+          "content": "# Spiegelungen am Tascheneingriff",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 396,
+          "top_left_y": 1602,
+          "bottom_right_x": 1021,
+          "bottom_right_y": 2760,
+          "content": "① Taschenform der aufgesetzten Tasche gestalten.\n② Den Einschlag in das Schnittteil in gewünschter Breite und Form einzeichnen.\n③ Die Einschlaglinie parallel zur Kante (hier zur Tascheneingriffs-Kante) im selbst Abstand oberhalb zeichnen.\n4 Trifft die Naht rechtwinkelig auf die Kante, kann die Naht gerade verlangert werden.\n5 Wo Naht und Kante nicht rechtwinkelig aufeinander treffen, wird das Ende des Einschlags an der Kante gespiegelt.\n6 Alle weiteren Arbeiten wie die Reduzierungen, Nahtzugaben, Knipse und Beschriftungen sowie Symbole für einen Produktionsschnitt sind auf den folgenden Seiten beschrieben.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 351,
+          "top_left_y": 876,
+          "bottom_right_x": 392,
+          "bottom_right_y": 1225,
+          "content": "# Einfache Briefecke",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 404,
+          "top_left_y": 466,
+          "bottom_right_x": 1197,
+          "bottom_right_y": 1228,
+          "content": "Die Ecke z.B. von Saum und Schlitz ist sehr haufig rechtwinkelig.\nDie Einschlage anzeichnen; sie konnen gleich oder unterschiedlich breit sein (hier 2 cm und 4 cm).\nDie Einschlage anschließend in das Schnitttteil spiegeln.\nDie Schnittpunkte an den Einschlägen markieren.\nVon dort jeweils die Naht gerade über die Ecke zeichnen.\nDer Inhalt der Briefecke kann unter den Einschlägen verbleiben.\nAlternativ kann er auch herausgeschnitten, bzw. bereits vorher mit einer Nahtzugabe versehen werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1213,
+          "top_left_y": 444,
+          "bottom_right_x": 1356,
+          "bottom_right_y": 1167,
+          "content": "Weitere Schritte wie z.B. Rückschnitte, Markierungen usw. siehe folgende Seiten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 609,
+          "top_left_y": 331,
+          "bottom_right_x": 821,
+          "bottom_right_y": 423,
+          "content": "Standards Rückschnitte",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1176,
+          "top_left_y": 2181,
+          "bottom_right_x": 1866,
+          "bottom_right_y": 2800,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1156,
+          "top_left_y": 1434,
+          "bottom_right_x": 1846,
+          "bottom_right_y": 2046,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1421,
+          "top_left_y": 294,
+          "bottom_right_x": 1944,
+          "bottom_right_y": 891,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2013,
+          "top_left_y": 2264,
+          "bottom_right_x": 2058,
+          "bottom_right_y": 2772,
+          "content": "Reduzierung um 0,2 bis 0,5 cm",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2062,
+          "top_left_y": 2181,
+          "bottom_right_x": 2855,
+          "bottom_right_y": 2836,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2001,
+          "top_left_y": 1342,
+          "bottom_right_x": 2867,
+          "bottom_right_y": 2068,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 1973,
+          "top_left_y": 211,
+          "bottom_right_x": 2573,
+          "bottom_right_y": 833,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 2569,
+          "top_left_y": 144,
+          "bottom_right_x": 3173,
+          "bottom_right_y": 772,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 2900,
+          "top_left_y": 1924,
+          "bottom_right_x": 2965,
+          "bottom_right_y": 2839,
+          "content": "☐1 Einschlag an aufgesetzter Tasche konstruieren",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3010,
+          "top_left_y": 2068,
+          "bottom_right_x": 3835,
+          "bottom_right_y": 2861,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        },
+        {
+          "top_left_x": 3063,
+          "top_left_y": 772,
+          "bottom_right_x": 3855,
+          "bottom_right_y": 2034,
+          "content": "![img-8.jpeg](img-8.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-8.jpeg"
+        },
+        {
+          "top_left_x": 3206,
+          "top_left_y": 61,
+          "bottom_right_x": 3876,
+          "bottom_right_y": 720,
+          "content": "![img-9.jpeg](img-9.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-9.jpeg"
+        },
+        {
+          "top_left_x": 3900,
+          "top_left_y": 2175,
+          "bottom_right_x": 4006,
+          "bottom_right_y": 2864,
+          "content": "☐2 Tascheneinschlag und -Futter vor dem Verstürzen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3855,
+          "top_left_y": 1467,
+          "bottom_right_x": 3966,
+          "bottom_right_y": 2031,
+          "content": "☐3 Rechtwinklige Briefecke von rechts",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3823,
+          "top_left_y": 812,
+          "bottom_right_x": 3925,
+          "bottom_right_y": 1369,
+          "content": "☐4 Rechtwinklige Briefecke von links",
+          "confidence_scores": null,
+          "type": "caption"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3828037
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "seite": "s025",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s25.jpg (keine Nachbarseite mit lesbarem Text sichtbar, kein Zuschnitt vor der OCR nötig)",
+  "hinweis": "Bounding Boxes beziehen sich auf die Pixelorientierung des unveränderten Originalbilds (Querformat, EXIF-Orientation 6). Die gespeicherten PNG-Ausschnitte wurden nach dem Zuschnitt entsprechend der EXIF-Orientierung aufrecht gedreht. Die Layout-Antwort meldete nur 2 Bildregionen (img-0.jpeg, img-1.jpeg); die Bounding Box von img-1.jpeg wurde am unteren Rand über den von der OCR gemeldeten Wert hinaus erweitert, weil sie sonst das Label „Seitennaht“, die Bildunterschrift ☐2 und den unteren Seitenrand abgeschnitten hätte (gegen das vollständige Originalbild geprüft).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s025_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 188,
+        "top_left_y": 557,
+        "bottom_right_x": 555,
+        "bottom_right_y": 2040
+      },
+      "bounding_box_status": "unverändert wie von der OCR-Layout-Antwort gemeldet",
+      "beschreibung": "Reihe aus vier Kreis-Detailskizzen zu Rückschnitten an Falten/Abnähern (linke Spalte, Marker ❺❺❻ / ❼ / ❾ / ⓫⓭) mit Labels 'Anstoßlinie', 'Faltenmitte', 'Faltenbruch', 'Naht', 'Legerichtung', 'Faltenmitte am Faltenbruch spiegeln', 'Naht am Faltenbruch spiegeln', 'Rückschnitt an Faltenmitte spiegeln'",
+      "sichtbare_labels": ["❺", "❺", "❻", "❼", "❾", "⓫", "⓭", "Anstoßlinie", "Faltenmitte", "Faltenbruch", "Naht", "Legerichtung", "Faltenmitte am Faltenbruch spiegeln", "Naht am Faltenbruch spiegeln", "Rückschnitt an Faltenmitte spiegeln"],
+      "zugehoerige_ocr_bildunterschrift": "☐1 Rückschnitt an einer einseitig gelegten Falte",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s025_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1327,
+        "top_left_y": 371,
+        "bottom_right_x": 3484,
+        "bottom_right_y": 2855
+      },
+      "bounding_box_verwendet": {
+        "top_left_x": 1327,
+        "top_left_y": 371,
+        "bottom_right_x": 3750,
+        "bottom_right_y": 2855
+      },
+      "bounding_box_status": "am unteren Rand erweitert (x_raw bis 3750 statt 3484), siehe 'hinweis'",
+      "beschreibung": "Große Zeichnung: Armloch und Schulter des Produktionsschnitts eines Jacken-Rückteils, mit den Schnittteilen 'seitliches Rückteil' und 'Rückteil', Konturlabels 'hintere Armlochnaht', 'hintere Teilungsnaht (Wiener Naht)', 'Schulterabnäher', 'Schulternaht', 'Seitennaht', 'hintere Halslochnaht', 'hintere Mitte Naht', Punktlabels 'hÄP', 'üb', 'me', Bügelhinweis 'Abnäherinhalt wird zur Körpermitte gebügelt', Marker ❶❷❸❹❻❽⓫⓬, sowie eingebettete Callout-Box 'Von der stumpfen zur spitzen Ecke'",
+      "sichtbare_labels": ["❶", "❷", "❸", "❹", "❻", "❽", "⓫", "⓬", "hÄP", "üb", "me", "hintere Armlochnaht", "hintere Teilungsnaht (Wiener Naht)", "Schulterabnäher", "Schulternaht", "Seitennaht", "hintere Halslochnaht", "hintere Mitte Naht", "seitliches Rückteil", "Rückteil", "Abnäherinhalt wird zur Körpermitte gebügelt", "Von der stumpfen zur spitzen Ecke"],
+      "zugehoerige_ocr_bildunterschrift": "☐2 Armloch und Schulter des Produktionsschnitts eines Jacken-Rückteils",
+      "bestaetigt": false
+    }
+  ]
+}

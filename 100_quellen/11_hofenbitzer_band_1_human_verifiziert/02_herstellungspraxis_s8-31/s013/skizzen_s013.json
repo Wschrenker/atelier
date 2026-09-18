@@ -1,0 +1,41 @@
+{
+  "seite": "s013",
+  "quelle_ocr_eingabe": "temporärer aufrechter Seitenzuschnitt aus s13.jpg (nur Seite 13, Nachbarseite ausgeschlossen)",
+  "hinweis": "Pixelkoordinaten beziehen sich auf die OCR-Eingabe (aufrecht gedrehter Zuschnitt), nicht auf das unveränderte Originalbild.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s013_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1269,
+        "top_left_y": 0,
+        "bottom_right_x": 2515,
+        "bottom_right_y": 1282
+      },
+      "beschreibung": "Zwei Körperfiguren von vorne (Bein-/Standansicht), zeigen Bundabstände und Taillenhöhen unterhalb der Taille",
+      "sichtbare_labels": [
+        "waagerechte Taille", "6vBuA", "6sBuA", "6hBuA", "5BuU",
+        "7vTaH", "7hTaH", "8rTaH", "8lTaH", "Standebene"
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐2 Maße unterhalb der Taille",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s013_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1390,
+        "top_left_y": 1572,
+        "bottom_right_x": 2697,
+        "bottom_right_y": 2642
+      },
+      "beschreibung": "Zwei Körperfiguren (Vorderansicht und Seitenansicht des Oberkörpers), zeigen Rückenlänge, Brusttiefe und Vorderlänge oberhalb der Taille",
+      "sichtbare_labels": [
+        "7.HW", "11gBrT", "12gVL", "stärkste Brustwölbung", "3TaU",
+        "waagerechte Taille", "5BuU", "10gRüL"
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐3 Längenmaße oberhalb der Taille",
+      "bestaetigt": false
+    }
+  ]
+}

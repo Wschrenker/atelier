@@ -1,0 +1,204 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Konstruktionstabelle\nGrundgerüst Gerader Rock\n\n[tbl-0.md](tbl-0.md)\n\n[tbl-1.md](tbl-1.md)\n\n[tbl-2.md](tbl-2.md)\n\n![img-0.jpeg](img-0.jpeg)\n\n# 2 Grundgerüst\n\n1 \\(\\square 3\\) P1 ist links oben am Blatt-rand.\nVon P1 die Modellänge (MoL) als eine Senkrechte nach unten zeichnen \\(\\rightarrow\\) vordere Mitte (vM).\n\nAm unteren Ende ist P2.\n\nVon P1 nach rechts die Taillenlinie abwinkeln (rechtwinklig eine Linie zeichnen).\n\nVon P2 nach rechts die Saumlinie abwinkeln.\n\nVon P1 nach unten die Hüfttiefe (HüT) abtragen \\(\\rightarrow\\) P3 und nach rechts die Hüftlinie abwinkeln.\nAuf der Taillenline von P1 die halbe Hüftweite (aus dem Maßsatz) abtragen \\(\\rightarrow\\) P4.\nAuf der Saumlinie nach rechts ebenfalls \\(1/2\\) H\\(\\mathbf{u}\\)W abtragen \\(\\rightarrow\\) P5.\n\nP4 und P5 verbinden → hintere Mitte (hM).\n\n6 P6 ist der Schnittpunkt mit der Hüftlinie.\nDie Taillenlinie halbieren \\(\\rightarrow\\) P7.\nDie Saumlinie halbieren \\(\\rightarrow\\) P8. P7 und P8 verbinden \\(\\rightarrow\\) Seitenlinie.\nP9 ist der Schnittpunkt von Seitenlinie und Hüftlinie.\n\n□3 Grundgerüst zeichnen\n\nGerader Rock\nGrundgerüst\n\n33",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1035,
+          "top_left_y": 1711,
+          "bottom_right_x": 2726,
+          "bottom_right_y": 3537,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionstabelle Maßangaben in cm Rock | Name |  |   |   |   |   | Größe | 38  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | Gerader Rock  |   |   |   |\n|  Hauptmaße (Kennmaße) |   | Körpermaße | Zugaben |   | Proportionsmaße (Konstruktions-, Kontroll-, Hilfsmaße)  |   |   |   |   |\n|  HÜU | Hüftumfang | 97 | 2 3 | = | Hüftweite | HÜW | 100 | ½ 50 | ¼ 25  |\n|  TaU | Taillenumfang | 72 | 2 2 | = | Taillenweite | TaW | 74 | ½ 37 | ¼ 18,5  |\n|  TaAf | Taillenausfall | ½ HÜW - ½ TaW = |   |   |   |   |   | 13 | ½ 6,5  |\n|  gBuU | gem. Bundumfang | --- | + | --- = | Bundumfang | BuU | --- | ½ --- |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  HÜT | Hüfttiefe | 21  |\n| --- | --- | --- |\n|  MoL | Modelllänge | 50  |\n|  TaA | Taillenabstände | v ---  |\n|   |   |  s ---  |\n|   |   |  h ---  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  Hüftabstich | ½ TaAf ± 1 | 6,5  |\n| --- | --- | --- |\n|  v. Abnäher | 0 oder 1,5 bis 2,5 | 2,5  |\n|  1.h. Abnäher | bis 4,5 | 4  |\n|  2.h. Abnäher | optional | ---  |\n|  Kontrolle: | Σ = TaAf | 13  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 270,
+          "top_left_y": 8,
+          "bottom_right_x": 1026,
+          "bottom_right_y": 151,
+          "content": "# Konstruktionstabelle\nGrundgerüst Gerader Rock",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 257,
+          "top_left_y": 241,
+          "bottom_right_x": 2408,
+          "bottom_right_y": 792,
+          "content": "|  Konstruktionstabelle Maßangaben in cm Rock | Name |  |   |   |   |   | Größe | 38  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | Gerader Rock  |   |   |   |\n|  Hauptmaße (Kennmaße) |   | Körpermaße | Zugaben |   | Proportionsmaße (Konstruktions-, Kontroll-, Hilfsmaße)  |   |   |   |   |\n|  HÜU | Hüftumfang | 97 | 2 3 | = | Hüftweite | HÜW | 100 | ½ 50 | ¼ 25  |\n|  TaU | Taillenumfang | 72 | 2 2 | = | Taillenweite | TaW | 74 | ½ 37 | ¼ 18,5  |\n|  TaAf | Taillenausfall | ½ HÜW - ½ TaW = |   |   |   |   |   | 13 | ½ 6,5  |\n|  gBuU | gem. Bundumfang | --- | + | --- = | Bundumfang | BuU | --- | ½ --- |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 227,
+          "top_left_y": 805,
+          "bottom_right_x": 1026,
+          "bottom_right_y": 1201,
+          "content": "|  HÜT | Hüfttiefe | 21  |\n| --- | --- | --- |\n|  MoL | Modelllänge | 50  |\n|  TaA | Taillenabstände | v ---  |\n|   |   |  s ---  |\n|   |   |  h ---  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1265,
+          "top_left_y": 829,
+          "bottom_right_x": 2215,
+          "bottom_right_y": 1209,
+          "content": "|  Hüftabstich | ½ TaAf ± 1 | 6,5  |\n| --- | --- | --- |\n|  v. Abnäher | 0 oder 1,5 bis 2,5 | 2,5  |\n|  1.h. Abnäher | bis 4,5 | 4  |\n|  2.h. Abnäher | optional | ---  |\n|  Kontrolle: | Σ = TaAf | 13  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 1035,
+          "top_left_y": 1711,
+          "bottom_right_x": 2726,
+          "bottom_right_y": 3537,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 196,
+          "top_left_y": 1732,
+          "bottom_right_x": 548,
+          "bottom_right_y": 1777,
+          "content": "# 2 Grundgerüst",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 181,
+          "top_left_y": 1797,
+          "bottom_right_x": 959,
+          "bottom_right_y": 2079,
+          "content": "1 \\(\\square 3\\) P1 ist links oben am Blatt-rand.\nVon P1 die Modellänge (MoL) als eine Senkrechte nach unten zeichnen \\(\\rightarrow\\) vordere Mitte (vM).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 260,
+          "top_left_y": 2099,
+          "bottom_right_x": 750,
+          "bottom_right_y": 2152,
+          "content": "Am unteren Ende ist P2.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 251,
+          "top_left_y": 2173,
+          "bottom_right_x": 959,
+          "bottom_right_y": 2336,
+          "content": "Von P1 nach rechts die Taillenlinie abwinkeln (rechtwinklig eine Linie zeichnen).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 251,
+          "top_left_y": 2352,
+          "bottom_right_x": 959,
+          "bottom_right_y": 2467,
+          "content": "Von P2 nach rechts die Saumlinie abwinkeln.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 144,
+          "top_left_y": 2483,
+          "bottom_right_x": 959,
+          "bottom_right_y": 2981,
+          "content": "Von P1 nach unten die Hüfttiefe (HüT) abtragen \\(\\rightarrow\\) P3 und nach rechts die Hüftlinie abwinkeln.\nAuf der Taillenline von P1 die halbe Hüftweite (aus dem Maßsatz) abtragen \\(\\rightarrow\\) P4.\nAuf der Saumlinie nach rechts ebenfalls \\(1/2\\) H\\(\\mathbf{u}\\)W abtragen \\(\\rightarrow\\) P5.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 230,
+          "top_left_y": 3002,
+          "bottom_right_x": 956,
+          "bottom_right_y": 3128,
+          "content": "P4 und P5 verbinden → hintere Mitte (hM).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 119,
+          "top_left_y": 3145,
+          "bottom_right_x": 959,
+          "bottom_right_y": 3651,
+          "content": "6 P6 ist der Schnittpunkt mit der Hüftlinie.\nDie Taillenlinie halbieren \\(\\rightarrow\\) P7.\nDie Saumlinie halbieren \\(\\rightarrow\\) P8. P7 und P8 verbinden \\(\\rightarrow\\) Seitenlinie.\nP9 ist der Schnittpunkt von Seitenlinie und Hüftlinie.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2227,
+          "top_left_y": 3610,
+          "bottom_right_x": 2683,
+          "bottom_right_y": 3659,
+          "content": "□3 Grundgerüst zeichnen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2567,
+          "top_left_y": 1160,
+          "bottom_right_x": 2674,
+          "bottom_right_y": 1405,
+          "content": "Gerader Rock\nGrundgerüst",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2827,
+          "top_left_y": 3627,
+          "bottom_right_x": 2895,
+          "bottom_right_y": 3688,
+          "content": "33",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3836385
+  }
+}

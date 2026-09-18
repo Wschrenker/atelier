@@ -1,0 +1,19 @@
+{
+  "source": "s11.jpg (Doppelseitenfoto; für die OCR wurde ein temporärer, aufrecht gedrehter Ausschnitt verwendet, der Seite 11 vollständig enthält)",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s011_skizze_01.png",
+      "bbox_raw_pixels": [1921, 1068, 2643, 1687],
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "beschreibung": "Kasten \"Sichtlinien an einer Figurinenskizze und einer Liegeskizze im Vergleich\" – zwei schematische Rocksilhouetten"
+    },
+    {
+      "id": "manuell-01",
+      "file": "skizzen/s011_skizze_02.png",
+      "bbox_raw_pixels": [760, 1560, 2760, 3510],
+      "herkunft": "von der OCR nicht als Bildregion erkannt, manuell ergänzt",
+      "beschreibung": "Körperzeichnung \"❑2 8-teilige Figurine\": zwei stehende Figurinen (Vorderansicht/Rückansicht) mit Achtelteilung, orangefarbener Zahlenreihe 1–8 und beschrifteten Hilfslinien (Kopfhöhe, Kinn, Achsel, Taille, Hüfte, Schritt, Knie, Standebene, Mittellinie vM/hM)"
+    }
+  ]
+}

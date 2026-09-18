@@ -1,0 +1,463 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Einführung\n\n# Standards bei Schnittkonstruktionen (2)\nNahtzugaben und Einschläge\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n# Der Produktionsschnitt\n\nAus einem Grundschnitt entsteht nach\neiner Modellidee unter Anwendung ver-\nschiedener Regeln ein Modellschnitt.\nMeistens besteht der Modellschnitt für\nein Modell aus mehreren Schnittteilen.\nDie Konturen der Modellschnittteile\nstellen:\n\n① Nähte (z.B. die Seitennaht),\n② Kanten (z.B. die Saumkante) und\n③ Symmetrie- bzw. Bruchlinien dar.\n\nEin Produktionsschnitt für ein Modell\nbeinhaltet allerdings noch weitere Flä-\nchen, die für den Zuschnitt des Stoffes\nbenötigt werden. Dies sind Nahtzu-\ngaben und Einschläge. Desweiteren\nenthält er eine Fülle weiterer informa-\ntionen für die Fertigung.\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n# Nahtzugaben\n\nDie Naht ist eine linienförmige Verbin-\ndung mehrerer Stoffteile mit einem\noder mehreren Nähfäden.\n\nA Sie erfolgt mit werigen Ausnahmen immer innerhalb einer Stofffläche (nie genau an der Schnittkante des Stoffs).\nSo sind die von außen sightbaren Einzelflächen, aus denen ein Textilprodukt (z.B. ein Rock) besteht, meistens durch Nähte (aber auch durch Kanten, z.B. dem Saum) begrenzt.\nAn diese textilen Flächen kommt an die Begrenzung, an der eine Naht vorgesehen ist, eine schmale Stofffläche hinzu - die Nahtzugabe. Erst jetzt ist es überhaupt möglich, eine Naht zu arbeiten.\nDie Nahtzugabe ist am fertigen Produkt von außen nicht sightbar,\nB allerdings an der Produktinnenseite\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\n![img-7.jpeg](img-7.jpeg)\n\n□4 Produktionsschnitt für das Rockmodell\nmit Nahtzugaben und Einschlägen\n\nBis zur Produktions-\nreife eines Modells\nwerden oft mehrere\nModellschnitte (Egg,\nZwint-Mutter ...) sowie mehrere\nProduktionsschritte\n(Prototypen) ensam.\n\n# Einschläge\n\n![img-8.jpeg](img-8.jpeg)\n\n![img-9.jpeg](img-9.jpeg)\n\nAn Kanten nennt man diese hinzu kommender Fläche Einschlag, z.B. Saum-, Taschen oder Schlitzeinschlag.\nDer Einschlag wird auf die Innenseite des Produkts umgelegt (eingeschlagen) und durch Bugach ergibt sich die gewünschte Kante.\nEinschlage sind ebenfalls von außen nicht sightbar.\nNahtzugaben und Einschlage verlaufen (bis auf weniger Ausnahmen) immer in definiertem Abstand parallel zur jeweiligen Naht oder Kante.\n\n# Belege\n\nIm Unterschied zum Einschlag wird ein\nBeleg als separates Schnitttell zuge-\nschnitten und mit einer Kante ver-\nstürzt. Er ist nur von der Produktinnen-\nseite sichtbar und verstärkt, befestigt\nund versäubert die geformte Kante, so\nwie der Einschlag die gerade Kante.\n\n□5 Ausschnitt des Rocks mit der Seitennaht und dem Saum.\nDie Seitennaht ist mit Kreide, der Saum mit Heftgarn markiert.\n\n![img-10.jpeg](img-10.jpeg)\n\n![img-11.jpeg](img-11.jpeg)\n\n□6 Ansicht der Seitennaht mit dem Saum von außen und innen\n\nStandards\nSpiegelung\n\n# Spiegelungen\n\n① Taschenform\n② Den Einschlag\nForm einzeln\n③ Die Einschlag\ngriffs-Kante) in\n④ Trifft die h\ngerade verlang\n⑤ Wo Naht u\nfen, wird das\n⑥ Alle weit\naben, Knipse\nduktionsschn\n\nReduzie\n\n□1\n\n2",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 306,
+          "top_left_y": 735,
+          "bottom_right_x": 564,
+          "bottom_right_y": 1121,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 306,
+          "top_left_y": 459,
+          "bottom_right_x": 449,
+          "bottom_right_y": 735,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 441,
+          "top_left_y": 1176,
+          "bottom_right_x": 1119,
+          "bottom_right_y": 1865,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 531,
+          "top_left_y": 429,
+          "bottom_right_x": 1103,
+          "bottom_right_y": 741,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1201,
+          "top_left_y": 392,
+          "bottom_right_x": 1478,
+          "bottom_right_y": 1023,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 1242,
+          "top_left_y": 1237,
+          "bottom_right_x": 1511,
+          "bottom_right_y": 1835,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 1487,
+          "top_left_y": 689,
+          "bottom_right_x": 2009,
+          "bottom_right_y": 1115,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 1487,
+          "top_left_y": 1204,
+          "bottom_right_x": 2009,
+          "bottom_right_y": 1902,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-8.jpeg",
+          "top_left_x": 2263,
+          "top_left_y": 1152,
+          "bottom_right_x": 3092,
+          "bottom_right_y": 1939,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-9.jpeg",
+          "top_left_x": 2263,
+          "top_left_y": 312,
+          "bottom_right_x": 3104,
+          "bottom_right_y": 1143,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-10.jpeg",
+          "top_left_x": 3320,
+          "top_left_y": 1173,
+          "bottom_right_x": 3790,
+          "bottom_right_y": 2019,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-11.jpeg",
+          "top_left_x": 3382,
+          "top_left_y": 248,
+          "bottom_right_x": 3831,
+          "bottom_right_y": 1081,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 270,
+          "top_left_y": 2374,
+          "bottom_right_x": 331,
+          "bottom_right_y": 2650,
+          "content": "Einführung",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1216,
+          "bottom_right_x": 343,
+          "bottom_right_y": 2245,
+          "content": "# Standards bei Schnittkonstruktionen (2)\nNahtzugaben und Einschläge",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 306,
+          "top_left_y": 735,
+          "bottom_right_x": 564,
+          "bottom_right_y": 1121,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 306,
+          "top_left_y": 459,
+          "bottom_right_x": 449,
+          "bottom_right_y": 735,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 449,
+          "top_left_y": 2107,
+          "bottom_right_x": 490,
+          "bottom_right_y": 2484,
+          "content": "# Der Produktionsschnitt",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 494,
+          "top_left_y": 1887,
+          "bottom_right_x": 776,
+          "bottom_right_y": 2509,
+          "content": "Aus einem Grundschnitt entsteht nach\neiner Modellidee unter Anwendung ver-\nschiedener Regeln ein Modellschnitt.\nMeistens besteht der Modellschnitt für\nein Modell aus mehreren Schnittteilen.\nDie Konturen der Modellschnittteile\nstellen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 776,
+          "top_left_y": 1927,
+          "bottom_right_x": 939,
+          "bottom_right_y": 2530,
+          "content": "① Nähte (z.B. die Seitennaht),\n② Kanten (z.B. die Saumkante) und\n③ Symmetrie- bzw. Bruchlinien dar.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 948,
+          "top_left_y": 1921,
+          "bottom_right_x": 1237,
+          "bottom_right_y": 2570,
+          "content": "Ein Produktionsschnitt für ein Modell\nbeinhaltet allerdings noch weitere Flä-\nchen, die für den Zuschnitt des Stoffes\nbenötigt werden. Dies sind Nahtzu-\ngaben und Einschläge. Desweiteren\nenthält er eine Fülle weiterer informa-\ntionen für die Fertigung.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 1176,
+          "bottom_right_x": 1119,
+          "bottom_right_y": 1865,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 531,
+          "top_left_y": 429,
+          "bottom_right_x": 1103,
+          "bottom_right_y": 741,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1278,
+          "top_left_y": 2343,
+          "bottom_right_x": 1323,
+          "bottom_right_y": 2576,
+          "content": "# Nahtzugaben",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1327,
+          "top_left_y": 1948,
+          "bottom_right_x": 1462,
+          "bottom_right_y": 2604,
+          "content": "Die Naht ist eine linienförmige Verbin-\ndung mehrerer Stoffteile mit einem\noder mehreren Nähfäden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1474,
+          "top_left_y": 1957,
+          "bottom_right_x": 2357,
+          "bottom_right_y": 2711,
+          "content": "A Sie erfolgt mit werigen Ausnahmen immer innerhalb einer Stofffläche (nie genau an der Schnittkante des Stoffs).\nSo sind die von außen sightbaren Einzelflächen, aus denen ein Textilprodukt (z.B. ein Rock) besteht, meistens durch Nähte (aber auch durch Kanten, z.B. dem Saum) begrenzt.\nAn diese textilen Flächen kommt an die Begrenzung, an der eine Naht vorgesehen ist, eine schmale Stofffläche hinzu - die Nahtzugabe. Erst jetzt ist es überhaupt möglich, eine Naht zu arbeiten.\nDie Nahtzugabe ist am fertigen Produkt von außen nicht sightbar,\nB allerdings an der Produktinnenseite",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1201,
+          "top_left_y": 392,
+          "bottom_right_x": 1478,
+          "bottom_right_y": 1023,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 1242,
+          "top_left_y": 1237,
+          "bottom_right_x": 1511,
+          "bottom_right_y": 1835,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 1487,
+          "top_left_y": 689,
+          "bottom_right_x": 2009,
+          "bottom_right_y": 1115,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 1487,
+          "top_left_y": 1204,
+          "bottom_right_x": 2009,
+          "bottom_right_y": 1902,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        },
+        {
+          "top_left_x": 2026,
+          "top_left_y": 1207,
+          "bottom_right_x": 2103,
+          "bottom_right_y": 1924,
+          "content": "□4 Produktionsschnitt für das Rockmodell\nmit Nahtzugaben und Einschlägen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1666,
+          "top_left_y": 361,
+          "bottom_right_x": 1993,
+          "bottom_right_y": 662,
+          "content": "Bis zur Produktions-\nreife eines Modells\nwerden oft mehrere\nModellschnitte (Egg,\nZwint-Mutter ...) sowie mehrere\nProduktionsschritte\n(Prototypen) ensam.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2401,
+          "top_left_y": 2506,
+          "bottom_right_x": 2455,
+          "bottom_right_y": 2714,
+          "content": "# Einschläge",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2263,
+          "top_left_y": 1152,
+          "bottom_right_x": 3092,
+          "bottom_right_y": 1939,
+          "content": "![img-8.jpeg](img-8.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-8.jpeg"
+        },
+        {
+          "top_left_x": 2263,
+          "top_left_y": 312,
+          "bottom_right_x": 3104,
+          "bottom_right_y": 1143,
+          "content": "![img-9.jpeg](img-9.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-9.jpeg"
+        },
+        {
+          "top_left_x": 2479,
+          "top_left_y": 2025,
+          "bottom_right_x": 3267,
+          "bottom_right_y": 2827,
+          "content": "An Kanten nennt man diese hinzu kommender Fläche Einschlag, z.B. Saum-, Taschen oder Schlitzeinschlag.\nDer Einschlag wird auf die Innenseite des Produkts umgelegt (eingeschlagen) und durch Bugach ergibt sich die gewünschte Kante.\nEinschlage sind ebenfalls von außen nicht sightbar.\nNahtzugaben und Einschlage verlaufen (bis auf weniger Ausnahmen) immer in definiertem Abstand parallel zur jeweiligen Naht oder Kante.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3271,
+          "top_left_y": 2680,
+          "bottom_right_x": 3329,
+          "bottom_right_y": 2821,
+          "content": "# Belege",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3357,
+          "top_left_y": 2092,
+          "bottom_right_x": 3815,
+          "bottom_right_y": 2892,
+          "content": "Im Unterschied zum Einschlag wird ein\nBeleg als separates Schnitttell zuge-\nschnitten und mit einer Kante ver-\nstürzt. Er ist nur von der Produktinnen-\nseite sichtbar und verstärkt, befestigt\nund versäubert die geformte Kante, so\nwie der Einschlag die gerade Kante.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3083,
+          "top_left_y": 677,
+          "bottom_right_x": 3235,
+          "bottom_right_y": 1994,
+          "content": "□5 Ausschnitt des Rocks mit der Seitennaht und dem Saum.\nDie Seitennaht ist mit Kreide, der Saum mit Heftgarn markiert.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3320,
+          "top_left_y": 1173,
+          "bottom_right_x": 3790,
+          "bottom_right_y": 2019,
+          "content": "![img-10.jpeg](img-10.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-10.jpeg"
+        },
+        {
+          "top_left_x": 3382,
+          "top_left_y": 248,
+          "bottom_right_x": 3831,
+          "bottom_right_y": 1081,
+          "content": "![img-11.jpeg](img-11.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-11.jpeg"
+        },
+        {
+          "top_left_x": 3794,
+          "top_left_y": 723,
+          "bottom_right_x": 3957,
+          "bottom_right_y": 2040,
+          "content": "□6 Ansicht der Seitennaht mit dem Saum von außen und innen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 196,
+          "top_left_y": 0,
+          "bottom_right_x": 331,
+          "bottom_right_y": 312,
+          "content": "Standards\nSpiegelung",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 417,
+          "top_left_y": 0,
+          "bottom_right_x": 462,
+          "bottom_right_y": 285,
+          "content": "# Spiegelungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 474,
+          "top_left_y": 0,
+          "bottom_right_x": 1054,
+          "bottom_right_y": 285,
+          "content": "① Taschenform\n② Den Einschlag\nForm einzeln\n③ Die Einschlag\ngriffs-Kante) in\n④ Trifft die h\ngerade verlang\n⑤ Wo Naht u\nfen, wird das\n⑥ Alle weit\naben, Knipse\nduktionsschn",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1981,
+          "top_left_y": 0,
+          "bottom_right_x": 2022,
+          "bottom_right_y": 138,
+          "content": "Reduzie",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2838,
+          "top_left_y": 0,
+          "bottom_right_x": 2879,
+          "bottom_right_y": 101,
+          "content": "□1",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3725,
+          "top_left_y": 3008,
+          "bottom_right_x": 3815,
+          "bottom_right_y": 3060,
+          "content": "2",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4324119
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "seite": "s023",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s23.jpg (keine Nachbarseite sichtbar, kein Zuschnitt vor der OCR nötig)",
+  "hinweis": "Bounding Boxes beziehen sich auf die Pixelorientierung des unveränderten Originalbilds (Querformat, EXIF-Orientation 6). Die gespeicherten PNG-Ausschnitte wurden nach dem Zuschnitt entsprechend der EXIF-Orientierung aufrecht gedreht.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s023_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1176,
+        "top_left_y": 2181,
+        "bottom_right_x": 1866,
+        "bottom_right_y": 2800
+      },
+      "beschreibung": "Schnittteil mit Marker ①②③ und zwei Bemaßungspfeilen 'Einschlag-Breite' — erstes Teilbild der linken Spalte (Spiegelungen am Tascheneingriff)",
+      "sichtbare_labels": ["①", "②", "③", "Einschlag-Breite"],
+      "zugehoerige_ocr_bildunterschrift": "☐1 Einschlag an aufgesetzter Tasche konstruieren",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1156,
+        "top_left_y": 1434,
+        "bottom_right_x": 1846,
+        "bottom_right_y": 2046
+      },
+      "beschreibung": "Schnittteil mit rechtwinkligen Eckmarkierungen (rot) und Marker ④⑤, gebogener Pfeil an der oberen rechten Ecke — zweites Teilbild derselben Reihe",
+      "sichtbare_labels": ["④", "⑤"],
+      "zugehoerige_ocr_bildunterschrift": "☐1 Einschlag an aufgesetzter Tasche konstruieren",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_03.png",
+      "ocr_id": "img-2.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1421,
+        "top_left_y": 294,
+        "bottom_right_x": 1944,
+        "bottom_right_y": 891
+      },
+      "beschreibung": "Rechteckiges Schnittteil mit Marker ①② und Bemaßung 'Einschlag-Breite' (senkrecht und waagerecht) — erstes Teilbild der rechten Spalte (Einfache Briefecke)",
+      "sichtbare_labels": ["①", "②", "Einschlag-Breite"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_04.png",
+      "ocr_id": "img-3.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2062,
+        "top_left_y": 2181,
+        "bottom_right_x": 2855,
+        "bottom_right_y": 2836
+      },
+      "beschreibung": "Schnittteil mit zwei Marker ⑥⑥ und Bemaßungspfeil 'Reduzierung um 0,2 bis 0,5 cm' oben — drittes Teilbild der linken Reihe",
+      "sichtbare_labels": ["⑥", "Reduzierung um 0,2 bis 0,5 cm"],
+      "zugehoerige_ocr_bildunterschrift": "☐1 Einschlag an aufgesetzter Tasche konstruieren",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_05.png",
+      "ocr_id": "img-4.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2001,
+        "top_left_y": 1342,
+        "bottom_right_x": 2867,
+        "bottom_right_y": 2068
+      },
+      "beschreibung": "Fertiges Schnittteil (aufgesetzte Tasche) mit Stempel 'Modell 01 · aufgesetzte Tasche · 2x-p OSt · G 38', Fadenlauf-Pfeil 'NZg' und Marker ⑥ — viertes Teilbild der linken Reihe",
+      "sichtbare_labels": ["⑥", "Modell 01", "aufgesetzte Tasche", "2x-p OSt", "G 38", "NZg"],
+      "zugehoerige_ocr_bildunterschrift": "☐1 Einschlag an aufgesetzter Tasche konstruieren",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_06.png",
+      "ocr_id": "img-5.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1973,
+        "top_left_y": 211,
+        "bottom_right_x": 2573,
+        "bottom_right_y": 833
+      },
+      "beschreibung": "Rechteckiges Schnittteil mit Marker ③④ und zwei Bemaßungspfeilen 'Einschlag-Breite' (waagerecht und senkrecht) — zweites Teilbild der rechten Spalte",
+      "sichtbare_labels": ["③", "④", "Einschlag-Breite"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_07.png",
+      "ocr_id": "img-6.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2569,
+        "top_left_y": 144,
+        "bottom_right_x": 3173,
+        "bottom_right_y": 772
+      },
+      "beschreibung": "Rechteckiges Schnittteil mit gestrichelter Diagonale in der Ecke und Marker ⑤⑥ — drittes Teilbild der rechten Spalte",
+      "sichtbare_labels": ["⑤", "⑥"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_08.png",
+      "ocr_id": "img-7.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 3010,
+        "top_left_y": 2068,
+        "bottom_right_x": 3835,
+        "bottom_right_y": 2861
+      },
+      "beschreibung": "Foto eines gestreiften Stoffzuschnitts mit umgeschlagenem, angehefteten Rand (Nadelheftung sichtbar)",
+      "sichtbare_labels": [],
+      "zugehoerige_ocr_bildunterschrift": "☐2 Tascheneinschlag und -Futter vor dem Verstürzen",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_09.png",
+      "ocr_id": "img-8.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 3063,
+        "top_left_y": 772,
+        "bottom_right_x": 3855,
+        "bottom_right_y": 2034
+      },
+      "beschreibung": "Zwei nebeneinander liegende Stoffmuster: links unifarbenes Stoffquadrat, rechts Stoffquadrat mit sichtbar abgesteppter Ecke — vom OCR-Modell als eine Bildregion erfasst, entspricht vermutlich zwei Bildunterschriften",
+      "sichtbare_labels": [],
+      "zugehoerige_ocr_bildunterschrift": "☐3 Rechtwinklige Briefecke von rechts / ☐4 Rechtwinklige Briefecke von links",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s023_skizze_10.png",
+      "ocr_id": "img-9.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 3206,
+        "top_left_y": 61,
+        "bottom_right_x": 3876,
+        "bottom_right_y": 720
+      },
+      "beschreibung": "Rechteckiges Schnittteil mit abgeschnittener Ecke, Markierung 'NZg' und Marker ⑦ — viertes (unterstes) Teilbild der rechten Spalte",
+      "sichtbare_labels": ["⑦", "NZg"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    }
+  ]
+}

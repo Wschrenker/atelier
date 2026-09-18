@@ -1,0 +1,430 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Hinweise zur Maßtabelle und zum Maßnehmen (2)\n\n# Einführung\n\n![img-0.jpeg](img-0.jpeg)\n\nMaßoptimierung, Schnittkonstruktion und Schnittoptimierung\n\nFür die Grundschnittkonstruktion müssen nun die VL und/oder die RüL entsprechend der Figurbeobachtung so korrigiert werden, dass die optimale Balance zwischen VL und RüL hergestellt ist. Dies wird, wenn notwendig, in der Konstruktionsstabelle notiert (siehe Seite 177).\n\nNach der Grundschnitt-Konstruktion in optimaler Balance werden die Beträge der Maßänderungen an RüL und/oder VL nach bestimmten Regeln am Grundschnitt rückgängig gemacht, wodurch der Grundschnitt optimiert wird.\n\nIst z.B. die gemessene RüL bei einem ründen Rücken (siehe ☐7) zu lang, wird das Konstruktionsmaß RüL für die Schnittersstellung verringert, damit die Balance passt. Nach der Konstruktion fehlt jetzt Länge im Rückteil. Nun wird der Rücken aufgeschnitten und die zuvor gekürzte RüL wieder in den Schnitt gegeben. Die RüL besitzt jetzt wieder das gemessene Maß. Durch das Öffnen am Rücken vergrößert sich der Schulterabnäher, wodurch das Rückteil die notwendige Form für die entsprechende Figur erhält.\n\nProbleme unterhalb der Taille\n\n☐1+2 Figurabweichungen unterhalb der Taille sind ebenfalls durch eine Figurbeobachtung zu analysieren. Hier erklärt sich z.B. in ☐2 eine längere hTaH durch das starke Gesäß. Auch hier ist zum waagerechten Taillenband zu messen.\n\nDer Rock- und Hosen-Grundschnitt ist entsprechend anzupassen.\n\nLeider würde es den Rahmen dieses Buches sprengen, alle Problemlignen zu besprechen und Lösungen aufzuzeigen. Der vorliegende Band 1 behandelt ausschließlich die Grundlagen der Schnittkonstruktion.\n\nTrotzdem sei hier die Problematik kurz erläutert, um einen Hinweis zu geben, dass Probleme auftreten können. Zudem sei darauf hinweisen, wo Lösungen zu Problemen bei individuellen Konstruktionen zu finden sind.\n\nUmfangreiche Informationen und Schritt-für-Schritt-Anleitungen zur Behandlung von Passformproblemen finden sich in Band 2 „Maßschnitte und Passform“.\n\n# Maßtabel\n\n[tbl-0.md](tbl-0.md)\n\n[tbl-1.md](tbl-1.md)\n\n[tbl-2.md](tbl-2.md)\n\n[tbl-3.md](tbl-3.md)\n\nDie VL ist durch den großen Busen zu lang.\nDie RUL ist korrekt.\n\nDie VL ist wegen der vorgedrückten Brust zu lang.\nDie RUL ist wegen der aufrechten Haltung zu kurz.\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n☐3 Großer Busen\n\n☐4\n\nAufrechte Haltung, vorgedrückte Brust\n\n☐5 Fächer Busen\n\n• Die vTaH ist korrekt.\n\n• Die hTaH ist wegen des flachen Gesäßes kürzer\n\n• Die vTaH ist korrekt.\n\n• Die hTaH ist wegen des flachen Gesäßes länger\n\nDie VL ist durch den flachen Busen zu kurz.\nDie RUL ist korrekt.\n\n• Die VL ist wegen des eingefallenen Brustkorbs zu kurz.\n\n• Die RüL ist wegen des ründen Rückens zu lang.\n\n☐6 Runder Rücken\n\n18\n\nDie grün gestrichelten Linien verdeutlichen die Normalfigur",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 265,
+          "top_left_y": 386,
+          "bottom_right_x": 1062,
+          "bottom_right_y": 680,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 2046,
+          "top_left_y": 1078,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 1415,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2050,
+          "top_left_y": 322,
+          "bottom_right_x": 3717,
+          "bottom_right_y": 680,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2075,
+          "top_left_y": 2313,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2714,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  KOH | korpe  |\n| --- | --- |\n|  gBrU | generen  |\n|  TaU | Taillenband  |\n|  HUU | Hüftu  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  BuU | Bund  |\n| --- | --- |\n|  BuA | Bund  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  TaH | TaH  |\n| --- | --- |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  HaU | H  |\n| --- | --- |\n|  gRüL | g  |\n|  gBrT | g  |\n|  gVL | g  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 123,
+          "top_left_y": 931,
+          "bottom_right_x": 196,
+          "bottom_right_y": 2212,
+          "content": "Hinweise zur Maßtabelle und zum Maßnehmen (2)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 286,
+          "top_left_y": 2340,
+          "bottom_right_x": 347,
+          "bottom_right_y": 2613,
+          "content": "# Einführung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 265,
+          "top_left_y": 386,
+          "bottom_right_x": 1062,
+          "bottom_right_y": 680,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 1856,
+          "bottom_right_x": 547,
+          "bottom_right_y": 2441,
+          "content": "Maßoptimierung, Schnittkonstruktion und Schnittoptimierung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 551,
+          "top_left_y": 1862,
+          "bottom_right_x": 878,
+          "bottom_right_y": 2475,
+          "content": "Für die Grundschnittkonstruktion müssen nun die VL und/oder die RüL entsprechend der Figurbeobachtung so korrigiert werden, dass die optimale Balance zwischen VL und RüL hergestellt ist. Dies wird, wenn notwendig, in der Konstruktionsstabelle notiert (siehe Seite 177).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 878,
+          "top_left_y": 1881,
+          "bottom_right_x": 1119,
+          "bottom_right_y": 2509,
+          "content": "Nach der Grundschnitt-Konstruktion in optimaler Balance werden die Beträge der Maßänderungen an RüL und/oder VL nach bestimmten Regeln am Grundschnitt rückgängig gemacht, wodurch der Grundschnitt optimiert wird.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1123,
+          "top_left_y": 1896,
+          "bottom_right_x": 1748,
+          "bottom_right_y": 2570,
+          "content": "Ist z.B. die gemessene RüL bei einem ründen Rücken (siehe ☐7) zu lang, wird das Konstruktionsmaß RüL für die Schnittersstellung verringert, damit die Balance passt. Nach der Konstruktion fehlt jetzt Länge im Rückteil. Nun wird der Rücken aufgeschnitten und die zuvor gekürzte RüL wieder in den Schnitt gegeben. Die RüL besitzt jetzt wieder das gemessene Maß. Durch das Öffnen am Rücken vergrößert sich der Schulterabnäher, wodurch das Rückteil die notwendige Form für die entsprechende Figur erhält.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 359,
+          "top_left_y": 1268,
+          "bottom_right_x": 400,
+          "bottom_right_y": 1792,
+          "content": "Probleme unterhalb der Taille",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 400,
+          "top_left_y": 1155,
+          "bottom_right_x": 731,
+          "bottom_right_y": 1810,
+          "content": "☐1+2 Figurabweichungen unterhalb der Taille sind ebenfalls durch eine Figurbeobachtung zu analysieren. Hier erklärt sich z.B. in ☐2 eine längere hTaH durch das starke Gesäß. Auch hier ist zum waagerechten Taillenband zu messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 731,
+          "top_left_y": 1158,
+          "bottom_right_x": 809,
+          "bottom_right_y": 1819,
+          "content": "Der Rock- und Hosen-Grundschnitt ist entsprechend anzupassen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 809,
+          "top_left_y": 1167,
+          "bottom_right_x": 1099,
+          "bottom_right_y": 1819,
+          "content": "Leider würde es den Rahmen dieses Buches sprengen, alle Problemlignen zu besprechen und Lösungen aufzuzeigen. Der vorliegende Band 1 behandelt ausschließlich die Grundlagen der Schnittkonstruktion.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1099,
+          "top_left_y": 1167,
+          "bottom_right_x": 1368,
+          "bottom_right_y": 1835,
+          "content": "Trotzdem sei hier die Problematik kurz erläutert, um einen Hinweis zu geben, dass Probleme auftreten können. Zudem sei darauf hinweisen, wo Lösungen zu Problemen bei individuellen Konstruktionen zu finden sind.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1368,
+          "top_left_y": 1170,
+          "bottom_right_x": 1613,
+          "bottom_right_y": 1850,
+          "content": "Umfangreiche Informationen und Schritt-für-Schritt-Anleitungen zur Behandlung von Passformproblemen finden sich in Band 2 „Maßschnitte und Passform“.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 270,
+          "top_left_y": 0,
+          "bottom_right_x": 351,
+          "bottom_right_y": 242,
+          "content": "# Maßtabel",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 400,
+          "top_left_y": 0,
+          "bottom_right_x": 686,
+          "bottom_right_y": 245,
+          "content": "|  KOH | korpe  |\n| --- | --- |\n|  gBrU | generen  |\n|  TaU | Taillenband  |\n|  HUU | Hüftu  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 719,
+          "top_left_y": 0,
+          "bottom_right_x": 878,
+          "bottom_right_y": 221,
+          "content": "|  BuU | Bund  |\n| --- | --- |\n|  BuA | Bund  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 919,
+          "top_left_y": 0,
+          "bottom_right_x": 1013,
+          "bottom_right_y": 205,
+          "content": "|  TaH | TaH  |\n| --- | --- |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 1168,
+          "top_left_y": 0,
+          "bottom_right_x": 1536,
+          "bottom_right_y": 184,
+          "content": "|  HaU | H  |\n| --- | --- |\n|  gRüL | g  |\n|  gBrT | g  |\n|  gVL | g  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 1813,
+          "top_left_y": 2202,
+          "bottom_right_x": 2022,
+          "bottom_right_y": 2601,
+          "content": "Die VL ist durch den großen Busen zu lang.\nDie RUL ist korrekt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1789,
+          "top_left_y": 1596,
+          "bottom_right_x": 2001,
+          "bottom_right_y": 2117,
+          "content": "Die VL ist wegen der vorgedrückten Brust zu lang.\nDie RUL ist wegen der aufrechten Haltung zu kurz.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2046,
+          "top_left_y": 1078,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 1415,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2050,
+          "top_left_y": 322,
+          "bottom_right_x": 3717,
+          "bottom_right_y": 680,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2075,
+          "top_left_y": 2313,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2714,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 3553,
+          "top_left_y": 2509,
+          "bottom_right_x": 3614,
+          "bottom_right_y": 2809,
+          "content": "☐3 Großer Busen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3614,
+          "top_left_y": 2107,
+          "bottom_right_x": 3659,
+          "bottom_right_y": 2169,
+          "content": "☐4",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3623,
+          "top_left_y": 1746,
+          "bottom_right_x": 3741,
+          "bottom_right_y": 2092,
+          "content": "Aufrechte Haltung, vorgedrückte Brust",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3688,
+          "top_left_y": 1743,
+          "bottom_right_x": 3745,
+          "bottom_right_y": 2092,
+          "content": "☐5 Fächer Busen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1258,
+          "top_left_y": 787,
+          "bottom_right_x": 1348,
+          "bottom_right_y": 1084,
+          "content": "• Die vTaH ist korrekt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1372,
+          "top_left_y": 698,
+          "bottom_right_x": 1511,
+          "bottom_right_y": 1084,
+          "content": "• Die hTaH ist wegen des flachen Gesäßes kürzer",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1266,
+          "top_left_y": 395,
+          "bottom_right_x": 1364,
+          "bottom_right_y": 655,
+          "content": "• Die vTaH ist korrekt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1380,
+          "top_left_y": 340,
+          "bottom_right_x": 1560,
+          "bottom_right_y": 652,
+          "content": "• Die hTaH ist wegen des flachen Gesäßes länger",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1748,
+          "top_left_y": 977,
+          "bottom_right_x": 1928,
+          "bottom_right_y": 1513,
+          "content": "Die VL ist durch den flachen Busen zu kurz.\nDie RUL ist korrekt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1752,
+          "top_left_y": 340,
+          "bottom_right_x": 1899,
+          "bottom_right_y": 879,
+          "content": "• Die VL ist wegen des eingefallenen Brustkorbs zu kurz.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1928,
+          "top_left_y": 322,
+          "bottom_right_x": 2050,
+          "bottom_right_y": 876,
+          "content": "• Die RüL ist wegen des ründen Rückens zu lang.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3741,
+          "top_left_y": 306,
+          "bottom_right_x": 3794,
+          "bottom_right_y": 695,
+          "content": "☐6 Runder Rücken",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3729,
+          "top_left_y": 2937,
+          "bottom_right_x": 3798,
+          "bottom_right_y": 3008,
+          "content": "18",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 3717,
+          "top_left_y": 1798,
+          "bottom_right_x": 3880,
+          "bottom_right_y": 2830,
+          "content": "Die grün gestrichelten Linien verdeutlichen die Normalfigur",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3637492
+  }
+}

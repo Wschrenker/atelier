@@ -1,0 +1,291 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Körpermaße und Maßnahmen (4)\n\n# 8 obere Brustbreite 68/8\n\n☐6 Bei locker hängenden Armen wird zwischen den vorderen Armansätzen das Maß oberhalb der Brüste gemessen.\n\n# 9 Oberbrustabstand 68/8\n\n☐6 Gleichzeitig mit der oberen Brustbreite misst man mit dem anderen Ende des Maßbandes den Abstand zwischen der Unterkante des Maßbandes zum Brustpunkt.\n\n# 10 Unterbrustumfang 18/8\n\n☐6 Das Maßband wird von hinten waagerecht unter der Brust und unter den Armen hindurchgeführt und hinten abgelesen.\n\n# 11 Unterbrustabstand 18/8\n\n☐6 Gleichzeitig mit dem Unterbrustumfang misst man mit dem anderen Ende des Maßbandes den Abstand zwischen der Oberkante des Maßbandes zum Brustpunkt\n\n# 22 Schulterbreite SuB\n\n☐2 Das Maßband verläuft vom höchsten Punkt der Schulter am seitlichen Hals (dort wo die Halslochnäht sitzen sollte) zum äußersten seitlichen Schulterknochen (dort wo die Armlochnäht sitzen sollte). Es ist ratsam, beide Seiten zu messen und den Mittelwert zu notieren.\n\n# 23 Armlänge ArL\n\n☐6 Mit dem Maßband wird entlang der Armaußenkante die Länge zwischen dem Schulterpunkt über die leicht angewinkelte Ellenbogenspitze zum äußeren Handgelenkknöchel gemessen. Der Arm soll am Ellenbogen mit einem Winkel von nicht mehr als 45° angewinkelt werden.\n\n# 24 Oberarmumfang OaU\n\n☐6 Mit anliegendem Maßband wird bei natürlich herabhängendem Arm der Umfang waagerecht an der stärksten Stelle unterhalb der Achselhöhle gemessen.\n\n# 25 Handgelenkumfang HagU\n\n☐6 Mit dem Maßband wird der Umfang über die stärkste Stelle der Handgelenk-Knöchel gemessen.\n\n# 26 Handumfang HaU\n\n☐6 Mit dem Maßband wird der Umfang über die stärkste Stelle der geschlossenen Hand gemessen.\n\n# 27 Armansatzumfang AraU\n\n☐7 Mit einem dünnen Maßband oder einer Kordel wird unter der Achsel hindurch über die seitliche Schulter gemessen.\n\n# 28 Schulterwinkel SuWi\n\n☐7 Mit einem Winkelmesser (Smartphone mit (Wasserwaagen-App) werden die Winkel der Schulter zwischen Halsansatz und Schulterpunkt gemessen. Der Normalwert ist 20°. Bei unterschiedlichen Werten rechts und links ist unbedingt der kleinere Wert zu verwenden!\n\n![img-0.jpeg](img-0.jpeg)\n\n☐7 Brust-, Arm- und Schultermaße\n\n![img-1.jpeg](img-1.jpeg)\n\n☐8 Armansatzumfang Schulterwinkel",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 245,
+          "top_left_y": 625,
+          "bottom_right_x": 1127,
+          "bottom_right_y": 1682,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1421,
+          "top_left_y": 285,
+          "bottom_right_x": 3480,
+          "bottom_right_y": 1507,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 57,
+          "top_left_y": 1905,
+          "bottom_right_x": 127,
+          "bottom_right_y": 2790,
+          "content": "Körpermaße und Maßnahmen (4)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 261,
+          "top_left_y": 2092,
+          "bottom_right_x": 306,
+          "bottom_right_y": 2800,
+          "content": "# 8 obere Brustbreite 68/8",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 319,
+          "top_left_y": 1770,
+          "bottom_right_x": 408,
+          "bottom_right_y": 2806,
+          "content": "☐6 Bei locker hängenden Armen wird zwischen den vorderen Armansätzen das Maß oberhalb der Brüste gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 449,
+          "top_left_y": 2092,
+          "bottom_right_x": 494,
+          "bottom_right_y": 2806,
+          "content": "# 9 Oberbrustabstand 68/8",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 511,
+          "top_left_y": 1758,
+          "bottom_right_x": 633,
+          "bottom_right_y": 2821,
+          "content": "☐6 Gleichzeitig mit der oberen Brustbreite misst man mit dem anderen Ende des Maßbandes den Abstand zwischen der Unterkante des Maßbandes zum Brustpunkt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 682,
+          "top_left_y": 2092,
+          "bottom_right_x": 727,
+          "bottom_right_y": 2821,
+          "content": "# 10 Unterbrustumfang 18/8",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 739,
+          "top_left_y": 1749,
+          "bottom_right_x": 825,
+          "bottom_right_y": 2830,
+          "content": "☐6 Das Maßband wird von hinten waagerecht unter der Brust und unter den Armen hindurchgeführt und hinten abgelesen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 882,
+          "top_left_y": 2092,
+          "bottom_right_x": 927,
+          "bottom_right_y": 2830,
+          "content": "# 11 Unterbrustabstand 18/8",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 939,
+          "top_left_y": 1737,
+          "bottom_right_x": 1078,
+          "bottom_right_y": 2846,
+          "content": "☐6 Gleichzeitig mit dem Unterbrustumfang misst man mit dem anderen Ende des Maßbandes den Abstand zwischen der Oberkante des Maßbandes zum Brustpunkt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1135,
+          "top_left_y": 2101,
+          "bottom_right_x": 1176,
+          "bottom_right_y": 2846,
+          "content": "# 22 Schulterbreite SuB",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1193,
+          "top_left_y": 1718,
+          "bottom_right_x": 1425,
+          "bottom_right_y": 2867,
+          "content": "☐2 Das Maßband verläuft vom höchsten Punkt der Schulter am seitlichen Hals (dort wo die Halslochnäht sitzen sollte) zum äußersten seitlichen Schulterknochen (dort wo die Armlochnäht sitzen sollte). Es ist ratsam, beide Seiten zu messen und den Mittelwert zu notieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1491,
+          "top_left_y": 2101,
+          "bottom_right_x": 1536,
+          "bottom_right_y": 2867,
+          "content": "# 23 Armlänge ArL",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1552,
+          "top_left_y": 1697,
+          "bottom_right_x": 1805,
+          "bottom_right_y": 2892,
+          "content": "☐6 Mit dem Maßband wird entlang der Armaußenkante die Länge zwischen dem Schulterpunkt über die leicht angewinkelte Ellenbogenspitze zum äußeren Handgelenkknöchel gemessen. Der Arm soll am Ellenbogen mit einem Winkel von nicht mehr als 45° angewinkelt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1871,
+          "top_left_y": 2077,
+          "bottom_right_x": 1915,
+          "bottom_right_y": 2892,
+          "content": "# 24 Oberarmumfang OaU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1932,
+          "top_left_y": 1682,
+          "bottom_right_x": 2107,
+          "bottom_right_y": 2907,
+          "content": "☐6 Mit anliegendem Maßband wird bei natürlich herabhängendem Arm der Umfang waagerecht an der stärksten Stelle unterhalb der Achselhöhle gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2173,
+          "top_left_y": 2052,
+          "bottom_right_x": 2222,
+          "bottom_right_y": 2907,
+          "content": "# 25 Handgelenkumfang HagU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2230,
+          "top_left_y": 1669,
+          "bottom_right_x": 2377,
+          "bottom_right_y": 2922,
+          "content": "☐6 Mit dem Maßband wird der Umfang über die stärkste Stelle der Handgelenk-Knöchel gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2434,
+          "top_left_y": 2071,
+          "bottom_right_x": 2479,
+          "bottom_right_y": 2922,
+          "content": "# 26 Handumfang HaU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2491,
+          "top_left_y": 1657,
+          "bottom_right_x": 2655,
+          "bottom_right_y": 2934,
+          "content": "☐6 Mit dem Maßband wird der Umfang über die stärkste Stelle der geschlossenen Hand gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2887,
+          "top_left_y": 2049,
+          "bottom_right_x": 2932,
+          "bottom_right_y": 2934,
+          "content": "# 27 Armansatzumfang AraU",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2949,
+          "top_left_y": 1633,
+          "bottom_right_x": 3124,
+          "bottom_right_y": 2956,
+          "content": "☐7 Mit einem dünnen Maßband oder einer Kordel wird unter der Achsel hindurch über die seitliche Schulter gemessen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3186,
+          "top_left_y": 2040,
+          "bottom_right_x": 3231,
+          "bottom_right_y": 2956,
+          "content": "# 28 Schulterwinkel SuWi",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3247,
+          "top_left_y": 1611,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2974,
+          "content": "☐7 Mit einem Winkelmesser (Smartphone mit (Wasserwaagen-App) werden die Winkel der Schulter zwischen Halsansatz und Schulterpunkt gemessen. Der Normalwert ist 20°. Bei unterschiedlichen Werten rechts und links ist unbedingt der kleinere Wert zu verwenden!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 245,
+          "top_left_y": 625,
+          "bottom_right_x": 1127,
+          "bottom_right_y": 1682,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1131,
+          "top_left_y": 793,
+          "bottom_right_x": 1168,
+          "bottom_right_y": 1363,
+          "content": "☐7 Brust-, Arm- und Schultermaße",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1421,
+          "top_left_y": 285,
+          "bottom_right_x": 3480,
+          "bottom_right_y": 1507,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 3655,
+          "top_left_y": 591,
+          "bottom_right_x": 3712,
+          "bottom_right_y": 1332,
+          "content": "☐8 Armansatzumfang Schulterwinkel",
+          "confidence_scores": null,
+          "type": "caption"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3595150
+  }
+}

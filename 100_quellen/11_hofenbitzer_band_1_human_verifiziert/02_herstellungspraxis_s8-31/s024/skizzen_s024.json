@@ -1,0 +1,158 @@
+{
+  "seite": "s024",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s24.jpg (rechter Bildrand zeigt lesbaren Text der Nachbarseite s25, kein Zuschnitt vor der OCR nötig, da die OCR diesen Text als eigene Markdown-Zeilen und nicht als Bildregion der Besitzerseite erfasst hat)",
+  "hinweis": "Bounding Boxes beziehen sich auf die Pixelorientierung des unveränderten Originalbilds (Querformat, EXIF-Orientation 6, 4080x3060). Die gespeicherten PNG-Ausschnitte wurden nach dem Zuschnitt entsprechend der EXIF-Orientierung aufrecht gedreht (transpose ROTATE_270, geprüft anhand von Referenzpunkten).",
+  "layout": "Die Seite zeigt drei Textspalten mit je fünf übereinanderliegenden Bildern (vier Konstruktionsskizzen + ein Stofffoto). Die OCR-Layoutantwort hat alle 15 Bildregionen einzeln erkannt, ohne eigene Bildunterschriften (die Seite hat keine ☐-nummerierten Bildunterschriften wie s023, die Zuordnung ergibt sich aus Spalte und Zeile).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s024_skizze_01.png",
+      "ocr_id": "img-2.jpeg",
+      "spalte": "Spalte 1 (Spitze Briefecke)",
+      "zeile": "Zeile 1",
+      "bounding_box_ocr_eingabe": {"top_left_x": 980, "top_left_y": 487, "bottom_right_x": 1446, "bottom_right_y": 1048},
+      "beschreibung": "Schnittteil mit Marker ① unten links und Bemaßung 'Einschlag-Breite' (senkrecht und waagerecht, oben rechts)",
+      "sichtbare_labels": ["1", "Einschlag-Breite"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_02.png",
+      "ocr_id": "img-5.jpeg",
+      "spalte": "Spalte 1 (Spitze Briefecke)",
+      "zeile": "Zeile 2",
+      "bounding_box_ocr_eingabe": {"top_left_x": 1462, "top_left_y": 423, "bottom_right_x": 1989, "bottom_right_y": 1008},
+      "beschreibung": "Schnittteil mit Marker ② mittig und Bemaßung 'Einschlag-Breite' (senkrecht und waagerecht)",
+      "sichtbare_labels": ["2", "Einschlag-Breite"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_03.png",
+      "ocr_id": "img-8.jpeg",
+      "spalte": "Spalte 1 (Spitze Briefecke)",
+      "zeile": "Zeile 3",
+      "bounding_box_ocr_eingabe": {"top_left_x": 2042, "top_left_y": 349, "bottom_right_x": 2622, "bottom_right_y": 959},
+      "beschreibung": "Schnittteil mit Markern ③ (zweifach) und ④, roten Winkelmarkierungen und roten Pfeilen zur Briefeckenspitze",
+      "sichtbare_labels": ["3", "4", "5"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_04.png",
+      "ocr_id": "img-11.jpeg",
+      "spalte": "Spalte 1 (Spitze Briefecke)",
+      "zeile": "Zeile 4",
+      "bounding_box_ocr_eingabe": {"top_left_x": 2622, "top_left_y": 276, "bottom_right_x": 3243, "bottom_right_y": 888},
+      "beschreibung": "Schnittteil mit abgeschnittener Spitze, Markierung 'NZg' entlang der neuen Kante und Marker ⑥",
+      "sichtbare_labels": ["NZg", "6"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_05.png",
+      "ocr_id": "img-13.jpeg",
+      "spalte": "Spalte 1 (Spitze Briefecke)",
+      "zeile": "Zeile 5 (Foto)",
+      "bounding_box_ocr_eingabe": {"top_left_x": 3320, "top_left_y": 190, "bottom_right_x": 3900, "bottom_right_y": 1041},
+      "beschreibung": "Stofffoto einer fertigen spitzen Briefecke (überwendlich versäuberte Nähte), diagonaler Pfeil unten rechts",
+      "sichtbare_labels": [],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_06.png",
+      "ocr_id": "img-0.jpeg",
+      "spalte": "Spalte 2 (Stumpfe Briefecke)",
+      "zeile": "Zeile 1",
+      "bounding_box_ocr_eingabe": {"top_left_x": 890, "top_left_y": 1351, "bottom_right_x": 1360, "bottom_right_y": 1988},
+      "beschreibung": "Schnittteil mit Marker ① unten und Bemaßung 'Einschlag-Breite' (senkrecht und waagerecht, oben rechts)",
+      "sichtbare_labels": ["1", "Einschlag-Breite"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_07.png",
+      "ocr_id": "img-3.jpeg",
+      "spalte": "Spalte 2 (Stumpfe Briefecke)",
+      "zeile": "Zeile 2",
+      "bounding_box_ocr_eingabe": {"top_left_x": 1397, "top_left_y": 1323, "bottom_right_x": 1899, "bottom_right_y": 1982},
+      "beschreibung": "Schnittteil mit Marker ② mittig und Bemaßung 'Einschlag-Breite' (senkrecht und waagerecht)",
+      "sichtbare_labels": ["2", "Einschlag-Breite"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_08.png",
+      "ocr_id": "img-6.jpeg",
+      "spalte": "Spalte 2 (Stumpfe Briefecke)",
+      "zeile": "Zeile 3",
+      "bounding_box_ocr_eingabe": {"top_left_x": 1985, "top_left_y": 1290, "bottom_right_x": 2499, "bottom_right_y": 2028},
+      "beschreibung": "Schnittteil mit Markern ③ (zweifach), ④, ⑤, roten Winkelmarkierungen und rotem Pfeil zur Ecke; am rechten Bildrand ist eine weitere '3'-Markierung sichtbar, die zum Nachbardiagramm (Spalte 3) gehört und am Randbeschnitt in den Ausschnitt hineinragt",
+      "sichtbare_labels": ["3", "4", "5"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_09.png",
+      "ocr_id": "img-9.jpeg",
+      "spalte": "Spalte 2 (Stumpfe Briefecke)",
+      "zeile": "Zeile 4",
+      "bounding_box_ocr_eingabe": {"top_left_x": 2589, "top_left_y": 1247, "bottom_right_x": 3182, "bottom_right_y": 2009},
+      "beschreibung": "Schnittteil mit Markierung 'NZg', Marker ⑥ und ⑦ sowie Bemaßung 'Einschlag' am rechten Rand",
+      "sichtbare_labels": ["NZg", "6", "7", "Einschlag"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_10.png",
+      "ocr_id": "img-12.jpeg",
+      "spalte": "Spalte 2 (Stumpfe Briefecke)",
+      "zeile": "Zeile 5 (Foto)",
+      "bounding_box_ocr_eingabe": {"top_left_x": 3247, "top_left_y": 1115, "bottom_right_x": 3970, "bottom_right_y": 1994},
+      "beschreibung": "Stofffoto einer fertigen stumpfen Briefecke mit eingeschlagenen Einschlagkanten (keine Naht sichtbar, nur Faltkanten), diagonaler Pfeil unten rechts",
+      "sichtbare_labels": [],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_11.png",
+      "ocr_id": "img-1.jpeg",
+      "spalte": "Spalte 3 (Gefütterte Briefecke)",
+      "zeile": "Zeile 1",
+      "bounding_box_ocr_eingabe": {"top_left_x": 907, "top_left_y": 2166, "bottom_right_x": 1401, "bottom_right_y": 2787},
+      "beschreibung": "Schnittteil mit Marker ① unten und Bemaßungen 'Einschlag-Breite' sowie 'NZg' (übereinander, oben rechts); Text 'später sichbare Einschlag-Breite' (Lesart unsicher, evtl. 'sichtbare') über der Bemaßung unten links",
+      "sichtbare_labels": ["1", "Einschlag-Breite", "NZg", "später sichbare Einschlag-Breite"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_12.png",
+      "ocr_id": "img-4.jpeg",
+      "spalte": "Spalte 3 (Gefütterte Briefecke)",
+      "zeile": "Zeile 2",
+      "bounding_box_ocr_eingabe": {"top_left_x": 1397, "top_left_y": 2163, "bottom_right_x": 1964, "bottom_right_y": 2818},
+      "beschreibung": "Schnittteil mit Marker ② mittig und Bemaßung 'Einschlag-Breite + Nahtzugabe' (senkrecht und waagerecht)",
+      "sichtbare_labels": ["2", "Einschlag-Breite + Nahtzugabe"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_13.png",
+      "ocr_id": "img-7.jpeg",
+      "spalte": "Spalte 3 (Gefütterte Briefecke)",
+      "zeile": "Zeile 3",
+      "bounding_box_ocr_eingabe": {"top_left_x": 2009, "top_left_y": 2163, "bottom_right_x": 2622, "bottom_right_y": 2864},
+      "beschreibung": "Schnittteil mit Markern ③ (zweifach), ④ (zweifach), ⑤, roten Winkelmarkierungen und rotem Pfeil zur Ecke",
+      "sichtbare_labels": ["3", "4", "5"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_14.png",
+      "ocr_id": "img-10.jpeg",
+      "spalte": "Spalte 3 (Gefütterte Briefecke)",
+      "zeile": "Zeile 4",
+      "bounding_box_ocr_eingabe": {"top_left_x": 2622, "top_left_y": 2163, "bottom_right_x": 3263, "bottom_right_y": 2882},
+      "beschreibung": "Schnittteil mit Markierung 'NZg' und Marker ⑥ an der abgewinkelten Kante",
+      "sichtbare_labels": ["NZg", "6"],
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s024_skizze_15.png",
+      "ocr_id": "img-14.jpeg",
+      "spalte": "Spalte 3 (Gefütterte Briefecke)",
+      "zeile": "Zeile 5 (Foto)",
+      "bounding_box_ocr_eingabe": {"top_left_x": 3329, "top_left_y": 2101, "bottom_right_x": 4019, "bottom_right_y": 2901},
+      "beschreibung": "Stofffoto einer fertigen gefütterten Briefecke mit Zickzacknähten; darüber die Bildunterschrift 'Die Darstellung ist hier noch ohne Futter'",
+      "sichtbare_labels": ["Die Darstellung ist hier noch ohne Futter"],
+      "bestaetigt": false
+    }
+  ]
+}

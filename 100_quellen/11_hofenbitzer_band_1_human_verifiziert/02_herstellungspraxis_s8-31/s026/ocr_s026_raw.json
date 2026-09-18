@@ -1,0 +1,397 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Einführung\n\nStandards bei Schnittkonstruktionen (6)\nEinschläge mit Reduzierungen, Nahtdiagramm\n\nStandards\nEinschläge mit Reduzierungen\n\n# Reduzierung an geraden,\nrechtwinkeligen Säumen\n\n1 Stölt eine Naht rechtwinkelig auf eine Einschlagkante, wie hier am Saum, so kann die Naht bis zur Einschlagbreite, bzw. Schnittkante verlängert werden.\n2 Da der Einschlag bzw. der Beleg an der Innenseite des Kleidungsstücks liegt, benötigt diese Innenliegende Stofffläche durch die Rundung des Körpers etwas weniger Weite. Diese Weite kann an der Saumbreite entfernt werden.\n\n# Die Reduzierung ist stoffabhängig:\n\nZ.B. kann bei weichen Wollstoffen eher\nmehr reduziert werden als bei starren\nLeinenstoffen\n\n3 Die Nahtzugaben anzeichnen und\n4 notwendige Knipse markieren (siehe Seite 28).\n\nDie Weite der Saumkante ist nun etwas\nreduziert (13,5 cm).\n\n# Nahtdiagramm\n\n☐1+2 Am Beispiel der abgebildeten\nRocksäume sind Querschnitte fotografisch und als Nahtdiagramme (Nahtbilder) abgebildet.\n\nMan kann den Verlauf der Stofflagen an\nder Fotografie nachverfolgen, entsprechend sind die Lagen im Nahtdiagramm geformt. Kurze Schwarze Linien symbolisieren die Verbindungsnähte, die U-förmige Naht (rot) ist eine Versäuberungsnaht.\n\n# Reduzierung an runden Säumen und\nausgestellten Schnittteilen\n\nDie Rundung der Saumkante trifft auch hier rechtwinkelig auf die Naht. Daher wird auch hier die Naht bis zur Einschlagbreite bzw. Saumnaht gerade verlängert.\n4 Die Saumbreite vergrößert sich nun wegen der Rundung der Saumkante. Beim Bügeln der Kante entsteht dort, je nach Breite des Saumeinschlags, viel Weite, die eingebügelt werden muss.\n5 Entsprechend kann an runden Säumen mehr Weite an den Einschlägen reduziert werden (bis maximal 0,4 cm).\n6 Die restliche Mehrweite an der Saumbreite muss nun etwas eingehalten werden (hier ca. 0,5 cm), dadurch formt sich die Saumkante rund.\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n☐1 Saumverarbeitung von Innen mit Nahtquerschnitt und Nahtdiagramm (Nahtlag)\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\n![img-7.jpeg](img-7.jpeg)\n\n![img-8.jpeg](img-8.jpeg)\n\n☐2 Saumverarbeitung eines runden gefütteten Saumes\n\n26\n\nStandards\nBelegk\n\nReduzierung\n\n1 Bei\nwenn\nschn\num\nbis\n\n2\nArm\nbei\nWe\nred\nspr\nwe\nnig\nsch\n\n3\nvon\nan\nBe",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 265,
+          "top_left_y": 1078,
+          "bottom_right_x": 653,
+          "bottom_right_y": 1617,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 261,
+          "top_left_y": 303,
+          "bottom_right_x": 694,
+          "bottom_right_y": 986,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 698,
+          "top_left_y": 999,
+          "bottom_right_x": 1111,
+          "bottom_right_y": 1682,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 702,
+          "top_left_y": 303,
+          "bottom_right_x": 1131,
+          "bottom_right_y": 953,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1323,
+          "top_left_y": 245,
+          "bottom_right_x": 1817,
+          "bottom_right_y": 1617,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 2177,
+          "top_left_y": 946,
+          "bottom_right_x": 2859,
+          "bottom_right_y": 1761,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 2177,
+          "top_left_y": 202,
+          "bottom_right_x": 2789,
+          "bottom_right_y": 916,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 3161,
+          "top_left_y": 1697,
+          "bottom_right_x": 3639,
+          "bottom_right_y": 2732,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-8.jpeg",
+          "top_left_x": 3149,
+          "top_left_y": 141,
+          "bottom_right_x": 3847,
+          "bottom_right_y": 554,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 114,
+          "top_left_y": 2297,
+          "bottom_right_x": 167,
+          "bottom_right_y": 2594,
+          "content": "Einführung",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 61,
+          "top_left_y": 965,
+          "bottom_right_x": 208,
+          "bottom_right_y": 2159,
+          "content": "Standards bei Schnittkonstruktionen (6)\nEinschläge mit Reduzierungen, Nahtdiagramm",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 339,
+          "top_left_y": 2512,
+          "bottom_right_x": 800,
+          "bottom_right_y": 2637,
+          "content": "Standards\nEinschläge mit Reduzierungen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 323,
+          "top_left_y": 1970,
+          "bottom_right_x": 400,
+          "bottom_right_y": 2405,
+          "content": "# Reduzierung an geraden,\nrechtwinkeligen Säumen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 412,
+          "top_left_y": 1746,
+          "bottom_right_x": 833,
+          "bottom_right_y": 2454,
+          "content": "1 Stölt eine Naht rechtwinkelig auf eine Einschlagkante, wie hier am Saum, so kann die Naht bis zur Einschlagbreite, bzw. Schnittkante verlängert werden.\n2 Da der Einschlag bzw. der Beleg an der Innenseite des Kleidungsstücks liegt, benötigt diese Innenliegende Stofffläche durch die Rundung des Körpers etwas weniger Weite. Diese Weite kann an der Saumbreite entfernt werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 849,
+          "top_left_y": 1868,
+          "bottom_right_x": 898,
+          "bottom_right_y": 2454,
+          "content": "# Die Reduzierung ist stoffabhängig:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 911,
+          "top_left_y": 1777,
+          "bottom_right_x": 1041,
+          "bottom_right_y": 2466,
+          "content": "Z.B. kann bei weichen Wollstoffen eher\nmehr reduziert werden als bei starren\nLeinenstoffen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1058,
+          "top_left_y": 1777,
+          "bottom_right_x": 1213,
+          "bottom_right_y": 2493,
+          "content": "3 Die Nahtzugaben anzeichnen und\n4 notwendige Knipse markieren (siehe Seite 28).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1233,
+          "top_left_y": 1780,
+          "bottom_right_x": 1323,
+          "bottom_right_y": 2506,
+          "content": "Die Weite der Saumkante ist nun etwas\nreduziert (13,5 cm).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1372,
+          "top_left_y": 2224,
+          "bottom_right_x": 1421,
+          "bottom_right_y": 2503,
+          "content": "# Nahtdiagramm",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1438,
+          "top_left_y": 1792,
+          "bottom_right_x": 1621,
+          "bottom_right_y": 2533,
+          "content": "☐1+2 Am Beispiel der abgebildeten\nRocksäume sind Querschnitte fotografisch und als Nahtdiagramme (Nahtbilder) abgebildet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1642,
+          "top_left_y": 1795,
+          "bottom_right_x": 1928,
+          "bottom_right_y": 2564,
+          "content": "Man kann den Verlauf der Stofflagen an\nder Fotografie nachverfolgen, entsprechend sind die Lagen im Nahtdiagramm geformt. Kurze Schwarze Linien symbolisieren die Verbindungsnähte, die U-förmige Naht (rot) ist eine Versäuberungsnaht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2009,
+          "top_left_y": 1862,
+          "bottom_right_x": 2103,
+          "bottom_right_y": 2573,
+          "content": "# Reduzierung an runden Säumen und\nausgestellten Schnittteilen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2124,
+          "top_left_y": 1823,
+          "bottom_right_x": 3100,
+          "bottom_right_y": 2683,
+          "content": "Die Rundung der Saumkante trifft auch hier rechtwinkelig auf die Naht. Daher wird auch hier die Naht bis zur Einschlagbreite bzw. Saumnaht gerade verlängert.\n4 Die Saumbreite vergrößert sich nun wegen der Rundung der Saumkante. Beim Bügeln der Kante entsteht dort, je nach Breite des Saumeinschlags, viel Weite, die eingebügelt werden muss.\n5 Entsprechend kann an runden Säumen mehr Weite an den Einschlägen reduziert werden (bis maximal 0,4 cm).\n6 Die restliche Mehrweite an der Saumbreite muss nun etwas eingehalten werden (hier ca. 0,5 cm), dadurch formt sich die Saumkante rund.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 265,
+          "top_left_y": 1078,
+          "bottom_right_x": 653,
+          "bottom_right_y": 1617,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 261,
+          "top_left_y": 303,
+          "bottom_right_x": 694,
+          "bottom_right_y": 986,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 698,
+          "top_left_y": 999,
+          "bottom_right_x": 1111,
+          "bottom_right_y": 1682,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 702,
+          "top_left_y": 303,
+          "bottom_right_x": 1131,
+          "bottom_right_y": 953,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1323,
+          "top_left_y": 245,
+          "bottom_right_x": 1817,
+          "bottom_right_y": 1617,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 1805,
+          "top_left_y": 245,
+          "bottom_right_x": 1883,
+          "bottom_right_y": 1636,
+          "content": "☐1 Saumverarbeitung von Innen mit Nahtquerschnitt und Nahtdiagramm (Nahtlag)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2177,
+          "top_left_y": 946,
+          "bottom_right_x": 2859,
+          "bottom_right_y": 1761,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 2177,
+          "top_left_y": 202,
+          "bottom_right_x": 2789,
+          "bottom_right_y": 916,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 3161,
+          "top_left_y": 1697,
+          "bottom_right_x": 3639,
+          "bottom_right_y": 2732,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        },
+        {
+          "top_left_x": 3149,
+          "top_left_y": 141,
+          "bottom_right_x": 3847,
+          "bottom_right_y": 554,
+          "content": "![img-8.jpeg](img-8.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-8.jpeg"
+        },
+        {
+          "top_left_x": 3668,
+          "top_left_y": 1728,
+          "bottom_right_x": 3774,
+          "bottom_right_y": 2748,
+          "content": "☐2 Saumverarbeitung eines runden gefütteten Saumes",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3696,
+          "top_left_y": 2876,
+          "bottom_right_x": 3757,
+          "bottom_right_y": 2950,
+          "content": "26",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 167,
+          "top_left_y": 3,
+          "bottom_right_x": 290,
+          "bottom_right_y": 199,
+          "content": "Standards\nBelegk",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1450,
+          "top_left_y": 3,
+          "bottom_right_x": 1495,
+          "bottom_right_y": 98,
+          "content": "Reduzierung",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1515,
+          "top_left_y": 3,
+          "bottom_right_x": 1744,
+          "bottom_right_y": 98,
+          "content": "1 Bei\nwenn\nschn\num\nbis",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1760,
+          "top_left_y": 3,
+          "bottom_right_x": 2189,
+          "bottom_right_y": 98,
+          "content": "2\nArm\nbei\nWe\nred\nspr\nwe\nnig\nsch",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2242,
+          "top_left_y": 3,
+          "bottom_right_x": 2418,
+          "bottom_right_y": 49,
+          "content": "3\nvon\nan\nBe",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3987917
+  }
+}

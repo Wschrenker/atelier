@@ -1,0 +1,35 @@
+{
+  "seite": "s030",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s30.jpg (Querformat, EXIF-Orientation 6); kein Zuschnitt vor der OCR nötig",
+  "hinweis": "Bounding Boxes beziehen sich auf die Pixelorientierung des unveränderten Originalbilds (Querformat, EXIF-Orientation 6). Die gespeicherten PNG-Ausschnitte wurden nach dem Zuschnitt entsprechend der EXIF-Orientierung aufrecht gedreht.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s030_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2205,
+        "top_left_y": 931,
+        "bottom_right_x": 3067,
+        "bottom_right_y": 1562
+      },
+      "beschreibung": "Zwei kleine Schnittteil-Skizzen mit quer gestelltem Text: oben ein Teil mit gerundeter Kante, Labels 'FL' (Pfeil), 'hM-Stb oder hM' (mit Klammer); darunter ein Teil mit ausgeschnittener Rundung, Labels 'hBe', '1× OSt+El', 'G 38', 'hM'. Rechts daneben separat eine kurze gestrichelte Linie mit Klammer-Label 'hM'.",
+      "sichtbare_labels": ["FL", "hM-Stb oder hM", "hBe", "1× OSt+El", "G 38", "hM"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s030_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1634,
+        "top_left_y": 233,
+        "bottom_right_x": 3802,
+        "bottom_right_y": 910
+      },
+      "beschreibung": "Großes Schnittteil (Rückteil-Silhouette) mit Armloch oben, Label 'hÄP' in Oval, Dehnzeichen '××××' an der Seitennaht, Label 'SN', Stempel 'Modell 01 / sRT / 2×-p OSt / G 38'. Der Stempeltext weicht vom bisherigen Digitalisat ab, das hier 'VT' statt 'sRT' vermutet (dort als angeschnitten markiert) — am Original zu bestätigen.",
+      "sichtbare_labels": ["hÄP", "××××", "SN", "Modell 01", "sRT", "2×-p OSt", "G 38"],
+      "zugehoerige_ocr_bildunterschrift": null,
+      "bestaetigt": false
+    }
+  ]
+}

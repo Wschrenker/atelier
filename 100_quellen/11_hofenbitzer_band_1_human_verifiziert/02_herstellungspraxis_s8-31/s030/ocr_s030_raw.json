@@ -1,0 +1,351 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Einführung\n\nStandards bei Schnittkonstruktionen (10)\n\nBeschriftungen und Symbole\n\n# Beschriftungen und Zuschneidenformationen\n\nDie Beschriftung der einzelnen Schnittteile dient der Orientierung und erklärt eindeutig dessen Verwendung. Jede Schnittschablone wird nur ein Mal erstellt, kann für ein Modell aber mehrfach - auch gespiegelt - hergestellt werden.\n\n- Der Modellname benennt den Namen des Modells. Es kann auch die Kollektion genannt werden. Auf jedem einzelnen Schnittteil muss der Modellname stehen - alle Schnittteile eines Modells haben denselben Modellnamen.\n- Der Teilename benennt das Schnittteil. Jedes Schnittteil muss einen eindeutigen Namen besitzen. Ein Teilnamen darf nicht zweimal bei einem Modell vorkommen.\n\n- Zuschnittsinformation:\n- 2x OSt dieses Schnittteil wird zwei Mal identisch aus Oberstoff zugeschnitten. Dies kann z.B. eine symmetrische aufgesetzte Tasche oder ein symmetrischer Riegel sein.\n- 2x-p Fu Von diesem Schnittteil werden \"zwei Teile paarig\", d.h. spiegelsymmetrisch, in diesem Fall aus Futter zugeschnitten. Liegt der Stoff doubliert (doppellagig), wird das Schnittteil 1x als Paar zugeschnitten - d.h., man schneidet zwei Teile zu, die spiegelsymmetrisch sind.\n\nBei industriellen Schnitten entfällt diese Information, da es für symmetrische Schnittteile jeweils ein linkes und ein rechtes Schnittteil gibt. In der industriellen Serienfertigung kann nicht doubliert zugeschnitten werden.\n\n- 2x-p OSt + EI Von diesem Schnittteil werden zwei spiegelsymmetrische Teile zugeschnitten, die komplett mit Einlage fixiert werden (Vollfixierung).\n- Die (Konfektions-)Größe gibt an, welchen Personen das Kleidungsstück optimal passen wird. Den Konstruktionsmaßen für die Schnitte liegen Durchschnittsmaße zugrunde, die durch Reihenmessungen ermittelt wurden. Hiervon werden ggf. größere und kleinere Größen „gradient“, die dann entsprechend auf den Schnittteilen ausgezeichnet werden.\n- Bei individuellen Schnitten wird der Name der Kundin mit dem Datum (z.B. 'Eva Muster, 12.02.2024') notiert. Dies gibt Auskunft darüber, wem der Schnitt zu welchem Zeitpunkt passt.\n- Fadenlauf (FL) Der Pfeil auf den Schnittschablonen gibt die Richtung vor, wie das Schnittteil für den Zuschnitt auf dem Stoff ausgerichtet werden soll. In der Regel ist dies die Richtung des Kettfadenverlaufs bzw. mit dem Musterverlauf oder dem „Strich“ - also parallel zur Webkante.\n- vM oder hM-Stb Für den Produktionschnitt wird die Schnittfläche an der jeweiligen Linie gespiegelt. Dies zeigt die Klammer mit Pfeilen. Beim Einzelzuschnitt wird bei gedoppelter Stofflage dort das Schnittbild im Stoffbruch Stb zugeschnitten.\n\nBei industriellem Zuschnitt wird das entsprechende Schnittteil immer gespiegelt dargestellt und zugeschnitten.\n\n# Fertigungsinformationen:\n\n- Dressierzeichen geben an, wo und wie die flache Stofffläche vor dem Nähen durch Bügeln zu formen ist:\n- Beim Dehnen werden z.B. Nahtzugaben, Nähte oder Bereiche innerhalb der Zuschnitträche ausgedehnt. Hierdurch erhält der Stoff Länge oder Weite - je nach Dehnrichtung.\n- Beim Einhalten wird der Stoff gestaucht bzw. kurzgehalten. Die Weite oder Länge wird reduziert.\n- Kräuselzeichen zeigen an, in welchem Bereich die Mehrweite einer Naht durch eine geeignete Methode in Kleine, unregelmäßige Fältchen gekräuselt wird.\n\nAlle hier genannten Namen und Abkürzungen sind Beispiele. Weder für Begriffe noch für Abkürzungen existieren Normen. Sie sind teilweise regional und können von Betrieb zu Betrieb sehr unterschiedlich sein. Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich\n\n# Beispiele für Modellnamen:\n\n[tbl-0.md](tbl-0.md)\n\n# Beispiele für Schnittteilenamen:\n\n[tbl-1.md](tbl-1.md)\n\n# Beispiele für Anzahl und Art des Zuschnitts:\n\n2x OSt 2 identische Teile aus Oberstoff\n2x Fu 2 identische Teile aus Futter\n4x OSt2 4 identische Teile aus Oberstoff Nr. 2\n2x-p OSt 2 spiegelsymmetrisch zugeschnittene Teile aus Oberstoff\n2x-p AFu 2 spiegelsymmetrisch zugeschnittene Teile aus Ärmellfutter\n2x-p OSt+EI 2 spiegelsymmetrisch zugeschnittene Teile aus Oberstoff. Die Einlage wird identisch zugeschnitten und der Oberstoff hiermit fixiert.\n\n# Beispiele für Größenangaben:\n\nG 38 DOB-Größe 38\nG XL Unisex-Größe XL\n\nEva Muster 12.02.2024 Individueller Schnitt, passend für Eva Muster mit den Maßen vom 12.02.2024\n\n![img-0.jpeg](img-0.jpeg)\n\nXXX\n\nSSS\n\nStandard Schnittteil\n\nPunkt- und\n\nVordere\nNM hinterer\nSM Seitenfeil\nBrLi Brustlester\nUT Übertricht\nUT Untert\nRV Reißver\n\nVerwend\n\nSämtliche Schnittstellen auf seit zu ist die\nModellna\nDatum sin\nDie Num\nnen Blick\nJedes Sch\ngeben wo\nDie Mate\nlige Schn\nge fixier\nstoffe, f\nggf. mit\nschieden\n\n![img-1.jpeg](img-1.jpeg)\n\n30",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 2205,
+          "top_left_y": 931,
+          "bottom_right_x": 3067,
+          "bottom_right_y": 1562,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1634,
+          "top_left_y": 233,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 910,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Modell 01 | Trenchcoat 02 | 22-02-24-Luna  |\n| --- | --- | --- |\n|  Modell 2023-02-18 | Kleid Nr. 3 | FS-25-04-XV3  |\n|  Modell 2023-04-Marie | Rock-Sud |   |\n|  Modell Luna | Bluse-04-Bella |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  VT | Vordenteil | Tb | Taschenfutter | hTb | hint. Taschenbeutel  |\n| --- | --- | --- | --- | --- | --- |\n|  RT | Rückteil | BrLe | Brustlester | Tb1 | Taschenbeutel 1  |\n|  ST | Seitenfeil | hBe | hinterer Beleg | vST | vorderes Mittelteil  |\n|  Pa | Passe | oKr | Oberkragen | oVT | settliches Vordenteil  |\n|  Bu | Bund | uA | Unterärmel | uRT | unteres Rückspiel  |\n|  TSp | Taschenspiegel | SaBe | Saumbelag | mVT | mittleres Vordenteil  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 212,
+          "top_left_y": 2316,
+          "bottom_right_x": 265,
+          "bottom_right_y": 2591,
+          "content": "Einführung",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 114,
+          "top_left_y": 1127,
+          "bottom_right_x": 180,
+          "bottom_right_y": 2184,
+          "content": "Standards bei Schnittkonstruktionen (10)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 180,
+          "top_left_y": 1501,
+          "bottom_right_x": 294,
+          "bottom_right_y": 2184,
+          "content": "Beschriftungen und Symbole",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 392,
+          "top_left_y": 1669,
+          "bottom_right_x": 425,
+          "bottom_right_y": 2417,
+          "content": "# Beschriftungen und Zuschneidenformationen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 429,
+          "top_left_y": 1495,
+          "bottom_right_x": 600,
+          "bottom_right_y": 2441,
+          "content": "Die Beschriftung der einzelnen Schnittteile dient der Orientierung und erklärt eindeutig dessen Verwendung. Jede Schnittschablone wird nur ein Mal erstellt, kann für ein Modell aber mehrfach - auch gespiegelt - hergestellt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 600,
+          "top_left_y": 1501,
+          "bottom_right_x": 911,
+          "bottom_right_y": 2466,
+          "content": "- Der Modellname benennt den Namen des Modells. Es kann auch die Kollektion genannt werden. Auf jedem einzelnen Schnittteil muss der Modellname stehen - alle Schnittteile eines Modells haben denselben Modellnamen.\n- Der Teilename benennt das Schnittteil. Jedes Schnittteil muss einen eindeutigen Namen besitzen. Ein Teilnamen darf nicht zweimal bei einem Modell vorkommen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 931,
+          "top_left_y": 1516,
+          "bottom_right_x": 1335,
+          "bottom_right_y": 2493,
+          "content": "- Zuschnittsinformation:\n- 2x OSt dieses Schnittteil wird zwei Mal identisch aus Oberstoff zugeschnitten. Dies kann z.B. eine symmetrische aufgesetzte Tasche oder ein symmetrischer Riegel sein.\n- 2x-p Fu Von diesem Schnittteil werden \"zwei Teile paarig\", d.h. spiegelsymmetrisch, in diesem Fall aus Futter zugeschnitten. Liegt der Stoff doubliert (doppellagig), wird das Schnittteil 1x als Paar zugeschnitten - d.h., man schneidet zwei Teile zu, die spiegelsymmetrisch sind.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1352,
+          "top_left_y": 1532,
+          "bottom_right_x": 1532,
+          "bottom_right_y": 2509,
+          "content": "Bei industriellen Schnitten entfällt diese Information, da es für symmetrische Schnittteile jeweils ein linkes und ein rechtes Schnittteil gibt. In der industriellen Serienfertigung kann nicht doubliert zugeschnitten werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1548,
+          "top_left_y": 1532,
+          "bottom_right_x": 2700,
+          "bottom_right_y": 2665,
+          "content": "- 2x-p OSt + EI Von diesem Schnittteil werden zwei spiegelsymmetrische Teile zugeschnitten, die komplett mit Einlage fixiert werden (Vollfixierung).\n- Die (Konfektions-)Größe gibt an, welchen Personen das Kleidungsstück optimal passen wird. Den Konstruktionsmaßen für die Schnitte liegen Durchschnittsmaße zugrunde, die durch Reihenmessungen ermittelt wurden. Hiervon werden ggf. größere und kleinere Größen „gradient“, die dann entsprechend auf den Schnittteilen ausgezeichnet werden.\n- Bei individuellen Schnitten wird der Name der Kundin mit dem Datum (z.B. 'Eva Muster, 12.02.2024') notiert. Dies gibt Auskunft darüber, wem der Schnitt zu welchem Zeitpunkt passt.\n- Fadenlauf (FL) Der Pfeil auf den Schnittschablonen gibt die Richtung vor, wie das Schnittteil für den Zuschnitt auf dem Stoff ausgerichtet werden soll. In der Regel ist dies die Richtung des Kettfadenverlaufs bzw. mit dem Musterverlauf oder dem „Strich“ - also parallel zur Webkante.\n- vM oder hM-Stb Für den Produktionschnitt wird die Schnittfläche an der jeweiligen Linie gespiegelt. Dies zeigt die Klammer mit Pfeilen. Beim Einzelzuschnitt wird bei gedoppelter Stofflage dort das Schnittbild im Stoffbruch Stb zugeschnitten.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2716,
+          "top_left_y": 1599,
+          "bottom_right_x": 2859,
+          "bottom_right_y": 2665,
+          "content": "Bei industriellem Zuschnitt wird das entsprechende Schnittteil immer gespiegelt dargestellt und zugeschnitten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2871,
+          "top_left_y": 2221,
+          "bottom_right_x": 2945,
+          "bottom_right_y": 2708,
+          "content": "# Fertigungsinformationen:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2953,
+          "top_left_y": 1611,
+          "bottom_right_x": 3676,
+          "bottom_right_y": 2784,
+          "content": "- Dressierzeichen geben an, wo und wie die flache Stofffläche vor dem Nähen durch Bügeln zu formen ist:\n- Beim Dehnen werden z.B. Nahtzugaben, Nähte oder Bereiche innerhalb der Zuschnitträche ausgedehnt. Hierdurch erhält der Stoff Länge oder Weite - je nach Dehnrichtung.\n- Beim Einhalten wird der Stoff gestaucht bzw. kurzgehalten. Die Weite oder Länge wird reduziert.\n- Kräuselzeichen zeigen an, in welchem Bereich die Mehrweite einer Naht durch eine geeignete Methode in Kleine, unregelmäßige Fältchen gekräuselt wird.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 298,
+          "top_left_y": 395,
+          "bottom_right_x": 613,
+          "bottom_right_y": 1440,
+          "content": "Alle hier genannten Namen und Abkürzungen sind Beispiele. Weder für Begriffe noch für Abkürzungen existieren Normen. Sie sind teilweise regional und können von Betrieb zu Betrieb sehr unterschiedlich sein. Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich sein? Wie sehr unterschiedlich",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 686,
+          "top_left_y": 968,
+          "bottom_right_x": 707,
+          "bottom_right_y": 1446,
+          "content": "# Beispiele für Modellnamen:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 711,
+          "top_left_y": 484,
+          "bottom_right_x": 845,
+          "bottom_right_y": 1446,
+          "content": "|  Modell 01 | Trenchcoat 02 | 22-02-24-Luna  |\n| --- | --- | --- |\n|  Modell 2023-02-18 | Kleid Nr. 3 | FS-25-04-XV3  |\n|  Modell 2023-04-Marie | Rock-Sud |   |\n|  Modell Luna | Bluse-04-Bella |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 886,
+          "top_left_y": 876,
+          "bottom_right_x": 923,
+          "bottom_right_y": 1452,
+          "content": "# Beispiele für Schnittteilenamen:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 923,
+          "top_left_y": 371,
+          "bottom_right_x": 1152,
+          "bottom_right_y": 1455,
+          "content": "|  VT | Vordenteil | Tb | Taschenfutter | hTb | hint. Taschenbeutel  |\n| --- | --- | --- | --- | --- | --- |\n|  RT | Rückteil | BrLe | Brustlester | Tb1 | Taschenbeutel 1  |\n|  ST | Seitenfeil | hBe | hinterer Beleg | vST | vorderes Mittelteil  |\n|  Pa | Passe | oKr | Oberkragen | oVT | settliches Vordenteil  |\n|  Bu | Bund | uA | Unterärmel | uRT | unteres Rückspiel  |\n|  TSp | Taschenspiegel | SaBe | Saumbelag | mVT | mittleres Vordenteil  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1201,
+          "top_left_y": 662,
+          "bottom_right_x": 1246,
+          "bottom_right_y": 1467,
+          "content": "# Beispiele für Anzahl und Art des Zuschnitts:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1250,
+          "top_left_y": 429,
+          "bottom_right_x": 1625,
+          "bottom_right_y": 1470,
+          "content": "2x OSt 2 identische Teile aus Oberstoff\n2x Fu 2 identische Teile aus Futter\n4x OSt2 4 identische Teile aus Oberstoff Nr. 2\n2x-p OSt 2 spiegelsymmetrisch zugeschnittene Teile aus Oberstoff\n2x-p AFu 2 spiegelsymmetrisch zugeschnittene Teile aus Ärmellfutter\n2x-p OSt+EI 2 spiegelsymmetrisch zugeschnittene Teile aus Oberstoff. Die Einlage wird identisch zugeschnitten und der Oberstoff hiermit fixiert.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1691,
+          "top_left_y": 931,
+          "bottom_right_x": 1740,
+          "bottom_right_y": 1489,
+          "content": "# Beispiele für Größenangaben:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1748,
+          "top_left_y": 1041,
+          "bottom_right_x": 1826,
+          "bottom_right_y": 1486,
+          "content": "G 38 DOB-Größe 38\nG XL Unisex-Größe XL",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1846,
+          "top_left_y": 943,
+          "bottom_right_x": 1981,
+          "bottom_right_y": 1486,
+          "content": "Eva Muster 12.02.2024 Individueller Schnitt, passend für Eva Muster mit den Maßen vom 12.02.2024",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2205,
+          "top_left_y": 931,
+          "bottom_right_x": 3067,
+          "bottom_right_y": 1562,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 3182,
+          "top_left_y": 1345,
+          "bottom_right_x": 3263,
+          "bottom_right_y": 1553,
+          "content": "XXX",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3586,
+          "top_left_y": 1375,
+          "bottom_right_x": 3712,
+          "bottom_right_y": 1565,
+          "content": "SSS",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 143,
+          "top_left_y": 3,
+          "bottom_right_x": 270,
+          "bottom_right_y": 242,
+          "content": "Standard Schnittteil",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 368,
+          "top_left_y": 3,
+          "bottom_right_x": 408,
+          "bottom_right_y": 217,
+          "content": "Punkt- und",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 417,
+          "top_left_y": 3,
+          "bottom_right_x": 645,
+          "bottom_right_y": 211,
+          "content": "Vordere\nNM hinterer\nSM Seitenfeil\nBrLi Brustlester\nUT Übertricht\nUT Untert\nRV Reißver",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 743,
+          "top_left_y": 3,
+          "bottom_right_x": 784,
+          "bottom_right_y": 196,
+          "content": "Verwend",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 805,
+          "top_left_y": 3,
+          "bottom_right_x": 1576,
+          "bottom_right_y": 199,
+          "content": "Sämtliche Schnittstellen auf seit zu ist die\nModellna\nDatum sin\nDie Num\nnen Blick\nJedes Sch\ngeben wo\nDie Mate\nlige Schn\nge fixier\nstoffe, f\nggf. mit\nschieden",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1634,
+          "top_left_y": 233,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 910,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 3569,
+          "top_left_y": 2913,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2983,
+          "content": "30",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4159977
+  }
+}

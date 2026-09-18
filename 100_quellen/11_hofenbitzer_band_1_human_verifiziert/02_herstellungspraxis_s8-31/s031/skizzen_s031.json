@@ -1,0 +1,13 @@
+{
+  "quelle": "s31.jpg (Originalbild, EXIF-Orientierung 6, unrotiert wie es als OCR-Eingabe diente), 4080x3060px in dieser Pixelorientierung",
+  "hinweis": "Pixelkoordinaten der Box beziehen sich auf die unrotierte OCR-Eingabe. Der gespeicherte Ausschnitt wurde danach entsprechend der EXIF-Orientierung 6 um 90 Grad im Uhrzeigersinn gedreht, um aufrecht zu stehen.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s031_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "box_unrotiert": [698, 432, 1376, 1032],
+      "beschreibung": "Technische Skizze eines taillierten Blazers/Jacketts (Modell \"Toscana 035\" laut Schnittteilliste) oben rechts auf der Seite, neben dem Abschnitt \"Lagerung von Schnitten\". Zweireihig wirkender Verschluss mit drei Knöpfen, Reverskragen mit sichtbarem Untertritt/Besatz, paspelierte Taschen schräg im Vorderteil, seitliche Teilungsnaht sichtbar.",
+      "labels_geprueft": false
+    }
+  ]
+}

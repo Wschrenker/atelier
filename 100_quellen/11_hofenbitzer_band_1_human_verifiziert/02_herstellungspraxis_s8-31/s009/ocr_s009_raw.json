@@ -1,0 +1,362 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "wen.\nn, Li.\nbe-\nFahr-\nmutig\nicke\nrma-\neite\nvon\n\nIn-\n\nn-\ner\nr\ne\n\nAbkürzungen und Symbole\n\nSystematik, Eigenschaften, Beträge, Werte, Operanden, Aktionen\n\n# Systematik der Abkürzungen\n\n- Die Systematik soll es ermöglichen, einfache und verständliche neue Abkürzungskombinationen selber zusammen zu stellen.\n- Die Abkürzungen werden gelesen, wie man die Begriffskombinationen spricht.\n- Bei Abkürzungskombinationen werden die Kurzzeichen ohne Zwischenraum oder Punkt verbunden.\n- Doppelte Bedeutungen sind sehr selten und lassen sich durch den Zusammenhang klären: ALT = Armlochtiefe, TB = Taschenbreite, Tb = Taschenbeutel. Abkürzungen für Beträge und Werte (z.B. T = Tiefe) stehen immer am Ende einer Abkürzung.\n- Kombinationen mit ausgeschriebenen Begriffen können durch einen Bindestrich getrennt sein, z.B. Kr-Steg = „Kragensteg“.\n- Ein Bindestrich ersetzt auch eine Präposition oder modale Konjugation, z.B. vM-N = vordere Mitte als Naht oder 2x-p OSt = Zuschnitt von zwei Schnittteilen paarig (spiegelsymmetrisch) aus Oberstoff.\n\n- Richtungen, Positionen und Eigenschaften werden durch Kleinbuchstaben symbolisiert, der immer am Anfang einer Abkürzungskombination steht. Ausnahme: \"Geschlossen\" und \"offen\", hier werden zwei Kleinbuchstaben verwendet: z.B. geW = geschlossene Weite\n- (Mess-)Beträge und Werte werden durch einen Großbuchstaben symbolisiert (außer \"Radius\" = r, weil mathematisch) und stehen immer am Ende einer Abkürzungskombination.\n- Schnitttechnische Begriffe werden mit einem Großbuchstaben (N = Naht) oder mit zwei Großbuchstaben (OT = Oberteil) oder mit einem Großbuchstaben plus einem oder zwei Kleinbuchstaben (Stb = Stoffbruch) symbolisiert.\n- Körperbereiche werden mit einem Großbuchstaben plus einem Kleinbuchstaben symbolisiert (z.B. Hl = Halsloch).\n\nEigenschaften\n\nRichtungen und Positionen\n\n[tbl-0.md](tbl-0.md)\n\nBeträge und Werte\n\n[tbl-1.md](tbl-1.md)\n\nOperanden\n\n[tbl-2.md](tbl-2.md)\n\nAktionen\n\n[tbl-3.md](tbl-3.md)\n\n# Weitere wichtige Symbole und Abkürzungen sind auf Seite 30 und ab der Seite 507 abgedruckt.\n\n# Einige wichtige Symbole\n\n99 Seitenverweise auf Grundschnitte, Details und Anleitungen\n\nNummerierung der Konstruktionsreihenfolge und Zuordnung der Beschreibungen im Text. Die Punkte sind meistens Blau, in anderen Farben symbolisieren sie Alternativen und Varianten.\n\n46 Nummerierung von Varianten (Ärmel, Abnäher usw.)\n\nHinweis zur besonderen Beachtung\n\nAnlagepunkt\n\nZirkelpunkt, Drehpunkt\n\nHier wird für eine weitere Behandlung eingeschnitten.\n\nDas Zeichen für einen rechten Winkel (90°).\n\n# Fertigungsinformationen\n\nZuschnittzeichen geben an, wie das gekennzeichnete Produktionsschnittteil zugeschnitten wird.\n\n- Der Zuschnitt erfolgt an der hinteren Mitte (hM) gespiegelt (Symmetrielinie), also ohne Naht (bzw. für den Einzelzuschnitt „im Stoffbruch“)\n\nDressierzeichen geben an, wo und wie die flache Stofffläche vor dem Nähen durch Bügeln dauerhaft zu formen ist:\n\n- Beim Dehnen werden z.B. Nahtzugaben, Nähte oder Bereiche innerhalb der Zuschnittfläche ausgedehnt. Hierdurch erhält der Stoff Länge oder Weite - je nach Dehnrichtung.\n\n- Beim Einhalten wird der Stoff gestaucht bzw. kurzgehalten. Die Weite oder Länge wird reduziert.\n\nKräuselzeichen zeigen an, in welchem Bereich die Mehrweite einer Naht durch eine geeignete Methode in kleine, unregelmäßige Fältchen gekräuselt wird.",
+      "images": [],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  a | außen/äußere/r/s  |\n| --- | --- |\n|  g | gemessen/e / r  |\n|  h | hinten, hintere/r/s  |\n|  i | innen/innere/r/s  |\n|  l | links, linke/r/s  |\n|  m | mittig, mittlere/r/s  |\n|  o | oben, obere/r/s  |\n|  p | paarig, (spiegel-)symmetrisch  |\n|  r | rechts, rechte/r/s  |\n|  s | seitlich, seitliche/r/s  |\n|  t | tiefste/r/s  |\n|  u | unten, untere/s/r  |\n|  v | vorne, vordere/r/s  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  ...A | Abstand  |\n| --- | --- |\n|  α | Alpha = Gesäßwinkel  |\n|  B | Breite  |\n|  D | Durchmesser  |\n|  F | Faktor (mathematisch)  |\n|  H | Höhe  |\n|  I | Inhalt  |\n|  L | Länge  |\n|  r... | Radius (mathematisch)  |\n|  T | Tiefe  |\n|  U | Umfang  |\n|  W | Weite  |\n|  Wi | Winkel  |\n|  Z | (An-)Zahl  |\n|  Σ | (Sigma) Summe  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  + | plus  |\n| --- | --- |\n|  - | minus  |\n|  : | geteilt durch  |\n|  . | mal in Berechnungen  |\n|  × | mal im Text  |\n|  = | ist gleich  |\n|  ≠ | ungleich  |\n|   | entspricht  |\n|  < | kleiner  |\n|  > | größer  |\n|  % | Prozent  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  auf | aufdrehen, öffnen, sperren  |\n| --- | --- |\n|  üb | übertragen  |\n|  me | messen  |\n|  zu | zudrehen, schließen, kneifen  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 580,
+          "bottom_right_x": 101,
+          "bottom_right_y": 952,
+          "content": "wen.\nn, Li.\nbe-\nFahr-\nmutig\nicke\nrma-\neite\nvon",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1017,
+          "bottom_right_x": 58,
+          "bottom_right_y": 1062,
+          "content": "In-",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1242,
+          "bottom_right_x": 31,
+          "bottom_right_y": 1421,
+          "content": "n-\ner\nr\ne",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 435,
+          "top_left_y": 82,
+          "bottom_right_x": 1130,
+          "bottom_right_y": 135,
+          "content": "Abkürzungen und Symbole",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 435,
+          "top_left_y": 135,
+          "bottom_right_x": 2074,
+          "bottom_right_y": 192,
+          "content": "Systematik, Eigenschaften, Beträge, Werte, Operanden, Aktionen",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 435,
+          "top_left_y": 290,
+          "bottom_right_x": 928,
+          "bottom_right_y": 327,
+          "content": "# Systematik der Abkürzungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 374,
+          "top_left_y": 359,
+          "bottom_right_x": 1434,
+          "bottom_right_y": 1193,
+          "content": "- Die Systematik soll es ermöglichen, einfache und verständliche neue Abkürzungskombinationen selber zusammen zu stellen.\n- Die Abkürzungen werden gelesen, wie man die Begriffskombinationen spricht.\n- Bei Abkürzungskombinationen werden die Kurzzeichen ohne Zwischenraum oder Punkt verbunden.\n- Doppelte Bedeutungen sind sehr selten und lassen sich durch den Zusammenhang klären: ALT = Armlochtiefe, TB = Taschenbreite, Tb = Taschenbeutel. Abkürzungen für Beträge und Werte (z.B. T = Tiefe) stehen immer am Ende einer Abkürzung.\n- Kombinationen mit ausgeschriebenen Begriffen können durch einen Bindestrich getrennt sein, z.B. Kr-Steg = „Kragensteg“.\n- Ein Bindestrich ersetzt auch eine Präposition oder modale Konjugation, z.B. vM-N = vordere Mitte als Naht oder 2x-p OSt = Zuschnitt von zwei Schnittteilen paarig (spiegelsymmetrisch) aus Oberstoff.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1476,
+          "top_left_y": 335,
+          "bottom_right_x": 2545,
+          "bottom_right_y": 992,
+          "content": "- Richtungen, Positionen und Eigenschaften werden durch Kleinbuchstaben symbolisiert, der immer am Anfang einer Abkürzungskombination steht. Ausnahme: \"Geschlossen\" und \"offen\", hier werden zwei Kleinbuchstaben verwendet: z.B. geW = geschlossene Weite\n- (Mess-)Beträge und Werte werden durch einen Großbuchstaben symbolisiert (außer \"Radius\" = r, weil mathematisch) und stehen immer am Ende einer Abkürzungskombination.\n- Schnitttechnische Begriffe werden mit einem Großbuchstaben (N = Naht) oder mit zwei Großbuchstaben (OT = Oberteil) oder mit einem Großbuchstaben plus einem oder zwei Kleinbuchstaben (Stb = Stoffbruch) symbolisiert.\n- Körperbereiche werden mit einem Großbuchstaben plus einem Kleinbuchstaben symbolisiert (z.B. Hl = Halsloch).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 358,
+          "top_left_y": 1319,
+          "bottom_right_x": 637,
+          "bottom_right_y": 1360,
+          "content": "Eigenschaften",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 358,
+          "top_left_y": 1360,
+          "bottom_right_x": 855,
+          "bottom_right_y": 1401,
+          "content": "Richtungen und Positionen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 331,
+          "top_left_y": 1421,
+          "bottom_right_x": 1032,
+          "bottom_right_y": 2054,
+          "content": "|  a | außen/äußere/r/s  |\n| --- | --- |\n|  g | gemessen/e / r  |\n|  h | hinten, hintere/r/s  |\n|  i | innen/innere/r/s  |\n|  l | links, linke/r/s  |\n|  m | mittig, mittlere/r/s  |\n|  o | oben, obere/r/s  |\n|  p | paarig, (spiegel-)symmetrisch  |\n|  r | rechts, rechte/r/s  |\n|  s | seitlich, seitliche/r/s  |\n|  t | tiefste/r/s  |\n|  u | unten, untere/s/r  |\n|  v | vorne, vordere/r/s  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 1136,
+          "top_left_y": 1299,
+          "bottom_right_x": 1507,
+          "bottom_right_y": 1344,
+          "content": "Beträge und Werte",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1124,
+          "top_left_y": 1360,
+          "bottom_right_x": 1700,
+          "bottom_right_y": 2091,
+          "content": "|  ...A | Abstand  |\n| --- | --- |\n|  α | Alpha = Gesäßwinkel  |\n|  B | Breite  |\n|  D | Durchmesser  |\n|  F | Faktor (mathematisch)  |\n|  H | Höhe  |\n|  I | Inhalt  |\n|  L | Länge  |\n|  r... | Radius (mathematisch)  |\n|  T | Tiefe  |\n|  U | Umfang  |\n|  W | Weite  |\n|  Wi | Winkel  |\n|  Z | (An-)Zahl  |\n|  Σ | (Sigma) Summe  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1911,
+          "top_left_y": 1282,
+          "bottom_right_x": 2132,
+          "bottom_right_y": 1323,
+          "content": "Operanden",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1905,
+          "top_left_y": 1340,
+          "bottom_right_x": 2570,
+          "bottom_right_y": 1866,
+          "content": "|  + | plus  |\n| --- | --- |\n|  - | minus  |\n|  : | geteilt durch  |\n|  . | mal in Berechnungen  |\n|  × | mal im Text  |\n|  = | ist gleich  |\n|  ≠ | ungleich  |\n|   | entspricht  |\n|  < | kleiner  |\n|  > | größer  |\n|  % | Prozent  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 1957,
+          "top_left_y": 1920,
+          "bottom_right_x": 2147,
+          "bottom_right_y": 1964,
+          "content": "Aktionen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1948,
+          "top_left_y": 1985,
+          "bottom_right_x": 2714,
+          "bottom_right_y": 2189,
+          "content": "|  auf | aufdrehen, öffnen, sperren  |\n| --- | --- |\n|  üb | übertragen  |\n|  me | messen  |\n|  zu | zudrehen, schließen, kneifen  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 2348,
+          "bottom_right_x": 2236,
+          "bottom_right_y": 2397,
+          "content": "# Weitere wichtige Symbole und Abkürzungen sind auf Seite 30 und ab der Seite 507 abgedruckt.",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 2455,
+          "bottom_right_x": 796,
+          "bottom_right_y": 2508,
+          "content": "# Einige wichtige Symbole",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 266,
+          "top_left_y": 2536,
+          "bottom_right_x": 1164,
+          "bottom_right_y": 2638,
+          "content": "99 Seitenverweise auf Grundschnitte, Details und Anleitungen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 257,
+          "top_left_y": 2663,
+          "bottom_right_x": 1164,
+          "bottom_right_y": 2941,
+          "content": "Nummerierung der Konstruktionsreihenfolge und Zuordnung der Beschreibungen im Text. Die Punkte sind meistens Blau, in anderen Farben symbolisieren sie Alternativen und Varianten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 239,
+          "top_left_y": 2969,
+          "bottom_right_x": 1164,
+          "bottom_right_y": 3088,
+          "content": "46 Nummerierung von Varianten (Ärmel, Abnäher usw.)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 233,
+          "top_left_y": 3116,
+          "bottom_right_x": 1115,
+          "bottom_right_y": 3173,
+          "content": "Hinweis zur besonderen Beachtung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 230,
+          "top_left_y": 3206,
+          "bottom_right_x": 649,
+          "bottom_right_y": 3267,
+          "content": "Anlagepunkt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 227,
+          "top_left_y": 3296,
+          "bottom_right_x": 873,
+          "bottom_right_y": 3353,
+          "content": "Zirkelpunkt, Drehpunkt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 214,
+          "top_left_y": 3402,
+          "bottom_right_x": 1167,
+          "bottom_right_y": 3508,
+          "content": "Hier wird für eine weitere Behandlung eingeschnitten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 202,
+          "top_left_y": 3533,
+          "bottom_right_x": 1170,
+          "bottom_right_y": 3668,
+          "content": "Das Zeichen für einen rechten Winkel (90°).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1568,
+          "top_left_y": 2418,
+          "bottom_right_x": 2098,
+          "bottom_right_y": 2467,
+          "content": "# Fertigungsinformationen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1568,
+          "top_left_y": 2483,
+          "bottom_right_x": 2769,
+          "bottom_right_y": 2597,
+          "content": "Zuschnittzeichen geben an, wie das gekennzeichnete Produktionsschnittteil zugeschnitten wird.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1577,
+          "top_left_y": 2614,
+          "bottom_right_x": 2790,
+          "bottom_right_y": 2794,
+          "content": "- Der Zuschnitt erfolgt an der hinteren Mitte (hM) gespiegelt (Symmetrielinie), also ohne Naht (bzw. für den Einzelzuschnitt „im Stoffbruch“)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 2802,
+          "bottom_right_x": 2812,
+          "bottom_right_y": 2928,
+          "content": "Dressierzeichen geben an, wo und wie die flache Stofffläche vor dem Nähen durch Bügeln dauerhaft zu formen ist:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1590,
+          "top_left_y": 2945,
+          "bottom_right_x": 2849,
+          "bottom_right_y": 3202,
+          "content": "- Beim Dehnen werden z.B. Nahtzugaben, Nähte oder Bereiche innerhalb der Zuschnittfläche ausgedehnt. Hierdurch erhält der Stoff Länge oder Weite - je nach Dehnrichtung.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1599,
+          "top_left_y": 3206,
+          "bottom_right_x": 2870,
+          "bottom_right_y": 3337,
+          "content": "- Beim Einhalten wird der Stoff gestaucht bzw. kurzgehalten. Die Weite oder Länge wird reduziert.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1602,
+          "top_left_y": 3353,
+          "bottom_right_x": 2901,
+          "bottom_right_y": 3561,
+          "content": "Kräuselzeichen zeigen an, in welchem Bereich die Mehrweite einer Naht durch eine geeignete Methode in kleine, unregelmäßige Fältchen gekräuselt wird.",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2558002
+  }
+}

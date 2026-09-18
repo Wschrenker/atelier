@@ -1,0 +1,110 @@
+# Tabellen s007 (OCR-Rohfassung)
+
+Aus dem Layout-JSON der Mistral-OCR (`ocr_s007_raw.json`, Blöcke `tbl-0` bis
+`tbl-4`). Die Tabellen sind Teile des Inhaltsverzeichnisses (rechte Buchseite,
+Rubriken „Modelle: Kleider Blusen Weste", „Modelle: Jacken", „Sportswear
+Wäsche Unisex" und „Anhang und Sachwortverzeichnis").
+
+**Achtung Rohfassung:** Die OCR liefert bei mehreren Umlauten/ß in diesen
+Tabellenzellen das Ersatzzeichen ` ` statt des richtigen Buchstabens (z. B.
+„ bersicht" statt vermutlich „Übersicht", „Bluse mit angesetzter Knopfleiste
+und Bleseneinsatz" evtl. „Biesen­einsatz"). Diese Stellen sind unverändert aus
+der API-Antwort übernommen und **nicht** stillschweigend korrigiert. Werner
+muss jede betroffene Zelle am Original gegenlesen.
+
+## tbl-0 – Rubrik „Modelle: Kleider Blusen Weste"
+
+|  Übersicht und durchgehende Kleidformen (OCR: „ bersicht …") | 438 
+|  Kleidermodelle aus dem Baukasten | 439 
+|  Bluse mit Schulterpasse und Kräuselweite | 440
+|  Polobluse | 442
+|  Klassische Hemdbluse | 444 
+|  Bluse mit angesetzter Knopfleiste und Bieseneinsatz | 446
+|  Taillierte Bluse mit verdeckter Knopfleiste | 448 
+|  Schößchenbluse mit Schlingenverschluss | 450
+| Trägerkleid im Empire-Stil mit Scherenfalten | 452 
+| Etuikleid | 454  
+| Rückteil mit Schlitz, Beleg- und Futterentwicklung | 456  
+| Korsagen-Modellentwicklung | 458 
+| Miederkorsage | 460  |
+| Klassische Weste | 462  |
+
+## tbl-1 – Rubrik „Modelle: Jacken" (linke Spalte, oberer Teil)
+
+|  Übersicht Jacken-Modelle | 465  
+|  Einfache Jacke 
+|  · Modellentwicklung | 466  
+|  · Futterentwicklung | 468 
+|  Einreihiger Blazer, verdeckter Schlitz an hinterer Mitte |   |
+|  · Modellentwicklung mit Reverskragen | 470  |
+|  · Saum formen | 471
+|  · Produktionsschnitt Oberstoff | 472  |
+|  · VT Futter | 473  |
+|  · RT Futter in einem Schnittteil | 475  |
+|  · RT Futter in zwei Schnittteilen | 476  |
+
+Die OCR-Zahl 450 bei „Saum formen" wiederholt die Zahl aus tbl-0
+(„Schößchenbluse … 450"). Das ist wahrscheinlich ein OCR-Fehler (Nachbarwert
+verwechselt, erwartbar wäre eine Zahl zwischen 470 und 472); Werner muss den
+richtigen Wert am Original ablesen.
+
+## tbl-2 – Rubrik „Modelle: Jacken" (rechte Spalte)
+klassischer zweireihiger Blazer mit Seitenteilschlitzen
+|  · Modellentwicklung mit Spitzrevers | 477  |
+|  · Produktionsschnitt | 480  |
+|  · VT Futter | 481  |
+|  · RT Futter | 482  |
+|  · Brustabnäher unter den Kragen verlegen | 483  |
+|  · Fixierbeispiel | 484  |
+|  · Teileliste | 485  |
+|  Mantel mit Schalkragen |   |
+|  · Modellentwicklung | 486  |
+|  · Oberstoff- und Futterentwicklung der VT | 487  |
+|  · Oberstoff- und Futterentwicklung der RT | 490  |
+|  Cape |   |
+|  · Grundschnitt | 491  |
+|  · Modellentwicklungen | 492  |
+
+## tbl-3 – Rubrik „Sportswear Wäsche Unisex"
+
+|  Übersicht Sport, Wäsche, Unisex-Schnitte | 493 
+|  Einfache Hose, Grundschnitt | 494
+|  Sporthose | 496 
+|  Boxershorts | 497
+|  Enge Jogginghose | 498
+| Enges Shirt | 521 
+|  Leggings | 500 
+|  Sportpants, Bikerpants | 502
+|  Damen-Longpants, Gymnastikhose | 504
+|  Herren-Shortpants und Boxerpants | 505
+|  Bade- und Unterwäsche | 506
+|  Shirts und Grundschnitt | 508 
+|  T-Shirt | 511 
+|  Sweatshirt, Hoodie, Troyer | 512
+|  Sportjacke mit Raglanärmel und Kragen | 516
+| Enger Oberteil-Grundschnitt mit Weitenreduzierung | 518  
+| Enger Ärmel für engen weitenreduzierten Grundschnitt | 520  
+| Tanktop | 522  |
+| Enge Kleider | 523  |
+| Body-Grundschnitt | 524  |
+| Bodies und Badeanzüge | 526  |
+| Bodysuit | 528  |
+| Catsuit | 529  |
+| Latzhose und Overalls | 530  |
+| Overall-Grundschnitt | 531  |
+| Latzhosen-Modell | 532  |
+| Overall für längselastisches Material | 533  |
+| Overall im Hemden-Stil | 534  |
+
+## tbl-4 – Rubrik „Anhang und Sachwortverzeichnis"
+
+|  Schnittteileliste | 535 
+|  Konstruktionstabelle Shirt | 535 
+|  Konstruktionstabelle Rock | 536 
+|  Konstruktionstabelle Hose | 536 
+|  Konstruktionstabelle Ärmel | 536
+| Konstruktionstabelle Oberteil | 537  
+| Zugabentabelle | 537  |
+| Größentabelle starke Figuren | 538  |
+| Abkürzungen | 539  |
+| Sachwortverzeichnis | 541  |

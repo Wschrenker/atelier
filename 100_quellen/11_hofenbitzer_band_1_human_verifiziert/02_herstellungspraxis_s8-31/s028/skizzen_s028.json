@@ -1,0 +1,49 @@
+{
+  "seite": "s028",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s28.jpg (keine Nachbarseite mit lesbarem Fließtext sichtbar, kein Zuschnitt vor der OCR nötig)",
+  "hinweis": "Bounding Boxes beziehen sich auf die Pixelorientierung des unveränderten Originalbilds (Querformat, EXIF-Orientation 6). Die gespeicherten PNG-Ausschnitte wurden nach dem Zuschnitt entsprechend der EXIF-Orientierung aufrecht gedreht. Die OCR-Antwort meldete für diese Seite nur 2 Bildregionen (img-0, img-1); img-1 fasste zwei getrennte Bildunterschriften (☐1 und ☐2) in einer Region zusammen und wurde deshalb manuell anhand der sichtbaren Trennlinie in zwei Ausschnitte geteilt (skizze_02 und skizze_03).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s028_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 653,
+        "top_left_y": 392,
+        "bottom_right_x": 915,
+        "bottom_right_y": 1051
+      },
+      "beschreibung": "Balkendiagramm 'Knipsformen' mit sechs Kerbformen und Maßangaben (1x5mm, 1x6mm, 1,5x5mm, 1,5x6mm rot hervorgehoben, 2x6mm, 5x5mm)",
+      "sichtbare_labels": ["1 x 5 mm", "1 x 6 mm", "1,5 x 5 mm", "1,5 x 6 mm", "2 x 6 mm", "5 x 5 mm"],
+      "zugehoerige_ocr_bildunterschrift": "☐3 Knipsformen",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s028_skizze_02.png",
+      "ocr_id": "img-1.jpeg (manuell geteilt, unterer/linker Teil)",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2275,
+        "top_left_y": 1539,
+        "bottom_right_x": 3945,
+        "bottom_right_y": 2990
+      },
+      "beschreibung": "Kreisförmiges Schnittteil mit Punkt 'vÄP', Markern ①②③ an einer Knipsstelle, gestrichelter Linie 'vorderes Armloch' und Markern ④⑤ am Übergang zur 'Seitennaht'",
+      "sichtbare_labels": ["vÄP", "①", "②", "③", "④", "⑤", "vorderes Armloch", "Seitennaht"],
+      "zugehoerige_ocr_bildunterschrift": "☐1 Markierung eines Punktes an einer Nahtstrecke durch Knips. Ausschnitt aus ☐5, Seite 25.",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s028_skizze_03.png",
+      "ocr_id": "img-1.jpeg (manuell geteilt, oberer/rechter Teil)",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 2275,
+        "top_left_y": 159,
+        "bottom_right_x": 3945,
+        "bottom_right_y": 1539
+      },
+      "beschreibung": "Winkelförmiges Schnittteil mit 'Seitennaht' (senkrecht) und 'Saumkante'/'Futter-Ansatznaht' (waagerecht), Markern ④⑤ an beiden Kanten",
+      "sichtbare_labels": ["④", "⑤", "Seitennaht", "Saumkante", "Futter-Ansatznaht"],
+      "zugehoerige_ocr_bildunterschrift": "☐2 Markierung des Nahtbeginns sowie der Saumkante durch Knipse. Ausschnitt aus ☐5, Seite 26.",
+      "bestaetigt": false
+    }
+  ]
+}

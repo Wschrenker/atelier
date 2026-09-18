@@ -1,0 +1,348 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "![img-0.jpeg](img-0.jpeg)\n\n332\n335\n337\n338\n340\n341\n\n342\n344\n345\n346\n348\n349\n\n355\n356\n358\n359\n360\n361\n\nN\n\nModelle: Kleider Blosen Weste\n\n[tbl-0.md](tbl-0.md)\n\nModelle: Jacken\n\n[tbl-1.md](tbl-1.md)\n\nKlassischer zweireihiger Blazer mit Seitenteilschlitzen\n\n[tbl-2.md](tbl-2.md)\n\nSportswear Wäsche Unisex\n\n[tbl-3.md](tbl-3.md)\n\nAnhang und Sachwortverzeichnis\n\n[tbl-4.md](tbl-4.md)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\nZeichenschablonen für die Schnittkonstruktion\n\nin kleineren Maßstäben sind hier erhältlich:\n\nwww.pattern-max.de\n\nModelle: Kleider Blosen Weste\n\nModelle: Jacken\n\nSportswear Wäsche Unisex\n\nAnhang und Sachwortverzeichnis",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 0,
+          "top_left_y": 0,
+          "bottom_right_x": 417,
+          "bottom_right_y": 800,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1394,
+          "top_left_y": 2745,
+          "bottom_right_x": 2852,
+          "bottom_right_y": 3030,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 291,
+          "top_left_y": 3075,
+          "bottom_right_x": 1639,
+          "bottom_right_y": 3525,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1761,
+          "top_left_y": 3059,
+          "bottom_right_x": 2901,
+          "bottom_right_y": 3288,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 251,
+          "top_left_y": 3561,
+          "bottom_right_x": 1654,
+          "bottom_right_y": 3823,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Übersicht und durchgehende Kleidformen | 438 | Trägerkleid im Empire-Stil mit Scherenfalten | 452  |\n| --- | --- | --- | --- |\n|  Kleidermodelle aus dem Baukasten | 439 | Etuikleid | 454  |\n|  Bluse mit Schulterpasse und Kräuselweite | 440 | Rückteil mit Schlitz, Beleg- und Futterentwicklung | 456  |\n|  Polobluse | 442 | Korsagen-Modellentwicklung | 458  |\n|  Klassische Hemdbluse | 444 | Miederkorsage | 460  |\n|  Bluse mit angesetzter Knopfleiste und Bleseneinsatz | 446 | Klassische Weste | 462  |\n|  Taillierte Bluse mit verdeckter Knopfleiste | 448 |  |   |\n|  Schößchenbluse mit Schlingenverschluss | 450 |  |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  Übersicht Jacken-Modelle | 465  |\n| --- | --- |\n|  Einfache Jacke |   |\n|  • Modellentwicklung | 466  |\n|  • Futterentwicklung | 468  |\n|  Einreihiger Blazer, verdeckter Schlitz an hinterer Mitte |   |\n|  • Modellentwicklung mit Reverskragen | 470  |\n|  • Saum formen | 450  |\n|  • Produktionsschnitt Oberstoff | 472  |\n|  • VT Futter | 473  |\n|  • RT Futter in einem Schnittteil | 475  |\n|  • RT Futter in zwei Schnittteilen | 476  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  • Modellentwicklung mit Spitzrevers | 477  |\n| --- | --- |\n|  • Produktionsschnitt | 480  |\n|  • VT Futter | 481  |\n|  • RT Futter | 482  |\n|  • Brustabnäher unter den Kragen verlegen | 483  |\n|  • Fixierbeispiel | 484  |\n|  • Teileliste | 485  |\n|  Mantel mit Schalkragen |   |\n|  • Modellentwicklung | 486  |\n|  • Oberstoff- und Futterentwicklung der VT | 487  |\n|  • Oberstoff- und Futterentwicklung der RT | 490  |\n|  Cape |   |\n|  • Grundschnitt | 491  |\n|  • Modellentwicklungen | 492  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  Übersicht Sport, Wäsche, Unisex-Schnitte | 493 | Enger Oberteil-Grundschnitt mit Weitenreduzierung | 518  |\n| --- | --- | --- | --- |\n|  Einfache Hose, Grundschnitt | 494 | Enger Ärmel für engen weitenreduzierten Grundschnitt | 520  |\n|  Sporthose | 496 | Enges Shirt | 521  |\n|  Boxershorts | 497 | Tanktop | 522  |\n|  Enge Jogginghose | 498 | Enge Kleider | 523  |\n|  Leggings | 500 | Body-Grundschnitt | 524  |\n|  Sportpants, Bikerpants | 502 | Bodies und Badeanzüge | 526  |\n|  Damen-Longpants, Gymnastikhose | 504 | Bodysuit | 528  |\n|  Herren-Shortpants und Boxerpants | 505 | Catsuit | 529  |\n|  Bade- und Unterwäsche | 506 | Latzhose und Overalls | 530  |\n|  Shirts und Grundschnitt | 508 | Overall-Grundschnitt | 531  |\n|  T-Shirt | 511 | Latzhosen-Modell | 532  |\n|  Sweatshirt, Hoodie, Troyer | 512 | Overall für langselastisches Material | 533  |\n|  Sportjacke mit Raglanärmel und Kragen | 516 | Overall im Hemden-Stil | 534  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-4.md",
+          "content": "|  Schnittteileliste | 535 | Konstruktionstabelle Oberteil | 537  |\n| --- | --- | --- | --- |\n|  Konstruktionstabelle Shirt | 535 | Zugabentabelle | 537  |\n|  Konstruktionstabelle Rock | 536 | Größentabelle starke Figuren | 538  |\n|  Konstruktionstabelle Hose | 536 | Abkürzungen | 539  |\n|  Konstruktionstabelle Ärmel | 536 | Sachwortverzeichnis | 541  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 0,
+          "bottom_right_x": 417,
+          "bottom_right_y": 800,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1095,
+          "bottom_right_x": 202,
+          "bottom_right_y": 1425,
+          "content": "332\n335\n337\n338\n340\n341",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1568,
+          "bottom_right_x": 138,
+          "bottom_right_y": 1964,
+          "content": "342\n344\n345\n346\n348\n349",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2185,
+          "bottom_right_x": 61,
+          "bottom_right_y": 2622,
+          "content": "355\n356\n358\n359\n360\n361",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2745,
+          "bottom_right_x": 86,
+          "bottom_right_y": 2814,
+          "content": "N",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 539,
+          "top_left_y": 376,
+          "bottom_right_x": 1146,
+          "bottom_right_y": 412,
+          "content": "Modelle: Kleider Blosen Weste",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 524,
+          "top_left_y": 421,
+          "bottom_right_x": 2539,
+          "bottom_right_y": 678,
+          "content": "|  Übersicht und durchgehende Kleidformen | 438 | Trägerkleid im Empire-Stil mit Scherenfalten | 452  |\n| --- | --- | --- | --- |\n|  Kleidermodelle aus dem Baukasten | 439 | Etuikleid | 454  |\n|  Bluse mit Schulterpasse und Kräuselweite | 440 | Rückteil mit Schlitz, Beleg- und Futterentwicklung | 456  |\n|  Polobluse | 442 | Korsagen-Modellentwicklung | 458  |\n|  Klassische Hemdbluse | 444 | Miederkorsage | 460  |\n|  Bluse mit angesetzter Knopfleiste und Bleseneinsatz | 446 | Klassische Weste | 462  |\n|  Taillierte Bluse mit verdeckter Knopfleiste | 448 |  |   |\n|  Schößchenbluse mit Schlingenverschluss | 450 |  |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 505,
+          "top_left_y": 858,
+          "bottom_right_x": 842,
+          "bottom_right_y": 890,
+          "content": "Modelle: Jacken",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 898,
+          "bottom_right_x": 1498,
+          "bottom_right_y": 1282,
+          "content": "|  Übersicht Jacken-Modelle | 465  |\n| --- | --- |\n|  Einfache Jacke |   |\n|  • Modellentwicklung | 466  |\n|  • Futterentwicklung | 468  |\n|  Einreihiger Blazer, verdeckter Schlitz an hinterer Mitte |   |\n|  • Modellentwicklung mit Reverskragen | 470  |\n|  • Saum formen | 450  |\n|  • Produktionsschnitt Oberstoff | 472  |\n|  • VT Futter | 473  |\n|  • RT Futter in einem Schnittteil | 475  |\n|  • RT Futter in zwei Schnittteilen | 476  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1574,
+          "top_left_y": 882,
+          "bottom_right_x": 2429,
+          "bottom_right_y": 919,
+          "content": "Klassischer zweireihiger Blazer mit Seitenteilschlitzen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1574,
+          "top_left_y": 919,
+          "bottom_right_x": 2613,
+          "bottom_right_y": 1417,
+          "content": "|  • Modellentwicklung mit Spitzrevers | 477  |\n| --- | --- |\n|  • Produktionsschnitt | 480  |\n|  • VT Futter | 481  |\n|  • RT Futter | 482  |\n|  • Brustabnäher unter den Kragen verlegen | 483  |\n|  • Fixierbeispiel | 484  |\n|  • Teileliste | 485  |\n|  Mantel mit Schalkragen |   |\n|  • Modellentwicklung | 486  |\n|  • Oberstoff- und Futterentwicklung der VT | 487  |\n|  • Oberstoff- und Futterentwicklung der RT | 490  |\n|  Cape |   |\n|  • Grundschnitt | 491  |\n|  • Modellentwicklungen | 492  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 444,
+          "top_left_y": 1503,
+          "bottom_right_x": 1008,
+          "bottom_right_y": 1544,
+          "content": "Sportswear Wäsche Unisex",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 426,
+          "top_left_y": 1544,
+          "bottom_right_x": 2748,
+          "bottom_right_y": 2124,
+          "content": "|  Übersicht Sport, Wäsche, Unisex-Schnitte | 493 | Enger Oberteil-Grundschnitt mit Weitenreduzierung | 518  |\n| --- | --- | --- | --- |\n|  Einfache Hose, Grundschnitt | 494 | Enger Ärmel für engen weitenreduzierten Grundschnitt | 520  |\n|  Sporthose | 496 | Enges Shirt | 521  |\n|  Boxershorts | 497 | Tanktop | 522  |\n|  Enge Jogginghose | 498 | Enge Kleider | 523  |\n|  Leggings | 500 | Body-Grundschnitt | 524  |\n|  Sportpants, Bikerpants | 502 | Bodies und Badeanzüge | 526  |\n|  Damen-Longpants, Gymnastikhose | 504 | Bodysuit | 528  |\n|  Herren-Shortpants und Boxerpants | 505 | Catsuit | 529  |\n|  Bade- und Unterwäsche | 506 | Latzhose und Overalls | 530  |\n|  Shirts und Grundschnitt | 508 | Overall-Grundschnitt | 531  |\n|  T-Shirt | 511 | Latzhosen-Modell | 532  |\n|  Sweatshirt, Hoodie, Troyer | 512 | Overall für langselastisches Material | 533  |\n|  Sportjacke mit Raglanärmel und Kragen | 516 | Overall im Hemden-Stil | 534  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 389,
+          "top_left_y": 2177,
+          "bottom_right_x": 1063,
+          "bottom_right_y": 2222,
+          "content": "Anhang und Sachwortverzeichnis",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 365,
+          "top_left_y": 2226,
+          "bottom_right_x": 2778,
+          "bottom_right_y": 2450,
+          "content": "|  Schnittteileliste | 535 | Konstruktionstabelle Oberteil | 537  |\n| --- | --- | --- | --- |\n|  Konstruktionstabelle Shirt | 535 | Zugabentabelle | 537  |\n|  Konstruktionstabelle Rock | 536 | Größentabelle starke Figuren | 538  |\n|  Konstruktionstabelle Hose | 536 | Abkürzungen | 539  |\n|  Konstruktionstabelle Ärmel | 536 | Sachwortverzeichnis | 541  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-4.md"
+        },
+        {
+          "top_left_x": 1394,
+          "top_left_y": 2745,
+          "bottom_right_x": 2852,
+          "bottom_right_y": 3030,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 291,
+          "top_left_y": 3075,
+          "bottom_right_x": 1639,
+          "bottom_right_y": 3525,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1761,
+          "top_left_y": 3059,
+          "bottom_right_x": 2901,
+          "bottom_right_y": 3288,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 251,
+          "top_left_y": 3561,
+          "bottom_right_x": 1654,
+          "bottom_right_y": 3823,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 1951,
+          "top_left_y": 3631,
+          "bottom_right_x": 2965,
+          "bottom_right_y": 3684,
+          "content": "Zeichenschablonen für die Schnittkonstruktion",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 1957,
+          "top_left_y": 3692,
+          "bottom_right_x": 2827,
+          "bottom_right_y": 3745,
+          "content": "in kleineren Maßstäben sind hier erhältlich:",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 1963,
+          "top_left_y": 3770,
+          "bottom_right_x": 2512,
+          "bottom_right_y": 3831,
+          "content": "www.pattern-max.de",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 2628,
+          "top_left_y": 355,
+          "bottom_right_x": 2729,
+          "bottom_right_y": 874,
+          "content": "Modelle: Kleider Blosen Weste",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2745,
+          "top_left_y": 1135,
+          "bottom_right_x": 2818,
+          "bottom_right_y": 1458,
+          "content": "Modelle: Jacken",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2818,
+          "top_left_y": 1593,
+          "bottom_right_x": 2922,
+          "bottom_right_y": 2128,
+          "content": "Sportswear Wäsche Unisex",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2892,
+          "top_left_y": 2160,
+          "bottom_right_x": 3035,
+          "bottom_right_y": 2900,
+          "content": "Anhang und Sachwortverzeichnis",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4108546
+  }
+}
