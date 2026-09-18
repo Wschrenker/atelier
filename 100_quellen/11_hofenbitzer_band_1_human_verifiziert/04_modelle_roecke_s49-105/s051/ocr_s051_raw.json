@@ -1,0 +1,331 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Beobachtungen und Hinweise zu Taillenvertiefungen\n\n☐1-6 Die Abbildungen unten zeigen den Vergleich von geringen und großen Taillenvertiefungen in der Vorder- und Seitenansicht. Man sieht deutlich, dass bei geringen Taillenvertiefungen der Rockbund zumeist noch waagerecht liegen kann, während er häufig bei einer großen Taillenvertiefung hinten angehoben wird. Lediglich an einem flachen Gesäß oder einem sehr tiefen Hohlkreuz rutscht auch hinten der Bund tiefer.\n\nMan kann schwer abschätzen, wo genau bei welcher Taillenvertiefung die obere Rockkante sitzen wird und wie viel Weite genau entfernt werden muss, wenn man die Figur nicht kennt, für die man den Schnitt erstellt.\n\nDie folgenden Skizzen verdeutlichen die Problematik und zeigen anschaulich, dass eine allgemeine Konstruktionsanweisung für alle Figuren unmöglich ist.\n\nGeringe Taillenvertiefungen\n\n![img-0.jpeg](img-0.jpeg)\n\nGroße Taillenvertiefungen\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\nBei einem Hohlkreuz, bzw. einem tief sitzenden Gesäß rutscht bei geringer Taillenvertiefung der Bund hinten tiefer. Hier muss hinten ein größerer Betrag entfernt werden als vorne, da-\n\nmit der Rock gerade fällt. Ansonsten ergeben sich hinten unter dem Bund unschöne Querfalten.\n\n![img-3.jpeg](img-3.jpeg)\n\n☐3 Geringe Taillenvertiefung bei normalem bzw. tiefem Gesäß und Hohlkreuz in Vorder- und Seitenansicht\n\nEin starkes Gesäß bzw. das hinten sehr hoch gewölbte Gesäß (ohne Abbildung) verhindert das Herrunterrutschen des Bundes noch stärker - der Bund sitzt also weiter oben. Der Ver-\n\nlauf des Bundes ist teilweise sehr schräg. Hier wird bei der Taillenvertiefung an der hM nur die Hälfte der vorderen Vertiefung oder noch weniger entfernt.\n\n☐4 Große Taillenvertiefung bei starkem Gesäß in Seiten- und Vorderansicht\n\n![img-4.jpeg](img-4.jpeg)\n\nBeim flachen Gesäß verhält sich der Bundverlauf sehr ähnlich wie oben beim Hohlkreuz. Der Bund hat wegen der fehlenden Gesäßwölbung hinten keinen Halt und rutscht dort stärker\n\nnach unten als vorne. Auch hier muss hinten ein größerer Betrag entfernt werden als vorne.\n\n![img-5.jpeg](img-5.jpeg)\n\n☐5 Geringe Taillenvertiefung bei flachem Gesäß in Vorder- und Seitenansicht\n\nHier ist das Figurproblem des flachen, bzw. eines tief sitzenden Gesäßes (siehe ☐3 erfreulicherweise einmal von Vorteil: Der Bundverlauf bei einer großen Taillenvertiefung ist annähernd\n\nwaagerecht. Vorne und hinten können derselbe Betrag entfernt werden, seitlich ca. 10% mehr (aber nicht mehr als 1 cm).\n\n☐6 Große Taillenvertiefung bei flachem Gesäß in Seiten- und Vorderansicht\n\nBeobachtungen und Hinweise zu\n\nTaillenvertiefungen\n\n51",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 163,
+          "top_left_y": 956,
+          "bottom_right_x": 1212,
+          "bottom_right_y": 1764,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1266,
+          "top_left_y": 911,
+          "bottom_right_x": 2328,
+          "bottom_right_y": 1752,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1283,
+          "top_left_y": 1793,
+          "bottom_right_x": 2013,
+          "bottom_right_y": 2724,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 505,
+          "top_left_y": 1801,
+          "bottom_right_x": 1229,
+          "bottom_right_y": 2745,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1308,
+          "top_left_y": 2777,
+          "bottom_right_x": 2066,
+          "bottom_right_y": 3802,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 485,
+          "top_left_y": 3161,
+          "bottom_right_x": 1249,
+          "bottom_right_y": 3835,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2816
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 203,
+          "top_left_y": 270,
+          "bottom_right_x": 1595,
+          "bottom_right_y": 339,
+          "content": "# Beobachtungen und Hinweise zu Taillenvertiefungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 189,
+          "top_left_y": 502,
+          "bottom_right_x": 1195,
+          "bottom_right_y": 833,
+          "content": "☐1-6 Die Abbildungen unten zeigen den Vergleich von geringen und großen Taillenvertiefungen in der Vorder- und Seitenansicht. Man sieht deutlich, dass bei geringen Taillenvertiefungen der Rockbund zumeist noch waagerecht liegen kann, während er häufig bei einer großen Taillenvertiefung hinten angehoben wird. Lediglich an einem flachen Gesäß oder einem sehr tiefen Hohlkreuz rutscht auch hinten der Bund tiefer.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1246,
+          "top_left_y": 490,
+          "bottom_right_x": 2247,
+          "bottom_right_y": 662,
+          "content": "Man kann schwer abschätzen, wo genau bei welcher Taillenvertiefung die obere Rockkante sitzen wird und wie viel Weite genau entfernt werden muss, wenn man die Figur nicht kennt, für die man den Schnitt erstellt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1249,
+          "top_left_y": 670,
+          "bottom_right_x": 2261,
+          "bottom_right_y": 805,
+          "content": "Die folgenden Skizzen verdeutlichen die Problematik und zeigen anschaulich, dass eine allgemeine Konstruktionsanweisung für alle Figuren unmöglich ist.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 194,
+          "top_left_y": 878,
+          "bottom_right_x": 699,
+          "bottom_right_y": 923,
+          "content": "Geringe Taillenvertiefungen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 163,
+          "top_left_y": 956,
+          "bottom_right_x": 1212,
+          "bottom_right_y": 1764,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1266,
+          "top_left_y": 866,
+          "bottom_right_x": 1739,
+          "bottom_right_y": 911,
+          "content": "Große Taillenvertiefungen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1266,
+          "top_left_y": 911,
+          "bottom_right_x": 2328,
+          "bottom_right_y": 1752,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1283,
+          "top_left_y": 1793,
+          "bottom_right_x": 2013,
+          "bottom_right_y": 2724,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 132,
+          "top_left_y": 1866,
+          "bottom_right_x": 846,
+          "bottom_right_y": 2103,
+          "content": "Bei einem Hohlkreuz, bzw. einem tief sitzenden Gesäß rutscht bei geringer Taillenvertiefung der Bund hinten tiefer. Hier muss hinten ein größerer Betrag entfernt werden als vorne, da-",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 130,
+          "top_left_y": 2103,
+          "bottom_right_x": 471,
+          "bottom_right_y": 2385,
+          "content": "mit der Rock gerade fällt. Ansonsten ergeben sich hinten unter dem Bund unschöne Querfalten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 505,
+          "top_left_y": 1801,
+          "bottom_right_x": 1229,
+          "bottom_right_y": 2745,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 124,
+          "top_left_y": 2467,
+          "bottom_right_x": 485,
+          "bottom_right_y": 2736,
+          "content": "☐3 Geringe Taillenvertiefung bei normalem bzw. tiefem Gesäß und Hohlkreuz in Vorder- und Seitenansicht",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1649,
+          "top_left_y": 1842,
+          "bottom_right_x": 2365,
+          "bottom_right_y": 2071,
+          "content": "Ein starkes Gesäß bzw. das hinten sehr hoch gewölbte Gesäß (ohne Abbildung) verhindert das Herrunterrutschen des Bundes noch stärker - der Bund sitzt also weiter oben. Der Ver-",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2021,
+          "top_left_y": 2071,
+          "bottom_right_x": 2393,
+          "bottom_right_y": 2499,
+          "content": "lauf des Bundes ist teilweise sehr schräg. Hier wird bei der Taillenvertiefung an der hM nur die Hälfte der vorderen Vertiefung oder noch weniger entfernt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2044,
+          "top_left_y": 2548,
+          "bottom_right_x": 2421,
+          "bottom_right_y": 2704,
+          "content": "☐4 Große Taillenvertiefung bei starkem Gesäß in Seiten- und Vorderansicht",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1308,
+          "top_left_y": 2777,
+          "bottom_right_x": 2066,
+          "bottom_right_y": 3802,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 101,
+          "top_left_y": 2875,
+          "bottom_right_x": 837,
+          "bottom_right_y": 3132,
+          "content": "Beim flachen Gesäß verhält sich der Bundverlauf sehr ähnlich wie oben beim Hohlkreuz. Der Bund hat wegen der fehlenden Gesäßwölbung hinten keinen Halt und rutscht dort stärker",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 101,
+          "top_left_y": 3137,
+          "bottom_right_x": 431,
+          "bottom_right_y": 3447,
+          "content": "nach unten als vorne. Auch hier muss hinten ein größerer Betrag entfernt werden als vorne.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 485,
+          "top_left_y": 3161,
+          "bottom_right_x": 1249,
+          "bottom_right_y": 3835,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 93,
+          "top_left_y": 3627,
+          "bottom_right_x": 471,
+          "bottom_right_y": 3843,
+          "content": "☐5 Geringe Taillenvertiefung bei flachem Gesäß in Vorder- und Seitenansicht",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1694,
+          "top_left_y": 2843,
+          "bottom_right_x": 2435,
+          "bottom_right_y": 3096,
+          "content": "Hier ist das Figurproblem des flachen, bzw. eines tief sitzenden Gesäßes (siehe ☐3 erfreulicherweise einmal von Vorteil: Der Bundverlauf bei einer großen Taillenvertiefung ist annähernd",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2066,
+          "top_left_y": 3096,
+          "bottom_right_x": 2455,
+          "bottom_right_y": 3459,
+          "content": "waagerecht. Vorne und hinten können derselbe Betrag entfernt werden, seitlich ca. 10% mehr (aber nicht mehr als 1 cm).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2111,
+          "top_left_y": 3586,
+          "bottom_right_x": 2483,
+          "bottom_right_y": 3794,
+          "content": "☐6 Große Taillenvertiefung bei flachem Gesäß in Seiten- und Vorderansicht",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2452,
+          "top_left_y": 1646,
+          "bottom_right_x": 2512,
+          "bottom_right_y": 2263,
+          "content": "Beobachtungen und Hinweise zu",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2517,
+          "top_left_y": 1883,
+          "bottom_right_x": 2576,
+          "bottom_right_y": 2263,
+          "content": "Taillenvertiefungen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2619,
+          "top_left_y": 3790,
+          "bottom_right_x": 2684,
+          "bottom_right_y": 3847,
+          "content": "51",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3578426
+  }
+}

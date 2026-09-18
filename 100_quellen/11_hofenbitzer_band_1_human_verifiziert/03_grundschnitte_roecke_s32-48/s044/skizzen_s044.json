@@ -1,0 +1,35 @@
+{
+  "seite": "s044",
+  "quelle": "OCR-Layoutantwort ocr_s044_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem aufrecht gedrehten Originalbild s44.jpg geschnitten",
+  "hinweis": "Pixelkoordinaten beziehen sich auf das aufrecht gedrehte, auf x=0-2700 zugeschnittene OCR-Eingabebild (2700x4080 px). Der Zuschnitt entfernte nur den rechten Bildrand mit sichtbarem Seite-45-Rest; am Originalbild-Ausschnitt selbst wurde nichts verändert.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s044_skizze_01.png",
+      "bbox_ocr_eingabebild": [1959, 135, 2611, 1237],
+      "bildunterschrift": "□1 Tellerrock als Vollglocke",
+      "beschreibung": "Modellfigur (Beine, Schuhe) mit hellblauem, weich fallendem Glockenrock; ein Zipfel des Saums wird mit der Hand angehoben, um den Fall der Glocke zu zeigen.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s044_skizze_02.png",
+      "bbox_ocr_eingabebild": [457, 874, 1865, 2013],
+      "bildunterschrift": "□2 Flächenkonstruktion für den Tellerrock",
+      "beschreibung": "Großer Kreis mit innerem Taillenkreis (r_TaW) und äußerem Saumkreis (r_SaW), Mittelpunkt mit Grundlinie und Seitenlinie rechtwinklig geteilt. Beschriftet: Taillenkreis (Länge der Ansatznaht, z.B. Bund, Passe, Saum, hier Taillenweite TaW), Saumkreis, Saumweite (SaW), Rocklänge = MoL (oder Volantlänge). Nummerierte Punkte 3, 4, 5, 6 an Mittelpunkt bzw. Kreisbögen.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s044_skizze_03.png",
+      "bbox_ocr_eingabebild": [1968, 1315, 2695, 2622],
+      "bildunterschrift": "☐3 Doppellagiger Zuschnitt (1 Stoffbruch)",
+      "beschreibung": "Viertelkreis-Schnittteil (Papier oder Stoff einmal gefaltet), oben Aussparung für den Taillenkreis-Ausschnitt. Beschriftet: Seitenlinie oder SN (zweimal, an den geraden Kanten), vM / hM (Mittellinie), 'Echter Glockenrock 2×', Fadenlaufpfeil, Kennzeichnung ②.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar."
+    },
+    {
+      "datei": "skizzen/s044_skizze_04.png",
+      "bbox_ocr_eingabebild": [1995, 2875, 2700, 3651],
+      "bildunterschrift": "☐4 Vierlagiger Zuschnitt (4 Stoffbrüche)",
+      "beschreibung": "Achtelkreis-Schnittteil (Papier oder Stoff zweimal gefaltet), oben Aussparung für den Taillenkreis-Ausschnitt. Beschriftet: Seitenlinie (Stb oder Naht), vM + hM-Stb oder Naht, 'Echter Glockenrock 4×', Fadenlaufpfeil, Kennzeichnung ②.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar."
+    }
+  ]
+}

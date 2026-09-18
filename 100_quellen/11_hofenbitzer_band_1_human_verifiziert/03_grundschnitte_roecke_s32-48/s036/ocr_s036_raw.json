@@ -1,0 +1,221 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-Grundschnitte\n\n# Abnäherformen Grundschnittschablone und Produktionsschnitt\n\n# Abnäherformen\n\nDie Abnäher geben der flachen Stofffläche eine gewölbte Form, wie sie für körpernahe Kleidung benötigt wird. Beim Nähen erhalten sie ihre charakteristische Form, je nach der Position am Körper.\n\n☐1 Der Hüftbogen und der seitliche Abnäher im Rückteil werden, genauso wie der vordere Abnäher im Rock, \"sichelförmig\" genäht.\n\nDer hintere Abnäher bei einem oder zwei Abnähern im RT (nahe der hinteren Mitte) wird \"zwiebelförmig\" genäht.\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\nAbnäherformen\nRock-Grundschnitte\n\n# Schablone des geraden Rock-Grundschnitts\n\nDie unten dargestellten grauen Flächen ohne Nahtzugaben entsprechen der Schablone eines geraden Rock-Grundschnitts (siehe auch Seite 22). Optional können die Abnäher gerade, also ungeformt herausgeschnitten sein. Die Hüftlinie ist eingezeichnet und beide Teile sind beschriftet. Die Konstruktionstabelle sollte aufgeklebt werden.\n\n# Produktionsschnitt des geraden Rock-Grundschnitts\n\nDer Produktionsschnitt enthält zusätzlich zur Grundschnitt-Fläche noch Nahtzugaben, Saumeinschläge, Rückschnitte an Nähten und Schnittkanten, Markierungen und Beschriftungen (siehe ab Seite 22). Das Vorderteil wird zudem an der VM gespiegelt zugeschnitten und ist entsprechend dargestellt.\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n38\n\n☐2 Produktionsschnitt für den geraden Rock-Grundschnitt",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 528,
+          "top_left_y": 768,
+          "bottom_right_x": 1586,
+          "bottom_right_y": 1601,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1586,
+          "top_left_y": 743,
+          "bottom_right_x": 2544,
+          "bottom_right_y": 1438,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 135,
+          "top_left_y": 1952,
+          "bottom_right_x": 1629,
+          "bottom_right_y": 3684,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1716,
+          "top_left_y": 1956,
+          "bottom_right_x": 2584,
+          "bottom_right_y": 3761,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2650
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 462,
+          "top_left_y": 400,
+          "bottom_right_x": 790,
+          "bottom_right_y": 494,
+          "content": "# Rock-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 849,
+          "top_left_y": 363,
+          "bottom_right_x": 2016,
+          "bottom_right_y": 474,
+          "content": "# Abnäherformen Grundschnittschablone und Produktionsschnitt",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 626,
+          "top_left_y": 588,
+          "bottom_right_x": 873,
+          "bottom_right_y": 621,
+          "content": "# Abnäherformen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 605,
+          "top_left_y": 625,
+          "bottom_right_x": 1499,
+          "bottom_right_y": 768,
+          "content": "Die Abnäher geben der flachen Stofffläche eine gewölbte Form, wie sie für körpernahe Kleidung benötigt wird. Beim Nähen erhalten sie ihre charakteristische Form, je nach der Position am Körper.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1560,
+          "top_left_y": 490,
+          "bottom_right_x": 2531,
+          "bottom_right_y": 625,
+          "content": "☐1 Der Hüftbogen und der seitliche Abnäher im Rückteil werden, genauso wie der vordere Abnäher im Rock, \"sichelförmig\" genäht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1557,
+          "top_left_y": 629,
+          "bottom_right_x": 2531,
+          "bottom_right_y": 727,
+          "content": "Der hintere Abnäher bei einem oder zwei Abnähern im RT (nahe der hinteren Mitte) wird \"zwiebelförmig\" genäht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 528,
+          "top_left_y": 768,
+          "bottom_right_x": 1586,
+          "bottom_right_y": 1601,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1586,
+          "top_left_y": 743,
+          "bottom_right_x": 2544,
+          "bottom_right_y": 1438,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 334,
+          "top_left_y": 1041,
+          "bottom_right_x": 470,
+          "bottom_right_y": 1589,
+          "content": "Abnäherformen\nRock-Grundschnitte",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 496,
+          "top_left_y": 1642,
+          "bottom_right_x": 1210,
+          "bottom_right_y": 1683,
+          "content": "# Schablone des geraden Rock-Grundschnitts",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 462,
+          "top_left_y": 1691,
+          "bottom_right_x": 1435,
+          "bottom_right_y": 1944,
+          "content": "Die unten dargestellten grauen Flächen ohne Nahtzugaben entsprechen der Schablone eines geraden Rock-Grundschnitts (siehe auch Seite 22). Optional können die Abnäher gerade, also ungeformt herausgeschnitten sein. Die Hüftlinie ist eingezeichnet und beide Teile sind beschriftet. Die Konstruktionstabelle sollte aufgeklebt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1515,
+          "top_left_y": 1634,
+          "bottom_right_x": 2480,
+          "bottom_right_y": 1674,
+          "content": "# Produktionsschnitt des geraden Rock-Grundschnitts",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1493,
+          "top_left_y": 1687,
+          "bottom_right_x": 2570,
+          "bottom_right_y": 1915,
+          "content": "Der Produktionsschnitt enthält zusätzlich zur Grundschnitt-Fläche noch Nahtzugaben, Saumeinschläge, Rückschnitte an Nähten und Schnittkanten, Markierungen und Beschriftungen (siehe ab Seite 22). Das Vorderteil wird zudem an der VM gespiegelt zugeschnitten und ist entsprechend dargestellt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 1952,
+          "bottom_right_x": 1629,
+          "bottom_right_y": 3684,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1716,
+          "top_left_y": 1956,
+          "bottom_right_x": 2584,
+          "bottom_right_y": 3761,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 61,
+          "top_left_y": 3606,
+          "bottom_right_x": 133,
+          "bottom_right_y": 3672,
+          "content": "38",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 236,
+          "top_left_y": 3598,
+          "bottom_right_x": 1117,
+          "bottom_right_y": 3729,
+          "content": "☐2 Produktionsschnitt für den geraden Rock-Grundschnitt",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2982203
+  }
+}

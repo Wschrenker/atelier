@@ -1,0 +1,45 @@
+{
+  "source": "s36.jpg (Doppelseitenfoto; für die OCR wurde die Buchseite 36 verlustfrei zugeschnitten, siehe s036.md)",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s036_skizze_01.png",
+      "bbox_raw_pixels": [
+        528,
+        768,
+        1586,
+        1601
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s036_skizze_02.png",
+      "bbox_raw_pixels": [
+        1586,
+        743,
+        2544,
+        1438
+      ]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s036_skizze_03.png",
+      "bbox_raw_pixels": [
+        135,
+        1952,
+        1629,
+        3684
+      ]
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s036_skizze_04.png",
+      "bbox_raw_pixels": [
+        1716,
+        1956,
+        2584,
+        3761
+      ]
+    }
+  ]
+}

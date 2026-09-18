@@ -1,0 +1,35 @@
+{
+  "source": "s38.jpg",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s038_skizze_01.png",
+      "bbox_raw_pixels": [
+        229,
+        398,
+        1082,
+        741
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s038_skizze_02.png",
+      "bbox_raw_pixels": [
+        1425,
+        282,
+        2377,
+        1795
+      ]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s038_skizze_03.png",
+      "bbox_raw_pixels": [
+        2512,
+        233,
+        3708,
+        1688
+      ]
+    }
+  ]
+}

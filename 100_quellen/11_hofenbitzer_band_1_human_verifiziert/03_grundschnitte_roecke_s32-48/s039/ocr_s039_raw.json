@@ -1,0 +1,311 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Gerader Bund (1)\n\nDer obere Abschluss eines Rocks oder einer Hose in der Taille bildet oft ein bandähnliches Schnittteil, der Bund. Er soll den Rock fest in der Taille halten und verhindert durch eine stabile eingebügelte Einlage das Ausdehnen der oberen Rockkante. Eine Öffnung (z. B. ein Reißverschlussschlitz) ist notwendig, um den Rock an der Taille beim Anziehen zu erweitern. Ein gerader Bund wird meist nur an Röcken und Hosen gearbeitet, bei denen der Bundabschluss an der waagerechten Taille sitzt.\n\nHier wird der Rockschlitz mit einem Reißverschluss und der Bund durch einen Innenliegenden Knopf mit Riegel verschlossen.\n\n![img-0.jpeg](img-0.jpeg)\n\n☐1 Gerader Bund mit geknöpftem inneren Riegel an der hinteren Mitte\n\n13\n\n# 1 Bundform zeichnen\n\n1 ☐2 Da der gerade Bund genau in der Taille sitzt, muss die Bundlänge ca. dem Taillenumfang entsprechen.\n\n2 Ein Rechteck mit der Bundlänge entsprechend ca. dem Talz und einer Höhe (Bundbreite) von 2 bis 5 cm zeichnen.\n\n![img-1.jpeg](img-1.jpeg)\n\n# 2 hM und vM markieren\n\n☐2 Der Verschluss an den Enden des Bundes ist die hM.\n\n3 Die vM liegt genau auf der Hälfte der Bundlänge, da rechte und linke Körperseite symmetrisch sind.\n\n# 3 Taillennaht messen\n\n4 Alle Nahtstrecken der vorderen Taillennah und der hinteren Taillennah (jeweils ohne Abnäherinhalte) messen.\n\nDie Taillennahtlängen entsprechen der halben Taillenweite.\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n☐4 Messstrecken von der Taillennah am Rock auf den Bund übertragen und Seitennaht markieren\n\n# 4 Markierung der SN\n\n5 4 Die vordere Taillennah (vTaN) von der vM nach links und nach rechts abtragen.\n6 Die Länge der hinteren Taillennah (TaN) von der hM aus abtragen.\n7 Der Überschneidungsbetrag ist die Taillenmehrweite und beträgt ca. 1 bis 1,5 cm.\n\n8 Genau in der Mitte dieser zwei Markierungen wird nun die Seitennaht (SN) markiert.\n\n# Kontrolle der Taillenmehrweite\n\n\\(\\mathrm{vTaN} + \\mathrm{hTaN}\\) TaU-2\n\\(= 19.7 + 17.5cm - 36.0cm\\)\n- 1,2 cm Einhalteweite\n\nSollte die Taillenmehrweite größer als 1,5 cm sein, kann dies ein Anzeichen für einen Fehler z.B. bei der Rock Konstruktion oder einer Fehlmessung sein. Der Fehler sollte unbedingt identifiziert und berichtigt werden.\n\nGerader Bund\n\n13",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 347,
+          "top_left_y": 564,
+          "bottom_right_x": 658,
+          "bottom_right_y": 1731,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1144,
+          "top_left_y": 496,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 2509,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1491,
+          "top_left_y": 508,
+          "bottom_right_x": 2242,
+          "bottom_right_y": 1856,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2630,
+          "top_left_y": 530,
+          "bottom_right_x": 2920,
+          "bottom_right_y": 2567,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 102,
+          "top_left_y": 2230,
+          "bottom_right_x": 172,
+          "bottom_right_y": 2729,
+          "content": "# Gerader Bund (1)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 347,
+          "top_left_y": 2061,
+          "bottom_right_x": 952,
+          "bottom_right_y": 2763,
+          "content": "Der obere Abschluss eines Rocks oder einer Hose in der Taille bildet oft ein bandähnliches Schnittteil, der Bund. Er soll den Rock fest in der Taille halten und verhindert durch eine stabile eingebügelte Einlage das Ausdehnen der oberen Rockkante. Eine Öffnung (z. B. ein Reißverschlussschlitz) ist notwendig, um den Rock an der Taille beim Anziehen zu erweitern. Ein gerader Bund wird meist nur an Röcken und Hosen gearbeitet, bei denen der Bundabschluss an der waagerechten Taille sitzt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 972,
+          "top_left_y": 2068,
+          "bottom_right_x": 1152,
+          "bottom_right_y": 2784,
+          "content": "Hier wird der Rockschlitz mit einem Reißverschluss und der Bund durch einen Innenliegenden Knopf mit Riegel verschlossen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 347,
+          "top_left_y": 564,
+          "bottom_right_x": 658,
+          "bottom_right_y": 1731,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 670,
+          "top_left_y": 564,
+          "bottom_right_x": 711,
+          "bottom_right_y": 1731,
+          "content": "☐1 Gerader Bund mit geknöpftem inneren Riegel an der hinteren Mitte",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 355,
+          "top_left_y": 420,
+          "bottom_right_x": 396,
+          "bottom_right_y": 484,
+          "content": "13",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 788,
+          "top_left_y": 1550,
+          "bottom_right_x": 833,
+          "bottom_right_y": 1991,
+          "content": "# 1 Bundform zeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 854,
+          "top_left_y": 1305,
+          "bottom_right_x": 1033,
+          "bottom_right_y": 2003,
+          "content": "1 ☐2 Da der gerade Bund genau in der Taille sitzt, muss die Bundlänge ca. dem Taillenumfang entsprechen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 854,
+          "top_left_y": 548,
+          "bottom_right_x": 1029,
+          "bottom_right_y": 1244,
+          "content": "2 Ein Rechteck mit der Bundlänge entsprechend ca. dem Talz und einer Höhe (Bundbreite) von 2 bis 5 cm zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1144,
+          "top_left_y": 496,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 2509,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1638,
+          "top_left_y": 2294,
+          "bottom_right_x": 1687,
+          "bottom_right_y": 2809,
+          "content": "# 2 hM und vM markieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1711,
+          "top_left_y": 2068,
+          "bottom_right_x": 1805,
+          "bottom_right_y": 2738,
+          "content": "☐2 Der Verschluss an den Enden des Bundes ist die hM.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1830,
+          "top_left_y": 2080,
+          "bottom_right_x": 1977,
+          "bottom_right_y": 2824,
+          "content": "3 Die vM liegt genau auf der Hälfte der Bundlänge, da rechte und linke Körperseite symmetrisch sind.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2075,
+          "top_left_y": 2349,
+          "bottom_right_x": 2120,
+          "bottom_right_y": 2830,
+          "content": "# 3 Taillennaht messen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2144,
+          "top_left_y": 2080,
+          "bottom_right_x": 2352,
+          "bottom_right_y": 2839,
+          "content": "4 Alle Nahtstrecken der vorderen Taillennah und der hinteren Taillennah (jeweils ohne Abnäherinhalte) messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2373,
+          "top_left_y": 2089,
+          "bottom_right_x": 2475,
+          "bottom_right_y": 2769,
+          "content": "Die Taillennahtlängen entsprechen der halben Taillenweite.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1491,
+          "top_left_y": 508,
+          "bottom_right_x": 2242,
+          "bottom_right_y": 1856,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2630,
+          "top_left_y": 530,
+          "bottom_right_x": 2920,
+          "bottom_right_y": 2567,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2977,
+          "top_left_y": 766,
+          "bottom_right_x": 3026,
+          "bottom_right_y": 2573,
+          "content": "☐4 Messstrecken von der Taillennah am Rock auf den Bund übertragen und Seitennaht markieren",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3210,
+          "top_left_y": 2401,
+          "bottom_right_x": 3263,
+          "bottom_right_y": 2870,
+          "content": "# 4 Markierung der SN",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3288,
+          "top_left_y": 2101,
+          "bottom_right_x": 3855,
+          "bottom_right_y": 2901,
+          "content": "5 4 Die vordere Taillennah (vTaN) von der vM nach links und nach rechts abtragen.\n6 Die Länge der hinteren Taillennah (TaN) von der hM aus abtragen.\n7 Der Überschneidungsbetrag ist die Taillenmehrweite und beträgt ca. 1 bis 1,5 cm.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3390,
+          "top_left_y": 1237,
+          "bottom_right_x": 3561,
+          "bottom_right_y": 2031,
+          "content": "8 Genau in der Mitte dieser zwei Markierungen wird nun die Seitennaht (SN) markiert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3582,
+          "top_left_y": 1339,
+          "bottom_right_x": 3639,
+          "bottom_right_y": 2019,
+          "content": "# Kontrolle der Taillenmehrweite",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3668,
+          "top_left_y": 1385,
+          "bottom_right_x": 3839,
+          "bottom_right_y": 2019,
+          "content": "\\(\\mathrm{vTaN} + \\mathrm{hTaN}\\) TaU-2\n\\(= 19.7 + 17.5cm - 36.0cm\\)\n- 1,2 cm Einhalteweite",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3427,
+          "top_left_y": 383,
+          "bottom_right_x": 3827,
+          "bottom_right_y": 1161,
+          "content": "Sollte die Taillenmehrweite größer als 1,5 cm sein, kann dies ein Anzeichen für einen Fehler z.B. bei der Rock Konstruktion oder einer Fehlmessung sein. Der Fehler sollte unbedingt identifiziert und berichtigt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1250,
+          "top_left_y": 355,
+          "bottom_right_x": 1515,
+          "bottom_right_y": 414,
+          "content": "Gerader Bund",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3823,
+          "top_left_y": 165,
+          "bottom_right_x": 3884,
+          "bottom_right_y": 239,
+          "content": "13",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3622954
+  }
+}

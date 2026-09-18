@@ -1,0 +1,28 @@
+{
+  "seite": "s043",
+  "quelle": "OCR-Layoutantwort ocr_s043_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem unveränderten Originalbild s43.jpg geschnitten",
+  "hinweis": "Die Bounding Boxes beziehen sich auf die Pixelorientierung der OCR-Eingabe, also auf das unveränderte, nicht gedrehte Originalbild s43.jpg (4080x3060 px, EXIF-Orientierung 6). Für aufrechte Ausschnitte wurde jeweils zuerst mit diesen Koordinaten aus dem unveränderten Original geschnitten und der Ausschnitt danach entsprechend der EXIF-Orientierung um 270° gedreht (deckungsgleich mit ImageOps.exif_transpose). Das vollständige Originalbild bleibt unverändert und maßgeblich.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s043_skizze_01.png",
+      "bbox_original_ungedreht": [319, 564, 1662, 2781],
+      "bildunterschrift": "☐3 Rocksaum öffnen und Seitennaht ausstellen",
+      "beschreibung": "Zwei schematische Rock-Schablonen nebeneinander (VT links, RT rechts) mit je zwei durchgehenden Linien (vM/hM und Seitennaht) sowie eingezeichneten Saum-Öffnungskeilen. Nummerierte Punkte ⑦⑧⑨ (links) und ⑩⑪⑫ (rechts), Bezeichnungen vM, SN, hM, ZP, Bruchangaben ⅓/⅔, Maßangaben 'öffnen hier 6 cm', 'ausstellen hier 3 cm', 'öffnen wie vorne', 'ausstellen wie vorne', '12 bis 15 cm', sowie Pfeile/Beschriftung '½ der Öffnung ausstellen' und 'Öffnungsbetrag nach hinten übertragen'.",
+      "unsicher": "Bedeutung der roten Linien, des grün gestrichelten Bereichs und des roten Kreuzes rechts nicht ohne Werners Prüfung am Original festlegen; Zuordnung der Punktnummern zu Schritten offen."
+    },
+    {
+      "datei": "skizzen/s043_skizze_02.png",
+      "bbox_original_ungedreht": [2234, 1865, 3749, 2839],
+      "bildunterschrift": "☐4 Fertige Schablonen mit ausgerundeten Säumen (VT)",
+      "beschreibung": "Fertige Vorderteil-Schablone 'Saumerweiterter Rock-GS VT' mit den Linien vM-Stb, SN, gerundetem Saum (rot), Taillenabnäher-ähnlicher Linie, Beschriftung 'übertragen' und Punkt ⑬ am Saum.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar; genaue Kurvenform am Original zu prüfen."
+    },
+    {
+      "datei": "skizzen/s043_skizze_03.png",
+      "bbox_original_ungedreht": [2209, 404, 3659, 1354],
+      "bildunterschrift": "☐4 Fertige Schablonen mit ausgerundeten Säumen (RT)",
+      "beschreibung": "Fertige Rückteil-Schablone 'Saumerweiterter Rock-GS RT' mit den Linien SN, hM, gerundetem Saum (rot), spitz auslaufendem Abnäher, Beschriftungen 'messen' und Punkt ⑬.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar; genaue Kurvenform am Original zu prüfen."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "seite": "s048",
+  "quelle": "OCR-Layoutantwort ocr_s048_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem aufrecht gedrehten, auf x=0-2825 zugeschnittenen OCR-Eingabebild geschnitten",
+  "hinweis": "Pixelkoordinaten beziehen sich auf das aufrecht gedrehte, auf x=0-2825 zugeschnittene OCR-Eingabebild (2825x4080 px). Der Zuschnitt entfernte nur den rechten Bildrand mit sichtbarem Anschnitt der Folgeseite (49, 'Übersicht Rocklängen'); am Originalbild selbst wurde nichts verändert.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s048_skizze_01.png",
+      "bbox_ocr_eingabebild": [1875, 229, 2234, 1197],
+      "bildunterschrift": "☐1 Rock mit Kräuselweite an der Taille, Weiter Rock",
+      "beschreibung": "Modellfigur (Träger, Beine, Schuhe) mit hellblauem, glatt an der Taille eingekräuseltem Rock mit gleichmäßig fallenden, geraden Falten bis zum Saum.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s048_skizze_02.png",
+      "bbox_ocr_eingabebild": [2339, 229, 2703, 1184],
+      "bildunterschrift": "☐2 Ballon-Rock mit Kräuselweite an Taille und Saum",
+      "beschreibung": "Modellfigur (Träger, Beine, Schuhe) mit hellblauem Rock, der an Taille und Saum eingekräuselt ist und dadurch eine runde, ballonartige Silhouette bildet, die sich zum Saum hin wieder einzieht.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s048_skizze_03.png",
+      "bbox_ocr_eingabebild": [611, 1478, 2087, 2357],
+      "bildunterschrift": "☐3 Schnitt für Rock mit Kräuselweite",
+      "beschreibung": "Flächenskizze eines rechteckigen Schnittteils, geteilt in VT (links) und RT (rechts) durch eine rot gestrichelte Seitenlinie. Oben eine Reihe S-förmiger Kräuselzeichen über die ganze Breite, in der Mitte dichter/tiefer eingezeichnet als an den Rändern. Am linken Rand vM-Stb (Bruchkante), unten eine horizontale Hilfslinie (hM angedeutet am rechten Rand), links unten Maßpfeil 'Rockweite wie gewünscht vergrößern' (Punkt 2), rechts eine vertikale Maßlinie 'Rocklänge' (Punkt 1). Nummerierte Punkte 3 (oben Mitte, an der Seitenlinie) und 4 (an den Kräuselzeichen) referenzieren die Konstruktionsschritte im Fließtext. Links am Bildrand eine kleine rote Kreismarkierung mit der Zahl '36', erkennbar losgelöst von der eigentlichen Seitenzahl '48' der Buchseite.",
+      "unsicher": "Bedeutung der roten Kreismarkierung '36' unklar (keine Buchseitenzahl dieser Seite); ob es sich um eine Schnittteil- oder Grafiknummer aus einem übergreifenden Nummerierungssystem handelt, klärt Werner am Original."
+    },
+    {
+      "datei": "skizzen/s048_skizze_04.png",
+      "bbox_ocr_eingabebild": [486, 3010, 1193, 3525],
+      "bildunterschrift": "☐4 Kräuselfaktor 1,5",
+      "beschreibung": "Flache Zeichnung eines Rocks mit Bund; am Bund wenige, weiche Kräuselfalten, der Rock fällt mit leichtem, gleichmäßigem Schwung nach unten.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s048_skizze_05.png",
+      "bbox_ocr_eingabebild": [1264, 3043, 2022, 3578],
+      "bildunterschrift": "☐5 Kräuselfaktor 2",
+      "beschreibung": "Flache Zeichnung eines Rocks mit Bund; am Bund deutlich mehr und engere Kräuselfalten als bei ☐4, der Saum fällt voller und schwingt stärker aus.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s048_skizze_06.png",
+      "bbox_ocr_eingabebild": [2033, 3075, 2825, 3614],
+      "bildunterschrift": "☐6 Kräuselfaktor 3",
+      "beschreibung": "Flache Zeichnung eines Rocks mit Bund; am Bund die dichtesten und tiefsten Kräuselfalten der drei Beispiele, der Saum ist am vollsten und wellig geformt.",
+      "unsicher": "keine"
+    }
+  ]
+}

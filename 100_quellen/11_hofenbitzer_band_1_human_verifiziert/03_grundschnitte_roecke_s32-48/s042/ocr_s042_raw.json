@@ -1,0 +1,265 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-Grundschnitte\n\n# Saumerweiterter Rock-Grundschnitt (1)\nEinschnitte für Öffnungen\n\n![img-0.jpeg](img-0.jpeg)\n\n2a\n\nBenötigt man einen Rock mit mehr Saumweite, wird ein Grundschnitt mit Saumerweiterung aus dem geraden Rock-Grundschnitt konstruiert. Durch die geschwungene erweiterte Saumkante bilden sich je nach Saumweite und Materialeigenschaften weiche Rollfalten, die nach unten ausschwingen, sogenannte Glocken (hier nicht dargestellt).\n\nEs wäre nicht harmonisch, würde man die gesamte Saumerweiterung nur an der Seitennaht hinzugeben. Der Saum hätte dann nur an der Seite die glockige Weite. Vorne und hinten würde der Rock glatt fallen.\n\nDie Erweiterung muss an VT und RT identisch und gleichmäßig über die gesamte Saumweite verteilt werden. Hierzu ist es notwendig, zusätzliche Weite in ein Schnittteil hinein zu geben.\n\nDabei verändern sich die Abnäher. Wie man an der Skizze (□1) sieht, ist der vordere Abnäher verschwunden. Der hintere Abnäherinhalt verringert sich. Von einem geraden Rock-Grundschnitt mit ursprünglich zwei Abnähern an einer Rückteilhälfte bleibt beim saumerweiterten Rock-Grundschnitt nur noch einer übrig.\n\nFür ein Rock mit noch größerer Saumweite wäre ein Glockenrock die bessere Wahl.\n\nSaumerweiterter Rock-Grundschnitt\n\n# 1 Einschnittlinien für die Öffnung des Rock-Grundschnitts einzeichnen\n\n1 Um den Rock an der richtigen Stelle am Saum zu erweitern, müssen nun Öffnungslinien konstruiert werden, die den gesamten vorderen und den gesamten hinteren Rock jeweils dritteln (man stelle sich die Rockflächen jeweils an vM und hM gespiegelt vor).\n\nDiese Linien teilen den gesamten Rock in insgesamt 6 Bahnen. Siehe hierzu im Kapitel „Rock-Modelle“ auf Seite 64 den „Sechs-Bahnen-Rock“. Noch harmonischer wird eine Saumerweiterung durch eine Einteilung der Einschnitte wie beim „Zehn-Bahnen-Rock“, siehe Seite 65.\n\n# 2 Abnäher verschieben\n\n3 Den vorderen Abnaherinhalt messen und zur Öffnungslinie hin verschiben. Die Öffnungslinie ist die neue Abnahermitte.\n4 Den Abnaherinhalt anzeichen und die Abnaherschenkel bis mindestens 3 cm oberhalb der Huflinie zeichnen.\n5 Den hinteren Abnaherinhalt ebenso zur Einschnittlinie verschieben. Sind zwei Abnaher im RT vorhanden, werden beiden Abnaherinhalte addiert. Den neuen Abnaher in derselben Länge wie vorne einzeichnen.\n6 Vorder- und Hinterrock werden nun an den Einschnittlinien getrennt.\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n# 3 Rocksaum öffnen SN ausstellen\n\n7 Der vordere Abnaher wird zugelegt. Für noch mehr Saumweite kann an der Abnaherspitze auch mehr geöffnet werden. Der Drehpunkt ZP ist jetzt an der Taille.\n8 Um denselben Betrag wird der Hinterrock am Saum geöffnet. Der Drehpunkt ZP ist in thisem Fall die neue Abnaherspitze.\n9 An den Seitennähten wird jeweils der halbe Öffnungsbetrag angezeichnet und die neue Seitennaht gerade als Tangente auf den Hüftbogen gezeichnet.\n10 Im Rückteil ist der verbleibende Abnaher immer noch groß genug, um genäh zu werden.\n\n□2\n\nEinschnittlinien in den geraden Rock-Grundschnitt einzeichnen und Abnäher verschieben\n\nSaumweite\n\n42",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1846,
+          "top_left_y": 347,
+          "bottom_right_x": 2680,
+          "bottom_right_y": 1356,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 527,
+          "top_left_y": 2193,
+          "bottom_right_x": 1195,
+          "bottom_right_y": 3627,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1308,
+          "top_left_y": 2193,
+          "bottom_right_x": 1988,
+          "bottom_right_y": 3663,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2891
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 527,
+          "top_left_y": 351,
+          "bottom_right_x": 886,
+          "bottom_right_y": 453,
+          "content": "# Rock-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 941,
+          "top_left_y": 245,
+          "bottom_right_x": 1971,
+          "bottom_right_y": 425,
+          "content": "# Saumerweiterter Rock-Grundschnitt (1)\nEinschnitte für Öffnungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1846,
+          "top_left_y": 347,
+          "bottom_right_x": 2680,
+          "bottom_right_y": 1356,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 561,
+          "top_left_y": 564,
+          "bottom_right_x": 619,
+          "bottom_right_y": 596,
+          "content": "2a",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 700,
+          "top_left_y": 494,
+          "bottom_right_x": 1684,
+          "bottom_right_y": 756,
+          "content": "Benötigt man einen Rock mit mehr Saumweite, wird ein Grundschnitt mit Saumerweiterung aus dem geraden Rock-Grundschnitt konstruiert. Durch die geschwungene erweiterte Saumkante bilden sich je nach Saumweite und Materialeigenschaften weiche Rollfalten, die nach unten ausschwingen, sogenannte Glocken (hier nicht dargestellt).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 689,
+          "top_left_y": 756,
+          "bottom_right_x": 1684,
+          "bottom_right_y": 948,
+          "content": "Es wäre nicht harmonisch, würde man die gesamte Saumerweiterung nur an der Seitennaht hinzugeben. Der Saum hätte dann nur an der Seite die glockige Weite. Vorne und hinten würde der Rock glatt fallen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 677,
+          "top_left_y": 948,
+          "bottom_right_x": 1678,
+          "bottom_right_y": 1086,
+          "content": "Die Erweiterung muss an VT und RT identisch und gleichmäßig über die gesamte Saumweite verteilt werden. Hierzu ist es notwendig, zusätzliche Weite in ein Schnittteil hinein zu geben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 666,
+          "top_left_y": 1086,
+          "bottom_right_x": 1678,
+          "bottom_right_y": 1352,
+          "content": "Dabei verändern sich die Abnäher. Wie man an der Skizze (□1) sieht, ist der vordere Abnäher verschwunden. Der hintere Abnäherinhalt verringert sich. Von einem geraden Rock-Grundschnitt mit ursprünglich zwei Abnähern an einer Rückteilhälfte bleibt beim saumerweiterten Rock-Grundschnitt nur noch einer übrig.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 657,
+          "top_left_y": 1352,
+          "bottom_right_x": 1676,
+          "bottom_right_y": 1454,
+          "content": "Für ein Rock mit noch größerer Saumweite wäre ein Glockenrock die bessere Wahl.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 477,
+          "top_left_y": 1295,
+          "bottom_right_x": 561,
+          "bottom_right_y": 1613,
+          "content": "Saumerweiterter Rock-Grundschnitt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 651,
+          "top_left_y": 1556,
+          "bottom_right_x": 1942,
+          "bottom_right_y": 1601,
+          "content": "# 1 Einschnittlinien für die Öffnung des Rock-Grundschnitts einzeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 645,
+          "top_left_y": 1630,
+          "bottom_right_x": 1282,
+          "bottom_right_y": 1981,
+          "content": "1 Um den Rock an der richtigen Stelle am Saum zu erweitern, müssen nun Öffnungslinien konstruiert werden, die den gesamten vorderen und den gesamten hinteren Rock jeweils dritteln (man stelle sich die Rockflächen jeweils an vM und hM gespiegelt vor).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1346,
+          "top_left_y": 1609,
+          "bottom_right_x": 2003,
+          "bottom_right_y": 1969,
+          "content": "Diese Linien teilen den gesamten Rock in insgesamt 6 Bahnen. Siehe hierzu im Kapitel „Rock-Modelle“ auf Seite 64 den „Sechs-Bahnen-Rock“. Noch harmonischer wird eine Saumerweiterung durch eine Einteilung der Einschnitte wie beim „Zehn-Bahnen-Rock“, siehe Seite 65.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2084,
+          "top_left_y": 1519,
+          "bottom_right_x": 2573,
+          "bottom_right_y": 1560,
+          "content": "# 2 Abnäher verschieben",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2078,
+          "top_left_y": 1581,
+          "bottom_right_x": 2813,
+          "bottom_right_y": 2495,
+          "content": "3 Den vorderen Abnaherinhalt messen und zur Öffnungslinie hin verschiben. Die Öffnungslinie ist die neue Abnahermitte.\n4 Den Abnaherinhalt anzeichen und die Abnaherschenkel bis mindestens 3 cm oberhalb der Huflinie zeichnen.\n5 Den hinteren Abnaherinhalt ebenso zur Einschnittlinie verschieben. Sind zwei Abnaher im RT vorhanden, werden beiden Abnaherinhalte addiert. Den neuen Abnaher in derselben Länge wie vorne einzeichnen.\n6 Vorder- und Hinterrock werden nun an den Einschnittlinien getrennt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 527,
+          "top_left_y": 2193,
+          "bottom_right_x": 1195,
+          "bottom_right_y": 3627,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1308,
+          "top_left_y": 2193,
+          "bottom_right_x": 1988,
+          "bottom_right_y": 3663,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2104,
+          "top_left_y": 2589,
+          "bottom_right_x": 2807,
+          "bottom_right_y": 2642,
+          "content": "# 3 Rocksaum öffnen SN ausstellen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2101,
+          "top_left_y": 2663,
+          "bottom_right_x": 2874,
+          "bottom_right_y": 3651,
+          "content": "7 Der vordere Abnaher wird zugelegt. Für noch mehr Saumweite kann an der Abnaherspitze auch mehr geöffnet werden. Der Drehpunkt ZP ist jetzt an der Taille.\n8 Um denselben Betrag wird der Hinterrock am Saum geöffnet. Der Drehpunkt ZP ist in thisem Fall die neue Abnaherspitze.\n9 An den Seitennähten wird jeweils der halbe Öffnungsbetrag angezeichnet und die neue Seitennaht gerade als Tangente auf den Hüftbogen gezeichnet.\n10 Im Rückteil ist der verbleibende Abnaher immer noch groß genug, um genäh zu werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 527,
+          "top_left_y": 3659,
+          "bottom_right_x": 579,
+          "bottom_right_y": 3696,
+          "content": "□2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 631,
+          "top_left_y": 3663,
+          "bottom_right_x": 2104,
+          "bottom_right_y": 3782,
+          "content": "Einschnittlinien in den geraden Rock-Grundschnitt einzeichnen und Abnäher verschieben",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2830,
+          "top_left_y": 298,
+          "bottom_right_x": 2891,
+          "bottom_right_y": 404,
+          "content": "Saumweite",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 353,
+          "top_left_y": 3688,
+          "bottom_right_x": 411,
+          "bottom_right_y": 3737,
+          "content": "42",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2638047
+  }
+}

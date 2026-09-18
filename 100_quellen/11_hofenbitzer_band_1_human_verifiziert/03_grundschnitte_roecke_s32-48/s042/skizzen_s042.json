@@ -1,0 +1,28 @@
+{
+  "seite": "s042",
+  "quelle": "OCR-Layoutantwort ocr_s042_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem aufrecht gedrehten Originalbild s42.jpg geschnitten",
+  "hinweis": "Pixelkoordinaten beziehen sich auf das aufrecht gedrehte, auf x=0-2891 zugeschnittene OCR-Eingabebild (2891x4080 px). Der Zuschnitt entfernte nur den rechten Bildrand mit sichtbar mitfotografiertem Seite-43-Rest (schmaler Streifen der blauen Kopfzeile); am Originalbild-Ausschnitt selbst wurde nichts verändert.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s042_skizze_01.png",
+      "bbox_ocr_eingabebild": [1846, 347, 2680, 1356],
+      "bildunterschrift": "□1 Saumerweiterter Rock",
+      "beschreibung": "Zwei schematische Rockfiguren (Vorderansicht und Rückansicht) mit A-linienförmigem, glockig ausschwingendem Rocksaum. Rückansicht mit Reißverschluss/Knopf an der hinteren Mitte und zwei Abnähern sichtbar.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar."
+    },
+    {
+      "datei": "skizzen/s042_skizze_02.png",
+      "bbox_ocr_eingabebild": [527, 2193, 1195, 3627],
+      "bildunterschrift": "□2 Einschnittlinien in den geraden Rock-Grundschnitt einzeichnen und Abnäher verschieben (linker Teil)",
+      "beschreibung": "Schnittteil mit vM links und SN rechts, Teilung 1/3 zu 2/3 an der Saumlinie, durchgezogener und gestrichelter Pfeil zur Öffnungslinie, Abnäher (rot durchgestrichen) oben, Kennzeichnungen ①③④⑥, Beschriftungen 'AbI me', 'üb', 'mindestens 3 cm Abstand', 'Einschnittlinie'.",
+      "unsicher": "Lesart von 'AbI me' (vermutlich Abkürzung für Abnähermitte) nicht ohne Werners Prüfung am Original festlegen; Bildunterschrift steht gemeinsam mit skizze_03 unten auf der Seite."
+    },
+    {
+      "datei": "skizzen/s042_skizze_03.png",
+      "bbox_ocr_eingabebild": [1308, 2193, 1988, 3663],
+      "bildunterschrift": "□2 Einschnittlinien in den geraden Rock-Grundschnitt einzeichnen und Abnäher verschieben (rechter Teil)",
+      "beschreibung": "Schnittteil mit SN links und hM rechts, Teilung 2/3 zu 1/3 an der Saumlinie, durchgezogener und gestrichelter Pfeil zur Öffnungslinie, Abnäher (rot durchgestrichen) oben, Kennzeichnungen ①②③⑤⑥, Beschriftungen 'AbI me', 'üb', 'mindestens 3 cm Abstand', 'Einschnittlinie'.",
+      "unsicher": "Lesart von 'AbI me' (vermutlich Abkürzung für Abnähermitte) nicht ohne Werners Prüfung am Original festlegen; Bildunterschrift steht gemeinsam mit skizze_02 unten auf der Seite."
+    }
+  ]
+}

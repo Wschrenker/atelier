@@ -1,0 +1,75 @@
+{
+  "source": "s37.jpg",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s037_skizze_01.png",
+      "bbox_raw_pixels": [
+        286,
+        1406,
+        751,
+        2074
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s037_skizze_02.png",
+      "bbox_raw_pixels": [
+        1634,
+        1339,
+        2201,
+        2049
+      ]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s037_skizze_03.png",
+      "bbox_raw_pixels": [
+        2291,
+        1296,
+        2924,
+        2046
+      ]
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s037_skizze_04.png",
+      "bbox_raw_pixels": [
+        3055,
+        1253,
+        3733,
+        2031
+      ]
+    },
+    {
+      "id": "img-4.jpeg",
+      "file": "skizzen/s037_skizze_05.png",
+      "bbox_raw_pixels": [
+        314,
+        705,
+        625,
+        1339
+      ]
+    },
+    {
+      "id": "img-5.jpeg",
+      "file": "skizzen/s037_skizze_06.png",
+      "bbox_raw_pixels": [
+        694,
+        646,
+        960,
+        1323
+      ]
+    },
+    {
+      "id": "img-6.jpeg",
+      "file": "skizzen/s037_skizze_07.png",
+      "bbox_raw_pixels": [
+        1013,
+        646,
+        1360,
+        1293
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "source": "s39.jpg",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s039_skizze_01.png",
+      "bbox_raw_pixels": [
+        347,
+        564,
+        658,
+        1731
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s039_skizze_02.png",
+      "bbox_raw_pixels": [
+        1144,
+        496,
+        1385,
+        2509
+      ]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s039_skizze_03.png",
+      "bbox_raw_pixels": [
+        1491,
+        508,
+        2242,
+        1856
+      ]
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s039_skizze_04.png",
+      "bbox_raw_pixels": [
+        2630,
+        530,
+        2920,
+        2567
+      ]
+    }
+  ]
+}

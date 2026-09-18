@@ -1,0 +1,35 @@
+{
+  "seite": "s040",
+  "quelle": "OCR-Layoutantwort ocr_s040_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem aufrecht gedrehten Originalbild s40.jpg geschnitten",
+  "hinweis": "Pixelkoordinaten beziehen sich auf das aufrecht gedrehte, auf x=0-2700 zugeschnittene OCR-Eingabebild (2700x4080 px). Der Zuschnitt entfernte nur den rechten Bildrand mit sichtbarem Seite-41-Rest; am Originalbild-Ausschnitt selbst wurde nichts verändert.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s040_skizze_01.png",
+      "bbox_ocr_eingabebild": [1570, 1368, 2622, 1699],
+      "bildunterschrift": "☐1 Gerader geknöpfter Bund mit Über- und Untertritt an der hinteren Mitte",
+      "beschreibung": "Zwei schematische Rockfiguren mit Bund. Linke Figur: Bundverschluss an der hM, Knopf sichtbar, hM-Linie beschriftet. Rechte Figur: gleicher Bund mit zusätzlich eingezeichnetem grün gefülltem Dreieck am Bundende (vermutlich Übertritt-Zugabe) sowie hM-Linie.",
+      "unsicher": "Bedeutung der einzelnen Linien/Symbole (z. B. des grünen Dreiecks) nicht ohne Werners Prüfung am Original festlegen."
+    },
+    {
+      "datei": "skizzen/s040_skizze_02.png",
+      "bbox_ocr_eingabebild": [538, 2013, 1259, 2197],
+      "bildunterschrift": "☐2 Konstruktion von Über- und Untertritt am Bund (linker Teil: Untertritt)",
+      "beschreibung": "Rechteckiger Bundstreifen, links mit hM beschriftet, rechts mit rSN. Kennzeichnung ③ bei 'Knopf' nahe der hM-Kante.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar."
+    },
+    {
+      "datei": "skizzen/s040_skizze_03.png",
+      "bbox_ocr_eingabebild": [1811, 1997, 2603, 2230],
+      "bildunterschrift": "☐2 Konstruktion von Über- und Untertritt am Bund (rechter Teil: Übertritt)",
+      "beschreibung": "Rechteckiger Bundstreifen, links mit lSN beschriftet, rechts mit hM und 'Übertritt'. Kennzeichnungen ① an der hM-Kante und ② bei 'Knopfloch', dazu gestrichelter Kreis um einen Punkt auf der hM.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar."
+    },
+    {
+      "datei": "skizzen/s040_skizze_04.png",
+      "bbox_ocr_eingabebild": [492, 3014, 2551, 3500],
+      "bildunterschrift": "☐1 Produktionsschnitt eines geraden Bundes",
+      "beschreibung": "Langgestreckter Bundschnitt mit Pfeillinien und Beschriftungen: 'Knopfposition', 'Fadenlauf', 'Beschriftungen', 'Nahtlinie', 'Knopfloch', 'Knips'. Innentext im Schnitt: 'Bund / Gerader Rock / 1x Ost + El / Name der Kundin + Datum'. Weitere Kennzeichnungen: hM, rSN, vM, 'Umbruchlinie / Bügellinie', lSN.",
+      "unsicher": "Wortlaut 'Ost + El' unklar (möglicherweise OCR-Fehllesung); Werner prüft am Original."
+    }
+  ]
+}

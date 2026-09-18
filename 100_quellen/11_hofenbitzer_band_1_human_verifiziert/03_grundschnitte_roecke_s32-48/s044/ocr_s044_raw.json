@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "![img-0.jpeg](img-0.jpeg)\n\n# Rock-Grundschnitte\n\n# Echter Glockenrock\nVollglocke (Tellerrock)\n\nGlockenröcke können aus einem oder mehreren Kreisringen oder aus Kreisringsegmenten gearbeitet werden.\n\nDer echte Glockenrock besteht aus einem Vollkreisring (Vollglocke, Tellerrock). Er umspielt die Hüften und hat weich fallende Glocken am Saum - je nach verwendetem Material und Saumweite.\n\nGenauso werden auch Volants konstruiert. Anstelle der Bundnaht gibt es hier die Volant-Ansatznaht.\n\n# Berechnungen\n\n$$\\begin{array}{l} r_{TaW} = TaW : (2 \\cdot \\pi) \\\\ = 72 \\text{ cm} : (2 \\cdot 3,14) \\\\ = 11,5 \\text{ cm} \\end{array}$$\n\n$$\\begin{array}{l} r_{SaW} = r_{TaW} + MoL \\\\ = 11,5 \\text{ cm} + 50 \\text{ cm} \\\\ = 61,5 \\text{ cm} \\end{array}$$\n\n$$\\begin{array}{l} SaW = 2 \\cdot \\pi \\cdot r_{SaW} \\\\ = 2 \\cdot 3,14 \\cdot 61,5 \\text{ cm} \\\\ = 386,2 \\text{ cm} \\end{array}$$\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\nEchter Glockenrock (Tellerrock)\n\n# 1 Konstruktion\n\n1 Taillenweite und Rocklänge bestimmten und Berechnungen durchfuhren.\n2 \\(\\square 3 + 4\\) : Je nach Stoffbreite und Rocklänge wird ein halber oder ein viertel Kreisring konstruiert und entsprechend der Stoff doppelt oder vierfach im Bruch gelegt. Man zeichnet auf Schnittpapier oder direkt auf den Stoff.\n3 \\(\\square 2\\) Grundlinie des Kreises und Kreis-Mittelpunkt bestimmen.\n4 Einen Kreis mit dem inneren Radius \\((r_{\\mathrm{TaW}})\\) zeichnen \\(\\rightarrow\\) Taillenkreis.\nEbenfalls um den Mittelpunkt einen Kreis mit dem äußerten Radius \\((r_{\\mathrm{taW}})\\) zeichnen \\(\\rightarrow\\) Saumkreis.\nRechtwinklig durch den Mittelpunkt eine zweite Linie zum äußerten Kreisbogen zeichnen \\(\\rightarrow\\) Seitenlinie.\n\n# 2 Zuschnitt\n\n□3 Je nach Stoffbreite und Rocklänge müssen bei Glockenröcken zwei Kreisringe aneinander genährt werden, was für das Einnahen eines Reißverschlusses gänstiger ist. Der Zuschnitt kann ggf. auch im Stoffbruch erfolgen,\n□3+4 zeigen den Zuschnitt als kompletten Kreisring. Dies ist nur möglich, wenn die Stofffläche ausreichend groß ist. In der Taille muss dann ein Schlitz für den Reißverschluss berücksichtigt werden:\n\n$$r_{TaW} = (TaW + 2 \\cdot NZg) : (2 \\cdot \\pi)$$\n\n☐4 Auch ein Zuschnitt mit einem ¼-Schnitt ist möglich; sowohl mit, als auch ohne Nähte (wie hier gezeigt).\n\nAm Ende muss immer ein voller Kreisring zusammengenäht sein.\n\n☐3 Doppellagiger Zuschnitt (1 Stoffbruch)\n\n![img-3.jpeg](img-3.jpeg)\n\n☐4 Vierlagiger Zuschnitt (4 Stoffbrüder)\n\n44",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1959,
+          "top_left_y": 135,
+          "bottom_right_x": 2611,
+          "bottom_right_y": 1237,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 457,
+          "top_left_y": 874,
+          "bottom_right_x": 1865,
+          "bottom_right_y": 2013,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1968,
+          "top_left_y": 1315,
+          "bottom_right_x": 2695,
+          "bottom_right_y": 2622,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1995,
+          "top_left_y": 2875,
+          "bottom_right_x": 2700,
+          "bottom_right_y": 3651,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2700
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 1959,
+          "top_left_y": 135,
+          "bottom_right_x": 2611,
+          "bottom_right_y": 1237,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 346,
+          "top_left_y": 163,
+          "bottom_right_x": 730,
+          "bottom_right_y": 274,
+          "content": "# Rock-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 789,
+          "top_left_y": 135,
+          "bottom_right_x": 1378,
+          "bottom_right_y": 265,
+          "content": "# Echter Glockenrock\nVollglocke (Tellerrock)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 532,
+          "top_left_y": 372,
+          "bottom_right_x": 1243,
+          "bottom_right_y": 502,
+          "content": "Glockenröcke können aus einem oder mehreren Kreisringen oder aus Kreisringsegmenten gearbeitet werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 524,
+          "top_left_y": 515,
+          "bottom_right_x": 1243,
+          "bottom_right_y": 719,
+          "content": "Der echte Glockenrock besteht aus einem Vollkreisring (Vollglocke, Tellerrock). Er umspielt die Hüften und hat weich fallende Glocken am Saum - je nach verwendetem Material und Saumweite.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 508,
+          "top_left_y": 735,
+          "bottom_right_x": 1235,
+          "bottom_right_y": 866,
+          "content": "Genauso werden auch Volants konstruiert. Anstelle der Bundnaht gibt es hier die Volant-Ansatznaht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1392,
+          "top_left_y": 351,
+          "bottom_right_x": 1657,
+          "bottom_right_y": 396,
+          "content": "# Berechnungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1389,
+          "top_left_y": 421,
+          "bottom_right_x": 1854,
+          "bottom_right_y": 551,
+          "content": "$$\\begin{array}{l} r_{TaW} = TaW : (2 \\cdot \\pi) \\\\ = 72 \\text{ cm} : (2 \\cdot 3,14) \\\\ = 11,5 \\text{ cm} \\end{array}$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 1389,
+          "top_left_y": 604,
+          "bottom_right_x": 1838,
+          "bottom_right_y": 727,
+          "content": "$$\\begin{array}{l} r_{SaW} = r_{TaW} + MoL \\\\ = 11,5 \\text{ cm} + 50 \\text{ cm} \\\\ = 61,5 \\text{ cm} \\end{array}$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 1386,
+          "top_left_y": 776,
+          "bottom_right_x": 1865,
+          "bottom_right_y": 911,
+          "content": "$$\\begin{array}{l} SaW = 2 \\cdot \\pi \\cdot r_{SaW} \\\\ = 2 \\cdot 3,14 \\cdot 61,5 \\text{ cm} \\\\ = 386,2 \\text{ cm} \\end{array}$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 457,
+          "top_left_y": 874,
+          "bottom_right_x": 1865,
+          "bottom_right_y": 2013,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1968,
+          "top_left_y": 1315,
+          "bottom_right_x": 2695,
+          "bottom_right_y": 2622,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 332,
+          "top_left_y": 939,
+          "bottom_right_x": 397,
+          "bottom_right_y": 1495,
+          "content": "Echter Glockenrock (Tellerrock)",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 424,
+          "top_left_y": 2316,
+          "bottom_right_x": 762,
+          "bottom_right_y": 2365,
+          "content": "# 1 Konstruktion",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 338,
+          "top_left_y": 2385,
+          "bottom_right_x": 1122,
+          "bottom_right_y": 3708,
+          "content": "1 Taillenweite und Rocklänge bestimmten und Berechnungen durchfuhren.\n2 \\(\\square 3 + 4\\) : Je nach Stoffbreite und Rocklänge wird ein halber oder ein viertel Kreisring konstruiert und entsprechend der Stoff doppelt oder vierfach im Bruch gelegt. Man zeichnet auf Schnittpapier oder direkt auf den Stoff.\n3 \\(\\square 2\\) Grundlinie des Kreises und Kreis-Mittelpunkt bestimmen.\n4 Einen Kreis mit dem inneren Radius \\((r_{\\mathrm{TaW}})\\) zeichnen \\(\\rightarrow\\) Taillenkreis.\nEbenfalls um den Mittelpunkt einen Kreis mit dem äußerten Radius \\((r_{\\mathrm{taW}})\\) zeichnen \\(\\rightarrow\\) Saumkreis.\nRechtwinklig durch den Mittelpunkt eine zweite Linie zum äußerten Kreisbogen zeichnen \\(\\rightarrow\\) Seitenlinie.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1197,
+          "top_left_y": 2312,
+          "bottom_right_x": 1465,
+          "bottom_right_y": 2361,
+          "content": "# 2 Zuschnitt",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1168,
+          "top_left_y": 2385,
+          "bottom_right_x": 1922,
+          "bottom_right_y": 3030,
+          "content": "□3 Je nach Stoffbreite und Rocklänge müssen bei Glockenröcken zwei Kreisringe aneinander genährt werden, was für das Einnahen eines Reißverschlusses gänstiger ist. Der Zuschnitt kann ggf. auch im Stoffbruch erfolgen,\n□3+4 zeigen den Zuschnitt als kompletten Kreisring. Dies ist nur möglich, wenn die Stofffläche ausreichend groß ist. In der Taille muss dann ein Schlitz für den Reißverschluss berücksichtigt werden:",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1254,
+          "top_left_y": 3043,
+          "bottom_right_x": 1854,
+          "bottom_right_y": 3112,
+          "content": "$$r_{TaW} = (TaW + 2 \\cdot NZg) : (2 \\cdot \\pi)$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 1157,
+          "top_left_y": 3132,
+          "bottom_right_x": 1922,
+          "bottom_right_y": 3308,
+          "content": "☐4 Auch ein Zuschnitt mit einem ¼-Schnitt ist möglich; sowohl mit, als auch ohne Nähte (wie hier gezeigt).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1162,
+          "top_left_y": 3320,
+          "bottom_right_x": 1911,
+          "bottom_right_y": 3439,
+          "content": "Am Ende muss immer ein voller Kreisring zusammengenäht sein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1992,
+          "top_left_y": 2663,
+          "bottom_right_x": 2700,
+          "bottom_right_y": 2720,
+          "content": "☐3 Doppellagiger Zuschnitt (1 Stoffbruch)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1995,
+          "top_left_y": 2875,
+          "bottom_right_x": 2700,
+          "bottom_right_y": 3651,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2011,
+          "top_left_y": 3717,
+          "bottom_right_x": 2700,
+          "bottom_right_y": 3778,
+          "content": "☐4 Vierlagiger Zuschnitt (4 Stoffbrüder)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 141,
+          "top_left_y": 3688,
+          "bottom_right_x": 205,
+          "bottom_right_y": 3745,
+          "content": "44",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3320181
+  }
+}

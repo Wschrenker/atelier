@@ -1,0 +1,293 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Rock-Grundschnitte\n\nGerader Bund (2)\n\nVariante 1:\n\nBund mit Über- und Untertritt\n\n# Platzieren von Knöpfen und Knopflöchern\n\nEin Knopfverschluss wird an eine zu verschließende Kante gearbeitet (Bundkante, Jackenkante, Kragenkante, Schlitzkante, usw.). Der Verschluss besteht immer aus dem Knopf und dem Knopfloch (oder einer Schlinge oder einem Riegel).\n\nDamen- und Herrenbekleidung schließen unterschiedlich. Damen schließen \"rechts über links\", während Herren \"links über rechts\" schließen, d.h. bei Damen liegt die rechte Bekleidungsselte am Verschluss oben, der Übertritt ist auf der rechten Seite des Kleidungsstücks und der Untertritt auf der linken Seite - bei Herren ist der Verschluss traditionell an der anderen Seite.\n\nWenn der Knopf genau über dem Verschluss-Schlitz, d.h. auf der vM, der hM oder auf der Seitennaht sitzen soll (hier auf der hM), muss am Kleidungsstück oder am Bund ein Übertritt und ein Untertritt vorhanden sein.\n\nDie nachfolgende Konstruktion gilt für einen Verschluss an der hM, könnte jedoch genauso an der vM oder seitlich erfolgen.\n\nDie Knopfmitte sitzt genau auf der hM. Den Knopf in Originalgroße einzeichnen. Dazu passend die Übertrittskante gestalten: Der Abstand zur Knopfkante soll harmonisch und zum Modell passend sein.\nDas Knopfloch am Übertritt wird passend zum Knopfdurchmesser markiert. Das Auge (der Knopflochbeginn) liegt an der markierten Knopfmitte. Knopflochlänge = Knopfdurchmesser + ca. 2 mm.\n3 Der Untertritt kommt ans andere Bund-Ende. Dort wird die Knopfposition wie am Übertritt genau auf der hM markiert und die Untertrittbreite angezeichnet. Der Untertritt sollte mindestens so lang sein wie das Knopfloch, better 0,5 bis 1 cm länger.\n\n# Platzierung des Übertritts an Damenbekleidung\n\n![img-0.jpeg](img-0.jpeg)\n\nBei vorderen Verschlüssen kommt der Übertritt bei Damenmode auf die rechte Körperseite (siehe folgende Seite). Der Verschluss schließt also von rechts nach links um den Körper herum. In dieselbe Richtung wird auch der hintere Verschluss geschlossen. Der Übertritt kommt hinten auf die linke Körperseite, bzw. auf das linke hintere Schnittteil.\n\nBei einem Bund mit Verschluss an der linken Seitennaht, kommt der Übertritt an das linke vordere Bundende. Der Untertritt wird jeweils am anderen Bundende platziert.\n\n☐1 Gerader geknüpfter Bund mit Über- und Untertritt an der hinteren Mitte\n\nUntertritt\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n# Bund\n\n☐2 Konstruktion von Über- und Untertritt am Bund\n\n# Produktionsschnitt für einen Bund mit Verschluss an hM\n\nWie ab Seite 21 und auf Seite 38 beschrieben, wird eine Zuschneideschablone beschriftet und mit Nahtzugaben sowie mit allen notwendigen Markierungen versehen.\n\n![img-3.jpeg](img-3.jpeg)\n\n☐1 Produktionsschnitt eines geraden Bundes\n\n40",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1570,
+          "top_left_y": 1368,
+          "bottom_right_x": 2622,
+          "bottom_right_y": 1699,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1811,
+          "top_left_y": 1997,
+          "bottom_right_x": 2603,
+          "bottom_right_y": 2230,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 538,
+          "top_left_y": 2013,
+          "bottom_right_x": 1259,
+          "bottom_right_y": 2197,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 492,
+          "top_left_y": 3014,
+          "bottom_right_x": 2551,
+          "bottom_right_y": 3500,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2700
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 481,
+          "top_left_y": 265,
+          "bottom_right_x": 824,
+          "bottom_right_y": 368,
+          "content": "Rock-Grundschnitte",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 884,
+          "top_left_y": 229,
+          "bottom_right_x": 1311,
+          "bottom_right_y": 290,
+          "content": "Gerader Bund (2)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 654,
+          "top_left_y": 462,
+          "bottom_right_x": 832,
+          "bottom_right_y": 498,
+          "content": "Variante 1:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 889,
+          "top_left_y": 441,
+          "bottom_right_x": 1362,
+          "bottom_right_y": 478,
+          "content": "Bund mit Über- und Untertritt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 649,
+          "top_left_y": 543,
+          "bottom_right_x": 1319,
+          "bottom_right_y": 584,
+          "content": "# Platzieren von Knöpfen und Knopflöchern",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 622,
+          "top_left_y": 592,
+          "bottom_right_x": 1549,
+          "bottom_right_y": 760,
+          "content": "Ein Knopfverschluss wird an eine zu verschließende Kante gearbeitet (Bundkante, Jackenkante, Kragenkante, Schlitzkante, usw.). Der Verschluss besteht immer aus dem Knopf und dem Knopfloch (oder einer Schlinge oder einem Riegel).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 611,
+          "top_left_y": 764,
+          "bottom_right_x": 1538,
+          "bottom_right_y": 1046,
+          "content": "Damen- und Herrenbekleidung schließen unterschiedlich. Damen schließen \"rechts über links\", während Herren \"links über rechts\" schließen, d.h. bei Damen liegt die rechte Bekleidungsselte am Verschluss oben, der Übertritt ist auf der rechten Seite des Kleidungsstücks und der Untertritt auf der linken Seite - bei Herren ist der Verschluss traditionell an der anderen Seite.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 584,
+          "top_left_y": 1062,
+          "bottom_right_x": 1535,
+          "bottom_right_y": 1225,
+          "content": "Wenn der Knopf genau über dem Verschluss-Schlitz, d.h. auf der vM, der hM oder auf der Seitennaht sitzen soll (hier auf der hM), muss am Kleidungsstück oder am Bund ein Übertritt und ein Untertritt vorhanden sein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1605,
+          "top_left_y": 502,
+          "bottom_right_x": 2578,
+          "bottom_right_y": 633,
+          "content": "Die nachfolgende Konstruktion gilt für einen Verschluss an der hM, könnte jedoch genauso an der vM oder seitlich erfolgen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1595,
+          "top_left_y": 637,
+          "bottom_right_x": 2595,
+          "bottom_right_y": 1205,
+          "content": "Die Knopfmitte sitzt genau auf der hM. Den Knopf in Originalgroße einzeichnen. Dazu passend die Übertrittskante gestalten: Der Abstand zur Knopfkante soll harmonisch und zum Modell passend sein.\nDas Knopfloch am Übertritt wird passend zum Knopfdurchmesser markiert. Das Auge (der Knopflochbeginn) liegt an der markierten Knopfmitte. Knopflochlänge = Knopfdurchmesser + ca. 2 mm.\n3 Der Untertritt kommt ans andere Bund-Ende. Dort wird die Knopfposition wie am Übertritt genau auf der hM markiert und die Untertrittbreite angezeichnet. Der Untertritt sollte mindestens so lang sein wie das Knopfloch, better 0,5 bis 1 cm länger.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 578,
+          "top_left_y": 1327,
+          "bottom_right_x": 1362,
+          "bottom_right_y": 1372,
+          "content": "# Platzierung des Übertritts an Damenbekleidung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1570,
+          "top_left_y": 1368,
+          "bottom_right_x": 2622,
+          "bottom_right_y": 1699,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 551,
+          "top_left_y": 1389,
+          "bottom_right_x": 1519,
+          "bottom_right_y": 1638,
+          "content": "Bei vorderen Verschlüssen kommt der Übertritt bei Damenmode auf die rechte Körperseite (siehe folgende Seite). Der Verschluss schließt also von rechts nach links um den Körper herum. In dieselbe Richtung wird auch der hintere Verschluss geschlossen. Der Übertritt kommt hinten auf die linke Körperseite, bzw. auf das linke hintere Schnittteil.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 541,
+          "top_left_y": 1646,
+          "bottom_right_x": 1511,
+          "bottom_right_y": 1777,
+          "content": "Bei einem Bund mit Verschluss an der linken Seitennaht, kommt der Übertritt an das linke vordere Bundende. Der Untertritt wird jeweils am anderen Bundende platziert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1589,
+          "top_left_y": 1703,
+          "bottom_right_x": 2592,
+          "bottom_right_y": 1777,
+          "content": "☐1 Gerader geknüpfter Bund mit Über- und Untertritt an der hinteren Mitte",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 538,
+          "top_left_y": 1973,
+          "bottom_right_x": 673,
+          "bottom_right_y": 2009,
+          "content": "Untertritt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1811,
+          "top_left_y": 1997,
+          "bottom_right_x": 2603,
+          "bottom_right_y": 2230,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 538,
+          "top_left_y": 2013,
+          "bottom_right_x": 1259,
+          "bottom_right_y": 2197,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1289,
+          "top_left_y": 2030,
+          "bottom_right_x": 1776,
+          "bottom_right_y": 2205,
+          "content": "# Bund",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1557,
+          "top_left_y": 2234,
+          "bottom_right_x": 2424,
+          "bottom_right_y": 2291,
+          "content": "☐2 Konstruktion von Über- und Untertritt am Bund",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 468,
+          "top_left_y": 2593,
+          "bottom_right_x": 1451,
+          "bottom_right_y": 2659,
+          "content": "# Produktionsschnitt für einen Bund mit Verschluss an hM",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 443,
+          "top_left_y": 2663,
+          "bottom_right_x": 1476,
+          "bottom_right_y": 2822,
+          "content": "Wie ab Seite 21 und auf Seite 38 beschrieben, wird eine Zuschneideschablone beschriftet und mit Nahtzugaben sowie mit allen notwendigen Markierungen versehen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 492,
+          "top_left_y": 3014,
+          "bottom_right_x": 2551,
+          "bottom_right_y": 3500,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 492,
+          "top_left_y": 3451,
+          "bottom_right_x": 1219,
+          "bottom_right_y": 3541,
+          "content": "☐1 Produktionsschnitt eines geraden Bundes",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 222,
+          "top_left_y": 3467,
+          "bottom_right_x": 284,
+          "bottom_right_y": 3516,
+          "content": "40",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2177096
+  }
+}

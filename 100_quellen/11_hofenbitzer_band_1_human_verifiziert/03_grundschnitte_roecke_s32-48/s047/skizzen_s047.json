@@ -1,0 +1,35 @@
+{
+  "seite": "s047",
+  "quelle": "OCR-Layoutantwort ocr_s047_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem aufrecht gedrehten Originalbild s47.jpg geschnitten",
+  "hinweis": "Pixelkoordinaten beziehen sich auf das aufrecht gedrehte OCR-Eingabebild (3060x4080 px). Für den OCR-Lauf wurde zusätzlich links oben ein Bereich (x 0-300, y 0-800) weiß übermalt, weil dort ein schmaler, schräg mitfotografierter Rest der linken Nachbarseite (46) saß und die OCR sonst in eine Wiederholungsschleife lief; die hier geschnittenen Skizzenausschnitte stammen aus dem unveränderten Originalbild an denselben Koordinaten, außerhalb des übermalten Bereichs.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s047_skizze_01.png",
+      "bbox_ocr_eingabebild": [331, 400, 1317, 1613],
+      "bildunterschrift": "☐4 Hosenrock-Konstruktion aus einem geraden Rock-Grundschnitt",
+      "beschreibung": "Linke Schnittteilhälfte 'Gerader Hosenrock VT 2×-p' (vorderes Innenbeinteil): Grundgerüst mit vM, Hüftlinie, Abnäher, an Punkt 2 abgewinkelte Gesäßnaht mit Hilfslinien (1/2, 1/2, 1/2) und Punkt 4, Saum an Punkt 5 gewinkelt. Maßangaben HüU:8-2cm (zweimal), Sitzhöhe + 0 bis 1 cm.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s047_skizze_02.png",
+      "bbox_ocr_eingabebild": [1363, 425, 2417, 1613],
+      "bildunterschrift": "☐4 Hosenrock-Konstruktion aus einem geraden Rock-Grundschnitt",
+      "beschreibung": "Rechte Schnittteilhälfte 'Gerader Hosenrock RT 2×-p' (hinteres Innenbeinteil): Grundgerüst mit hM, Hüftlinie, zwei Abnähern, an Punkt 3 abgewinkelte Gesäßnaht mit Hilfslinien (1/2, 1/2+0,5) und Punkt 4, Saum an Punkt 5 gewinkelt. Maßangaben HüU:8+2cm (zweimal), Sitzhöhe + 0 bis 1 cm.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s047_skizze_03.png",
+      "bbox_ocr_eingabebild": [113, 2111, 1323, 3606],
+      "bildunterschrift": "☐5 Hosenrock-Konstruktion mit einem saumerweiterten Rock-Grundschnitt mit größerem Innenbeinteil (hier kürzer als in ☐2)",
+      "beschreibung": "Linke Schnittteilhälfte 'Saumerweiterter Hosenrock VT 2×-p' (vorderes Innenbeinteil), zum Saum hin ausgestellte Seitenlinie: Grundgerüst mit vM, Hüftlinie, Abnäher, an Punkt 2 abgewinkelte Gesäßnaht mit Hilfslinien (1/2, 1/2, 1/2) und Punkt 4, Saum an Punkt 5 gewinkelt. Maßangaben HüU:8-1,5cm (zweimal), Sitzhöhe + 1 bis 2 cm.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s047_skizze_04.png",
+      "bbox_ocr_eingabebild": [1339, 2111, 2646, 3549],
+      "bildunterschrift": "☐5 Hosenrock-Konstruktion mit einem saumerweiterten Rock-Grundschnitt mit größerem Innenbeinteil (hier kürzer als in ☐2)",
+      "beschreibung": "Rechte Schnittteilhälfte 'Saumerweiterter Hosenrock RT 2×-p' (hinteres Innenbeinteil), zum Saum hin ausgestellte Seitenlinie: Grundgerüst mit hM, Hüftlinie, zwei Abnähern, an Punkt 3 abgewinkelte Gesäßnaht mit Hilfslinien (1/2, 1/2+0,5) und Punkt 4, Saum an Punkt 5 gewinkelt. Maßangaben HüU:8+3cm (zweimal), Sitzhöhe + 1 bis 2 cm. Am rechten Bildrand eine kleine rote Seitenzahl '42' als Querverweis sichtbar.",
+      "unsicher": "keine"
+    }
+  ]
+}

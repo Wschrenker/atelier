@@ -1,0 +1,55 @@
+{
+  "seite": "s046",
+  "quelle": "OCR-Layoutantwort ocr_s046_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem unveränderten Originalbild s46.jpg geschnitten",
+  "hinweis": "Die Bounding Boxes beziehen sich auf die Pixelorientierung der OCR-Eingabe, also auf das unveränderte, nicht gedrehte Originalbild s46.jpg (4080x3060 px, EXIF-Orientierung 6). Für aufrechte Ausschnitte wurde jeweils zuerst mit diesen Koordinaten aus dem unveränderten Original geschnitten und der Ausschnitt danach entsprechend der EXIF-Orientierung um 270° gedreht (deckungsgleich mit ImageOps.exif_transpose). Das vollständige Originalbild bleibt unverändert und maßgeblich. Die Reihenfolge der Dateien folgt der Leserichtung auf der Seite, nicht der Reihenfolge img-0..img-5 aus der Rohantwort.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s046_skizze_01.png",
+      "bbox_original_ungedreht": [649, 1740, 1772, 2371],
+      "quelle_ocr_id": "img-2.jpeg",
+      "bildunterschrift": "☐1 Rock ausstellen und einstellen",
+      "beschreibung": "Großes VT-Schema (vM/SN, ein Abnäher, Hüftlinie gestrichelt) mit roter Ausstell-/Einstellmarkierung an der Seitennaht: 'ca. 4 cm' senkrecht ab Hüftlinie, dann 'ca. 4 cm' schräg zum Saum, mit Scherensymbol an der SN unten.",
+      "unsicher": "Genaue Bedeutung der roten Linie (Ausstellen oder Einstellen) sowie der Winkel am Saum erst am Original mit Werner klären."
+    },
+    {
+      "datei": "skizzen/s046_skizze_02.png",
+      "bbox_original_ungedreht": [649, 1038, 1777, 1712],
+      "quelle_ocr_id": "img-1.jpeg",
+      "bildunterschrift": "☐1 Rock ausstellen und einstellen",
+      "beschreibung": "Großes RT-Schema (SN/hM, zwei Abnäher, Hüftlinie gestrichelt), spiegelbildlich zu Skizze 01: dieselbe rote Ausstell-/Einstellmarkierung 'ca. 4 cm' / 'ca. 4 cm' mit Scherensymbol an der SN.",
+      "unsicher": "Wie Skizze 01."
+    },
+    {
+      "datei": "skizzen/s046_skizze_03.png",
+      "bbox_original_ungedreht": [629, 266, 1217, 965],
+      "quelle_ocr_id": "img-0.jpeg",
+      "bildunterschrift": "☐1 Rock ausstellen und einstellen",
+      "beschreibung": "Obere Reihe eines kleineren 2×2-Rasters rechts neben den großen Schemata: zwei einfache Grundformen (VA/SN links, SN/hM rechts) ohne rote Markierung, nur Hüftlinie gestrichelt.",
+      "unsicher": "Bezug dieser Rasterdarstellung zum Fließtext (welcher Schritt sie genau illustriert) nicht ohne Werners Prüfung festlegen."
+    },
+    {
+      "datei": "skizzen/s046_skizze_04.png",
+      "bbox_original_ungedreht": [1213, 254, 1838, 968],
+      "quelle_ocr_id": "img-3.jpeg",
+      "bildunterschrift": "☐1 Rock ausstellen und einstellen",
+      "beschreibung": "Untere Reihe desselben 2×2-Rasters: dieselben zwei Grundformen (VA/SN links, SN/hM rechts), diesmal mit der Seitennaht rot/pink nachgezogen.",
+      "unsicher": "Wie Skizze 03."
+    },
+    {
+      "datei": "skizzen/s046_skizze_05.png",
+      "bbox_original_ungedreht": [2124, 1691, 3288, 2613],
+      "quelle_ocr_id": "img-4.jpeg",
+      "bildunterschrift": "☐1 Gerader Hosenrock / ☐2 Saumerweiterter Hosenrock",
+      "beschreibung": "Zwei Figurinen nebeneinander in Vorderansicht, jeweils mit Bundabschluss, Reißverschluss vorne, Mittelnaht und angedeuteter Innenbeinteilung: links schmalere, gerade fallende Silhouette (☐1 Gerader Hosenrock), rechts weiter ausgestellte Silhouette (☐2 Saumerweiterter Hosenrock).",
+      "unsicher": "Keine Maßangaben auf den Figurinen; Detailverlauf der Innenbeinnaht nicht sicher erkennbar."
+    },
+    {
+      "datei": "skizzen/s046_skizze_06.png",
+      "bbox_original_ungedreht": [2634, 1026, 3459, 1626],
+      "quelle_ocr_id": "img-5.jpeg",
+      "bildunterschrift": "☐3 Messung der Sitzhöhe",
+      "beschreibung": "Seitenansicht von Becken/Bein mit sitzender Person angedeutet: rote senkrechte Messlinie 'SiH' von der Taillenmaßband-Unterkante (blau) über die seitliche Hüftkurve bis zur Sitzfläche, dort auf ein grau angedeutetes Sitzmöbel treffend.",
+      "unsicher": "Keine, Beschriftung ☐3/SiH ist direkt im Bild vorhanden."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "seite": "s045",
+  "quelle": "OCR-Layoutantwort ocr_s045_raw.json (image-Blöcke), Ausschnitte verlustfrei aus dem aufrecht gedrehten Originalbild s45.jpg geschnitten",
+  "hinweis": "Pixelkoordinaten beziehen sich auf das aufrecht gedrehte, auf x=90-3060 zugeschnittene OCR-Eingabebild (2970x4080 px). Der Zuschnitt entfernte nur den linken Bildrand mit sichtbarem Seite-44-Rest; am Originalbild-Ausschnitt selbst wurde nichts verändert.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s045_skizze_01.png",
+      "bbox_ocr_eingabebild": [1941, 131, 2411, 1086],
+      "bildunterschrift": "☐1 Glockenrock als Halbglocke",
+      "beschreibung": "Modellfigur (Beine, Schuhe) mit hellblauem, mäßig weit ausgestelltem Rock ab Bund; keine Hand hebt hier einen Saumzipfel an (anders als bei der Vollglocke auf s044).",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s045_skizze_02.png",
+      "bbox_ocr_eingabebild": [309, 229, 1701, 1478],
+      "bildunterschrift": "☐2 Flächenkonstruktion für die Halbglocke (graue Fläche)",
+      "beschreibung": "Großer Kreis mit innerem Taillenkreis, durch Grund- und Seitenlinie rechtwinklig in vier Viertel geteilt. Nur die rechte Hälfte (oberes und unteres rechtes Viertel) ist grau gefüllt = die Halbglocke. Beschriftet: ½ Saumkreis/Saumweite (SaW), ½ Taillenkreis/Länge der Ansatznaht (z.B. Bund) hier der Taillenweite (TaW), r_TaW, r_SaW, Rocklänge = MoL (oder Volantlänge), Kennzeichnung ③.",
+      "unsicher": "keine"
+    },
+    {
+      "datei": "skizzen/s045_skizze_03.png",
+      "bbox_ocr_eingabebild": [172, 1760, 1008, 3312],
+      "bildunterschrift": "☐3 Halbglocke mit einlagigem Zuschnitt",
+      "beschreibung": "Halbkreis-Schnittteil (einlagig, nicht gefaltet), oben Aussparung für den Taillenkreis-Ausschnitt. Beschriftet: hM-Naht (an beiden geraden Kanten), vM (Mittellinie mit Fadenlaufpfeil), 'Halbglocke 1×', Kennzeichnung ②.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar; auf dem Foto ist zusätzlich schwach Text der Buchrückseite durchscheinend sichtbar (kein Bestandteil dieser Seite)."
+    },
+    {
+      "datei": "skizzen/s045_skizze_04.png",
+      "bbox_ocr_eingabebild": [1041, 1760, 1822, 2536],
+      "bildunterschrift": "☐4 Halbglocke mit doppellagigem Zuschnitt",
+      "beschreibung": "Viertelkreis-Schnittteil (Papier oder Stoff einmal gefaltet), oben Aussparung für den Taillenkreis-Ausschnitt. Beschriftet: hM-Naht oder Seitennaht (oben), vM-Stb oder Seitennaht (links), Fadenlaufpfeil, 'Halbglocke 2×', 'Papier oder Stoff einmal gefaltet', Kennzeichnung ②.",
+      "unsicher": "keine Maßangaben auf diesem Ausschnitt erkennbar; auf dem Foto ist zusätzlich schwach Text der Buchrückseite durchscheinend sichtbar (kein Bestandteil dieser Seite)."
+    }
+  ]
+}

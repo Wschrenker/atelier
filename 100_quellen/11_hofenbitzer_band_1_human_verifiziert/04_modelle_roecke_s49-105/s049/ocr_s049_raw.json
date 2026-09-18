@@ -1,0 +1,353 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Übersicht\nRocklängen\n\n# Übersicht\n\nÜbersicht\n\nIndividuelle Taillenvertiefung und Hinweise 49\n\nBeobachtungen und Hinweise zu Taillenvertiefungen 50\n\nVereinfachte Taillenvertiefungen und Taillenbelege 51\n\nFormbund 52\n\nPassen 56\n\nPassen mit Knopfverschluss 58\n\nMiederbund 60\n\nBahnenröcke (Längstellungsnähte an Röcken) 62\n\nGodetformen 64\n\nDesignabwandlungen aus dem Rock mit zehn Bahnen:\n\nBahnenrock mit eingesetzten Godets 68\n- Bahnenrock mit angeschnittenen Godets 69\n- Bahnenrock mit leichter Saumerweiterung 70\nGlockiger Bahnenrock 71\n- Saumerweiterter Rock aus dem Bahnenrock 72\nGlockenrock aus dem Bahnenrock 73\n- Saumerweiterter Passenrock mit dekorativen Streifen 74\n- Passenrock mit Saumabtrennung als Volant 75\n- Passenrock mit gekräuselter Saumabtrennung 76\n\n- Stufenröcke mit zwei- und dreistufiger Rüsche 77\n- Taillenvertiefter Passenrock mit Kräuseltell bzw. Faltenteil 78\n- Ballonrock mit Formbund und Kräuseltell bzw. Faltenteil und Schlitz 79\n- Rock mit tiefen Bundfalten 80\n- Rock mit positionierten Glocken 81\nRundum-Faltenrock aus dem Zehn-Bahnenrock 82\n- Rock mit Kellerfalten aus dem Bahnenrock 83\n- Rock mit verschiedenen Schlitzen aus dem Bahnenrock 84\nEingestellter Rock mit Fächerfalte 85\nRundum-Faltenrock 86\nPassen-Rock mit Seitentaschen und Faltenteil 88\nRöcke mit Saumvolants 90\nFutterrock und Rockfutter 92\nRockfutter fur engen Rock mit offenen Schlitzen 94\nRockfutter fur engen Rock mit verdecktem Schlitz 96\nJeansrock 98\nWickelrock 100\nWickelrock mit Drapierung und Wasserfall-Kante 102\nAsymmetrischer Rock mit Wasserfall-Drapierung 104\n\n# Rocklängen\n\nÜbersicht\n\n![img-0.jpeg](img-0.jpeg)\n\nsupermini\n\noberschenkellang\n\nmini\n\nkniefrei\n\nknieumspielt\n\nladymini\n\nkniebedeckt\n\nmezzo\n\nwadenlang\n\nmidi\n\nwadenbedeckt\n\nmaxi\n\nknöchellang\n\nfußlang\n\nschiebedeckt\n\nbodenlang\n\n49",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 2169,
+          "top_left_y": 459,
+          "bottom_right_x": 3459,
+          "bottom_right_y": 2916,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 53,
+          "top_left_y": 2466,
+          "bottom_right_x": 176,
+          "bottom_right_y": 2781,
+          "content": "# Übersicht\nRocklängen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 278,
+          "top_left_y": 2601,
+          "bottom_right_x": 323,
+          "bottom_right_y": 2781,
+          "content": "# Übersicht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 359,
+          "top_left_y": 2625,
+          "bottom_right_x": 396,
+          "bottom_right_y": 2797,
+          "content": "Übersicht",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 408,
+          "top_left_y": 1810,
+          "bottom_right_x": 453,
+          "bottom_right_y": 2797,
+          "content": "Individuelle Taillenvertiefung und Hinweise 49",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 462,
+          "top_left_y": 1810,
+          "bottom_right_x": 511,
+          "bottom_right_y": 2800,
+          "content": "Beobachtungen und Hinweise zu Taillenvertiefungen 50",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 515,
+          "top_left_y": 1810,
+          "bottom_right_x": 560,
+          "bottom_right_y": 2800,
+          "content": "Vereinfachte Taillenvertiefungen und Taillenbelege 51",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 564,
+          "top_left_y": 1810,
+          "bottom_right_x": 600,
+          "bottom_right_y": 2803,
+          "content": "Formbund 52",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 609,
+          "top_left_y": 1810,
+          "bottom_right_x": 649,
+          "bottom_right_y": 2803,
+          "content": "Passen 56",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 658,
+          "top_left_y": 1810,
+          "bottom_right_x": 698,
+          "bottom_right_y": 2806,
+          "content": "Passen mit Knopfverschluss 58",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 707,
+          "top_left_y": 1810,
+          "bottom_right_x": 747,
+          "bottom_right_y": 2809,
+          "content": "Miederbund 60",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 756,
+          "top_left_y": 1810,
+          "bottom_right_x": 800,
+          "bottom_right_y": 2812,
+          "content": "Bahnenröcke (Längstellungsnähte an Röcken) 62",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 809,
+          "top_left_y": 1810,
+          "bottom_right_x": 849,
+          "bottom_right_y": 2812,
+          "content": "Godetformen 64",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 890,
+          "top_left_y": 1862,
+          "bottom_right_x": 931,
+          "bottom_right_y": 2821,
+          "content": "Designabwandlungen aus dem Rock mit zehn Bahnen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 939,
+          "top_left_y": 1804,
+          "bottom_right_x": 1446,
+          "bottom_right_y": 2843,
+          "content": "Bahnenrock mit eingesetzten Godets 68\n- Bahnenrock mit angeschnittenen Godets 69\n- Bahnenrock mit leichter Saumerweiterung 70\nGlockiger Bahnenrock 71\n- Saumerweiterter Rock aus dem Bahnenrock 72\nGlockenrock aus dem Bahnenrock 73\n- Saumerweiterter Passenrock mit dekorativen Streifen 74\n- Passenrock mit Saumabtrennung als Volant 75\n- Passenrock mit gekräuselter Saumabtrennung 76",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 384,
+          "top_left_y": 665,
+          "bottom_right_x": 1462,
+          "bottom_right_y": 1718,
+          "content": "- Stufenröcke mit zwei- und dreistufiger Rüsche 77\n- Taillenvertiefter Passenrock mit Kräuseltell bzw. Faltenteil 78\n- Ballonrock mit Formbund und Kräuseltell bzw. Faltenteil und Schlitz 79\n- Rock mit tiefen Bundfalten 80\n- Rock mit positionierten Glocken 81\nRundum-Faltenrock aus dem Zehn-Bahnenrock 82\n- Rock mit Kellerfalten aus dem Bahnenrock 83\n- Rock mit verschiedenen Schlitzen aus dem Bahnenrock 84\nEingestellter Rock mit Fächerfalte 85\nRundum-Faltenrock 86\nPassen-Rock mit Seitentaschen und Faltenteil 88\nRöcke mit Saumvolants 90\nFutterrock und Rockfutter 92\nRockfutter fur engen Rock mit offenen Schlitzen 94\nRockfutter fur engen Rock mit verdecktem Schlitz 96\nJeansrock 98\nWickelrock 100\nWickelrock mit Drapierung und Wasserfall-Kante 102\nAsymmetrischer Rock mit Wasserfall-Drapierung 104",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1936,
+          "top_left_y": 2637,
+          "bottom_right_x": 1981,
+          "bottom_right_y": 2870,
+          "content": "# Rocklängen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1862,
+          "top_left_y": 456,
+          "bottom_right_x": 2054,
+          "bottom_right_y": 508,
+          "content": "Übersicht",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2169,
+          "top_left_y": 459,
+          "bottom_right_x": 3459,
+          "bottom_right_y": 2916,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 3565,
+          "top_left_y": 2717,
+          "bottom_right_x": 3610,
+          "bottom_right_y": 2879,
+          "content": "supermini",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3561,
+          "top_left_y": 2349,
+          "bottom_right_x": 3602,
+          "bottom_right_y": 2631,
+          "content": "oberschenkellang",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3606,
+          "top_left_y": 2454,
+          "bottom_right_x": 3639,
+          "bottom_right_y": 2530,
+          "content": "mini",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3504,
+          "top_left_y": 2089,
+          "bottom_right_x": 3541,
+          "bottom_right_y": 2221,
+          "content": "kniefrei",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3549,
+          "top_left_y": 2052,
+          "bottom_right_x": 3586,
+          "bottom_right_y": 2261,
+          "content": "knieumspielt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3590,
+          "top_left_y": 2086,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2227,
+          "content": "ladymini",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3537,
+          "top_left_y": 1783,
+          "bottom_right_x": 3574,
+          "bottom_right_y": 1982,
+          "content": "kniebedeckt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3582,
+          "top_left_y": 1829,
+          "bottom_right_x": 3618,
+          "bottom_right_y": 1933,
+          "content": "mezzo",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3529,
+          "top_left_y": 1498,
+          "bottom_right_x": 3565,
+          "bottom_right_y": 1669,
+          "content": "wadenlang",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3574,
+          "top_left_y": 1547,
+          "bottom_right_x": 3606,
+          "bottom_right_y": 1617,
+          "content": "midi",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3516,
+          "top_left_y": 1173,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 1406,
+          "content": "wadenbedeckt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3561,
+          "top_left_y": 1247,
+          "bottom_right_x": 3598,
+          "bottom_right_y": 1326,
+          "content": "maxi",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3508,
+          "top_left_y": 907,
+          "bottom_right_x": 3549,
+          "bottom_right_y": 1100,
+          "content": "knöchellang",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3553,
+          "top_left_y": 937,
+          "bottom_right_x": 3594,
+          "bottom_right_y": 1060,
+          "content": "fußlang",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3504,
+          "top_left_y": 588,
+          "bottom_right_x": 3541,
+          "bottom_right_y": 809,
+          "content": "schiebedeckt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3549,
+          "top_left_y": 606,
+          "bottom_right_x": 3590,
+          "bottom_right_y": 775,
+          "content": "bodenlang",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3574,
+          "top_left_y": 303,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 374,
+          "content": "49",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3490406
+  }
+}

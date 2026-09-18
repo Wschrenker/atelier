@@ -1,0 +1,230 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Gerader Bund (3)\n\n# Variante 2: Bund mit Untertritt (typischer vorderer Jeans-Verschluss)\n\n1 □4 Den Bund so einteilen, dass nun die vM am Bund-Ende ist. An der Stelle trennen, wo der Verschluss gewünscht ist und die anderen Enden zusammensetzen.\nDie Bundkante schließt mit der Schlitzkante ab. Dort das Knopfloch markieren. Somit sitzt der Knopf neben der vM.\n3 An der Untertritt-Seite die Knopfposition markieren. Die Länge vom Knopfloch-Auge zum Knopfannahpunkt entspricht dem Bundumfang (TaU).\n4 Den Untertritt anzeichnen. Der Abstand zur Kante sollte mindestens dem Knopfdurchmesser (KnoD) + 0,5 cm entsprechen, damit der Untertritt von innen das Knopfloch abdeckt.\n\n![img-0.jpeg](img-0.jpeg)\n\n□3 Gerader Bund mit Untertritt und Knopfverschluss an der vM, z.B. an Hosen oder Jeansröcken\n\n![img-1.jpeg](img-1.jpeg)\n\n□4 Bund neu einteilen, Untertritt für Knopfverschluss anbringen\n\n# Variante 3: Bund mit Übertritt (traditioneller Verschluss an linker Seitennaht)\n\nRöcke und Kleider haben traditionell ihren Verschluss immer an der linken Seitennaht. Als Anfang des zwanzigsten Jahrhunderts die Damenhosen modern wurden, hatten auch diese ihren Verschluss an der linken Seitennaht.\n\nNoch heute haben elegante Röcke und Damenhosen gelegentlich ihren Verschluss an der linken Seitennaht.\n\n1 □6 Den Bund so einteilen, dass nun die ISN am Bund-Ende ist. An der Stelle trennen, wo der Verschluss gewünscht ist, die anderen Enden zusammensetzen.\nDen Übertritt in gewündlicher Länge und Form einzeichnen und den Haken (oder das Knopfloch) markieren.\nDas Gegenstück zum Haken (Öse) (oder die Knopfposition) am Untertritt markieren. Der Abstand zum Haken entspricht dem TaU.\n\nBei seitlichen Verschlüssen kommt der Übertritt bei Damenbekleidung auf das linke vordere Schnittteil.\n\n![img-2.jpeg](img-2.jpeg)\n\n□5 Seitlicher Rockverschluss mit nahtfeinem Reißverschluss, gerader Bund nur mit Übertritt und Hakenverschluss an der SN\n\n![img-3.jpeg](img-3.jpeg)\n\n□6 Bund neu einteilen, Übertritt für Hakenverschluss anbringen\n\nGerader Bund\n\n41",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1198,
+          "top_left_y": 478,
+          "bottom_right_x": 2245,
+          "bottom_right_y": 792,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 58,
+          "top_left_y": 1090,
+          "bottom_right_x": 2164,
+          "bottom_right_y": 1589,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1209,
+          "top_left_y": 2373,
+          "bottom_right_x": 2358,
+          "bottom_right_y": 2740,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 205,
+          "top_left_y": 3018,
+          "bottom_right_x": 2358,
+          "bottom_right_y": 3635,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2890
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 119,
+          "top_left_y": 74,
+          "bottom_right_x": 610,
+          "bottom_right_y": 139,
+          "content": "Gerader Bund (3)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 110,
+          "top_left_y": 310,
+          "bottom_right_x": 1423,
+          "bottom_right_y": 388,
+          "content": "# Variante 2: Bund mit Untertritt (typischer vorderer Jeans-Verschluss)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 75,
+          "top_left_y": 457,
+          "bottom_right_x": 1140,
+          "bottom_right_y": 1041,
+          "content": "1 □4 Den Bund so einteilen, dass nun die vM am Bund-Ende ist. An der Stelle trennen, wo der Verschluss gewünscht ist und die anderen Enden zusammensetzen.\nDie Bundkante schließt mit der Schlitzkante ab. Dort das Knopfloch markieren. Somit sitzt der Knopf neben der vM.\n3 An der Untertritt-Seite die Knopfposition markieren. Die Länge vom Knopfloch-Auge zum Knopfannahpunkt entspricht dem Bundumfang (TaU).\n4 Den Untertritt anzeichnen. Der Abstand zur Kante sollte mindestens dem Knopfdurchmesser (KnoD) + 0,5 cm entsprechen, damit der Untertritt von innen das Knopfloch abdeckt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1198,
+          "top_left_y": 478,
+          "bottom_right_x": 2245,
+          "bottom_right_y": 792,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1203,
+          "top_left_y": 796,
+          "bottom_right_x": 2230,
+          "bottom_right_y": 870,
+          "content": "□3 Gerader Bund mit Untertritt und Knopfverschluss an der vM, z.B. an Hosen oder Jeansröcken",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 58,
+          "top_left_y": 1090,
+          "bottom_right_x": 2164,
+          "bottom_right_y": 1589,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1206,
+          "top_left_y": 1621,
+          "bottom_right_x": 2277,
+          "bottom_right_y": 1666,
+          "content": "□4 Bund neu einteilen, Untertritt für Knopfverschluss anbringen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 23,
+          "top_left_y": 1862,
+          "bottom_right_x": 1591,
+          "bottom_right_y": 1915,
+          "content": "# Variante 3: Bund mit Übertritt (traditioneller Verschluss an linker Seitennaht)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1969,
+          "bottom_right_x": 1146,
+          "bottom_right_y": 2165,
+          "content": "Röcke und Kleider haben traditionell ihren Verschluss immer an der linken Seitennaht. Als Anfang des zwanzigsten Jahrhunderts die Damenhosen modern wurden, hatten auch diese ihren Verschluss an der linken Seitennaht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2185,
+          "bottom_right_x": 1146,
+          "bottom_right_y": 2287,
+          "content": "Noch heute haben elegante Röcke und Damenhosen gelegentlich ihren Verschluss an der linken Seitennaht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2397,
+          "bottom_right_x": 1148,
+          "bottom_right_y": 2867,
+          "content": "1 □6 Den Bund so einteilen, dass nun die ISN am Bund-Ende ist. An der Stelle trennen, wo der Verschluss gewünscht ist, die anderen Enden zusammensetzen.\nDen Übertritt in gewündlicher Länge und Form einzeichnen und den Haken (oder das Knopfloch) markieren.\nDas Gegenstück zum Haken (Öse) (oder die Knopfposition) am Untertritt markieren. Der Abstand zum Haken entspricht dem TaU.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1221,
+          "top_left_y": 1964,
+          "bottom_right_x": 2297,
+          "bottom_right_y": 2067,
+          "content": "Bei seitlichen Verschlüssen kommt der Übertritt bei Damenbekleidung auf das linke vordere Schnittteil.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1209,
+          "top_left_y": 2373,
+          "bottom_right_x": 2358,
+          "bottom_right_y": 2740,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1186,
+          "top_left_y": 2806,
+          "bottom_right_x": 2369,
+          "bottom_right_y": 2892,
+          "content": "□5 Seitlicher Rockverschluss mit nahtfeinem Reißverschluss, gerader Bund nur mit Übertritt und Hakenverschluss an der SN",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 205,
+          "top_left_y": 3018,
+          "bottom_right_x": 2358,
+          "bottom_right_y": 3635,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1221,
+          "top_left_y": 3643,
+          "bottom_right_x": 2387,
+          "bottom_right_y": 3692,
+          "content": "□6 Bund neu einteilen, Übertritt für Hakenverschluss anbringen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2372,
+          "top_left_y": 1213,
+          "bottom_right_x": 2424,
+          "bottom_right_y": 1470,
+          "content": "Gerader Bund",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2531,
+          "top_left_y": 3676,
+          "bottom_right_x": 2598,
+          "bottom_right_y": 3733,
+          "content": "41",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3142785
+  }
+}

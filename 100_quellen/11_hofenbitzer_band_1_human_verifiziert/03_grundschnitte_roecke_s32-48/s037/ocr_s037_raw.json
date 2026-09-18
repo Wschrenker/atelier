@@ -1,0 +1,368 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Proportionen von Hüfte und Taille\n\n# Warum passt Kleidung manchmal nicht, obwohl die Körpermaße richtig gemessen wurden?\n\nFür die Schnittkonstruktion von Konfektionsware werden sogenannte Normalgrößen verwendet. Die Normalgrößen haben Körpermaße, deren Maße und Proportionen der durchschnittlichen Gestalt des menschlichen Körpers am ehesten entsprechen. Die Maße werden durch Reihenmessungen ermittelt. Auf Figuren mit hiervon abweichenden Längen- und Weitenmaßen geht die Konfektion mit vielen Sondergrößen ein.\n\nPasst nun ein Kleidungsstück trotz richtig gewählter Größe nicht, liegt dies an der abweichenden Form des entsprechenden Körpers von der Normalfigur. Allein durch das Messen von Umfängen oder Längen können Figurabweichungen nicht immer festgestellt werden.\n\n# Gesäßstärke und Hüftbreite unabhängig vom Taillen- und Hüftumfang\n\nAm Beispiel unterschiedlicher Gesäß- und Hüftformen werden Abweichungen von der Normalfigur aufgezeigt.\n\n□1 Bei einer gut proportionierten (\"normalen\") Figur ist die Hüftbreite und die Gesäßform durchschnittlich ausgeprägt.\n□3 Bei einer breiten Hüfte sind die seitlichen Hüfrundungen stärker geformt als das Gesäß, es ist eher flach.\n□4 Bei einem stärker ausgeprägten Gesäß sind die seitlichen Hüfrundungen eher flach, das Gesäß dagegen ist stark.\n\nDie Querschnitte sollen die verschiedenen Figuren symbolisieren, während die Scheren in □1 die Schnittebenen am Körper darstellen. Die schwarze Linie stellt den Umriss des Hüftumfangs dar, während die innere graue Linie den Umriss des Taillenumfangs symbolisiert.\n\n# Der Taillen- und der Hüftumfang ist bei allen Figuren identisch.\n\nDie blauen Linien zeigen die Position der Rückteil-Abnäher, die violetten Linien den Hüftabstich an der Seitennaht und die roten Linien symbolisieren jeweils die vorderen Abnäher. Eine lange Abnäher-Linie im Querschnitt steht für einen größeren Abnäherinhalt, eine kurze Linie für einen geringen Abnäherinhalt.\n\nDie Abnäher für eine Normalfigur sind in dieser Zeichnung in etwa gleich lang, was eine normal proportionierte Figur symbolisiert.\n\n![img-0.jpeg](img-0.jpeg)\n\n□3 Die breite Hüfte benötigt einen größeren Hüftabstich und einen geringeren Inhalt für den hinteren Abnäher.\n\nBerechnung des größeren Hüftabstichs:\nTaAf :2 + 0,5 bis + 1,5 cm\n\n□4 Das stärkere Gesäß benötigt hinten größere Abnäherinhalte. Oft sind zwei Abnäher notwendig. Der Hüftbogen wird flacher gezeichnet.\n\nBerechnung für den kleinen Hüftabstich:\nTaAf :2 - 0,5 bis - 1,5 cm\n\nEin Rock-Grundschnitt mit zwei Rückteil-Abnähern kann für Figuren mit starkem Gesäß aber auch bei Normalfiguren notwendig sein.\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\n# Hüftform unabhängig vom Taillen- und Hüftumfang\n\nUnabhängig von der Gesäßstärke und Hüftbreite kann die seitliche Form der Hüfte sehr unterschiedlich sein.\n\nAm Schnitt sollte die Hüftform bei der Formung des Hüftbogens an Rock und Hose berücksichtigt werden.\n\n□1 Bei einer „normalen\" (gut proportionierten) Figur ist die Hüfrundung durchschnittlich ausgeprägt.\n□5 Bei einer runden Hüfte sind die seitlichen Hüfrundungen direkt unterhalb der Taille stärker geformt.\n□6 Bei einer flachen Hüfrundung sind die seitlichen Hüfrundungen eher flach, eine deutliche Rundung ist erst in Hüfthöhe sichtbar.\n□7 Bei einer unebenen Hüfrundung findet man eine Delle zwischen Taille und Hüfte. Hier sollte die Hüftform am Schnitt nicht übernommen werden - die Delle wird überspielt. Ggf. wäre eine formende Miedenhose anzuraten.\n\nHäufig liegt der Bund von Hüftröcken und Hüfthosen gerade in dieser Delle. Sie könnte durch die ständige Einschnürung an dieser Stelle entstanden sein. Durch die Tendenz des Körpers, Fettgewebe an kühlen Körperregionen anzulagern, könnte das Fettpolster direkt unterhalb der Taille entstanden sein.\n\nProportionen von Hüfte und Taille\n\n37",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 286,
+          "top_left_y": 1406,
+          "bottom_right_x": 751,
+          "bottom_right_y": 2074,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1634,
+          "top_left_y": 1339,
+          "bottom_right_x": 2201,
+          "bottom_right_y": 2049,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2291,
+          "top_left_y": 1296,
+          "bottom_right_x": 2924,
+          "bottom_right_y": 2046,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 3055,
+          "top_left_y": 1253,
+          "bottom_right_x": 3733,
+          "bottom_right_y": 2031,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 314,
+          "top_left_y": 705,
+          "bottom_right_x": 625,
+          "bottom_right_y": 1339,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 694,
+          "top_left_y": 646,
+          "bottom_right_x": 960,
+          "bottom_right_y": 1323,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 1013,
+          "top_left_y": 646,
+          "bottom_right_x": 1360,
+          "bottom_right_y": 1293,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 33,
+          "top_left_y": 1835,
+          "bottom_right_x": 114,
+          "bottom_right_y": 2815,
+          "content": "Proportionen von Hüfte und Taille",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 257,
+          "top_left_y": 2202,
+          "bottom_right_x": 384,
+          "bottom_right_y": 2818,
+          "content": "# Warum passt Kleidung manchmal nicht, obwohl die Körpermaße richtig gemessen wurden?",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 396,
+          "top_left_y": 2135,
+          "bottom_right_x": 870,
+          "bottom_right_y": 2846,
+          "content": "Für die Schnittkonstruktion von Konfektionsware werden sogenannte Normalgrößen verwendet. Die Normalgrößen haben Körpermaße, deren Maße und Proportionen der durchschnittlichen Gestalt des menschlichen Körpers am ehesten entsprechen. Die Maße werden durch Reihenmessungen ermittelt. Auf Figuren mit hiervon abweichenden Längen- und Weitenmaßen geht die Konfektion mit vielen Sondergrößen ein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 882,
+          "top_left_y": 2135,
+          "bottom_right_x": 1233,
+          "bottom_right_y": 2864,
+          "content": "Passt nun ein Kleidungsstück trotz richtig gewählter Größe nicht, liegt dies an der abweichenden Form des entsprechenden Körpers von der Normalfigur. Allein durch das Messen von Umfängen oder Längen können Figurabweichungen nicht immer festgestellt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 2138,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 2864,
+          "content": "# Gesäßstärke und Hüftbreite unabhängig vom Taillen- und Hüftumfang",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1389,
+          "top_left_y": 2138,
+          "bottom_right_x": 1536,
+          "bottom_right_y": 2885,
+          "content": "Am Beispiel unterschiedlicher Gesäß- und Hüftformen werden Abweichungen von der Normalfigur aufgezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1552,
+          "top_left_y": 2129,
+          "bottom_right_x": 2144,
+          "bottom_right_y": 2898,
+          "content": "□1 Bei einer gut proportionierten (\"normalen\") Figur ist die Hüftbreite und die Gesäßform durchschnittlich ausgeprägt.\n□3 Bei einer breiten Hüfte sind die seitlichen Hüfrundungen stärker geformt als das Gesäß, es ist eher flach.\n□4 Bei einem stärker ausgeprägten Gesäß sind die seitlichen Hüfrundungen eher flach, das Gesäß dagegen ist stark.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2160,
+          "top_left_y": 2129,
+          "bottom_right_x": 2593,
+          "bottom_right_y": 2919,
+          "content": "Die Querschnitte sollen die verschiedenen Figuren symbolisieren, während die Scheren in □1 die Schnittebenen am Körper darstellen. Die schwarze Linie stellt den Umriss des Hüftumfangs dar, während die innere graue Linie den Umriss des Taillenumfangs symbolisiert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2630,
+          "top_left_y": 2129,
+          "bottom_right_x": 2753,
+          "bottom_right_y": 2916,
+          "content": "# Der Taillen- und der Hüftumfang ist bei allen Figuren identisch.",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2769,
+          "top_left_y": 2117,
+          "bottom_right_x": 3288,
+          "bottom_right_y": 2941,
+          "content": "Die blauen Linien zeigen die Position der Rückteil-Abnäher, die violetten Linien den Hüftabstich an der Seitennaht und die roten Linien symbolisieren jeweils die vorderen Abnäher. Eine lange Abnäher-Linie im Querschnitt steht für einen größeren Abnäherinhalt, eine kurze Linie für einen geringen Abnäherinhalt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3300,
+          "top_left_y": 2110,
+          "bottom_right_x": 3561,
+          "bottom_right_y": 2953,
+          "content": "Die Abnäher für eine Normalfigur sind in dieser Zeichnung in etwa gleich lang, was eine normal proportionierte Figur symbolisiert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 286,
+          "top_left_y": 1406,
+          "bottom_right_x": 751,
+          "bottom_right_y": 2074,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 800,
+          "top_left_y": 1381,
+          "bottom_right_x": 931,
+          "bottom_right_y": 2074,
+          "content": "□3 Die breite Hüfte benötigt einen größeren Hüftabstich und einen geringeren Inhalt für den hinteren Abnäher.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 948,
+          "top_left_y": 1385,
+          "bottom_right_x": 1037,
+          "bottom_right_y": 2071,
+          "content": "Berechnung des größeren Hüftabstichs:\nTaAf :2 + 0,5 bis + 1,5 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1054,
+          "top_left_y": 1366,
+          "bottom_right_x": 1233,
+          "bottom_right_y": 2071,
+          "content": "□4 Das stärkere Gesäß benötigt hinten größere Abnäherinhalte. Oft sind zwei Abnäher notwendig. Der Hüftbogen wird flacher gezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1250,
+          "top_left_y": 1360,
+          "bottom_right_x": 1344,
+          "bottom_right_y": 2071,
+          "content": "Berechnung für den kleinen Hüftabstich:\nTaAf :2 - 0,5 bis - 1,5 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1360,
+          "top_left_y": 1348,
+          "bottom_right_x": 1552,
+          "bottom_right_y": 2071,
+          "content": "Ein Rock-Grundschnitt mit zwei Rückteil-Abnähern kann für Figuren mit starkem Gesäß aber auch bei Normalfiguren notwendig sein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1634,
+          "top_left_y": 1339,
+          "bottom_right_x": 2201,
+          "bottom_right_y": 2049,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2291,
+          "top_left_y": 1296,
+          "bottom_right_x": 2924,
+          "bottom_right_y": 2046,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 3055,
+          "top_left_y": 1253,
+          "bottom_right_x": 3733,
+          "bottom_right_y": 2031,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 314,
+          "top_left_y": 705,
+          "bottom_right_x": 625,
+          "bottom_right_y": 1339,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 694,
+          "top_left_y": 646,
+          "bottom_right_x": 960,
+          "bottom_right_y": 1323,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 1013,
+          "top_left_y": 646,
+          "bottom_right_x": 1360,
+          "bottom_right_y": 1293,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 1625,
+          "top_left_y": 582,
+          "bottom_right_x": 1723,
+          "bottom_right_y": 1259,
+          "content": "# Hüftform unabhängig vom Taillen- und Hüftumfang",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1740,
+          "top_left_y": 551,
+          "bottom_right_x": 1883,
+          "bottom_right_y": 1265,
+          "content": "Unabhängig von der Gesäßstärke und Hüftbreite kann die seitliche Form der Hüfte sehr unterschiedlich sein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1903,
+          "top_left_y": 539,
+          "bottom_right_x": 2050,
+          "bottom_right_y": 1256,
+          "content": "Am Schnitt sollte die Hüftform bei der Formung des Hüftbogens an Rock und Hose berücksichtigt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2067,
+          "top_left_y": 441,
+          "bottom_right_x": 2969,
+          "bottom_right_y": 1244,
+          "content": "□1 Bei einer „normalen\" (gut proportionierten) Figur ist die Hüfrundung durchschnittlich ausgeprägt.\n□5 Bei einer runden Hüfte sind die seitlichen Hüfrundungen direkt unterhalb der Taille stärker geformt.\n□6 Bei einer flachen Hüfrundung sind die seitlichen Hüfrundungen eher flach, eine deutliche Rundung ist erst in Hüfthöhe sichtbar.\n□7 Bei einer unebenen Hüfrundung findet man eine Delle zwischen Taille und Hüfte. Hier sollte die Hüftform am Schnitt nicht übernommen werden - die Delle wird überspielt. Ggf. wäre eine formende Miedenhose anzuraten.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2981,
+          "top_left_y": 395,
+          "bottom_right_x": 3439,
+          "bottom_right_y": 1182,
+          "content": "Häufig liegt der Bund von Hüftröcken und Hüfthosen gerade in dieser Delle. Sie könnte durch die ständige Einschnürung an dieser Stelle entstanden sein. Durch die Tendenz des Körpers, Fettgewebe an kühlen Körperregionen anzulagern, könnte das Fettpolster direkt unterhalb der Taille entstanden sein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 800,
+          "top_left_y": 450,
+          "bottom_right_x": 1393,
+          "bottom_right_y": 564,
+          "content": "Proportionen von Hüfte und Taille",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3623,
+          "top_left_y": 156,
+          "bottom_right_x": 3684,
+          "bottom_right_y": 224,
+          "content": "37",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3836834
+  }
+}
