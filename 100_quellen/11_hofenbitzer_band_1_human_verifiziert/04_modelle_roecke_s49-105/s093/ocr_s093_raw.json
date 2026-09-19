@@ -1,0 +1,220 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Futterrock und Rockfutter (2)\nfür weite Röcke\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n☐4\n\nGerades Rockfutter unter\neinem Rock mit\nFächerfalte (gewendet)\n\n☐5\n\nAusgestelltes Rockfutter\nunter einem Godesrock\n(gewendet)\n\n☐6 Separator Futterrock\nunter einem Glockenrock\n(gewendet)\n\n# Rockfutter, gerade oder ausgestellt mit Seitenschlitzen\n\nWird das Rockfutter bzw. ein Futterrock aus einer geraden oder ausgestellten Rockform (siehe Seite 32, 46) gearbeitet, sollte für mehr Schrittweite zusätzlich ein offener Schlitz in die Seitennähte gearbeitet werden. Der doppelte Schlitz-Einschlag wird z.B. mit 2 × 2 cm angezeichnet.\n\n# Reißverschluss-Schlitz an der linken Seitennäht\n\n☐7 Der Reißverschluss-Schlitz wird an der linken Seitennäht (ggf. auch an der hM, siehe folgende Seiten) berücksichtigt.\n\nDa dieser Reißverschluss-Schlitz sich nur an der linken Seitennäht befindet, ergeben sich asymmetrische Schnittteile. Man kann bei einem Einzelzuschnitt diese Veränderung am Reißverschluss-Schlitz auch erst nach dem Zuschnitt vornehmen.\n\n![img-2.jpeg](img-2.jpeg)\n\nFutterrock und Rockfutter\nfür weite Röcke\n\n☐7\n\nProduktionsschnitt für ein ausgestelltes Rockfutter mit offenen Schlitzen in der Seitennäht.\n\n93",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 306,
+          "top_left_y": 1712,
+          "bottom_right_x": 1376,
+          "bottom_right_y": 2751,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 462,
+          "top_left_y": 652,
+          "bottom_right_x": 1438,
+          "bottom_right_y": 1182,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2169,
+          "top_left_y": 352,
+          "bottom_right_x": 3790,
+          "bottom_right_y": 2852,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 147,
+          "top_left_y": 1896,
+          "bottom_right_x": 310,
+          "bottom_right_y": 2735,
+          "content": "# Futterrock und Rockfutter (2)\nfür weite Röcke",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 306,
+          "top_left_y": 1712,
+          "bottom_right_x": 1376,
+          "bottom_right_y": 2751,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 462,
+          "top_left_y": 652,
+          "bottom_right_x": 1438,
+          "bottom_right_y": 1182,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1405,
+          "top_left_y": 2729,
+          "bottom_right_x": 1446,
+          "bottom_right_y": 2775,
+          "content": "☐4",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1393,
+          "top_left_y": 2282,
+          "bottom_right_x": 1503,
+          "bottom_right_y": 2695,
+          "content": "Gerades Rockfutter unter\neinem Rock mit\nFächerfalte (gewendet)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1393,
+          "top_left_y": 2138,
+          "bottom_right_x": 1434,
+          "bottom_right_y": 2193,
+          "content": "☐5",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 1712,
+          "bottom_right_x": 1519,
+          "bottom_right_y": 2092,
+          "content": "Ausgestelltes Rockfutter\nunter einem Godesrock\n(gewendet)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1458,
+          "top_left_y": 778,
+          "bottom_right_x": 1568,
+          "bottom_right_y": 1173,
+          "content": "☐6 Separator Futterrock\nunter einem Glockenrock\n(gewendet)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1666,
+          "top_left_y": 1725,
+          "bottom_right_x": 1728,
+          "bottom_right_y": 2784,
+          "content": "# Rockfutter, gerade oder ausgestellt mit Seitenschlitzen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1736,
+          "top_left_y": 1685,
+          "bottom_right_x": 2034,
+          "bottom_right_y": 2794,
+          "content": "Wird das Rockfutter bzw. ein Futterrock aus einer geraden oder ausgestellten Rockform (siehe Seite 32, 46) gearbeitet, sollte für mehr Schrittweite zusätzlich ein offener Schlitz in die Seitennähte gearbeitet werden. Der doppelte Schlitz-Einschlag wird z.B. mit 2 × 2 cm angezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1703,
+          "top_left_y": 790,
+          "bottom_right_x": 1752,
+          "bottom_right_y": 1620,
+          "content": "# Reißverschluss-Schlitz an der linken Seitennäht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1764,
+          "top_left_y": 616,
+          "bottom_right_x": 1866,
+          "bottom_right_y": 1630,
+          "content": "☐7 Der Reißverschluss-Schlitz wird an der linken Seitennäht (ggf. auch an der hM, siehe folgende Seiten) berücksichtigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1879,
+          "top_left_y": 603,
+          "bottom_right_x": 2103,
+          "bottom_right_y": 1630,
+          "content": "Da dieser Reißverschluss-Schlitz sich nur an der linken Seitennäht befindet, ergeben sich asymmetrische Schnittteile. Man kann bei einem Einzelzuschnitt diese Veränderung am Reißverschluss-Schlitz auch erst nach dem Zuschnitt vornehmen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2169,
+          "top_left_y": 352,
+          "bottom_right_x": 3790,
+          "bottom_right_y": 2852,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1813,
+          "top_left_y": 395,
+          "bottom_right_x": 2303,
+          "bottom_right_y": 508,
+          "content": "Futterrock und Rockfutter\nfür weite Röcke",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3884,
+          "top_left_y": 2800,
+          "bottom_right_x": 3929,
+          "bottom_right_y": 2852,
+          "content": "☐7",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3892,
+          "top_left_y": 1164,
+          "bottom_right_x": 3949,
+          "bottom_right_y": 2766,
+          "content": "Produktionsschnitt für ein ausgestelltes Rockfutter mit offenen Schlitzen in der Seitennäht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3766,
+          "top_left_y": 291,
+          "bottom_right_x": 3823,
+          "bottom_right_y": 358,
+          "content": "93",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3959320
+  }
+}
