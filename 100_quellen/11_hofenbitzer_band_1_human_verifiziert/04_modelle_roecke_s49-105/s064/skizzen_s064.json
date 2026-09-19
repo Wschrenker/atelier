@@ -1,0 +1,27 @@
+{
+  "seite": "s064",
+  "skizzen": [
+    {
+      "datei": "skizzen/s064_skizze_01.png",
+      "quelle_id": "manuell (nicht vom OCR-Modell erkannt)",
+      "bbox_original_pixel": {
+        "top_left_x": 195,
+        "top_left_y": 285,
+        "bottom_right_x": 1820,
+        "bottom_right_y": 2499
+      },
+      "hinweis": "bbox bezieht sich auf die rohe Pixelorientierung der Originaldatei s64.jpg (unveraendert, 4080x3060, EXIF-Orientierung 6 noch NICHT angewandt). Der gespeicherte Ausschnitt wurde nach dem Zuschnitt um 270 Grad gedreht, um aufrecht zu stehen. Deckt Sechs-Bahnenrock-Bereich ab: Zeichnungen zu Feld 1 (Sechs-Bahnenrock VT/RT), Feld 2 (Querschnitt) und Feld 3 (Rock-GS fuer 6 Bahnen einteilen und Abnaeher verschieben). Die Box wurde von Hand anhand des Originalfotos bestimmt, siehe Hinweis in s064.md zur unzuverlaessigen automatischen Bilderkennung auf dieser Seite."
+    },
+    {
+      "datei": "skizzen/s064_skizze_02.png",
+      "quelle_id": "manuell (nicht vom OCR-Modell erkannt)",
+      "bbox_original_pixel": {
+        "top_left_x": 2260,
+        "top_left_y": 285,
+        "bottom_right_x": 4060,
+        "bottom_right_y": 2499
+      },
+      "hinweis": "bbox bezieht sich auf die rohe Pixelorientierung der Originaldatei s64.jpg (unveraendert, 4080x3060, EXIF-Orientierung 6 noch NICHT angewandt). Der gespeicherte Ausschnitt wurde nach dem Zuschnitt um 270 Grad gedreht, um aufrecht zu stehen. Deckt Acht-Bahnenrock-Bereich ab: Zeichnungen zu Feld 4 (Acht-Bahnenrock VT/RT), Feld 5 (Querschnitt) und Feld 6 (Rock-GS fuer 8 Bahnen einteilen und Abnaeher verschieben). Die Box wurde von Hand anhand des Originalfotos bestimmt, siehe Hinweis in s064.md zur unzuverlaessigen automatischen Bilderkennung auf dieser Seite."
+    }
+  ]
+}

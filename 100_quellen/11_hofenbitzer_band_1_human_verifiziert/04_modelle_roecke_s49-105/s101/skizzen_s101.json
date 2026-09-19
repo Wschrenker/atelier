@@ -1,0 +1,39 @@
+{
+  "seite": "s101",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s101.jpg",
+  "ocr_quelle": "ocr_s101_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s101_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 278,
+        "top_left_y": 588,
+        "bottom_right_x": 800,
+        "bottom_right_y": 2355
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s101_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt den Bund-Streifen (übertragen/gespiegelt) mit den Punktnummern ⑦ ⑤ ⑧ ⑨ und der Beschriftung „Wickelrock Bund 1x OSt + El“, dazu die Bildunterschrift □3 „Gerader Bund mit großem Übertritt“."
+    },
+    {
+      "datei": "skizzen/s101_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2075,
+        "top_left_y": 352,
+        "bottom_right_x": 3680,
+        "bottom_right_y": 2928
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s101_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die drei Produktionsschnittteile VT (□4): Wickelrock VT 2x-p Ost / 1x Fu (grau), Wickelrock VT 2x-p Fu / 1x Fu (grün) und Wickelrock Beleg 2x-p OSt / 1x OSt (gelb), mit den Punktnummern ⑪ und ⑬."
+    }
+  ]
+}

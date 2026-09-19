@@ -1,0 +1,87 @@
+{
+  "seite": "s099",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s99.jpg",
+  "ocr_quelle": "ocr_s099_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s099_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1017,
+        "top_left_y": 695,
+        "bottom_right_x": 1335,
+        "bottom_right_y": 1103
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s099_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die kleine Ikone der Spatentasche (rechts oben in der Zeichnung zu Abschnitt 5) mit den blauen Schrittkennungen 20 und 21."
+    },
+    {
+      "datei": "skizzen/s099_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1180,
+        "top_left_y": 1905,
+        "bottom_right_x": 2299,
+        "bottom_right_y": 2843
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s099_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt das Schnittteil 'Jeans-Rock VT 2x-p OSt' mit den Beschriftungen 'Einschlag', 'Uebertritt', 'vordere Kante', 'vM', 'SN' und der Schrittkennung 16 sowie 18 am unteren Rand."
+    },
+    {
+      "datei": "skizzen/s099_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1254,
+        "top_left_y": 1005,
+        "bottom_right_x": 2246,
+        "bottom_right_y": 1865
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s099_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt das Schnittteil 'Jeans-Rock RT 2x-p OSt' mit der Taschenposition (Schrittkennung 17), der Beschriftung 'hM', der Schrittkennung 18 unten links und am rechten Rand angeschnitten die Schrittkennung 19 mit Schere (Uebertritt-Schlitzeinschlag, gehoert zu skizze_04)."
+    },
+    {
+      "datei": "skizzen/s099_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1380,
+        "top_left_y": 631,
+        "bottom_right_x": 1797,
+        "bottom_right_y": 1035
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s099_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt das Schnittteil 'Jeans-Rock Spatentasche 2x-p' mit der Schrittkennung 22."
+    },
+    {
+      "datei": "skizzen/s099_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2659,
+        "top_left_y": 1721,
+        "bottom_right_x": 3770,
+        "bottom_right_y": 2821
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s099_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die drei Schnittteile der Zeichnung zu Abschnitt 6 (Swim-/Swing-Pocket): 'Jeans-Rock Taschenbeutel 2x-p Fu' (Schrittkennungen 23, 24), 'Jeans-Rock Taschenspiegel 2x-p OSt' (Schrittkennungen 25, 26) und 'Jeans-Rock Muenzen-Tasche 1x OSt' (Schrittkennung 27)."
+    }
+  ]
+}

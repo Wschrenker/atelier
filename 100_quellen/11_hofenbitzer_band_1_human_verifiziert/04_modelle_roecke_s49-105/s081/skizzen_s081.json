@@ -1,0 +1,55 @@
+{
+  "seite": "s081",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s81.jpg",
+  "ocr_quelle": "ocr_s081_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s081_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 339,
+        "top_left_y": 1130,
+        "bottom_right_x": 1327,
+        "bottom_right_y": 1452
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s081_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Figurine VT mit Punktnummer 3."
+    },
+    {
+      "datei": "skizzen/s081_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 355,
+        "top_left_y": 649,
+        "bottom_right_x": 1278,
+        "bottom_right_y": 986
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s081_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Figurine RT mit Punktnummer 4."
+    },
+    {
+      "datei": "skizzen/s081_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1846,
+        "top_left_y": 254,
+        "bottom_right_x": 3839,
+        "bottom_right_y": 2892
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s081_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Produktionsschnitte fuer Modell 1 (VT) und Modell 2 (RT), Beschriftung als 3."
+    }
+  ]
+}

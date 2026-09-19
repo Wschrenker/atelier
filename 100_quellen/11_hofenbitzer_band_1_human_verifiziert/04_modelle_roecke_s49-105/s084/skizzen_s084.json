@@ -1,0 +1,82 @@
+{
+  "seite": "s084",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s84.jpg",
+  "ocr_quelle": "ocr_s084_raw.json",
+  "hinweis_ocr_eingabe": "Die OCR lief direkt auf einer EXIF-aufrecht gedrehten Kopie des Originalfotos (Orientierung 6). Die Bounding Boxes liegen deshalb bereits in aufrechter Pixelorientierung (Breite 3060, Höhe 4080) und mussten für die Ausschnitte nicht zusätzlich gedreht werden.",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s084_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1927,
+        "top_left_y": 429,
+        "bottom_right_x": 2585,
+        "bottom_right_y": 1385
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "hinweis": "□1: Rock mit offenen Schlitzen vorne (vM) und verdeckten Schlitzen hinten (hM)."
+    },
+    {
+      "datei": "skizzen/s084_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 487,
+        "top_left_y": 2022,
+        "bottom_right_x": 1434,
+        "bottom_right_y": 3500
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "hinweis": "Teil von □2: Produktionsschnitte VT 1 (1x OSt) und VT 2 (2x-p OSt)."
+    },
+    {
+      "datei": "skizzen/s084_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1639,
+        "top_left_y": 1977,
+        "bottom_right_x": 2101,
+        "bottom_right_y": 3676
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "hinweis": "Teil von □2: Produktionsschnitt RT 2 (2x-p OSt) mit Schlitz-Untertritt."
+    },
+    {
+      "datei": "skizzen/s084_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2126,
+        "top_left_y": 1985,
+        "bottom_right_x": 2699,
+        "bottom_right_y": 3696
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "hinweis": "Teil von □2: Produktionsschnitt RT 1 (1x OSt)."
+    }
+  ],
+  "ausgeschlossene_ocr_bildregion": {
+    "quelle_id": "img-4.jpeg",
+    "bbox_original_px": {
+      "top_left_x": 2787,
+      "top_left_y": 2740,
+      "bottom_right_x": 3060,
+      "bottom_right_y": 3639
+    },
+    "grund": "Gehört nicht zu Seite 84. Das Foto zeigt am rechten Rand die aufgeschlagene Nachbarseite 85 ('Eingestellter Rock Vorderteil'); diese Bildregion zeigt deren vM/FaT2-Faltenschema und wurde deshalb nicht als Skizze dieser Seite übernommen."
+  }
+}

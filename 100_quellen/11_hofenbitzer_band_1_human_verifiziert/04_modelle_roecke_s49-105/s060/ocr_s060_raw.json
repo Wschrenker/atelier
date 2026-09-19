@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-\nModelle\n\n# Passen mit Knopfverschluss (1)\nHüftrock mit Passe, seitlichem Knopfverschluss und Taillenbeleg\n\n□2\n\nEine Passe kann auch ohne Bund an einen Rock oder eine Hose gestaltet und gearbeitet werden. Im Prinzip stellt diese Variante einen „Formbund in Passenoptik“ dar. Die Passen können ganz einfach mit einem Reißverschluss an der linken Seitennaht oder an der hM gearbeitet werden, der bis zur oberen Rockkante reicht.\n\n① Generell wird bei einer solchen Passenantrennung ein einfach geformter Taillenbeleg eingearbeitet.\n\n□1 Dieser Rock mit geringer Taillenvertiefung hat Passen im „Western-Style“. Beide Passen sind ohne Nähte an vM und hM. Die linke Seitennaht der Passe bildet einen Knopfverschluss ohne Übertritt aber mit Untertritt.\nDer einfach geformte Taillenbeleg verstürzt nicht nur die obere Rockkante sondern auch den Knopfverschluss am Über- und Untertritt. Er muss also dieselbe seitliche Breite besitzen wie die Passe.\n\n![img-0.jpeg](img-0.jpeg)\n\n□2 Taillenvertiefung mit Welten-Reduzierung sowie Passennaht am Rock-GS mit zwei RT-Abnähern\n\n![img-1.jpeg](img-1.jpeg)\n\n□1 Passenrock mit seitlichem Knopfverschluss an den Passen\n\n# 1 Taillenvertiefung, Passe, Taillenbeleg und Futtersaum\n\n1 □2 Gewünschte Taillenvertiefung einzeichnen und abtrennen.\n2 Weltenreduzierungen vornehmen.\n3 Gewünschte Passenform für die äußeren Rockteile einzeichnen.\n4 Für die inneren Schnittteile den Taillenbeleg in der Breite des Knopfverschlusses an der Seitennaht und die Futtersaumkanten jeweils parallel zu den oberen und unteren Rockkanten einzeichnen.\n\n# 2 Passen und Taillenbelege\n\n3 □3+5 Abnäher an den Passen- und Taillenbeleg-Flächen zulegen und Nähte ausformen.\n6 Vordere und hintere Schnittteile an vM bzw. an hM spiegeln, da sie später nicht symmetrisch sind.\n7 □4+5 Knopflöcher an der linken Seitennaht der vorderen Passe markieren und\n8 einen identischen Untertritt an der linken Seitennaht der RT-Passe und dem RT-Taillenbeleg anzeichnen. Die Unterttittbreite muss die Knopflöcher innen vollständig hinterlegen (Breite: mind. doppelter Knopfdurchmesser).\n9 An den Taillenbelegen die üblichen Welten- und Breitenreduzierungen vornehmen.\n\n# 3 Rockfutter\n\n□6 Die Futterfläche wie auf Seite 59 und 93 beschrieben, zum Futterschnitt fertig stellen.\n\npassen mit Knopfverschluss\nHüftrock mit Passen\n\n![img-2.jpeg](img-2.jpeg)\n\nVersitznaht\nan der\nÜbertritt-Seite\n\n□5 Taillenbeleg\nsowie Näht-\n\nHüftrock mit Passen\nRT-Futter\n1× Fu\n\n□6 Produkt\n\n![img-3.jpeg](img-3.jpeg)\n\n40",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 603,
+          "top_left_y": 952,
+          "bottom_right_x": 1884,
+          "bottom_right_y": 1940,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1908,
+          "top_left_y": 253,
+          "bottom_right_x": 2524,
+          "bottom_right_y": 1233,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2640,
+          "top_left_y": 339,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 1491,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 564,
+          "top_left_y": 2083,
+          "bottom_right_x": 1789,
+          "bottom_right_y": 3443,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 570,
+          "top_left_y": 400,
+          "bottom_right_x": 735,
+          "bottom_right_y": 498,
+          "content": "# Rock-\nModelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 919,
+          "top_left_y": 237,
+          "bottom_right_x": 2411,
+          "bottom_right_y": 453,
+          "content": "# Passen mit Knopfverschluss (1)\nHüftrock mit Passe, seitlichem Knopfverschluss und Taillenbeleg",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 594,
+          "top_left_y": 596,
+          "bottom_right_x": 646,
+          "bottom_right_y": 633,
+          "content": "□2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 708,
+          "top_left_y": 523,
+          "bottom_right_x": 1231,
+          "bottom_right_y": 882,
+          "content": "Eine Passe kann auch ohne Bund an einen Rock oder eine Hose gestaltet und gearbeitet werden. Im Prinzip stellt diese Variante einen „Formbund in Passenoptik“ dar. Die Passen können ganz einfach mit einem Reißverschluss an der linken Seitennaht oder an der hM gearbeitet werden, der bis zur oberen Rockkante reicht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 705,
+          "top_left_y": 882,
+          "bottom_right_x": 1213,
+          "bottom_right_y": 1009,
+          "content": "① Generell wird bei einer solchen Passenantrennung ein einfach geformter Taillenbeleg eingearbeitet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1277,
+          "top_left_y": 408,
+          "bottom_right_x": 1850,
+          "bottom_right_y": 952,
+          "content": "□1 Dieser Rock mit geringer Taillenvertiefung hat Passen im „Western-Style“. Beide Passen sind ohne Nähte an vM und hM. Die linke Seitennaht der Passe bildet einen Knopfverschluss ohne Übertritt aber mit Untertritt.\nDer einfach geformte Taillenbeleg verstürzt nicht nur die obere Rockkante sondern auch den Knopfverschluss am Über- und Untertritt. Er muss also dieselbe seitliche Breite besitzen wie die Passe.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 603,
+          "top_left_y": 952,
+          "bottom_right_x": 1884,
+          "bottom_right_y": 1940,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 646,
+          "top_left_y": 1960,
+          "bottom_right_x": 1470,
+          "bottom_right_y": 2026,
+          "content": "□2 Taillenvertiefung mit Welten-Reduzierung sowie Passennaht am Rock-GS mit zwei RT-Abnähern",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1908,
+          "top_left_y": 253,
+          "bottom_right_x": 2524,
+          "bottom_right_y": 1233,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1982,
+          "top_left_y": 1254,
+          "bottom_right_x": 2533,
+          "bottom_right_y": 1323,
+          "content": "□1 Passenrock mit seitlichem Knopfverschluss an den Passen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1908,
+          "top_left_y": 1487,
+          "bottom_right_x": 2496,
+          "bottom_right_y": 1572,
+          "content": "# 1 Taillenvertiefung, Passe, Taillenbeleg und Futtersaum",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1899,
+          "top_left_y": 1593,
+          "bottom_right_x": 2567,
+          "bottom_right_y": 2136,
+          "content": "1 □2 Gewünschte Taillenvertiefung einzeichnen und abtrennen.\n2 Weltenreduzierungen vornehmen.\n3 Gewünschte Passenform für die äußeren Rockteile einzeichnen.\n4 Für die inneren Schnittteile den Taillenbeleg in der Breite des Knopfverschlusses an der Seitennaht und die Futtersaumkanten jeweils parallel zu den oberen und unteren Rockkanten einzeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1899,
+          "top_left_y": 2173,
+          "bottom_right_x": 2447,
+          "bottom_right_y": 2226,
+          "content": "# 2 Passen und Taillenbelege",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1899,
+          "top_left_y": 2242,
+          "bottom_right_x": 2591,
+          "bottom_right_y": 3247,
+          "content": "3 □3+5 Abnäher an den Passen- und Taillenbeleg-Flächen zulegen und Nähte ausformen.\n6 Vordere und hintere Schnittteile an vM bzw. an hM spiegeln, da sie später nicht symmetrisch sind.\n7 □4+5 Knopflöcher an der linken Seitennaht der vorderen Passe markieren und\n8 einen identischen Untertritt an der linken Seitennaht der RT-Passe und dem RT-Taillenbeleg anzeichnen. Die Unterttittbreite muss die Knopflöcher innen vollständig hinterlegen (Breite: mind. doppelter Knopfdurchmesser).\n9 An den Taillenbelegen die üblichen Welten- und Breitenreduzierungen vornehmen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1899,
+          "top_left_y": 3267,
+          "bottom_right_x": 2187,
+          "bottom_right_y": 3329,
+          "content": "# 3 Rockfutter",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1973,
+          "top_left_y": 3349,
+          "bottom_right_x": 2610,
+          "bottom_right_y": 3529,
+          "content": "□6 Die Futterfläche wie auf Seite 59 und 93 beschrieben, zum Futterschnitt fertig stellen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2640,
+          "top_left_y": 114,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 298,
+          "content": "passen mit Knopfverschluss\nHüftrock mit Passen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2640,
+          "top_left_y": 339,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 1491,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2668,
+          "top_left_y": 2075,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 2328,
+          "content": "Versitznaht\nan der\nÜbertritt-Seite",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2751,
+          "top_left_y": 2389,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 2467,
+          "content": "□5 Taillenbeleg\nsowie Näht-",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2781,
+          "top_left_y": 3018,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 3124,
+          "content": "Hüftrock mit Passen\nRT-Futter\n1× Fu",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2800,
+          "top_left_y": 3484,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 3549,
+          "content": "□6 Produkt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 564,
+          "top_left_y": 2083,
+          "bottom_right_x": 1789,
+          "bottom_right_y": 3443,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 423,
+          "top_left_y": 3308,
+          "bottom_right_x": 478,
+          "bottom_right_y": 3369,
+          "content": "40",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2314257
+  }
+}

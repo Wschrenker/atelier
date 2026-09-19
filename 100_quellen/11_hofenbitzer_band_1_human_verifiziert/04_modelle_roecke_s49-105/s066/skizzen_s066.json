@@ -1,0 +1,42 @@
+{
+  "seite": "s066",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s66.jpg",
+  "ocr_quelle": "ocr_s066_raw.json",
+  "hinweis_ocr_eingabe": "Das Originalbild liegt mit EXIF-Orientierung 6 (Querformat, 4080x3060 px) vor. Die direkte OCR auf dem unveraenderten Original ergab eine sich endlos wiederholende Fehllesung (\"Kod- Modelle\"). Als Eingabe fuer die gespeicherte OCR-Antwort diente daher eine temporaere, gemaess EXIF aufrecht gedrehte Kopie (3060x4080 px), die zusaetzlich rechts bei x=2620 beschnitten wurde, um den mitfotografierten Rand der gegenueberliegenden Seite 67 auszuschliessen. Das unveraenderte Original blieb unangetastet.",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s066_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_ocr_eingabe_px": {
+        "top_left_x": 538,
+        "top_left_y": 862,
+        "bottom_right_x": 2515,
+        "bottom_right_y": 1483
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2620
+      },
+      "bezug_buchseite": "☐1 Moegliche Groessen und Formen von eingesetzten Godets (Godetvariante 1-3).",
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s066_raw.json, bezogen auf die aufrecht gedrehte und rechts beschnittene OCR-Eingabe (siehe hinweis_ocr_eingabe)."
+    },
+    {
+      "datei": "skizzen/s066_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_ocr_eingabe_px": {
+        "top_left_x": 1437,
+        "top_left_y": 1707,
+        "bottom_right_x": 2568,
+        "bottom_right_y": 3561
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2620
+      },
+      "bezug_buchseite": "☐2 Angeschnittene Godet-Formen (hier fuer den 10-Bahnenrock). Bildunterschrift von der OCR nicht als Text erkannt, ist aber im Ausschnitt sichtbar.",
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s066_raw.json, bezogen auf die aufrecht gedrehte und rechts beschnittene OCR-Eingabe (siehe hinweis_ocr_eingabe)."
+    }
+  ]
+}

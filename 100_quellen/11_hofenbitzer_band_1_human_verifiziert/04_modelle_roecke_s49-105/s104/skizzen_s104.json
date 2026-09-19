@@ -1,0 +1,67 @@
+{
+  "seite": "s104",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s104.jpg",
+  "ocr_quelle": "ocr_s104_raw.json",
+  "hinweis_ocr_eingabe": "Abweichend vom sonst ueblichen Ablauf wurde die OCR nicht auf der unveraenderten Originaldatei ausgefuehrt. Das Originalfoto (4080x3060, EXIF-Orientierung 1, keine Rotation getaggt) zeigt die Seite jedoch physisch quer; visuell aufrecht ist eine Drehung um 90 Grad im Uhrzeigersinn noetig. Am rechten Rand des aufrecht gedrehten Bildes (ab ca. x=2750 von 3060) ist ein schmaler Streifen der gegenueberliegenden Seite 105 mitfotografiert (Kopfzeile 'Asymmetrischer Rock', Abschnitt '2 Drapierung...', Punkte 5-11). Um eine Vermischung mit Seite 104 in der OCR-Antwort zu vermeiden, wurde vor der OCR ein temporaerer Zuschnitt auf 2745x4080 Px (aufrecht, ohne die Nachbarseite) erzeugt und nur dieser an Mistral OCR uebergeben. Die Bounding Boxes unten beziehen sich auf dieses aufrecht gedrehte 2745x4080-Bild, nicht auf die rohen 4080x3060-Kameramasse.",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s104_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_px_aufrecht": {
+        "top_left_x": 2099,
+        "top_left_y": 290,
+        "bottom_right_x": 2399,
+        "bottom_right_y": 1266
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2745
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s104_raw.json, bereits im aufrecht gedrehten Zuschnitt. Zeigt die Figurine zu ☥1 (Vorderansicht mit Wasserfall-Drapierung): Rock an einer stehenden Beinfigur."
+    },
+    {
+      "datei": "skizzen/s104_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_px_aufrecht": {
+        "top_left_x": 519,
+        "top_left_y": 429,
+        "bottom_right_x": 1687,
+        "bottom_right_y": 1572
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2745
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s104_raw.json. Zeigt das obere Schnittteil 'Eingestellter Rock VT' mit Punktnummer ①, drei roten Scheren-Schnittlinien und der Beschriftung 'VM'/'SN'."
+    },
+    {
+      "datei": "skizzen/s104_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_px_aufrecht": {
+        "top_left_x": 453,
+        "top_left_y": 1581,
+        "bottom_right_x": 1814,
+        "bottom_right_y": 3725
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2745
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s104_raw.json. Zeigt das grosse Schnittteil 'Rock mit Wasserfall-Drapierung VT, 1x OSt' mit den Punktnummern ② ③ ④ und zweimal ❷ (unten rechts und oben links), Beschriftung 'messen', 'VM', 'SN'."
+    }
+  ],
+  "nicht_erfasst": [
+    {
+      "beschreibung": "Roter Kasten mit der Zahl '46' links oben, ausserhalb aller drei erkannten Bildregionen (zwischen der Kopfzeile und dem oberen Schnittteil). Von der OCR weder als Bildregion noch als Text erfasst. Bedeutung (z. B. Grundschnitt-/Uebungsnummer) am Original pruefen.",
+      "bbox_px_aufrecht_ungefaehr": {
+        "top_left_x": 460,
+        "top_left_y": 480,
+        "bottom_right_x": 570,
+        "bottom_right_y": 560
+      }
+    }
+  ]
+}

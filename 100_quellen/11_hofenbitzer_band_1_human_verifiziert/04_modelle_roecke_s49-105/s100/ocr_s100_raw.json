@@ -1,0 +1,284 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-Modelle\n\n# Wickelrock (1)\n\nDieses Modell wird aus einem leicht ausgestellten Rock mit geradem Bund und Knopfverschluss entwickelt. Damit der Saum nicht durchhängt, wird der Untertritt ebenfalls mit einem Innen liegenden Knopf gehalten.\n\nAlternativ wird ein Wickelrock manchmal auch mit einem um die Taille verlaufenden Bindeband gehalten und mit einer Schließe oder einem Knoten geschlossen.\n\nFür das Rückteil bleibt der ausgestellte Rockschnitt unverändert. Er kann an der hM im Stoffbruch zugeschnitten sein. Hier werden nur die Veränderungen und die Schnittteile für das Vorderteil gezeigt.\n\nBeide VT können mit einem Beleg verstürzt werden (1. Verarbeitungsvariante).\n\nAlternativ kann der Untertritt nur mit Futter verstürzt werden. Man spart dabei Oberstoff. Dann wird nur der Übertritt mit einem Beleg verstürzt (2. Verarbeitungsvariante).\n\nDas Modell kann gefüttert werden. Entsprechend sind die beiden VT-Futter einmal bis zur Belegnaht zuzuschneiden.\n\n# 1 Vorderen Rock an der vM spiegeln\n\nWenn es sich bei einem Modell um ein asymmetrisches Kleidungsstück handelt, muss das entsprechende Schnittteil vor der Abwandlung an der Körpermitte gespiegelt werden.\n\nDas vordere Rockteil wird kopiert, die Teile werden an der vM zusammengeklebt.\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n# 2 Wickeltell gestalten\n\nDas VT wird als Wickeltell gestaltet. Dazu wird die gewünschte Kante vom Saum zur Taillennahm gezeichnet. Der Kantenabstich kann wie hier rund verlaufen oder jeder beliebige andere Form haben.\nUm den Abnaher zu verdecken, wird hier die Linie mindestens 1 cm über den Abnaher gezeichnet.\nDie spätere Lage der Wickelkante an der Taille markieren: Der Abstand der Wickelkante zur Markierung entspricht dem Abnaherinhalt.\nDie Markierung an der vM auf die andere Seite spiegeln \\(\\rightarrow\\) Markierung zum Anlegen der Kante.\n\nWickelrock\n\n03\n\nGerader B\n\nGerader\n\nA 03 Ausg\ntigte Bunde\nAm Rock\nrung mes\nAm Bunde\nfernen.\nNZg und\nmarkier\nspiegelt.\nDie hM\ner dort\n\n![img-3.jpeg](img-3.jpeg)\n\n100\n\n04",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 261,
+          "top_left_y": 557,
+          "bottom_right_x": 1266,
+          "bottom_right_y": 1305,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1397,
+          "top_left_y": 496,
+          "bottom_right_x": 1915,
+          "bottom_right_y": 1323,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2095,
+          "top_left_y": 1283,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2545,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2071,
+          "top_left_y": 3,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 211,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 372,
+          "top_left_y": 2337,
+          "bottom_right_x": 474,
+          "bottom_right_y": 2521,
+          "content": "# Rock-Modelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 294,
+          "top_left_y": 1795,
+          "bottom_right_x": 368,
+          "bottom_right_y": 2144,
+          "content": "# Wickelrock (1)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 462,
+          "top_left_y": 1492,
+          "bottom_right_x": 666,
+          "bottom_right_y": 2368,
+          "content": "Dieses Modell wird aus einem leicht ausgestellten Rock mit geradem Bund und Knopfverschluss entwickelt. Damit der Saum nicht durchhängt, wird der Untertritt ebenfalls mit einem Innen liegenden Knopf gehalten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 666,
+          "top_left_y": 1501,
+          "bottom_right_x": 813,
+          "bottom_right_y": 2374,
+          "content": "Alternativ wird ein Wickelrock manchmal auch mit einem um die Taille verlaufenden Bindeband gehalten und mit einer Schließe oder einem Knoten geschlossen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 813,
+          "top_left_y": 1501,
+          "bottom_right_x": 997,
+          "bottom_right_y": 2386,
+          "content": "Für das Rückteil bleibt der ausgestellte Rockschnitt unverändert. Er kann an der hM im Stoffbruch zugeschnitten sein. Hier werden nur die Veränderungen und die Schnittteile für das Vorderteil gezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 997,
+          "top_left_y": 1507,
+          "bottom_right_x": 1090,
+          "bottom_right_y": 2395,
+          "content": "Beide VT können mit einem Beleg verstürzt werden (1. Verarbeitungsvariante).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1090,
+          "top_left_y": 1507,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 2405,
+          "content": "Alternativ kann der Untertritt nur mit Futter verstürzt werden. Man spart dabei Oberstoff. Dann wird nur der Übertritt mit einem Beleg verstürzt (2. Verarbeitungsvariante).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1225,
+          "top_left_y": 1510,
+          "bottom_right_x": 1323,
+          "bottom_right_y": 2414,
+          "content": "Das Modell kann gefüttert werden. Entsprechend sind die beiden VT-Futter einmal bis zur Belegnaht zuzuschneiden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1417,
+          "top_left_y": 1826,
+          "bottom_right_x": 1462,
+          "bottom_right_y": 2414,
+          "content": "# 1 Vorderen Rock an der vM spiegeln",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1462,
+          "top_left_y": 1519,
+          "bottom_right_x": 1601,
+          "bottom_right_y": 2432,
+          "content": "Wenn es sich bei einem Modell um ein asymmetrisches Kleidungsstück handelt, muss das entsprechende Schnittteil vor der Abwandlung an der Körpermitte gespiegelt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1605,
+          "top_left_y": 1519,
+          "bottom_right_x": 1707,
+          "bottom_right_y": 2435,
+          "content": "Das vordere Rockteil wird kopiert, die Teile werden an der vM zusammengeklebt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 261,
+          "top_left_y": 557,
+          "bottom_right_x": 1266,
+          "bottom_right_y": 1305,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 496,
+          "bottom_right_x": 1915,
+          "bottom_right_y": 1323,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2095,
+          "top_left_y": 1283,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2545,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2140,
+          "top_left_y": 705,
+          "bottom_right_x": 2189,
+          "bottom_right_y": 1182,
+          "content": "# 2 Wickeltell gestalten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2209,
+          "top_left_y": 380,
+          "bottom_right_x": 3079,
+          "bottom_right_y": 1192,
+          "content": "Das VT wird als Wickeltell gestaltet. Dazu wird die gewünschte Kante vom Saum zur Taillennahm gezeichnet. Der Kantenabstich kann wie hier rund verlaufen oder jeder beliebige andere Form haben.\nUm den Abnaher zu verdecken, wird hier die Linie mindestens 1 cm über den Abnaher gezeichnet.\nDie spätere Lage der Wickelkante an der Taille markieren: Der Abstand der Wickelkante zur Markierung entspricht dem Abnaherinhalt.\nDie Markierung an der vM auf die andere Seite spiegeln \\(\\rightarrow\\) Markierung zum Anlegen der Kante.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 200,
+          "top_left_y": 3,
+          "bottom_right_x": 270,
+          "bottom_right_y": 303,
+          "content": "Wickelrock",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 784,
+          "top_left_y": 217,
+          "bottom_right_x": 825,
+          "bottom_right_y": 270,
+          "content": "03",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 776,
+          "top_left_y": 3,
+          "bottom_right_x": 813,
+          "bottom_right_y": 168,
+          "content": "Gerader B",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1041,
+          "top_left_y": 3,
+          "bottom_right_x": 1082,
+          "bottom_right_y": 254,
+          "content": "Gerader",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1103,
+          "top_left_y": 3,
+          "bottom_right_x": 1654,
+          "bottom_right_y": 254,
+          "content": "A 03 Ausg\ntigte Bunde\nAm Rock\nrung mes\nAm Bunde\nfernen.\nNZg und\nmarkier\nspiegelt.\nDie hM\ner dort",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2071,
+          "top_left_y": 3,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 211,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 3447,
+          "top_left_y": 2659,
+          "bottom_right_x": 3504,
+          "bottom_right_y": 2738,
+          "content": "100",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 3598,
+          "top_left_y": 3,
+          "bottom_right_x": 3647,
+          "bottom_right_y": 150,
+          "content": "04",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3556297
+  }
+}

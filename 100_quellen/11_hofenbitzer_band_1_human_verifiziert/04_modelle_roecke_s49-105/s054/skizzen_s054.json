@@ -1,0 +1,58 @@
+{
+  "seite": "s054",
+  "hinweis_allgemein": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080). Fuer die OCR wurde vom aufrechten Bild der rechte Rand (Nachbarseiten-Bleed von Seite 55, ca. 12% der Breite, ab x=2680) abgeschnitten; da der Zuschnitt den Ursprung (0,0) nicht verschiebt, ist kein Offset noetig - die hier gelisteten bbox-Werte gelten unveraendert fuer Zuschnitt und Originalbild.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s054_skizze_01.png",
+      "beschriftung": "☐1 Hüftrock mit großer Taillenvertiefung und Taillenbeleg (VT- und RT-Modellskizze)",
+      "bbox_original_pixel": {
+        "top_left_x": 490,
+        "top_left_y": 330,
+        "bottom_right_x": 1620,
+        "bottom_right_y": 1330
+      },
+      "herkunft": "manuell bestimmt",
+      "hinweis": "Das OCR-Modell (mistral-ocr-latest) hat in ocr_s054_raw.json nur img-0.jpeg (bbox ca. 649,343-1264,1282) erkannt; das deckt nur die linke VT-Figur ab. Die rechte RT-Figur und die Bildunterschrift wurden vom Modell nicht als Bildregion erfasst (nur als separate Textblöcke). Diese bbox fasst beide Figuren und die Bildunterschrift manuell zusammen, gegen das Originalbild geprüft."
+    },
+    {
+      "datei": "skizzen/s054_skizze_02.png",
+      "beschriftung": "☐2 Große Taillenvertiefung bei normaler und unebener Hüftform in Vorder- und Seitenansicht (drei Torso-Silhouetten)",
+      "bbox_original_pixel": {
+        "top_left_x": 1600,
+        "top_left_y": 380,
+        "bottom_right_x": 2680,
+        "bottom_right_y": 1180
+      },
+      "herkunft": "OCR-Modell-Vorschlag erweitert",
+      "hinweis": "Entspricht im Wesentlichen img-1.jpeg aus ocr_s054_raw.json (bbox ca. 1631,245-2659,1062), hier nach unten erweitert, damit die darunterstehende Bildunterschrift '☐2 ...' mit im Ausschnitt liegt."
+    },
+    {
+      "datei": "skizzen/s054_skizze_03.png",
+      "beschriftung": "☐3 Große Taillenvertiefung am Hohlkreuz bzw. tief sitzenden Gesäß (Torso-Silhouette Seitenansicht) plus Anmerkung 'Weiten-Reduzierungen für obige Figur auch an den hinteren Abnähern vornehmen (hier nicht gezeichnet)'",
+      "bbox_original_pixel": {
+        "top_left_x": 1600,
+        "top_left_y": 1180,
+        "bottom_right_x": 2700,
+        "bottom_right_y": 2080
+      },
+      "herkunft": "manuell bestimmt",
+      "hinweis": "Das OCR-Modell hat hierfür nur img-2.jpeg erkannt (bbox ca. 2382,1197-2675,2079) - ein schmaler Streifen von nur ca. 293px Breite am rechten Rand der Abbildung, der weder die Bildunterschrift noch den Großteil der Figur (Körperkontur, Beleg, Rocksaum) enthält. Diese bbox ersetzt den OCR-Vorschlag durch eine manuell gegen das Originalbild geprüfte, vollständige Fassung."
+    },
+    {
+      "datei": "skizzen/s054_skizze_04.png",
+      "beschriftung": "☐4 Große Taillenvertiefung und Innenbund (Schnittkonstruktion VT/RT mit Kreiszahlen ①-⑥)",
+      "bbox_original_pixel": {
+        "top_left_x": 1150,
+        "top_left_y": 2060,
+        "bottom_right_x": 2650,
+        "bottom_right_y": 3660
+      },
+      "herkunft": "OCR-Modell-Vorschlag übernommen",
+      "hinweis": "Entspricht img-3.jpeg aus ocr_s054_raw.json (bbox ca. 1207,2103-2645,3606), hier minimal aufgerundet, damit Ränder und Bildunterschrift sicher vollständig enthalten sind."
+    }
+  ],
+  "vom_ocr_modell_nicht_erfasste_elemente": [
+    "Rote Seitenverweis-Kästchen '36', '38', '51' am linken Rand oberhalb von ☐1 (Verweise auf andere Buchseiten) - im OCR-Markdown und in den Layout-Blöcken nicht enthalten.",
+    "Rotes Ausrufezeichen-Symbol vor dem Absatz '☐2+3 Man kann schlecht abschätzen ...' (optischer Warnhinweis im Buch) - im OCR-Markdown nicht enthalten."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "seite": "s055",
+  "skizzen": [
+    {
+      "datei": "skizzen/s055_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 429,
+        "top_left_y": 2227,
+        "bottom_right_x": 613,
+        "bottom_right_y": 2821
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 490,
+        "top_left_y": 1510,
+        "bottom_right_x": 633,
+        "bottom_right_y": 2080
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 429,
+        "top_left_y": 701,
+        "bottom_right_x": 649,
+        "bottom_right_y": 1244
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 690,
+        "top_left_y": 1483,
+        "bottom_right_x": 1041,
+        "bottom_right_y": 2836
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1074,
+        "top_left_y": 1440,
+        "bottom_right_x": 1548,
+        "bottom_right_y": 2870
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1707,
+        "top_left_y": 1483,
+        "bottom_right_x": 1952,
+        "bottom_right_y": 2821
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_07.png",
+      "quelle_id": "img-6.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1964,
+        "top_left_y": 2239,
+        "bottom_right_x": 2299,
+        "bottom_right_y": 2910
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_08.png",
+      "quelle_id": "img-7.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1960,
+        "top_left_y": 1381,
+        "bottom_right_x": 2287,
+        "bottom_right_y": 2068
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_09.png",
+      "quelle_id": "img-8.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 2401,
+        "top_left_y": 2196,
+        "bottom_right_x": 3831,
+        "bottom_right_y": 2999
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    },
+    {
+      "datei": "skizzen/s055_skizze_10.png",
+      "quelle_id": "img-9.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 2401,
+        "top_left_y": 1335,
+        "bottom_right_x": 3823,
+        "bottom_right_y": 2163
+      },
+      "hinweis": "Bounding Box bezieht sich auf das rohe, EXIF-unkorrigierte Originalbild (4080x3060 Querformat, wie an die OCR uebergeben). Der Ausschnitt wurde nach dem Zuschnitt um 90 Grad im Uhrzeigersinn gedreht (EXIF-Orientierung 6), um dem aufrecht gedrehten Originalbild (3060x4080) zu entsprechen. Kein Zuschnitt der Vorlage vor der OCR noetig; die Seite war vollstaendig im Originalfoto sichtbar."
+    }
+  ]
+}

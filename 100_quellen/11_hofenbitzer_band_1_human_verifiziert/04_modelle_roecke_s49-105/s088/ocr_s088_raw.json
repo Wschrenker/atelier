@@ -1,0 +1,337 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Rock-Modelle\n\n# Passenrock mit Seitentaschen und Faltenteil (1)\nModellentwicklung aus dem 6-Bahnen-Rock\n\n![img-0.jpeg](img-0.jpeg)\n\nC2\n\nAn einem eingestellten Rock mit Teilungsnähten wird an den unteren beiden Seitenteilen jeweils eine Fläche abgetrennt und zu einem Faltenteil verändert. Bei diesem Modell entstehen Sparfeilen. Die Faltentiefen sind kleiner als die Faltenabstände. Der Stoff liegt teilweise einfach und teilweise dreifach übereinander.\n\nJeweils parallel zum Verlauf der Abtrennungen für das Faltenteil werden im Vorderteil Seitentaschen mit angeschnittenen Taschenbeuteln eingearbeitet, im Rückteil wird eine spitze Passe geformt.\n\n# 1. Rock modifizieren\n\n1 □3 Den Rock auf die gewünschte Länge bringen und evtl. an der Seitennaht einstellen.\nDen Rock zu einem Sechs-Bahnenrock verändern.\nDie Lage der Faltenteile, der Tasche und der Rückteil-Passe einzelnzen.\nCa.0,5 cm Weite in den Tascheneingriff geben und den Taschenbeutel formen. Faltenteile, Tasche und Passe trennen.\nDie Faltenteile in die Anzahl der gewünschten Faltenabstände gleichmäßig unterteilen und die einzelnen Falten-segmente trennen.\n\n□1 Rock mit Teilungsnähten, Faltenteil, Schubtaschen und Rückteil-Passe\n\n![img-1.jpeg](img-1.jpeg)\n\n□2 Sparfalten\n\nEingestellter Rock mit Faltenteil\n\n![img-2.jpeg](img-2.jpeg)\n\n# Vorgaben für das Faltenteil\n\nFür das Faltenteil ist hier nur eine begrenzte Menge Stoff verfügbar. Die vorhandene Stoffbreite (StB) ist 92 cm.\n\nDie geschlossene Weite (geW) des Faltenteils (für vorne und hinten) beträgt 32 cm.\n\nEs sind insgesamt 11 Falten geplant. Zwei Faltentiefen (das ist ein Falteninhalt) sind jeweils am mittleren VT und mittleren RT angeschnitten. 10 Falteninhalte benötigt man demnach am Faltenteil (9 ganze und zwei halbe Falteninhalte an den Enden), siehe folgende Seite.\n\n# Berechnung der Falteninhalte:\n\nVerbleibender Stoff für Falteninhalte\n\nΣ FaI = StB - 2 · 1 cm NZg - geW\n\n= 92 cm - 2 cm - 32 cm\n\n= 58 cm\n\nFalteninhalt\n\nFaI = Σ FaI : Zohl der Falteninhalte\n\n= 58 cm : 10\n\n= 5,8 cm\n\n□1 Rock modifizieren, Faltenteil gestalten und einteilen\n\n88\n\nPassenrock\nModeller\n\n10.0\n10.0\n10.0\n\nC2",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 368,
+          "top_left_y": 349,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 1176,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1613,
+          "top_left_y": 459,
+          "bottom_right_x": 1756,
+          "bottom_right_y": 858,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1764,
+          "top_left_y": 1087,
+          "bottom_right_x": 3578,
+          "bottom_right_y": 2552,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 282,
+          "top_left_y": 2371,
+          "bottom_right_x": 388,
+          "bottom_right_y": 2573,
+          "content": "Rock-Modelle",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 163,
+          "top_left_y": 891,
+          "bottom_right_x": 359,
+          "bottom_right_y": 2156,
+          "content": "# Passenrock mit Seitentaschen und Faltenteil (1)\nModellentwicklung aus dem 6-Bahnen-Rock",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 368,
+          "top_left_y": 349,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 1176,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 494,
+          "top_left_y": 2475,
+          "bottom_right_x": 531,
+          "bottom_right_y": 2536,
+          "content": "C2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 486,
+          "top_left_y": 1375,
+          "bottom_right_x": 715,
+          "bottom_right_y": 2395,
+          "content": "An einem eingestellten Rock mit Teilungsnähten wird an den unteren beiden Seitenteilen jeweils eine Fläche abgetrennt und zu einem Faltenteil verändert. Bei diesem Modell entstehen Sparfeilen. Die Faltentiefen sind kleiner als die Faltenabstände. Der Stoff liegt teilweise einfach und teilweise dreifach übereinander.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 719,
+          "top_left_y": 1375,
+          "bottom_right_x": 890,
+          "bottom_right_y": 2411,
+          "content": "Jeweils parallel zum Verlauf der Abtrennungen für das Faltenteil werden im Vorderteil Seitentaschen mit angeschnittenen Taschenbeuteln eingearbeitet, im Rückteil wird eine spitze Passe geformt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1021,
+          "top_left_y": 2025,
+          "bottom_right_x": 1062,
+          "bottom_right_y": 2417,
+          "content": "# 1. Rock modifizieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1066,
+          "top_left_y": 1375,
+          "bottom_right_x": 1634,
+          "bottom_right_y": 2441,
+          "content": "1 □3 Den Rock auf die gewünschte Länge bringen und evtl. an der Seitennaht einstellen.\nDen Rock zu einem Sechs-Bahnenrock verändern.\nDie Lage der Faltenteile, der Tasche und der Rückteil-Passe einzelnzen.\nCa.0,5 cm Weite in den Tascheneingriff geben und den Taschenbeutel formen. Faltenteile, Tasche und Passe trennen.\nDie Faltenteile in die Anzahl der gewünschten Faltenabstände gleichmäßig unterteilen und die einzelnen Falten-segmente trennen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1372,
+          "top_left_y": 352,
+          "bottom_right_x": 1454,
+          "bottom_right_y": 1014,
+          "content": "□1 Rock mit Teilungsnähten, Faltenteil, Schubtaschen und Rückteil-Passe",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1613,
+          "top_left_y": 459,
+          "bottom_right_x": 1756,
+          "bottom_right_y": 858,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1781,
+          "top_left_y": 551,
+          "bottom_right_x": 1822,
+          "bottom_right_y": 818,
+          "content": "□2 Sparfalten",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1613,
+          "top_left_y": 2555,
+          "bottom_right_x": 2197,
+          "bottom_right_y": 2610,
+          "content": "Eingestellter Rock mit Faltenteil",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1764,
+          "top_left_y": 1087,
+          "bottom_right_x": 3578,
+          "bottom_right_y": 2552,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1924,
+          "top_left_y": 456,
+          "bottom_right_x": 1973,
+          "bottom_right_y": 992,
+          "content": "# Vorgaben für das Faltenteil",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1993,
+          "top_left_y": 285,
+          "bottom_right_x": 2136,
+          "bottom_right_y": 1005,
+          "content": "Für das Faltenteil ist hier nur eine begrenzte Menge Stoff verfügbar. Die vorhandene Stoffbreite (StB) ist 92 cm.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2156,
+          "top_left_y": 276,
+          "bottom_right_x": 2299,
+          "bottom_right_y": 1002,
+          "content": "Die geschlossene Weite (geW) des Faltenteils (für vorne und hinten) beträgt 32 cm.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2324,
+          "top_left_y": 254,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 995,
+          "content": "Es sind insgesamt 11 Falten geplant. Zwei Faltentiefen (das ist ein Falteninhalt) sind jeweils am mittleren VT und mittleren RT angeschnitten. 10 Falteninhalte benötigt man demnach am Faltenteil (9 ganze und zwei halbe Falteninhalte an den Enden), siehe folgende Seite.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2920,
+          "top_left_y": 349,
+          "bottom_right_x": 2977,
+          "bottom_right_y": 974,
+          "content": "# Berechnung der Falteninhalte:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3022,
+          "top_left_y": 242,
+          "bottom_right_x": 3075,
+          "bottom_right_y": 974,
+          "content": "Verbleibender Stoff für Falteninhalte",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3075,
+          "top_left_y": 260,
+          "bottom_right_x": 3137,
+          "bottom_right_y": 971,
+          "content": "Σ FaI = StB - 2 · 1 cm NZg - geW",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3137,
+          "top_left_y": 303,
+          "bottom_right_x": 3186,
+          "bottom_right_y": 830,
+          "content": "= 92 cm - 2 cm - 32 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3190,
+          "top_left_y": 671,
+          "bottom_right_x": 3231,
+          "bottom_right_y": 827,
+          "content": "= 58 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3284,
+          "top_left_y": 714,
+          "bottom_right_x": 3333,
+          "bottom_right_y": 965,
+          "content": "Falteninhalt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3341,
+          "top_left_y": 217,
+          "bottom_right_x": 3402,
+          "bottom_right_y": 965,
+          "content": "FaI = Σ FaI : Zohl der Falteninhalte",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3402,
+          "top_left_y": 579,
+          "bottom_right_x": 3451,
+          "bottom_right_y": 824,
+          "content": "= 58 cm : 10",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3455,
+          "top_left_y": 646,
+          "bottom_right_x": 3504,
+          "bottom_right_y": 824,
+          "content": "= 5,8 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3602,
+          "top_left_y": 1599,
+          "bottom_right_x": 3688,
+          "bottom_right_y": 2558,
+          "content": "□1 Rock modifizieren, Faltenteil gestalten und einteilen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3631,
+          "top_left_y": 2665,
+          "bottom_right_x": 3684,
+          "bottom_right_y": 2729,
+          "content": "88",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 131,
+          "top_left_y": 3,
+          "bottom_right_x": 306,
+          "bottom_right_y": 248,
+          "content": "Passenrock\nModeller",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 523,
+          "top_left_y": 3,
+          "bottom_right_x": 2099,
+          "bottom_right_y": 214,
+          "content": "10.0\n10.0\n10.0",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2267,
+          "top_left_y": 3,
+          "bottom_right_x": 2401,
+          "bottom_right_y": 64,
+          "content": "C2",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3844147
+  }
+}

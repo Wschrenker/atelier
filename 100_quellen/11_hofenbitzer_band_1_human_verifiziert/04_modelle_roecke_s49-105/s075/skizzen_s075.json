@@ -1,0 +1,103 @@
+{
+  "seite": "s075",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s75.jpg",
+  "ocr_quelle": "ocr_s075_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s075_skizze_01.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 747,
+        "top_left_y": 2003,
+        "bottom_right_x": 1478,
+        "bottom_right_y": 2729
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s075_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s075_skizze_02.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 474,
+        "top_left_y": 536,
+        "bottom_right_x": 1487,
+        "bottom_right_y": 1559
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s075_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s075_skizze_03.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1625,
+        "top_left_y": 1234,
+        "bottom_right_x": 2675,
+        "bottom_right_y": 2000
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s075_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s075_skizze_04.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1625,
+        "top_left_y": 423,
+        "bottom_right_x": 2675,
+        "bottom_right_y": 1207
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s075_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s075_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2724,
+        "top_left_y": 285,
+        "bottom_right_x": 3921,
+        "bottom_right_y": 2947
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s075_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s075_skizze_06.png",
+      "quelle_id": null,
+      "bbox_original_px": {
+        "top_left_x": 200,
+        "top_left_y": 120,
+        "bottom_right_x": 700,
+        "bottom_right_y": 650
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Von der OCR nicht als eigener Bildblock erkannt (keine quelle_id); manuell nachgetragener Ausschnitt fuer die rote Randverweis-Nummernbox 65 rechts neben der VT/RT-Zeichnung. Ausschnitt gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    }
+  ]
+}

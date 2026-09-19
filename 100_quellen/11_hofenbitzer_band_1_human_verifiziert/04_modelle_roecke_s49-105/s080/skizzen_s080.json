@@ -1,0 +1,56 @@
+{
+  "seite": "s080",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s80.jpg",
+  "ocr_quelle": "ocr_s080_raw.json",
+  "hinweis_zuschnitt": "Das Originalfoto zeigt am rechten Rand einen Streifen der Nachbarseite (S.81); eine erste OCR auf dem vollstaendigen aufrecht gedrehten Bild hat deren Text mit uebernommen. Deshalb wurde vor der massgeblichen OCR ein temporaerer, bereits gemaess EXIF-Orientierung (6) aufrecht gedrehter Zuschnitt (0 bis 2880px Breite von 3060px) erzeugt, der die vollstaendige Seite 80 enthaelt und die Nachbarseite ausschliesst. Die Bounding Boxes unten beziehen sich direkt auf diesen aufrechten Zuschnitt; keine weitere Drehung noetig.",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s080_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_zuschnitt_px": {
+        "top_left_x": 1848,
+        "top_left_y": 212,
+        "bottom_right_x": 2649,
+        "bottom_right_y": 1188
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2880
+      },
+      "hinweis": "Modellabbildung VT/RT (Bildunterschrift □1 Rock mit tiefen Bundfalten)."
+    },
+    {
+      "datei": "skizzen/s080_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_zuschnitt_px": {
+        "top_left_x": 430,
+        "top_left_y": 1715,
+        "bottom_right_x": 1594,
+        "bottom_right_y": 3561
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2880
+      },
+      "hinweis": "Produktionsschnitt VT (linker Teil von □2)."
+    },
+    {
+      "datei": "skizzen/s080_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_zuschnitt_px": {
+        "top_left_x": 1747,
+        "top_left_y": 1817,
+        "bottom_right_x": 2851,
+        "bottom_right_y": 3606
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2880
+      },
+      "hinweis": "Produktionsschnitt RT (rechter Teil von □2)."
+    }
+  ]
+}

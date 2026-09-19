@@ -1,0 +1,324 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-\nModelle\n\n# Passenrock mit gekräuselter Saumabtrennung (Saumrüsche)\nModellentwicklung aus dem 10-Bahnenrock (9)\n\n![img-0.jpeg](img-0.jpeg)\n\n1\n\nHier wird ein gerader Passenrock mit einer spitzen Passen-\nform im RT und einer gekräuselten Saumabtrennung ge-\nzeigt. Andere Möglichkeiten von Saumabtrennungen mit\nKräuselungen findet man auf den folgenden Seiten. Weitere\nInformationen zu Rüschenröcken findet man auf Seite 48.\n\n![img-1.jpeg](img-1.jpeg)\n\n☐1 Schnittentwicklung aus der\nZehn-Bahnenrock-Einteilung\n\n☐2 Passenrock mit Saumrüsche\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\nGewünschte Abtrennungen gestalten. Hierbei darauf achten, dass die Passennähte keinen größeren Abstand als 2 cm zu den Abnäherspitzen haben.\nDie Abnäher auf die Passennähte verkürzen\noder verlangern und die Restab-naher zulegen.\nDie Saumabtrennung an den Teilungsnahen und der Seitennahnt um die gewünschte Weite parallel öffnen.\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\nAn VM und hM wird, da es sich hier\num eine Spiegellinie und keine\nNäht handelt, keine Mehrweite an-\ngesetzend..\n\nDa die Form der Abtrennung und\ndie hinzugegebene Weite an vor-\nderem und hinterem Kräuseltelt\n(Rüsche) identisch sind, wird nur\nein Schnittteil dargestellt und dop-\npeit zugeschnitten.\n\n![img-6.jpeg](img-6.jpeg)\n\nPassenrock mit\ngekräuselter Saumabtrennung\n\n76\n\nStufenröck\nModellentwicklung\n\nHier werden\nentwicklung\nmit Passe,\nist. Weitere\net man auf S\n\n![img-7.jpeg](img-7.jpeg)\n\n☐1 Schnitt\nZehn\n\n½ der\nanderen\nÖffnungen\n\n☐3 Produktionsschnitt\nPassenrock mit\nSaumrüsche",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 327,
+          "top_left_y": 423,
+          "bottom_right_x": 1327,
+          "bottom_right_y": 1449,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 735,
+          "top_left_y": 1856,
+          "bottom_right_x": 1389,
+          "bottom_right_y": 2521,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1646,
+          "top_left_y": 1201,
+          "bottom_right_x": 2120,
+          "bottom_right_y": 1902,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1601,
+          "top_left_y": 371,
+          "bottom_right_x": 2099,
+          "bottom_right_y": 1063,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 2095,
+          "top_left_y": 1170,
+          "bottom_right_x": 2712,
+          "bottom_right_y": 1911,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 2095,
+          "top_left_y": 371,
+          "bottom_right_x": 2716,
+          "bottom_right_y": 1130,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 2773,
+          "top_left_y": 352,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 1483,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 698,
+          "top_left_y": 3,
+          "bottom_right_x": 1397,
+          "bottom_right_y": 236,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 274,
+          "top_left_y": 2420,
+          "bottom_right_x": 380,
+          "bottom_right_y": 2619,
+          "content": "# Rock-\nModelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 163,
+          "top_left_y": 634,
+          "bottom_right_x": 351,
+          "bottom_right_y": 2212,
+          "content": "# Passenrock mit gekräuselter Saumabtrennung (Saumrüsche)\nModellentwicklung aus dem 10-Bahnenrock (9)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 327,
+          "top_left_y": 423,
+          "bottom_right_x": 1327,
+          "bottom_right_y": 1449,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 482,
+          "top_left_y": 2527,
+          "bottom_right_x": 519,
+          "bottom_right_y": 2591,
+          "content": "1",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 1513,
+          "bottom_right_x": 662,
+          "bottom_right_y": 2454,
+          "content": "Hier wird ein gerader Passenrock mit einer spitzen Passen-\nform im RT und einer gekräuselten Saumabtrennung ge-\nzeigt. Andere Möglichkeiten von Saumabtrennungen mit\nKräuselungen findet man auf den folgenden Seiten. Weitere\nInformationen zu Rüschenröcken findet man auf Seite 48.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 735,
+          "top_left_y": 1856,
+          "bottom_right_x": 1389,
+          "bottom_right_y": 2521,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1421,
+          "top_left_y": 2043,
+          "bottom_right_x": 1491,
+          "bottom_right_y": 2524,
+          "content": "☐1 Schnittentwicklung aus der\nZehn-Bahnenrock-Einteilung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1356,
+          "top_left_y": 836,
+          "bottom_right_x": 1397,
+          "bottom_right_y": 1354,
+          "content": "☐2 Passenrock mit Saumrüsche",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1646,
+          "top_left_y": 1201,
+          "bottom_right_x": 2120,
+          "bottom_right_y": 1902,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1601,
+          "top_left_y": 371,
+          "bottom_right_x": 2099,
+          "bottom_right_y": 1063,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1777,
+          "top_left_y": 1917,
+          "bottom_right_x": 2422,
+          "bottom_right_y": 2591,
+          "content": "Gewünschte Abtrennungen gestalten. Hierbei darauf achten, dass die Passennähte keinen größeren Abstand als 2 cm zu den Abnäherspitzen haben.\nDie Abnäher auf die Passennähte verkürzen\noder verlangern und die Restab-naher zulegen.\nDie Saumabtrennung an den Teilungsnahen und der Seitennahnt um die gewünschte Weite parallel öffnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2095,
+          "top_left_y": 1170,
+          "bottom_right_x": 2712,
+          "bottom_right_y": 1911,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 2095,
+          "top_left_y": 371,
+          "bottom_right_x": 2716,
+          "bottom_right_y": 1130,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 2446,
+          "top_left_y": 1942,
+          "bottom_right_x": 2634,
+          "bottom_right_y": 2545,
+          "content": "An VM und hM wird, da es sich hier\num eine Spiegellinie und keine\nNäht handelt, keine Mehrweite an-\ngesetzend..",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2651,
+          "top_left_y": 1954,
+          "bottom_right_x": 2957,
+          "bottom_right_y": 2631,
+          "content": "Da die Form der Abtrennung und\ndie hinzugegebene Weite an vor-\nderem und hinterem Kräuseltelt\n(Rüsche) identisch sind, wird nur\nein Schnittteil dargestellt und dop-\npeit zugeschnitten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2773,
+          "top_left_y": 352,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 1483,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 1617,
+          "top_left_y": 2640,
+          "bottom_right_x": 2148,
+          "bottom_right_y": 2757,
+          "content": "Passenrock mit\ngekräuselter Saumabtrennung",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3569,
+          "top_left_y": 2815,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2879,
+          "content": "76",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 196,
+          "top_left_y": 3,
+          "bottom_right_x": 327,
+          "bottom_right_y": 266,
+          "content": "Stufenröck\nModellentwicklung",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 417,
+          "top_left_y": 3,
+          "bottom_right_x": 633,
+          "bottom_right_y": 254,
+          "content": "Hier werden\nentwicklung\nmit Passe,\nist. Weitere\net man auf S",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 698,
+          "top_left_y": 3,
+          "bottom_right_x": 1397,
+          "bottom_right_y": 236,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        },
+        {
+          "top_left_x": 1425,
+          "top_left_y": 3,
+          "bottom_right_x": 1491,
+          "bottom_right_y": 199,
+          "content": "☐1 Schnitt\nZehn",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3329,
+          "top_left_y": 1495,
+          "bottom_right_x": 3451,
+          "bottom_right_y": 1654,
+          "content": "½ der\nanderen\nÖffnungen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3512,
+          "top_left_y": 1633,
+          "bottom_right_x": 3651,
+          "bottom_right_y": 2034,
+          "content": "☐3 Produktionsschnitt\nPassenrock mit\nSaumrüsche",
+          "confidence_scores": null,
+          "type": "caption"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3665543
+  }
+}

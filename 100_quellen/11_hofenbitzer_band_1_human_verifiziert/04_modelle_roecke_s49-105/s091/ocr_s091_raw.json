@@ -1,0 +1,240 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Röcke mit Saumvolants (2)\nVolant aus abgetrenntem Schnittteil\n\n![img-0.jpeg](img-0.jpeg)\n\n1\n\nBerechnungen\n\n![img-1.jpeg](img-1.jpeg)\n\n☐3 Modell und Schnittkonstruktion für einen Volant aus vier Vollkreisen\n\n# Volant aus abgetrenntem Schnittteil (Glockenteil)\n\n![img-2.jpeg](img-2.jpeg)\n\nAn einem geraden Rock-Grundschnitt ist hier die Form des Volants nach Wunsch eingezeichnet.\nEntsprechend der gewünschten Anzahl an Glocken die Einschnittlinien positionieren.\nDen Volant abtrennen, die Öffnungslinien einschneiden und mit der notwendigen Weite unten öffnen.\nDen Saum und die Ansatznahlt formen.\n\n![img-3.jpeg](img-3.jpeg)\n\n☐4\n\nSaum-Volant aus einem beliebig abgetrennten Schnittteil\n\n![img-4.jpeg](img-4.jpeg)\n\n☐5\n\nAbtrennung und Öffnungslinien exemplarisch am VT gezeigt\n\nRöcke mit Saumvolants\n\n25\n\n24",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 237,
+          "top_left_y": 2352,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 2830,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 396,
+          "top_left_y": 705,
+          "bottom_right_x": 1340,
+          "bottom_right_y": 2270,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1552,
+          "top_left_y": 331,
+          "bottom_right_x": 3725,
+          "bottom_right_y": 1559,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2332,
+          "top_left_y": 2435,
+          "bottom_right_x": 3655,
+          "bottom_right_y": 2876,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1907,
+          "top_left_y": 1492,
+          "bottom_right_x": 3610,
+          "bottom_right_y": 2251,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 82,
+          "top_left_y": 1856,
+          "bottom_right_x": 237,
+          "bottom_right_y": 2818,
+          "content": "# Röcke mit Saumvolants (2)\nVolant aus abgetrenntem Schnittteil",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 237,
+          "top_left_y": 2352,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 2830,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 2257,
+          "bottom_right_x": 323,
+          "bottom_right_y": 2306,
+          "content": "1",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 335,
+          "top_left_y": 1994,
+          "bottom_right_x": 384,
+          "bottom_right_y": 2267,
+          "content": "Berechnungen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 396,
+          "top_left_y": 705,
+          "bottom_right_x": 1340,
+          "bottom_right_y": 2270,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1299,
+          "top_left_y": 2092,
+          "bottom_right_x": 1368,
+          "bottom_right_y": 2741,
+          "content": "☐3 Modell und Schnittkonstruktion für einen Volant aus vier Vollkreisen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1568,
+          "top_left_y": 1878,
+          "bottom_right_x": 1621,
+          "bottom_right_y": 2852,
+          "content": "# Volant aus abgetrenntem Schnittteil (Glockenteil)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1552,
+          "top_left_y": 331,
+          "bottom_right_x": 3725,
+          "bottom_right_y": 1559,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1638,
+          "top_left_y": 1752,
+          "bottom_right_x": 2254,
+          "bottom_right_y": 2867,
+          "content": "An einem geraden Rock-Grundschnitt ist hier die Form des Volants nach Wunsch eingezeichnet.\nEntsprechend der gewünschten Anzahl an Glocken die Einschnittlinien positionieren.\nDen Volant abtrennen, die Öffnungslinien einschneiden und mit der notwendigen Weite unten öffnen.\nDen Saum und die Ansatznahlt formen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2332,
+          "top_left_y": 2435,
+          "bottom_right_x": 3655,
+          "bottom_right_y": 2876,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 3688,
+          "top_left_y": 2839,
+          "bottom_right_x": 3729,
+          "bottom_right_y": 2892,
+          "content": "☐4",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3692,
+          "top_left_y": 2380,
+          "bottom_right_x": 3827,
+          "bottom_right_y": 2797,
+          "content": "Saum-Volant aus einem beliebig abgetrennten Schnittteil",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1907,
+          "top_left_y": 1492,
+          "bottom_right_x": 3610,
+          "bottom_right_y": 2251,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 3712,
+          "top_left_y": 2172,
+          "bottom_right_x": 3757,
+          "bottom_right_y": 2233,
+          "content": "☐5",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3668,
+          "top_left_y": 1562,
+          "bottom_right_x": 3790,
+          "bottom_right_y": 2123,
+          "content": "Abtrennung und Öffnungslinien exemplarisch am VT gezeigt",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1703,
+          "top_left_y": 450,
+          "bottom_right_x": 2140,
+          "bottom_right_y": 512,
+          "content": "Röcke mit Saumvolants",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2234,
+          "top_left_y": 404,
+          "bottom_right_x": 2275,
+          "bottom_right_y": 466,
+          "content": "25",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 3655,
+          "top_left_y": 242,
+          "bottom_right_x": 3712,
+          "bottom_right_y": 303,
+          "content": "24",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3821071
+  }
+}

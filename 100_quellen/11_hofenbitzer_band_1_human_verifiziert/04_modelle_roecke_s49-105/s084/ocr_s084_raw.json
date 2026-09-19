@@ -1,0 +1,258 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-\nModelle\n\n# Rock mit offenen bzw. verdeckten Schlitzen\nModellentwicklung aus dem 10-Bahnenrock (17)\n\n![img-0.jpeg](img-0.jpeg)\n\n☐\n\nEin gerader Rock mit verschiedenen Schlitzen in den seitlichen Nähten des VT und\nRT. Die vier mittigen Nähte entfallen, bzw. werden am RT als Abnäher genäht.\nBei diesem Modell werden in die seitlichen Nähte des VT und RT des geraden 10-\nBahnen-Rocks verschiedene Schlitze eingearbeitet. Für ein Modell sollte man\nsich für die eine oder andere Schlitzvariante entscheiden. Auch ist es möglich,\nan einem Modell nur vorne oder nur hinten Schlitze einzubeileiten.\nEin verdeckter Schlitz ist diskreter, da er sich bei vergleichbarer Schlitzhöhe weni-\nger weit öffnet als ein offener Schlitz. Für die Konstruktion eines Rockfutters sie-\nhe ab Seite 96.\n\nDie mittleren Teile des Bahnenrocks werden hier wieder zusammengelegt (an geschnitten), so dass diese Nähte entfallen.\nDer dort befindliche Abnaher im VT entfällt ebenfalls. Der Abnaherinhalt wird an die vordere (seitliche) Teilungsnah't verschoben und die Naht geformt.\nDer im RT verbleibende Abnaher wird dort genäht. Nur bei sehr schmalem Ab- näher und wenn dieser dort entbehrlich ist, kann er wie im VT in die Teilungs- naht verschoben werden.\nOptional kann der Saum an den Teilungsnähten leicht ausgestellt werden (hier nur am VT gezeigt), um das schnelle Öffnen der Schlitze zu verringern.\nAn die Teilungsnähte in VT und/oder RT werden - wo gewünscht - Falteneinschläge gezeichnet. Die Schlitzhöhe und die Einschlagsbreite 2 bis 5 cm bestimmen. Längere Schlitze sollenn einen breiteren Einschlag erhalten, damit beim Umschlagen der Schlitzkante das Futter oder das Ende des Einschlags weniger schnell sightbar ist.\nBeim verdeckten Schlitz (hier am RT) wird nur der Einschlag der Schlitzkante umgebugelt; die andere Seite bildet den Untertritt.\n\nSaum, Nahtzugaben und Markierungen wie skizziert anzeichnen. Auch bei\nSchlitzen hat sich oberhalb eine breit auslaufende Nahtzugabe bewährt.\n\n☐1 Rock mit offenen Schlitzen vorne\nund verdeckten Schlitzen hinten\n\n# Eingestellter\nVorderteil\n\n☐1\n\nRock mit Fächern\nMit separaten\nund separate\n\n3+4 Bei Fä\nFaltenteilen kö\nterialien gearbeitet\nDa an je\nFalteninnennah\nauch ein separates\n5 Zur Falt\nder Falte eine\nabe konstruiert\nFür die Veran\nzunächst gesä\ngebügelt und\nreiteten Rock\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n☐2 Schnittentwicklung am VT, hier mit Ausstellung am offenen Schlitz,\nProduktionsschlitz für RT, hier ohne Ausstellung am verdeckten Schlitz,\n(VT und RT) noch spiegeln)\n\n84\n\n☐3 Fächerf376\nseparat\n\n![img-4.jpeg](img-4.jpeg)\n\n☐4a Pro\nFalt",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1927,
+          "top_left_y": 429,
+          "bottom_right_x": 2585,
+          "bottom_right_y": 1385,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 487,
+          "top_left_y": 2022,
+          "bottom_right_x": 1434,
+          "bottom_right_y": 3500,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1639,
+          "top_left_y": 1977,
+          "bottom_right_x": 2101,
+          "bottom_right_y": 3676,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2126,
+          "top_left_y": 1985,
+          "bottom_right_x": 2699,
+          "bottom_right_y": 3696,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 2787,
+          "top_left_y": 2740,
+          "bottom_right_x": 3060,
+          "bottom_right_y": 3639,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 557,
+          "top_left_y": 515,
+          "bottom_right_x": 732,
+          "bottom_right_y": 609,
+          "content": "# Rock-\nModelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 919,
+          "top_left_y": 327,
+          "bottom_right_x": 2012,
+          "bottom_right_y": 564,
+          "content": "# Rock mit offenen bzw. verdeckten Schlitzen\nModellentwicklung aus dem 10-Bahnenrock (17)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1927,
+          "top_left_y": 429,
+          "bottom_right_x": 2585,
+          "bottom_right_y": 1385,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 582,
+          "top_left_y": 702,
+          "bottom_right_x": 637,
+          "bottom_right_y": 743,
+          "content": "☐",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 705,
+          "top_left_y": 555,
+          "bottom_right_x": 1878,
+          "bottom_right_y": 1037,
+          "content": "Ein gerader Rock mit verschiedenen Schlitzen in den seitlichen Nähten des VT und\nRT. Die vier mittigen Nähte entfallen, bzw. werden am RT als Abnäher genäht.\nBei diesem Modell werden in die seitlichen Nähte des VT und RT des geraden 10-\nBahnen-Rocks verschiedene Schlitze eingearbeitet. Für ein Modell sollte man\nsich für die eine oder andere Schlitzvariante entscheiden. Auch ist es möglich,\nan einem Modell nur vorne oder nur hinten Schlitze einzubeileiten.\nEin verdeckter Schlitz ist diskreter, da er sich bei vergleichbarer Schlitzhöhe weni-\nger weit öffnet als ein offener Schlitz. Für die Konstruktion eines Rockfutters sie-\nhe ab Seite 96.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 628,
+          "top_left_y": 1041,
+          "bottom_right_x": 1884,
+          "bottom_right_y": 1830,
+          "content": "Die mittleren Teile des Bahnenrocks werden hier wieder zusammengelegt (an geschnitten), so dass diese Nähte entfallen.\nDer dort befindliche Abnaher im VT entfällt ebenfalls. Der Abnaherinhalt wird an die vordere (seitliche) Teilungsnah't verschoben und die Naht geformt.\nDer im RT verbleibende Abnaher wird dort genäht. Nur bei sehr schmalem Ab- näher und wenn dieser dort entbehrlich ist, kann er wie im VT in die Teilungs- naht verschoben werden.\nOptional kann der Saum an den Teilungsnähten leicht ausgestellt werden (hier nur am VT gezeigt), um das schnelle Öffnen der Schlitze zu verringern.\nAn die Teilungsnähte in VT und/oder RT werden - wo gewünscht - Falteneinschläge gezeichnet. Die Schlitzhöhe und die Einschlagsbreite 2 bis 5 cm bestimmen. Längere Schlitze sollenn einen breiteren Einschlag erhalten, damit beim Umschlagen der Schlitzkante das Futter oder das Ende des Einschlags weniger schnell sightbar ist.\nBeim verdeckten Schlitz (hier am RT) wird nur der Einschlag der Schlitzkante umgebugelt; die andere Seite bildet den Untertritt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 683,
+          "top_left_y": 1834,
+          "bottom_right_x": 1872,
+          "bottom_right_y": 1928,
+          "content": "Saum, Nahtzugaben und Markierungen wie skizziert anzeichnen. Auch bei\nSchlitzen hat sich oberhalb eine breit auslaufende Nahtzugabe bewährt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1939,
+          "top_left_y": 1417,
+          "bottom_right_x": 2539,
+          "bottom_right_y": 1491,
+          "content": "☐1 Rock mit offenen Schlitzen vorne\nund verdeckten Schlitzen hinten",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2677,
+          "top_left_y": 306,
+          "bottom_right_x": 3060,
+          "bottom_right_y": 462,
+          "content": "# Eingestellter\nVorderteil",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2751,
+          "top_left_y": 1429,
+          "bottom_right_x": 2794,
+          "bottom_right_y": 1470,
+          "content": "☐1",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2839,
+          "top_left_y": 1413,
+          "bottom_right_x": 3060,
+          "bottom_right_y": 1515,
+          "content": "Rock mit Fächern\nMit separaten\nund separate",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2769,
+          "top_left_y": 1638,
+          "bottom_right_x": 3060,
+          "bottom_right_y": 2283,
+          "content": "3+4 Bei Fä\nFaltenteilen kö\nterialien gearbeitet\nDa an je\nFalteninnennah\nauch ein separates\n5 Zur Falt\nder Falte eine\nabe konstruiert\nFür die Veran\nzunächst gesä\ngebügelt und\nreiteten Rock",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 2022,
+          "bottom_right_x": 1434,
+          "bottom_right_y": 3500,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1639,
+          "top_left_y": 1977,
+          "bottom_right_x": 2101,
+          "bottom_right_y": 3676,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2126,
+          "top_left_y": 1985,
+          "bottom_right_x": 2699,
+          "bottom_right_y": 3696,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 490,
+          "top_left_y": 3484,
+          "bottom_right_x": 1630,
+          "bottom_right_y": 3643,
+          "content": "☐2 Schnittentwicklung am VT, hier mit Ausstellung am offenen Schlitz,\nProduktionsschlitz für RT, hier ohne Ausstellung am verdeckten Schlitz,\n(VT und RT) noch spiegeln)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 331,
+          "top_left_y": 3574,
+          "bottom_right_x": 392,
+          "bottom_right_y": 3623,
+          "content": "84",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 2830,
+          "top_left_y": 2618,
+          "bottom_right_x": 3060,
+          "bottom_right_y": 2700,
+          "content": "☐3 Fächerf376\nseparat",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2787,
+          "top_left_y": 2740,
+          "bottom_right_x": 3060,
+          "bottom_right_y": 3639,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 2888,
+          "top_left_y": 3659,
+          "bottom_right_x": 3060,
+          "bottom_right_y": 3757,
+          "content": "☐4a Pro\nFalt",
+          "confidence_scores": null,
+          "type": "caption"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3766836
+  }
+}

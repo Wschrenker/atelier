@@ -1,0 +1,28 @@
+{
+  "quelle": "OCR-Layout-Antwort ocr_s083_raw.json, page.images",
+  "pixelbezug": "Originalbild s83.jpg ohne EXIF-Rotation angewendet (4080x3060, EXIF-Orientation 6)",
+  "rotation_fuer_ausschnitt": "-90 Grad (im Uhrzeigersinn) zur aufrechten Anzeige",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s083_skizze_01.png",
+      "bezeichnung": "Zeichnung 1 - Rock mit Kellerfalten, VT und RT als Figurinen",
+      "bbox_original_pixel": {
+        "top_left_x": 237,
+        "top_left_y": 557,
+        "bottom_right_x": 1229,
+        "bottom_right_y": 1320
+      },
+      "hinweis": "OCR-Bounding-Box; rote Nummernbox '65' rechts daneben liegt außerhalb dieses Ausschnitts, siehe Hinweis in s083.md"
+    },
+    {
+      "datei": "skizzen/s083_skizze_02.png",
+      "bezeichnung": "Zeichnungen 2/3 - Produktionsschnitte VT und RT mit Kellerfalte/Faltenboden, inkl. Schrittmarken 1-7",
+      "bbox_original_pixel": {
+        "top_left_x": 1830,
+        "top_left_y": 334,
+        "bottom_right_x": 3700,
+        "bottom_right_y": 2950
+      }
+    }
+  ]
+}

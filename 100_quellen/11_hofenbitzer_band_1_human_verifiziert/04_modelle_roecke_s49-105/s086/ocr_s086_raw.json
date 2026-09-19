@@ -1,0 +1,505 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Rock-Modelle\n\nRundum-Faltenrock (1)\nModellentwicklung aus Stoffbahnen\n\nEin Rundum-Faltenrock hat um den ganzen Körper fortlaufende Falten. Da der Taillenumfang geringer ist als der Hüftumfang, sind an der Taille die Faltenabstände kleiner als an der Hüfte.\n\nDie Falten werden unterhalb der Taille ca. 12 bis 20 cm lang abgenäht. Damit liegt der Rock optimal am Körper an.\n\nMan legt entweder die Zahl der Falten (FaZ) fest oder bestimmt einen Faltenabstand sowie die Faltenart.\n\nBei diesem Modell ist die Anzahl der Normalfalten an der Hüfte 22. Bei Normalfalten ist die Faltentiefe gleich dem Faltenabstand (Faltenkante bis Falteninnenbruch, bzw. Faltenmitte). Der Stoff liegt dreifach übereinander (siehe □1).\n\nDurch Abnähen der überschüssigen Weite an der Taille ergeben sich dort übergreifende Falten. Hier ist die Faltentiefe größer als der Faltenabstand. Der Stoff liegt teilweise dreifach und teilweise fünffach übereinander (siehe □1).\n\nDie Sparfalte ist eine weitere mögliche, aber an diesem Modell nicht verwendete Faltenart. Der Stoff liegt teilweise einfach und teilweise dreifach übereinander (siehe □3).\n\n### Rundum-Faltenrock fertigen\n\nIn der Regel kann man bei der Einzelanfertigung auf einen Papierschnitt verzichten.\n\nMan markiert die Nähte, Faltenaußenbrüche und Faltenanstoßlinien nach dem Abbügeln und Auslegen direkt auf der rechten oder linken Seite der Stoffbahn (je nach Verarbeitung).\n\nGegebenenfalls muss man mehrere Stoffbahnen ansetzen, um die notwendige offene Weite zu erzielen.\n\n![img-0.jpeg](img-0.jpeg)\n\n[tbl-0.md](tbl-0.md)\n\n### Berechnung der Faltenabstände\n\nFaltenabstand an der Hüfte (FaA\\( _{N2} \\))\n\n- HüW : Faltenanzahl (FaZ)\n\n- 100cm : 22\n\n= 4,54 cm\n\nFaltenabstand an der Taille (FaA\\( _{N2} \\))\n\n- TaW : Faltenanzahl (FaZ)\n\n- 74cm : 22\n\n= 3,76 cm\n\n### 1 Berechnungen\n\nFaltenanzahl (FaZ) festlegen.\n\nFaltentiefe (FaT) (an der Hüfte) festlegen.\n\nFaltenabstände an der Hüfte FaA\\( _{N2} \\) und an der Taille FaA\\( _{N} \\) errechnen.\n\n### 2 Falten markieren\n\nNachdem die benötigten Stoffbahnen zugeschnitten und rechtwinklig ausgerichtet auf dem Tisch liegen, kann man beginnen:\n\n1 □2 Taillenlinie, TaNZg, Hüftlinie, Saumlinie und SaEs parallel anzeichnen.\n\nAlle folgenden Linien exakt rechtwinklig zu den Linien zeichnen.\n\n2 Man beginnt immer mit einer NZg und einer Faltentiefe (sie befindet sich später entweder an der Seitennaht oder an der hM) und zeichnet die Faltenaußenbrüche und Faltenanstoßlinien exakt rechtwinklig zu den Linien ein.\n\n3 An die erste Faltentiefe schließt sich ein Faltenabstand an.\n\n4 Anschließend wird ein Falteninhalt (FaI ≈ 2 × FaT) markiert.\n\nFortfahren, bis die gewünschte Faltenanzahl gezeichnet oder die Stoffbahn zu Ende ist.\n\nReicht die Stoffbahn nicht für alle Falten aus, müssen die noch fehlenden Falten auf einer weiteren Stoffbahn gezeichnet werden.\n\n5 Am Ende jeder Stoffbahn wieder eine Faltentiefe und eine NZg zum Annähen zeichnen.\n\nMan beginnt und endet immer mit einer Faltentiefe und einer NZg.\n\n6 Die offene Weite kontrollieren und ggf. die eingezeichneten Falten korrigieren.\n\n### Kontrolle der offenen Weite\n\n\\[\n\\begin{array}{l} \\text { ofW } = \\text { FaZ } \\cdot \\text { FaT } \\cdot 2 + \\text { HüW } \\\\ = 2 2 \\cdot 9, 2 \\mathrm{cm} + 1 0 0 \\mathrm{cm} \\\\ = 3 0 2, 4 \\mathrm{cm} \\\\ \\end{array}\n\\]\n\nAlle Linien auf rechte Winkel und Parallelität kontrollieren.\n\nRundum\nModell\n\nRockklänge\nFalteninnennaht\nFalten\ntiefe\n\n□2\n\nMark\n\nFalten\nbruch\nmark\nne dü\n\nDie F\nvon c\nEs is\nMan\ndes\npara\nsich\nFalt\nDie\nden\nauf\n\nMa\n\n□2\nKau\nde\nSci\nFa\ndi\nto\nw\n\n86",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 221,
+          "top_left_y": 414,
+          "bottom_right_x": 1254,
+          "bottom_right_y": 1332,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  KonstruktionstabelleMaßangaben in cm Rock | Name |  |   |   |   |   | Größe | 38  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | Gerader Rock  |   |   |   |\n|  Hauptmaße (Kennmaße) |   | Körpermaße | Zugaben |   | Proportionshemmelse (Konstruktions-, Kontrolle, Haltemäße)  |   |   |   |   |\n|  HüU | Hüftumfang | 97 | +2,-3 | 3 = | Hüftweite | HüW | 100 | \\( \\frac{1}{2} \\) 50 | \\( \\frac{1}{4} \\) 25  |\n|  TaU | Taillenumfang | 72 | +1,-2 | 2 = | Taillenweite | TaW | 74 | \\( \\frac{1}{2} \\) 37 | \\( \\frac{1}{4} \\) 18,5  |\n|  TaAf | Taillenausfall | \\( \\frac{1}{2} \\) HüW - \\( \\frac{1}{2} \\) TaW = |   |   |   |   |   | 13 | \\( \\frac{1}{2} \\) 6,5  |\n|  gBuU | gem. Bundumfang | --- | + | --- = | Bundumfang | BuU | --- | \\( \\frac{1}{2} \\) --- |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 123,
+          "top_left_y": 2432,
+          "bottom_right_x": 237,
+          "bottom_right_y": 2637,
+          "content": "Rock-Modelle",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 61,
+          "top_left_y": 1317,
+          "bottom_right_x": 208,
+          "bottom_right_y": 2218,
+          "content": "Rundum-Faltenrock (1)\nModellentwicklung aus Stoffbahnen",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 278,
+          "top_left_y": 1434,
+          "bottom_right_x": 441,
+          "bottom_right_y": 2466,
+          "content": "Ein Rundum-Faltenrock hat um den ganzen Körper fortlaufende Falten. Da der Taillenumfang geringer ist als der Hüftumfang, sind an der Taille die Faltenabstände kleiner als an der Hüfte.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 1427,
+          "bottom_right_x": 535,
+          "bottom_right_y": 2469,
+          "content": "Die Falten werden unterhalb der Taille ca. 12 bis 20 cm lang abgenäht. Damit liegt der Rock optimal am Körper an.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 535,
+          "top_left_y": 1434,
+          "bottom_right_x": 629,
+          "bottom_right_y": 2478,
+          "content": "Man legt entweder die Zahl der Falten (FaZ) fest oder bestimmt einen Faltenabstand sowie die Faltenart.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 629,
+          "top_left_y": 1440,
+          "bottom_right_x": 809,
+          "bottom_right_y": 2487,
+          "content": "Bei diesem Modell ist die Anzahl der Normalfalten an der Hüfte 22. Bei Normalfalten ist die Faltentiefe gleich dem Faltenabstand (Faltenkante bis Falteninnenbruch, bzw. Faltenmitte). Der Stoff liegt dreifach übereinander (siehe □1).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 809,
+          "top_left_y": 1440,
+          "bottom_right_x": 997,
+          "bottom_right_y": 2509,
+          "content": "Durch Abnähen der überschüssigen Weite an der Taille ergeben sich dort übergreifende Falten. Hier ist die Faltentiefe größer als der Faltenabstand. Der Stoff liegt teilweise dreifach und teilweise fünffach übereinander (siehe □1).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 997,
+          "top_left_y": 1446,
+          "bottom_right_x": 1144,
+          "bottom_right_y": 2518,
+          "content": "Die Sparfalte ist eine weitere mögliche, aber an diesem Modell nicht verwendete Faltenart. Der Stoff liegt teilweise einfach und teilweise dreifach übereinander (siehe □3).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1205,
+          "top_left_y": 2019,
+          "bottom_right_x": 1254,
+          "bottom_right_y": 2518,
+          "content": "### Rundum-Faltenrock fertigen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1258,
+          "top_left_y": 1452,
+          "bottom_right_x": 1360,
+          "bottom_right_y": 2536,
+          "content": "In der Regel kann man bei der Einzelanfertigung auf einen Papierschnitt verzichten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1368,
+          "top_left_y": 1455,
+          "bottom_right_x": 1511,
+          "bottom_right_y": 2548,
+          "content": "Man markiert die Nähte, Faltenaußenbrüche und Faltenanstoßlinien nach dem Abbügeln und Auslegen direkt auf der rechten oder linken Seite der Stoffbahn (je nach Verarbeitung).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1523,
+          "top_left_y": 1458,
+          "bottom_right_x": 1621,
+          "bottom_right_y": 2555,
+          "content": "Gegebenenfalls muss man mehrere Stoffbahnen ansetzen, um die notwendige offene Weite zu erzielen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 221,
+          "top_left_y": 414,
+          "bottom_right_x": 1254,
+          "bottom_right_y": 1332,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1666,
+          "top_left_y": 352,
+          "bottom_right_x": 2250,
+          "bottom_right_y": 2582,
+          "content": "|  KonstruktionstabelleMaßangaben in cm Rock | Name |  |   |   |   |   | Größe | 38  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | Gerader Rock  |   |   |   |\n|  Hauptmaße (Kennmaße) |   | Körpermaße | Zugaben |   | Proportionshemmelse (Konstruktions-, Kontrolle, Haltemäße)  |   |   |   |   |\n|  HüU | Hüftumfang | 97 | +2,-3 | 3 = | Hüftweite | HüW | 100 | \\( \\frac{1}{2} \\) 50 | \\( \\frac{1}{4} \\) 25  |\n|  TaU | Taillenumfang | 72 | +1,-2 | 2 = | Taillenweite | TaW | 74 | \\( \\frac{1}{2} \\) 37 | \\( \\frac{1}{4} \\) 18,5  |\n|  TaAf | Taillenausfall | \\( \\frac{1}{2} \\) HüW - \\( \\frac{1}{2} \\) TaW = |   |   |   |   |   | 13 | \\( \\frac{1}{2} \\) 6,5  |\n|  gBuU | gem. Bundumfang | --- | + | --- = | Bundumfang | BuU | --- | \\( \\frac{1}{2} \\) --- |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 2308,
+          "top_left_y": 2006,
+          "bottom_right_x": 2365,
+          "bottom_right_y": 2601,
+          "content": "### Berechnung der Faltenabstände",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2381,
+          "top_left_y": 1991,
+          "bottom_right_x": 2434,
+          "bottom_right_y": 2604,
+          "content": "Faltenabstand an der Hüfte (FaA\\( _{N2} \\))",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2434,
+          "top_left_y": 2022,
+          "bottom_right_x": 2483,
+          "bottom_right_y": 2610,
+          "content": "- HüW : Faltenanzahl (FaZ)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2483,
+          "top_left_y": 2313,
+          "bottom_right_x": 2524,
+          "bottom_right_y": 2610,
+          "content": "- 100cm : 22",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2524,
+          "top_left_y": 2432,
+          "bottom_right_x": 2569,
+          "bottom_right_y": 2610,
+          "content": "= 4,54 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2618,
+          "top_left_y": 2019,
+          "bottom_right_x": 2675,
+          "bottom_right_y": 2625,
+          "content": "Faltenabstand an der Taille (FaA\\( _{N2} \\))",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2675,
+          "top_left_y": 2049,
+          "bottom_right_x": 2728,
+          "bottom_right_y": 2628,
+          "content": "- TaW : Faltenanzahl (FaZ)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2728,
+          "top_left_y": 2328,
+          "bottom_right_x": 2769,
+          "bottom_right_y": 2628,
+          "content": "- 74cm : 22",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2769,
+          "top_left_y": 2447,
+          "bottom_right_x": 2814,
+          "bottom_right_y": 2628,
+          "content": "= 3,76 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3124,
+          "top_left_y": 2313,
+          "bottom_right_x": 3186,
+          "bottom_right_y": 2665,
+          "content": "### 1 Berechnungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3202,
+          "top_left_y": 2144,
+          "bottom_right_x": 3275,
+          "bottom_right_y": 2677,
+          "content": "Faltenanzahl (FaZ) festlegen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3275,
+          "top_left_y": 1976,
+          "bottom_right_x": 3378,
+          "bottom_right_y": 2686,
+          "content": "Faltentiefe (FaT) (an der Hüfte) festlegen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3402,
+          "top_left_y": 1979,
+          "bottom_right_x": 3533,
+          "bottom_right_y": 2692,
+          "content": "Faltenabstände an der Hüfte FaA\\( _{N2} \\) und an der Taille FaA\\( _{N} \\) errechnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2316,
+          "top_left_y": 1455,
+          "bottom_right_x": 2373,
+          "bottom_right_y": 1856,
+          "content": "### 2 Falten markieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2393,
+          "top_left_y": 1155,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 1801,
+          "content": "Nachdem die benötigten Stoffbahnen zugeschnitten und rechtwinklig ausgerichtet auf dem Tisch liegen, kann man beginnen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2610,
+          "top_left_y": 1143,
+          "bottom_right_x": 2769,
+          "bottom_right_y": 1878,
+          "content": "1 □2 Taillenlinie, TaNZg, Hüftlinie, Saumlinie und SaEs parallel anzeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2794,
+          "top_left_y": 1155,
+          "bottom_right_x": 2912,
+          "bottom_right_y": 1813,
+          "content": "Alle folgenden Linien exakt rechtwinklig zu den Linien zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2916,
+          "top_left_y": 1152,
+          "bottom_right_x": 3304,
+          "bottom_right_y": 1893,
+          "content": "2 Man beginnt immer mit einer NZg und einer Faltentiefe (sie befindet sich später entweder an der Seitennaht oder an der hM) und zeichnet die Faltenaußenbrüche und Faltenanstoßlinien exakt rechtwinklig zu den Linien ein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3308,
+          "top_left_y": 1158,
+          "bottom_right_x": 3439,
+          "bottom_right_y": 1911,
+          "content": "3 An die erste Faltentiefe schließt sich ein Faltenabstand an.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3439,
+          "top_left_y": 1161,
+          "bottom_right_x": 3582,
+          "bottom_right_y": 1914,
+          "content": "4 Anschließend wird ein Falteninhalt (FaI ≈ 2 × FaT) markiert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2336,
+          "top_left_y": 343,
+          "bottom_right_x": 2495,
+          "bottom_right_y": 1008,
+          "content": "Fortfahren, bis die gewünschte Faltenanzahl gezeichnet oder die Stoffbahn zu Ende ist.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2516,
+          "top_left_y": 337,
+          "bottom_right_x": 2736,
+          "bottom_right_y": 1008,
+          "content": "Reicht die Stoffbahn nicht für alle Falten aus, müssen die noch fehlenden Falten auf einer weiteren Stoffbahn gezeichnet werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2745,
+          "top_left_y": 322,
+          "bottom_right_x": 2916,
+          "bottom_right_y": 1081,
+          "content": "5 Am Ende jeder Stoffbahn wieder eine Faltentiefe und eine NZg zum Annähen zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2932,
+          "top_left_y": 325,
+          "bottom_right_x": 3059,
+          "bottom_right_y": 1005,
+          "content": "Man beginnt und endet immer mit einer Faltentiefe und einer NZg.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3059,
+          "top_left_y": 309,
+          "bottom_right_x": 3235,
+          "bottom_right_y": 1081,
+          "content": "6 Die offene Weite kontrollieren und ggf. die eingezeichneten Falten korrigieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3255,
+          "top_left_y": 398,
+          "bottom_right_x": 3324,
+          "bottom_right_y": 999,
+          "content": "### Kontrolle der offenen Weite",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3333,
+          "top_left_y": 322,
+          "bottom_right_x": 3512,
+          "bottom_right_y": 999,
+          "content": "\\[\n\\begin{array}{l} \\text { ofW } = \\text { FaZ } \\cdot \\text { FaT } \\cdot 2 + \\text { HüW } \\\\ = 2 2 \\cdot 9, 2 \\mathrm{cm} + 1 0 0 \\mathrm{cm} \\\\ = 3 0 2, 4 \\mathrm{cm} \\\\ \\end{array}\n\\]",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 3529,
+          "top_left_y": 294,
+          "bottom_right_x": 3663,
+          "bottom_right_y": 1005,
+          "content": "Alle Linien auf rechte Winkel und Parallelität kontrollieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3,
+          "bottom_right_x": 176,
+          "bottom_right_y": 254,
+          "content": "Rundum\nModell",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 245,
+          "top_left_y": 3,
+          "bottom_right_x": 1634,
+          "bottom_right_y": 224,
+          "content": "Rockklänge\nFalteninnennaht\nFalten\ntiefe",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1662,
+          "top_left_y": 49,
+          "bottom_right_x": 1707,
+          "bottom_right_y": 110,
+          "content": "□2",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2140,
+          "top_left_y": 3,
+          "bottom_right_x": 2197,
+          "bottom_right_y": 119,
+          "content": "Mark",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2218,
+          "top_left_y": 3,
+          "bottom_right_x": 2422,
+          "bottom_right_y": 119,
+          "content": "Falten\nbruch\nmark\nne dü",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2442,
+          "top_left_y": 3,
+          "bottom_right_x": 3047,
+          "bottom_right_y": 110,
+          "content": "Die F\nvon c\nEs is\nMan\ndes\npara\nsich\nFalt\nDie\nden\nauf",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3145,
+          "top_left_y": 3,
+          "bottom_right_x": 3198,
+          "bottom_right_y": 64,
+          "content": "Ma",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3231,
+          "top_left_y": 3,
+          "bottom_right_x": 3668,
+          "bottom_right_y": 64,
+          "content": "□2\nKau\nde\nSci\nFa\ndi\nto\nw",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3496,
+          "top_left_y": 2800,
+          "bottom_right_x": 3557,
+          "bottom_right_y": 2870,
+          "content": "86",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3916685
+  }
+}

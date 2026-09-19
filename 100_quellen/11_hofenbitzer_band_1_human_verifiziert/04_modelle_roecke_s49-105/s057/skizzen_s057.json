@@ -1,0 +1,148 @@
+{
+  "seite": "s057",
+  "skizzen": [
+    {
+      "datei": "skizzen/s057_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 347,
+        "top_left_y": 1476,
+        "bottom_right_x": 792,
+        "bottom_right_y": 2512
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 952,
+        "top_left_y": 2166,
+        "bottom_right_x": 1131,
+        "bottom_right_y": 2702
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 972,
+        "top_left_y": 1342,
+        "bottom_right_x": 1135,
+        "bottom_right_y": 1810
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 1164,
+        "top_left_y": 2178,
+        "bottom_right_x": 1389,
+        "bottom_right_y": 2708
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 1160,
+        "top_left_y": 1335,
+        "bottom_right_x": 1413,
+        "bottom_right_y": 1786
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 1556,
+        "top_left_y": 2132,
+        "bottom_right_x": 1850,
+        "bottom_right_y": 2757
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_07.png",
+      "quelle_id": "img-6.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 1544,
+        "top_left_y": 1302,
+        "bottom_right_x": 1850,
+        "bottom_right_y": 1829
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_08.png",
+      "quelle_id": "img-7.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 1540,
+        "top_left_y": 539,
+        "bottom_right_x": 1850,
+        "bottom_right_y": 1173
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_09.png",
+      "quelle_id": "img-8.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 2062,
+        "top_left_y": 2132,
+        "bottom_right_x": 2365,
+        "bottom_right_y": 2775
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_10.png",
+      "quelle_id": "img-9.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 2034,
+        "top_left_y": 1188,
+        "bottom_right_x": 2385,
+        "bottom_right_y": 1902
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_11.png",
+      "quelle_id": "img-10.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 2030,
+        "top_left_y": 487,
+        "bottom_right_x": 2381,
+        "bottom_right_y": 1057
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_12.png",
+      "quelle_id": "img-11.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 2602,
+        "top_left_y": 2028,
+        "bottom_right_x": 3708,
+        "bottom_right_y": 2794
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    },
+    {
+      "datei": "skizzen/s057_skizze_13.png",
+      "quelle_id": "img-12.jpeg",
+      "bbox_roh_pixel_vor_drehung": {
+        "top_left_x": 2602,
+        "top_left_y": 1179,
+        "bottom_right_x": 3692,
+        "bottom_right_y": 2006
+      },
+      "hinweis": "bbox bezieht sich auf die rohe (nicht gedrehte) Pixelorientierung der OCR-Eingabe (Originalbild direkt ohne Zuschnitt, 4080x3060, EXIF-Orientierung 6). Der PNG-Ausschnitt in skizzen/ wurde aus dieser rohen bbox geschnitten und danach um 270 Grad gedreht (PIL ROTATE_270, entspricht 90 Grad im Uhrzeigersinn), um ihn aufrecht darzustellen; die bbox selbst ist NICHT auf das aufrechte Bild umgerechnet."
+    }
+  ]
+}

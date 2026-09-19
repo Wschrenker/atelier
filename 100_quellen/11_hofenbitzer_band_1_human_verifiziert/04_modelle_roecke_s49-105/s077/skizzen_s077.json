@@ -1,0 +1,135 @@
+{
+  "seite": "s077",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s77.jpg",
+  "ocr_quelle": "ocr_s077_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s077_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 245,
+        "top_left_y": 441,
+        "bottom_right_x": 1262,
+        "bottom_right_y": 1605
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s077_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 568,
+        "top_left_y": 2040,
+        "bottom_right_x": 1295,
+        "bottom_right_y": 2751
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s077_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1507,
+        "top_left_y": 2055,
+        "bottom_right_x": 1977,
+        "bottom_right_y": 2800
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s077_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1556,
+        "top_left_y": 466,
+        "bottom_right_x": 1952,
+        "bottom_right_y": 1244
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s077_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2009,
+        "top_left_y": 1859,
+        "bottom_right_x": 2585,
+        "bottom_right_y": 2800
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s077_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1997,
+        "top_left_y": 429,
+        "bottom_right_x": 2561,
+        "bottom_right_y": 1381
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s077_skizze_07.png",
+      "quelle_id": "img-6.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2630,
+        "top_left_y": 1648,
+        "bottom_right_x": 3578,
+        "bottom_right_y": 2839
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s077_skizze_08.png",
+      "quelle_id": "img-7.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2622,
+        "top_left_y": 352,
+        "bottom_right_x": 3549,
+        "bottom_right_y": 1562
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s077_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    }
+  ]
+}

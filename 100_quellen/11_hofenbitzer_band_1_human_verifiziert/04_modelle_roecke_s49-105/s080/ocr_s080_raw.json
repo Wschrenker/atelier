@@ -1,0 +1,211 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Rock-Modelle\n\nRock mit tiefen Bundfalten\nModellentwicklung aus dem 10-Bahnenrock (13)\n\n![img-0.jpeg](img-0.jpeg)\n\n5.3\n\nÜbergroße tiefe Bundfalten werden an diesem Rock nur an den seitlichen Teilungsnähten des geraden 10-Bahnenrocks eingearbeitet. Die mittleren Teilungsnähte werden ignoriert. Die Falten können wahlweise direkt aus dem Bund aufspringen (wie hier am VT) oder mehr oder weniger lang abgenäht werden (wie hier am RT gezeigt).\n\n1 Der Abnäher der mittleren vorderen Teilungsnaht wird zur Öffnungsposition addiert und Dort als Faltenbruch und Faltenanstößlinie gezelchnet.\n2 Für die an der Taille beginnende Bundfalte wird ein Faltendach konstruiert. Das Faltendach kann vereinfacht durch Falten des Papierschnitts und Zurückschneiden an der Naht entstehen.\n3 Die Legerichtung von Falten zeigen immer zur Seite, damit der Falteninhalt zur Körpermitte liegt und die Falte zur Seite hin offen ist.\n\nVon der Mitte schaut man über die Falte hinweg, von der Seite aus in die Falte hinein.\n\n☐1 Rock mit tiefen Bundfalten\n\n4 Am RT wird hier die Falte sehr lang bis knapp über die Hüftlinie abgenaht. Damit sitzt der Rock bis zur Hüfte sehr körperanliegend, da erst ab Dort Weite hinzu kommt.\n5 Den Nahtverlauf formen und die Falte bis zum Falteninnenbruch abnahen.\n\n6 Der im RT verbleibende Abnäher wird Dort genäht. Nur bei sehr kleinem Abnäher und wenn dieser für eine gute Passform entbehrlich ist, kann er wie im VT verschoben werden.\n7 Oberhalb der Falten eine breit auslaufende Nahtzugabe zeichnen.\n\nRock mit tiefen Bundfalten\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n☐2\n\nProduktionsschnitte\n\nmit gelegten Falten am VT alternativ können auch die Falten abgenäht werden, wie hier am RT gezeigt (Schnittteile noch spiegeln)\n\n80",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1848,
+          "top_left_y": 212,
+          "bottom_right_x": 2649,
+          "bottom_right_y": 1188,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 430,
+          "top_left_y": 1715,
+          "bottom_right_x": 1594,
+          "bottom_right_y": 3561,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1747,
+          "top_left_y": 1817,
+          "bottom_right_x": 2851,
+          "bottom_right_y": 3606,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2880
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 519,
+          "top_left_y": 114,
+          "bottom_right_x": 729,
+          "bottom_right_y": 225,
+          "content": "Rock-Modelle",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 954,
+          "top_left_y": 102,
+          "bottom_right_x": 2168,
+          "bottom_right_y": 216,
+          "content": "Rock mit tiefen Bundfalten\nModellentwicklung aus dem 10-Bahnenrock (13)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 1848,
+          "top_left_y": 212,
+          "bottom_right_x": 2649,
+          "bottom_right_y": 1188,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 551,
+          "top_left_y": 331,
+          "bottom_right_x": 617,
+          "bottom_right_y": 372,
+          "content": "5.3",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 695,
+          "top_left_y": 327,
+          "bottom_right_x": 1681,
+          "bottom_right_y": 572,
+          "content": "Übergroße tiefe Bundfalten werden an diesem Rock nur an den seitlichen Teilungsnähten des geraden 10-Bahnenrocks eingearbeitet. Die mittleren Teilungsnähte werden ignoriert. Die Falten können wahlweise direkt aus dem Bund aufspringen (wie hier am VT) oder mehr oder weniger lang abgenäht werden (wie hier am RT gezeigt).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 634,
+          "top_left_y": 747,
+          "bottom_right_x": 1309,
+          "bottom_right_y": 1462,
+          "content": "1 Der Abnäher der mittleren vorderen Teilungsnaht wird zur Öffnungsposition addiert und Dort als Faltenbruch und Faltenanstößlinie gezelchnet.\n2 Für die an der Taille beginnende Bundfalte wird ein Faltendach konstruiert. Das Faltendach kann vereinfacht durch Falten des Papierschnitts und Zurückschneiden an der Naht entstehen.\n3 Die Legerichtung von Falten zeigen immer zur Seite, damit der Falteninhalt zur Körpermitte liegt und die Falte zur Seite hin offen ist.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 623,
+          "top_left_y": 1483,
+          "bottom_right_x": 1283,
+          "bottom_right_y": 1617,
+          "content": "Von der Mitte schaut man über die Falte hinweg, von der Seite aus in die Falte hinein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1845,
+          "top_left_y": 1225,
+          "bottom_right_x": 2364,
+          "bottom_right_y": 1262,
+          "content": "☐1 Rock mit tiefen Bundfalten",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1343,
+          "top_left_y": 1368,
+          "bottom_right_x": 2030,
+          "bottom_right_y": 1752,
+          "content": "4 Am RT wird hier die Falte sehr lang bis knapp über die Hüftlinie abgenaht. Damit sitzt der Rock bis zur Hüfte sehr körperanliegend, da erst ab Dort Weite hinzu kommt.\n5 Den Nahtverlauf formen und die Falte bis zum Falteninnenbruch abnahen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2093,
+          "top_left_y": 1360,
+          "bottom_right_x": 2779,
+          "bottom_right_y": 1764,
+          "content": "6 Der im RT verbleibende Abnäher wird Dort genäht. Nur bei sehr kleinem Abnäher und wenn dieser für eine gute Passform entbehrlich ist, kann er wie im VT verschoben werden.\n7 Oberhalb der Falten eine breit auslaufende Nahtzugabe zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 430,
+          "top_left_y": 1568,
+          "bottom_right_x": 502,
+          "bottom_right_y": 2075,
+          "content": "Rock mit tiefen Bundfalten",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 430,
+          "top_left_y": 1715,
+          "bottom_right_x": 1594,
+          "bottom_right_y": 3561,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1747,
+          "top_left_y": 1817,
+          "bottom_right_x": 2851,
+          "bottom_right_y": 3606,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1326,
+          "top_left_y": 3398,
+          "bottom_right_x": 1384,
+          "bottom_right_y": 3439,
+          "content": "☐2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1433,
+          "top_left_y": 3402,
+          "bottom_right_x": 1764,
+          "bottom_right_y": 3451,
+          "content": "Produktionsschnitte",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1433,
+          "top_left_y": 3455,
+          "bottom_right_x": 2044,
+          "bottom_right_y": 3643,
+          "content": "mit gelegten Falten am VT alternativ können auch die Falten abgenäht werden, wie hier am RT gezeigt (Schnittteile noch spiegeln)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 271,
+          "top_left_y": 3545,
+          "bottom_right_x": 337,
+          "bottom_right_y": 3598,
+          "content": "80",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2637876
+  }
+}

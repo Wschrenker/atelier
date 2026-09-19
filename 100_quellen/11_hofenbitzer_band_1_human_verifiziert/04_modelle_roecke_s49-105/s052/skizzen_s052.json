@@ -1,0 +1,49 @@
+{
+  "seite": "s052",
+  "skizzen": [
+    {
+      "datei": "skizzen/s052_skizze_01.png",
+      "quelle_id": null,
+      "bbox_original_pixel": {
+        "top_left_x": 1670,
+        "top_left_y": 160,
+        "bottom_right_x": 2620,
+        "bottom_right_y": 1370
+      },
+      "hinweis": "Vom OCR-Modell NICHT als eigener Bildblock erkannt (fehlt in ocr_s052_raw.json/images); bbox von Hand am aufrecht gedrehten Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080) bestimmt. Zeigt die Standfiguren VT/RT mit Bildunterschrift '□2 Hueftrock mit kleiner Taillenvertiefung und Taillenbeleg'."
+    },
+    {
+      "datei": "skizzen/s052_skizze_02.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1709,
+        "top_left_y": 1389,
+        "bottom_right_x": 2613,
+        "bottom_right_y": 1760
+      },
+      "hinweis": "bbox stammt direkt aus der OCR-Layout-Antwort und bezieht sich bereits auf das aufrecht gedrehte Originalbild (3060x4080), da fuer die OCR kein Zuschnitt verwendet wurde. Im OCR-Markdown steht der Bildverweis faelschlich unmittelbar nach der Bildunterschrift zu □2; visuell gehoert dieser Ausschnitt zur Bildunterschrift '□3 Geoeffneter Reissverschluss mit Taillenbeleg, Futter und Riegel zum Knoepfen'."
+    },
+    {
+      "datei": "skizzen/s052_skizze_03.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1256,
+        "top_left_y": 2005,
+        "bottom_right_x": 2656,
+        "bottom_right_y": 2724
+      },
+      "hinweis": "bbox stammt direkt aus der OCR-Layout-Antwort, bezogen auf das aufrecht gedrehte Originalbild (3060x4080). Gehoert zur Bildunterschrift '□4 Kleine Taillenvertiefung und Beleg fuer Rock-GS mit einem RT-Abnaeher'."
+    },
+    {
+      "datei": "skizzen/s052_skizze_04.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1176,
+        "top_left_y": 2789,
+        "bottom_right_x": 2662,
+        "bottom_right_y": 3663
+      },
+      "hinweis": "bbox stammt direkt aus der OCR-Layout-Antwort, bezogen auf das aufrecht gedrehte Originalbild (3060x4080). Gehoert zur Bildunterschrift '□5 Kleine Taillenvertiefung und Beleg fuer Rock-GS mit zwei RT-Abnaehern'."
+    }
+  ]
+}

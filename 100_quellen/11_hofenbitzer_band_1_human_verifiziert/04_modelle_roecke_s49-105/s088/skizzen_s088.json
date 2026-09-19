@@ -1,0 +1,55 @@
+{
+  "seite": "s088",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s88.jpg",
+  "ocr_quelle": "ocr_s088_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s088_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 368,
+        "top_left_y": 349,
+        "bottom_right_x": 1385,
+        "bottom_right_y": 1176
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s088_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die Modellzeichnung vorne/hinten (Bildunterschrift im Original: '□1 Rock mit Teilungsnaehten, Faltenteil, Schubtaschen und Rueckteil-Passe')."
+    },
+    {
+      "datei": "skizzen/s088_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1613,
+        "top_left_y": 459,
+        "bottom_right_x": 1756,
+        "bottom_right_y": 858
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s088_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Kleine Faltenskizze (Bildunterschrift im Original: '□2 Sparfalten')."
+    },
+    {
+      "datei": "skizzen/s088_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1764,
+        "top_left_y": 1087,
+        "bottom_right_x": 3578,
+        "bottom_right_y": 2552
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s088_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Grosse Schnittteil-Zeichnung VT/RT mit Taschenbeutel, Faltensegmenten und Schritt-Kreismarkierungen 2-5 (Bildunterschrift im Original: '□3 Rock modifizieren, Faltenteil gestalten und einteilen')."
+    }
+  ]
+}

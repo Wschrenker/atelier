@@ -1,0 +1,174 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Wickelrock (2)\n\n![img-0.jpeg](img-0.jpeg)\n\n☐3 Gerader Bund mit großem Übertritt\n\n### 3 Gerader Bund mit großem Übertritt\n\n☐3 Ausgehend vom geraden Bund wird nur die benötigte Bundfläche kopiert.\nAm Rock-VT den Abstand von der SN zur Kantenmarkierung messen.\nAm Bund diesen Betrag von der SN in Richtung vM entfernen. Dieser wird hier nicht benötigt.\nNZg und Knopfloch markieren. Den Knopfannähpunkt so markieren, dass das Auge des Knopflochs an der vM gespiegelt wird.\nDie hM am Bund wird im Stoffbruch zugeschnitten, weil er dort symmetrisch und an der hM keine Naht ist.\n\n### 4 Produktionsschnitte für das Vorderteil\n\nLinkes und rechtes VT sind hier symmetrisch.\n\nDie Übertrittkante muss bei einem runden Kantenabstich mit einem Beleg verarbeitet sein. Ein gerader Kantenabstich kann auch mit einem Einschlag (angeschnittener Beleg) gearbeitet werden.\n\n☐4 Die Beleg-(Einschlag-)Breite kann nach Wunsch gewählt werden, sollte aber so breit sein, dass beim Aufklappen der Wickelkante das Futter oder die innere Belegkante nicht direkt sichtbar wird.\nFür das Futter wird der Saum um 2 cm gekürzt und mit 2×2 cm Saumeinschlägen versehen. Ebenso am RT-Futter.\nNZg und SaEs anzeichnen.\nAm Übergang des Saums zum Beleg muss hier eine Ecke genäht werden.\n\n![img-1.jpeg](img-1.jpeg)\n\n☐4\n\nProduktionschnitteile VT\n\n101\n\nWickelrock",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 278,
+          "top_left_y": 588,
+          "bottom_right_x": 800,
+          "bottom_right_y": 2355,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 2075,
+          "top_left_y": 352,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 2928,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 45,
+          "top_left_y": 2288,
+          "bottom_right_x": 118,
+          "bottom_right_y": 2711,
+          "content": "Wickelrock (2)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 278,
+          "top_left_y": 588,
+          "bottom_right_x": 800,
+          "bottom_right_y": 2355,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 666,
+          "top_left_y": 2068,
+          "bottom_right_x": 719,
+          "bottom_right_y": 2745,
+          "content": "☐3 Gerader Bund mit großem Übertritt",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 952,
+          "top_left_y": 1982,
+          "bottom_right_x": 1005,
+          "bottom_right_y": 2757,
+          "content": "### 3 Gerader Bund mit großem Übertritt",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1013,
+          "top_left_y": 1663,
+          "bottom_right_x": 1630,
+          "bottom_right_y": 2787,
+          "content": "☐3 Ausgehend vom geraden Bund wird nur die benötigte Bundfläche kopiert.\nAm Rock-VT den Abstand von der SN zur Kantenmarkierung messen.\nAm Bund diesen Betrag von der SN in Richtung vM entfernen. Dieser wird hier nicht benötigt.\nNZg und Knopfloch markieren. Den Knopfannähpunkt so markieren, dass das Auge des Knopflochs an der vM gespiegelt wird.\nDie hM am Bund wird im Stoffbruch zugeschnitten, weil er dort symmetrisch und an der hM keine Naht ist.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 988,
+          "top_left_y": 812,
+          "bottom_right_x": 1050,
+          "bottom_right_y": 1590,
+          "content": "### 4 Produktionsschnitte für das Vorderteil",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1058,
+          "top_left_y": 754,
+          "bottom_right_x": 1119,
+          "bottom_right_y": 1522,
+          "content": "Linkes und rechtes VT sind hier symmetrisch.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1123,
+          "top_left_y": 557,
+          "bottom_right_x": 1307,
+          "bottom_right_y": 1522,
+          "content": "Die Übertrittkante muss bei einem runden Kantenabstich mit einem Beleg verarbeitet sein. Ein gerader Kantenabstich kann auch mit einem Einschlag (angeschnittener Beleg) gearbeitet werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1315,
+          "top_left_y": 518,
+          "bottom_right_x": 1801,
+          "bottom_right_y": 1593,
+          "content": "☐4 Die Beleg-(Einschlag-)Breite kann nach Wunsch gewählt werden, sollte aber so breit sein, dass beim Aufklappen der Wickelkante das Futter oder die innere Belegkante nicht direkt sichtbar wird.\nFür das Futter wird der Saum um 2 cm gekürzt und mit 2×2 cm Saumeinschlägen versehen. Ebenso am RT-Futter.\nNZg und SaEs anzeichnen.\nAm Übergang des Saums zum Beleg muss hier eine Ecke genäht werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2075,
+          "top_left_y": 352,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 2928,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 3737,
+          "top_left_y": 2812,
+          "bottom_right_x": 3786,
+          "bottom_right_y": 2876,
+          "content": "☐4",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 3737,
+          "top_left_y": 2285,
+          "bottom_right_x": 3786,
+          "bottom_right_y": 2760,
+          "content": "Produktionschnitteile VT",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 3692,
+          "top_left_y": 165,
+          "bottom_right_x": 3753,
+          "bottom_right_y": 260,
+          "content": "101",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 1944,
+          "top_left_y": 337,
+          "bottom_right_x": 2169,
+          "bottom_right_y": 383,
+          "content": "Wickelrock",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3707490
+  }
+}

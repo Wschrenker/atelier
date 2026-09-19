@@ -1,0 +1,35 @@
+{
+  "seite": "s060",
+  "quelle_ocr": "ocr_s060_raw.json",
+  "hinweis_pixelraum": "Die OCR wurde ausnahmsweise nicht auf dem unveraenderten Originalbild ausgefuehrt, sondern auf einer aufrecht gedrehten Zwischenfassung (EXIF-Transpose von s60.jpg, verlustfrei als PNG neu gespeichert). Der Original-Rohaufruf auf s60.jpg lieferte dreimal in Folge ein leeres Ergebnis (markdown laenge 21, keine Bilder, keine Bloecke). Die Bounding Boxes unten beziehen sich deshalb bereits auf die aufrechte Pixelorientierung (Breite 3060 x Hoehe 4080) und wurden nicht zusaetzlich gedreht.",
+  "bildbereiche": [
+    {
+      "ocr_id": "img-0.jpeg",
+      "datei": "skizzen/s060_skizze_01.png",
+      "box_aufrecht_px": { "x0": 603, "y0": 952, "x1": 1884, "y1": 1940 },
+      "zugehoerigkeit": "s060",
+      "beschreibung_ocr_bildunterschrift": "□2 Taillenvertiefung mit Weiten-Reduzierung sowie Passennaht am Rock-GS mit zwei RT-Abnähern"
+    },
+    {
+      "ocr_id": "img-1.jpeg",
+      "datei": "skizzen/s060_skizze_02.png",
+      "box_aufrecht_px": { "x0": 1908, "y0": 253, "x1": 2524, "y1": 1233 },
+      "zugehoerigkeit": "s060",
+      "beschreibung_ocr_bildunterschrift": "□1 Passenrock mit seitlichem Knopfverschluss an den Passen"
+    },
+    {
+      "ocr_id": "img-2.jpeg",
+      "datei": "skizzen/s060_skizze_03.png",
+      "box_aufrecht_px": { "x0": 2640, "y0": 339, "x1": 3057, "y1": 1491 },
+      "zugehoerigkeit": "NICHT s060 - gehoert zur mitfotografierten Nachbarseite (vermutlich s061), siehe Hinweis in s060.md",
+      "beschreibung_ocr_bildunterschrift": "Text im Ausschnitt: \"Hüftrock VT-Passe 1x OSt + ...\" - passt nicht zu den Bildunterschriften von s060"
+    },
+    {
+      "ocr_id": "img-3.jpeg",
+      "datei": "skizzen/s060_skizze_04.png",
+      "box_aufrecht_px": { "x0": 564, "y0": 2083, "x1": 1789, "y1": 3443 },
+      "zugehoerigkeit": "s060",
+      "beschreibung_ocr_bildunterschrift": "□3 Abnäher an Passenflächen zulegen und ausformen; Rockteile für Oberstoff"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Rock-Modelle\n\n# Röcke mit Saumvolants (1)\nVolant aus Kreiskonstruktion\n\n![img-0.jpeg](img-0.jpeg)\n\n□1 Modell und Schnittkonstruktion für einen Volant aus einem Vollkreis\n\n![img-1.jpeg](img-1.jpeg)\n\nBeispielhaft werden hier an einem glückig ausgestellten Rock verschiedene Volants angesetzt.\n\nMan könnte jede beliebige Rockform - aber auch Hosenbeine, Jacken-, Kleider, Mantelsäume, Ärmel, Armlöcher, Halslöcher, Dekolletés ... mit einem Volant versehen.\n\nDer Volant ist ein aus einem Kreisring oder Kreisringsegment zugeschnittenes Stoffteil, das glückig fällt.\n\nVolants können durch Kreiskonstruktionen entstehen.\n\nFlexibler in der Gestaltung ist man bei der Volantentwicklung aus abgetrennten und erweiterten Schnittteilen. Hierbei muss nicht immer ein kreisförmiges Schnittteil entstehen (siehe folgende Seite).\n\nJe nach gewünschter Volant-Weite kann man einen Volant auch aus mehreren Kreisringen zusammensetzen.\n\n# Volants durch Kreiskonstruktion\n\nAnsatznaht, bzw. Ansatznähte ausmessen, an die der Volant gehärt werden soll.\n\n1 Berechnungen für den gewünschten Saumvolant durchführen.\n2 Kreis Mittelpunkt bestimmen.\n3 Den inneren Kreis mit dem Radius \\((r_{\\mathrm{aw}})\\) zeichnen.\n4 Den äußerten Kreis mit dem Radius \\((r_{\\mathrm{aw}})\\) zeichnen.\n\nDie Schnittteile in gewünschter Anzahl mit NZg und SaEs zuschneiden.\n\nWerden mehrere Kreisringe benötigt, müssen sie in geradem Fadenlauf eingeschnitten und zusammengenäht werden. Hierfür muss zur Anssatzweite 2 mal die benötigte Nahtzugabe addiert werden, hier z.B.: 2×1 cm = 2 cm\n\n# Berechnungen\n\n$$r_{\\mathrm{awW}} = (\\mathrm{AnW} + \\mathrm{NZg}) : (2 \\cdot \\pi) : 2$$\n$$= (118 \\text{ cm} + 2 \\text{ cm}) : (2 \\cdot 3, 14) : 2$$\n$$= 9,6 \\text{ cm}$$\n\n$$r_{\\mathrm{SaW}} = r_{\\mathrm{awW}} + \\mathrm{VoB}$$\n$$= 9,6 \\text{ cm} + 20 \\text{ cm}$$\n$$= 29,6 \\text{ cm}$$\n\n$$\\mathrm{SaW} = (2 \\cdot \\pi \\cdot r_{\\mathrm{SaW}}) - \\mathrm{NZg} \\cdot 2$$\n$$= (2 \\cdot 3, 14 \\cdot 29,6 \\text{ cm}) - 2 \\text{ cm} \\cdot 2$$\n$$= 368 \\text{ cm}$$\n\n![img-2.jpeg](img-2.jpeg)\n\n□2\n\nModell und Schnittkonstruktion für einen Volant aus zwei Vollkreisen\n\nRöcke mit Saumvolants\n\n90\n\nRöcke Volant\n\nVolant\n\nA\n\nE\n\nD\n\ns\n\nD\n\nD",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 408,
+          "top_left_y": 1945,
+          "bottom_right_x": 1331,
+          "bottom_right_y": 2325,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 425,
+          "top_left_y": 322,
+          "bottom_right_x": 1777,
+          "bottom_right_y": 1755,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2745,
+          "top_left_y": 276,
+          "bottom_right_x": 3586,
+          "bottom_right_y": 1801,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 298,
+          "top_left_y": 2261,
+          "bottom_right_x": 404,
+          "bottom_right_y": 2454,
+          "content": "Rock-Modelle",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 253,
+          "top_left_y": 1375,
+          "bottom_right_x": 380,
+          "bottom_right_y": 2055,
+          "content": "# Röcke mit Saumvolants (1)\nVolant aus Kreiskonstruktion",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 408,
+          "top_left_y": 1945,
+          "bottom_right_x": 1331,
+          "bottom_right_y": 2325,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1360,
+          "top_left_y": 1813,
+          "bottom_right_x": 1434,
+          "bottom_right_y": 2365,
+          "content": "□1 Modell und Schnittkonstruktion für einen Volant aus einem Vollkreis",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 425,
+          "top_left_y": 322,
+          "bottom_right_x": 1777,
+          "bottom_right_y": 1755,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1548,
+          "top_left_y": 1764,
+          "bottom_right_x": 1674,
+          "bottom_right_y": 2383,
+          "content": "Beispielhaft werden hier an einem glückig ausgestellten Rock verschiedene Volants angesetzt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1691,
+          "top_left_y": 1774,
+          "bottom_right_x": 1899,
+          "bottom_right_y": 2398,
+          "content": "Man könnte jede beliebige Rockform - aber auch Hosenbeine, Jacken-, Kleider, Mantelsäume, Ärmel, Armlöcher, Halslöcher, Dekolletés ... mit einem Volant versehen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1920,
+          "top_left_y": 1786,
+          "bottom_right_x": 2054,
+          "bottom_right_y": 2420,
+          "content": "Der Volant ist ein aus einem Kreisring oder Kreisringsegment zugeschnittenes Stoffteil, das glückig fällt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2067,
+          "top_left_y": 1801,
+          "bottom_right_x": 2152,
+          "bottom_right_y": 2429,
+          "content": "Volants können durch Kreiskonstruktionen entstehen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2173,
+          "top_left_y": 1804,
+          "bottom_right_x": 2442,
+          "bottom_right_y": 2447,
+          "content": "Flexibler in der Gestaltung ist man bei der Volantentwicklung aus abgetrennten und erweiterten Schnittteilen. Hierbei muss nicht immer ein kreisförmiges Schnittteil entstehen (siehe folgende Seite).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2459,
+          "top_left_y": 1823,
+          "bottom_right_x": 2614,
+          "bottom_right_y": 2472,
+          "content": "Je nach gewünschter Volant-Weite kann man einen Volant auch aus mehreren Kreisringen zusammensetzen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2867,
+          "top_left_y": 1924,
+          "bottom_right_x": 2936,
+          "bottom_right_y": 2496,
+          "content": "# Volants durch Kreiskonstruktion",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2941,
+          "top_left_y": 1853,
+          "bottom_right_x": 3092,
+          "bottom_right_y": 2441,
+          "content": "Ansatznaht, bzw. Ansatznähte ausmessen, an die der Volant gehärt werden soll.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3096,
+          "top_left_y": 1868,
+          "bottom_right_x": 3549,
+          "bottom_right_y": 2552,
+          "content": "1 Berechnungen für den gewünschten Saumvolant durchführen.\n2 Kreis Mittelpunkt bestimmen.\n3 Den inneren Kreis mit dem Radius \\((r_{\\mathrm{aw}})\\) zeichnen.\n4 Den äußerten Kreis mit dem Radius \\((r_{\\mathrm{aw}})\\) zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1764,
+          "top_left_y": 312,
+          "bottom_right_x": 1899,
+          "bottom_right_y": 879,
+          "content": "Die Schnittteile in gewünschter Anzahl mit NZg und SaEs zuschneiden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1920,
+          "top_left_y": 303,
+          "bottom_right_x": 2295,
+          "bottom_right_y": 885,
+          "content": "Werden mehrere Kreisringe benötigt, müssen sie in geradem Fadenlauf eingeschnitten und zusammengenäht werden. Hierfür muss zur Anssatzweite 2 mal die benötigte Nahtzugabe addiert werden, hier z.B.: 2×1 cm = 2 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2103,
+          "top_left_y": 1483,
+          "bottom_right_x": 2152,
+          "bottom_right_y": 1740,
+          "content": "# Berechnungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2181,
+          "top_left_y": 986,
+          "bottom_right_x": 2328,
+          "bottom_right_y": 1749,
+          "content": "$$r_{\\mathrm{awW}} = (\\mathrm{AnW} + \\mathrm{NZg}) : (2 \\cdot \\pi) : 2$$\n$$= (118 \\text{ cm} + 2 \\text{ cm}) : (2 \\cdot 3, 14) : 2$$\n$$= 9,6 \\text{ cm}$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 2381,
+          "top_left_y": 1296,
+          "bottom_right_x": 2520,
+          "bottom_right_y": 1758,
+          "content": "$$r_{\\mathrm{SaW}} = r_{\\mathrm{awW}} + \\mathrm{VoB}$$\n$$= 9,6 \\text{ cm} + 20 \\text{ cm}$$\n$$= 29,6 \\text{ cm}$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 2565,
+          "top_left_y": 1057,
+          "bottom_right_x": 2720,
+          "bottom_right_y": 1767,
+          "content": "$$\\mathrm{SaW} = (2 \\cdot \\pi \\cdot r_{\\mathrm{SaW}}) - \\mathrm{NZg} \\cdot 2$$\n$$= (2 \\cdot 3, 14 \\cdot 29,6 \\text{ cm}) - 2 \\text{ cm} \\cdot 2$$\n$$= 368 \\text{ cm}$$",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 2745,
+          "top_left_y": 276,
+          "bottom_right_x": 3586,
+          "bottom_right_y": 1801,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 3529,
+          "top_left_y": 686,
+          "bottom_right_x": 3574,
+          "bottom_right_y": 741,
+          "content": "□2",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3541,
+          "top_left_y": 270,
+          "bottom_right_x": 3717,
+          "bottom_right_y": 655,
+          "content": "Modell und Schnittkonstruktion für einen Volant aus zwei Vollkreisen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1736,
+          "top_left_y": 2493,
+          "bottom_right_x": 2136,
+          "bottom_right_y": 2552,
+          "content": "Röcke mit Saumvolants",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3496,
+          "top_left_y": 2662,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2729,
+          "content": "90",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 225,
+          "top_left_y": 3,
+          "bottom_right_x": 368,
+          "bottom_right_y": 190,
+          "content": "Röcke Volant",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1630,
+          "top_left_y": 3,
+          "bottom_right_x": 1683,
+          "bottom_right_y": 129,
+          "content": "Volant",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1699,
+          "top_left_y": 3,
+          "bottom_right_x": 1752,
+          "bottom_right_y": 129,
+          "content": "A",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1813,
+          "top_left_y": 3,
+          "bottom_right_x": 1866,
+          "bottom_right_y": 129,
+          "content": "E",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1924,
+          "top_left_y": 3,
+          "bottom_right_x": 1977,
+          "bottom_right_y": 129,
+          "content": "D",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2034,
+          "top_left_y": 3,
+          "bottom_right_x": 2087,
+          "bottom_right_y": 129,
+          "content": "s",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2177,
+          "top_left_y": 3,
+          "bottom_right_x": 2230,
+          "bottom_right_y": 129,
+          "content": "D",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3606,
+          "top_left_y": 3,
+          "bottom_right_x": 3659,
+          "bottom_right_y": 129,
+          "content": "D",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3645049
+  }
+}

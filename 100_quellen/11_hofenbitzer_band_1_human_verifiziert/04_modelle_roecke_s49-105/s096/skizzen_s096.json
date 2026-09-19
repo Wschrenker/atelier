@@ -1,0 +1,52 @@
+{
+  "seite": "s096",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s96.jpg",
+  "ocr_quelle": "ocr_s096_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s096_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 988,
+        "top_left_y": 1749,
+        "bottom_right_x": 1944,
+        "bottom_right_y": 2545
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s096_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die Detailansicht des verdeckten Schlitzes von innen (□3) mit Untertritt/Übertritt."
+    },
+    {
+      "datei": "skizzen/s096_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 331,
+        "top_left_y": 377,
+        "bottom_right_x": 1282,
+        "bottom_right_y": 1385
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s096_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die beiden Rückansichten-Figurinen □1 (Rock mit Formbund und verdecktem Schlitz) und □2 (hinteres Rockfutter, gewendet), mit der roten Punktnummer 56."
+    },
+    {
+      "datei": "skizzen/s096_skizze_03.png",
+      "quelle_id": null,
+      "bbox_original_px": null,
+      "bbox_aufrecht_px": {
+        "top_left_x": 150,
+        "top_left_y": 2300,
+        "bottom_right_x": 1950,
+        "bottom_right_y": 4080,
+        "bezug": "Bild bereits gemaess EXIF-Orientierung (6) aufrecht gedreht (3060x4080)"
+      },
+      "hinweis": "Von der OCR nicht als Bildregion erkannt; von Hand aus dem Originalfoto ergaenzt. Zeigt die große Schnittteil-Zeichnung □4 (Formbund/Futter für VT und RT des engen Rocks mit verdecktem Schlitz) samt Bildunterschrift und Seitenzahl 96 am unteren Bildrand."
+    }
+  ]
+}

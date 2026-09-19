@@ -1,0 +1,304 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-\nModelle\n\n# Passen (1)\nRock mit Passe,\n\n# Formbund und seitlichem Knopfverschluss\n\nB\n\nEine Passe formt, ähnlich wie ein Form-\nbund, den oberen Bereich eines Be-\nkleidungsstücks körpernah. Sie ent-\nsteht ebenso wie der Formbund durch\neine Quer-Abtrennung vom Grund-\nschnitt. Die im Grundschnitt befindli-\nchen Abnäher im Bereich der Passe\nwerden generell durch Zulegen am\nSchnitt entfernt. Die Passennaht\ntrennt die Passe von den unteren\nSchnittteilen eines Bekleidungsstücks.\n\n☐1 Der Rock hat eine leicht rund\ngeformte Passe im VT und eine spitze\nRT-Passe. Beide Passen sind ohne Näh-\nte an vM und hM.\n\nDer Formbund hier wird wie auf den\nvorhergehenden Seiten vorbereitet. Er\nwird mit einem Knopf und einem Reiß-\nverschluss (RV) an der linken Seiten-\nnaht geschlossen und hat einen gerun-\ndeten Über- und Untertritt.\n\n![img-0.jpeg](img-0.jpeg)\n\n☐1 Rock mit Formbund und Passen\n\n![img-1.jpeg](img-1.jpeg)\n\n☐2 Formbundabtrennung mit Weiten-Reduzierung sowie Passennaht\nam Rock-GS mit zwei RT-Abnähern\n\n# 1 Formbund und Passe gestalten\n\n1 ☐2 Die Formbundbreite ein-zeichen und die Weite reduzieren (siehe vorhergehende Seiten).\n2 Die Passenabtrennung so gestalten, dass sie über die Abnäherspitzen, bzw. bis ca. 2 cm davon entfernt verläuft. Dies verhindert Passformprobleme und erleichtert das Zulegen der Abnäher an der Passe.\n3 Einen zu kurzen Abnäher auf die\n4 Passennaht verlängern, einen zu langen Abnäher kürzen.\n\nPassen- und Bundflächen vom\nRock abtrennen oder kopieren.\n\n5 ☐3 Abnäher an Bund und Passe zulegen. Die Drehpunkte liegen bei der Passe an der unteren Passennaht.\n6 Passen- und Bundnähte schön ausformen.\n7 Wenn man wie hier die Passe an das untere Rockteil legt, erkennt man an dem keilförmigen Zwischenraum die Summe der im Passenteil zugelegten Abnäher.\n\n# 2 Formbund fertig stellen\n\n8 ☐5 An beiden Formbundteilen befindet sich nur an der linken Seite ein Knopfverschluss mit Über- und Untertritt. Somit sind vorderer und hinterer Formbund nicht symmetrisch. Beide Bundteile müssen an vM bzw. an hM gespiegelt werden.\n9 Knopf und Knopfloch auf der linken Seitennaht positionieren. Der Übertritt wird passend zur Knopfgröße an die linke Seitennaht des vorderen Bundes gezeichnet.\n\nPassen\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n☐3 Abnäher an Passenabtrennung zulegen und ausformen; Rockteile für Oberstoff\n\n58",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 2010,
+          "top_left_y": 196,
+          "bottom_right_x": 2665,
+          "bottom_right_y": 1205,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 558,
+          "top_left_y": 903,
+          "bottom_right_x": 1984,
+          "bottom_right_y": 1928,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 510,
+          "top_left_y": 2120,
+          "bottom_right_x": 1132,
+          "bottom_right_y": 2328,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1191,
+          "top_left_y": 2120,
+          "bottom_right_x": 1875,
+          "bottom_right_y": 2414,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 510,
+          "top_left_y": 2467,
+          "bottom_right_x": 1121,
+          "bottom_right_y": 3410,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 1191,
+          "top_left_y": 2422,
+          "bottom_right_x": 1875,
+          "bottom_right_y": 3500,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2800
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 533,
+          "top_left_y": 274,
+          "bottom_right_x": 723,
+          "bottom_right_y": 376,
+          "content": "# Rock-\nModelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 928,
+          "top_left_y": 225,
+          "bottom_right_x": 1292,
+          "bottom_right_y": 339,
+          "content": "# Passen (1)\nRock mit Passe,",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1306,
+          "top_left_y": 123,
+          "bottom_right_x": 2374,
+          "bottom_right_y": 216,
+          "content": "# Formbund und seitlichem Knopfverschluss",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 566,
+          "top_left_y": 478,
+          "bottom_right_x": 622,
+          "bottom_right_y": 515,
+          "content": "B",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 687,
+          "top_left_y": 429,
+          "bottom_right_x": 1275,
+          "bottom_right_y": 874,
+          "content": "Eine Passe formt, ähnlich wie ein Form-\nbund, den oberen Bereich eines Be-\nkleidungsstücks körpernah. Sie ent-\nsteht ebenso wie der Formbund durch\neine Quer-Abtrennung vom Grund-\nschnitt. Die im Grundschnitt befindli-\nchen Abnäher im Bereich der Passe\nwerden generell durch Zulegen am\nSchnitt entfernt. Die Passennaht\ntrennt die Passe von den unteren\nSchnittteilen eines Bekleidungsstücks.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1323,
+          "top_left_y": 339,
+          "bottom_right_x": 1945,
+          "bottom_right_y": 551,
+          "content": "☐1 Der Rock hat eine leicht rund\ngeformte Passe im VT und eine spitze\nRT-Passe. Beide Passen sind ohne Näh-\nte an vM und hM.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1315,
+          "top_left_y": 523,
+          "bottom_right_x": 1942,
+          "bottom_right_y": 805,
+          "content": "Der Formbund hier wird wie auf den\nvorhergehenden Seiten vorbereitet. Er\nwird mit einem Knopf und einem Reiß-\nverschluss (RV) an der linken Seiten-\nnaht geschlossen und hat einen gerun-\ndeten Über- und Untertritt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2010,
+          "top_left_y": 196,
+          "bottom_right_x": 2665,
+          "bottom_right_y": 1205,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 2082,
+          "top_left_y": 1225,
+          "bottom_right_x": 2677,
+          "bottom_right_y": 1274,
+          "content": "☐1 Rock mit Formbund und Passen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 558,
+          "top_left_y": 903,
+          "bottom_right_x": 1984,
+          "bottom_right_y": 1928,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 603,
+          "top_left_y": 1952,
+          "bottom_right_x": 1589,
+          "bottom_right_y": 2026,
+          "content": "☐2 Formbundabtrennung mit Weiten-Reduzierung sowie Passennaht\nam Rock-GS mit zwei RT-Abnähern",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2004,
+          "top_left_y": 1344,
+          "bottom_right_x": 2651,
+          "bottom_right_y": 1393,
+          "content": "# 1 Formbund und Passe gestalten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1993,
+          "top_left_y": 1409,
+          "bottom_right_x": 2702,
+          "bottom_right_y": 2058,
+          "content": "1 ☐2 Die Formbundbreite ein-zeichen und die Weite reduzieren (siehe vorhergehende Seiten).\n2 Die Passenabtrennung so gestalten, dass sie über die Abnäherspitzen, bzw. bis ca. 2 cm davon entfernt verläuft. Dies verhindert Passformprobleme und erleichtert das Zulegen der Abnäher an der Passe.\n3 Einen zu kurzen Abnäher auf die\n4 Passennaht verlängern, einen zu langen Abnäher kürzen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2071,
+          "top_left_y": 2079,
+          "bottom_right_x": 2702,
+          "bottom_right_y": 2181,
+          "content": "Passen- und Bundflächen vom\nRock abtrennen oder kopieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1990,
+          "top_left_y": 2193,
+          "bottom_right_x": 2716,
+          "bottom_right_y": 2802,
+          "content": "5 ☐3 Abnäher an Bund und Passe zulegen. Die Drehpunkte liegen bei der Passe an der unteren Passennaht.\n6 Passen- und Bundnähte schön ausformen.\n7 Wenn man wie hier die Passe an das untere Rockteil legt, erkennt man an dem keilförmigen Zwischenraum die Summe der im Passenteil zugelegten Abnäher.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1993,
+          "top_left_y": 2834,
+          "bottom_right_x": 2551,
+          "bottom_right_y": 2900,
+          "content": "# 2 Formbund fertig stellen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1990,
+          "top_left_y": 2912,
+          "bottom_right_x": 2733,
+          "bottom_right_y": 3647,
+          "content": "8 ☐5 An beiden Formbundteilen befindet sich nur an der linken Seite ein Knopfverschluss mit Über- und Untertritt. Somit sind vorderer und hinterer Formbund nicht symmetrisch. Beide Bundteile müssen an vM bzw. an hM gespiegelt werden.\n9 Knopf und Knopfloch auf der linken Seitennaht positionieren. Der Übertritt wird passend zur Knopfgröße an die linke Seitennaht des vorderen Bundes gezeichnet.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 493,
+          "top_left_y": 1977,
+          "bottom_right_x": 510,
+          "bottom_right_y": 2103,
+          "content": "Passen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 510,
+          "top_left_y": 2120,
+          "bottom_right_x": 1132,
+          "bottom_right_y": 2328,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1191,
+          "top_left_y": 2120,
+          "bottom_right_x": 1875,
+          "bottom_right_y": 2414,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 510,
+          "top_left_y": 2467,
+          "bottom_right_x": 1121,
+          "bottom_right_y": 3410,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 1191,
+          "top_left_y": 2422,
+          "bottom_right_x": 1875,
+          "bottom_right_y": 3500,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 505,
+          "top_left_y": 3414,
+          "bottom_right_x": 1799,
+          "bottom_right_y": 3578,
+          "content": "☐3 Abnäher an Passenabtrennung zulegen und ausformen; Rockteile für Oberstoff",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 345,
+          "top_left_y": 3435,
+          "bottom_right_x": 401,
+          "bottom_right_y": 3488,
+          "content": "58",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3481791
+  }
+}

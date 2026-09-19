@@ -1,0 +1,34 @@
+{
+  "seite": "s097",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s97.jpg",
+  "ocr_quelle": "ocr_s097_raw.json",
+  "hinweis_allgemein": "Die OCR-Antwort (siehe ocr_s097_raw.json) wurde auf einer 45%-Verkleinerung des Originalbilds erzeugt (Grund siehe s097.md, Abschnitt 'OCR mehrfach fehlgeschlagen'). Ihre zwei Bildregionen img-0.jpeg und img-1.jpeg decken jeweils fast die gesamte Zeichnungsflaeche ab und ueberlappen mit separat erkanntem Text; ihre Pixelkoordinaten wurden deshalb NICHT zur Ausschnittbestimmung verwendet. Beide Ausschnitte unten wurden stattdessen von Hand am aufrecht gedrehten Originalbild in voller Aufloesung bestimmt.",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s097_skizze_01.png",
+      "quelle_id": null,
+      "bbox_original_px": null,
+      "bbox_aufrecht_px": {
+        "top_left_x": 224,
+        "top_left_y": 286,
+        "bottom_right_x": 3060,
+        "bottom_right_y": 2065,
+        "bezug": "Bild bereits gemaess EXIF-Orientierung (6) aufrecht gedreht (3060x4080)"
+      },
+      "hinweis": "Von Hand am vollen Originalbild bestimmt. Zeigt den oberen Seitenbereich: die beiden Formbund-Zeichnungen (Enger Rock VT-Bund, RT-Bund), die beiden Rockteil-Zeichnungen (Enger Rock VT, RT) sowie den rechten Textblock mit den Schritten 8 bis 12 und die Bildunterschrift '□5 Produktionsschnitte der Formbunde und der Rockteile (VT noch spiegeln)'. Der linke Bildrand (Streifen der Nachbarseite 96) ist bewusst ausgeschnitten."
+    },
+    {
+      "datei": "skizzen/s097_skizze_02.png",
+      "quelle_id": null,
+      "bbox_original_px": null,
+      "bbox_aufrecht_px": {
+        "top_left_x": 224,
+        "top_left_y": 2065,
+        "bottom_right_x": 3060,
+        "bottom_right_y": 4080,
+        "bezug": "Bild bereits gemaess EXIF-Orientierung (6) aufrecht gedreht (3060x4080)"
+      },
+      "hinweis": "Von Hand am vollen Originalbild bestimmt. Zeigt den unteren Seitenbereich: die beiden Innenbund-Zeichnungen (Enger Rock RT-Bund, VT-Bund) sowie die drei Futterteile (rechtes RT Futter/Untertritt, linkes RT Futter/Übertritt, VT Futter) mit den Schrittkennungen 7, 8, 9, 10, 11, 12, der Seitenzahl 97 und der Bildunterschrift '□7 Produktionsschnitte der Innenbuende und des Futters (VT-Futter unterbrochen dargestellt)'."
+    }
+  ]
+}

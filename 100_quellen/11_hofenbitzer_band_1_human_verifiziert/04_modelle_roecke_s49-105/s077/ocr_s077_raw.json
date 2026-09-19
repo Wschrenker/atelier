@@ -1,0 +1,297 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Stufenröcke mit zwei- und dreistufiger Rüsche\nModellentwicklung aus dem 10-Bahnenrock (10)\n\nHier werden aus dem 10-Bahnenrock mit derselben Schnittentwicklung zwei verschiedene Modelle entwickelt: Modell 1 mit Passe, die bei Modell 2 für eine Kräuselung erweitert ist. Weitere Informationen zu Röcken mit Kräuselweite findet man auf Seite 48.\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n☐1 Schnittentwicklung aus der Zehn-Bahnenrock-Einteilung\n\n☐2 Stufenrock 2 mit zweistufiger Rüsche\n\n☐3 Stufenrock 3 mit dreistufiger Rüsche\n\n![img-2.jpeg](img-2.jpeg)\n\n1 Die Ruschenteile sind in der Regel rechteckig, Kleinere Abweichungen können ausgeglichen werden.\nAn der gekrauselten seitlichen Taillennah des h.Oberteils ist es better, dem Taillenverlauf wie am Grundschnitt zu folgen.\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\nDie gekräuselten Mittelteile und Saumteile dürften dieselbe Form besitzen. Somit könnten sie auch mit einem Schnittteil dargestellt und zugeschnitten werden.\n\n![img-5.jpeg](img-5.jpeg)\n\n½ der anderen Öffnungen\n\n![img-6.jpeg](img-6.jpeg)\n\n![img-7.jpeg](img-7.jpeg)\n\n½ der anderen Öffnungen\n\n☐4 Produktionsschnitt Modell 2 mit zweistufiger Rüsche\n\n☐5 Produktionsschnitt Modell 3 mit dreistufiger Rüsche\n\nRock mit zweistufiger und dreistufiger Rüsche\n\n77",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 245,
+          "top_left_y": 441,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 1605,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 568,
+          "top_left_y": 2040,
+          "bottom_right_x": 1295,
+          "bottom_right_y": 2751,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1507,
+          "top_left_y": 2055,
+          "bottom_right_x": 1977,
+          "bottom_right_y": 2800,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1556,
+          "top_left_y": 466,
+          "bottom_right_x": 1952,
+          "bottom_right_y": 1244,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 2009,
+          "top_left_y": 1859,
+          "bottom_right_x": 2585,
+          "bottom_right_y": 2800,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 1997,
+          "top_left_y": 429,
+          "bottom_right_x": 2561,
+          "bottom_right_y": 1381,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 2630,
+          "top_left_y": 1648,
+          "bottom_right_x": 3578,
+          "bottom_right_y": 2839,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 2622,
+          "top_left_y": 352,
+          "bottom_right_x": 3549,
+          "bottom_right_y": 1562,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 37,
+          "top_left_y": 1406,
+          "bottom_right_x": 188,
+          "bottom_right_y": 2702,
+          "content": "# Stufenröcke mit zwei- und dreistufiger Rüsche\nModellentwicklung aus dem 10-Bahnenrock (10)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 265,
+          "top_left_y": 1679,
+          "bottom_right_x": 490,
+          "bottom_right_y": 2717,
+          "content": "Hier werden aus dem 10-Bahnenrock mit derselben Schnittentwicklung zwei verschiedene Modelle entwickelt: Modell 1 mit Passe, die bei Modell 2 für eine Kräuselung erweitert ist. Weitere Informationen zu Röcken mit Kräuselweite findet man auf Seite 48.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 245,
+          "top_left_y": 441,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 1605,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 568,
+          "top_left_y": 2040,
+          "bottom_right_x": 1295,
+          "bottom_right_y": 2751,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1331,
+          "top_left_y": 2221,
+          "bottom_right_x": 1405,
+          "bottom_right_y": 2751,
+          "content": "☐1 Schnittentwicklung aus der Zehn-Bahnenrock-Einteilung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1295,
+          "top_left_y": 1035,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 1440,
+          "content": "☐2 Stufenrock 2 mit zweistufiger Rüsche",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1291,
+          "top_left_y": 530,
+          "bottom_right_x": 1364,
+          "bottom_right_y": 922,
+          "content": "☐3 Stufenrock 3 mit dreistufiger Rüsche",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1507,
+          "top_left_y": 2055,
+          "bottom_right_x": 1977,
+          "bottom_right_y": 2800,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1519,
+          "top_left_y": 1274,
+          "bottom_right_x": 1879,
+          "bottom_right_y": 1982,
+          "content": "1 Die Ruschenteile sind in der Regel rechteckig, Kleinere Abweichungen können ausgeglichen werden.\nAn der gekrauselten seitlichen Taillennah des h.Oberteils ist es better, dem Taillenverlauf wie am Grundschnitt zu folgen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1556,
+          "top_left_y": 466,
+          "bottom_right_x": 1952,
+          "bottom_right_y": 1244,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2009,
+          "top_left_y": 1859,
+          "bottom_right_x": 2585,
+          "bottom_right_y": 2800,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 2005,
+          "top_left_y": 1415,
+          "bottom_right_x": 2442,
+          "bottom_right_y": 1813,
+          "content": "Die gekräuselten Mittelteile und Saumteile dürften dieselbe Form besitzen. Somit könnten sie auch mit einem Schnittteil dargestellt und zugeschnitten werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1997,
+          "top_left_y": 429,
+          "bottom_right_x": 2561,
+          "bottom_right_y": 1381,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 2495,
+          "top_left_y": 1415,
+          "bottom_right_x": 2544,
+          "bottom_right_y": 1813,
+          "content": "½ der anderen Öffnungen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2630,
+          "top_left_y": 1648,
+          "bottom_right_x": 3578,
+          "bottom_right_y": 2839,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 2622,
+          "top_left_y": 352,
+          "bottom_right_x": 3549,
+          "bottom_right_y": 1562,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        },
+        {
+          "top_left_x": 3561,
+          "top_left_y": 1458,
+          "bottom_right_x": 3647,
+          "bottom_right_y": 1706,
+          "content": "½ der anderen Öffnungen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3672,
+          "top_left_y": 1792,
+          "bottom_right_x": 3721,
+          "bottom_right_y": 2830,
+          "content": "☐4 Produktionsschnitt Modell 2 mit zweistufiger Rüsche",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3639,
+          "top_left_y": 365,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 1388,
+          "content": "☐5 Produktionsschnitt Modell 3 mit dreistufiger Rüsche",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1638,
+          "top_left_y": 273,
+          "bottom_right_x": 2103,
+          "bottom_right_y": 383,
+          "content": "Rock mit zweistufiger und dreistufiger Rüsche",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3655,
+          "top_left_y": 168,
+          "bottom_right_x": 3704,
+          "bottom_right_y": 239,
+          "content": "77",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3776175
+  }
+}

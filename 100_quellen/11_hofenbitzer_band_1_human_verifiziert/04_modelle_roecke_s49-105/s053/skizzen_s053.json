@@ -1,0 +1,115 @@
+{
+  "seite": "s053",
+  "skizzen": [
+    {
+      "datei": "skizzen/s053_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 254,
+        "top_left_y": 314,
+        "bottom_right_x": 830,
+        "bottom_right_y": 462
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 314,2230 - 462,2806, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1094,
+        "top_left_y": 339,
+        "bottom_right_x": 1614,
+        "bottom_right_y": 486
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 339,1446 - 486,1966, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 242,
+        "top_left_y": 588,
+        "bottom_right_x": 959,
+        "bottom_right_y": 817
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 588,2101 - 817,2818, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1106,
+        "top_left_y": 600,
+        "bottom_right_x": 1626,
+        "bottom_right_y": 829
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 600,1434 - 829,1954, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 221,
+        "top_left_y": 939,
+        "bottom_right_x": 1654,
+        "bottom_right_y": 1291
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 939,1406 - 1291,2839, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1118,
+        "top_left_y": 1380,
+        "bottom_right_x": 1654,
+        "bottom_right_y": 1654
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 1380,1406 - 1654,1942, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_07.png",
+      "quelle_id": "img-6.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 184,
+        "top_left_y": 1736,
+        "bottom_right_x": 870,
+        "bottom_right_y": 2054
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 1736,2190 - 2054,2876, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_08.png",
+      "quelle_id": "img-7.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1072,
+        "top_left_y": 1744,
+        "bottom_right_x": 1675,
+        "bottom_right_y": 2042
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 1744,1385 - 2042,1988, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_09.png",
+      "quelle_id": "img-8.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 153,
+        "top_left_y": 2193,
+        "bottom_right_x": 928,
+        "bottom_right_y": 3655
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 2193,2132 - 3655,2907, 4080x3060) zurueckgerechnet."
+    },
+    {
+      "datei": "skizzen/s053_skizze_10.png",
+      "quelle_id": "img-9.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 959,
+        "top_left_y": 2189,
+        "bottom_right_x": 1777,
+        "bottom_right_y": 3647
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080); aus der unrotierten OCR-Eingabe (top_left_x/y 2189,1283 - 3647,2101, 4080x3060) zurueckgerechnet."
+    }
+  ]
+}

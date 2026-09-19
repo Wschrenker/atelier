@@ -1,0 +1,39 @@
+{
+  "seite": "s056",
+  "bezug_bild": "volles aufrecht gedrehtes Originalbild (3060x4080)",
+  "hinweis": "Bounding Boxes stammen aus der Mistral-OCR auf einem temporaeren Zuschnitt (rechter Rand entfernt, Nachbarseite 57), sind aber unveraendert auf das volle aufrecht gedrehte Original uebertragbar, da der Zuschnitt bei x=0 beginnt.",
+  "bereiche": [
+    {
+      "id": "s056_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "top_left_x": 1956,
+      "top_left_y": 261,
+      "bottom_right_x": 2603,
+      "bottom_right_y": 1246
+    },
+    {
+      "id": "s056_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "top_left_x": 646,
+      "top_left_y": 956,
+      "bottom_right_x": 1879,
+      "bottom_right_y": 1536
+    },
+    {
+      "id": "s056_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "top_left_x": 580,
+      "top_left_y": 1732,
+      "bottom_right_x": 1862,
+      "bottom_right_y": 2348
+    },
+    {
+      "id": "s056_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "top_left_x": 489,
+      "top_left_y": 2491,
+      "bottom_right_x": 1815,
+      "bottom_right_y": 3569
+    }
+  ]
+}

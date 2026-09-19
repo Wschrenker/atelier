@@ -1,0 +1,282 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Rock-Modelle\n\nWickelrock (1)\nmit Drapierung und Wasserfall-Kante\n\na\n\nEin eingestellter Wickelrock mit geradem Bund wird zu einem Modell mit mit Drapierfalten im oberen vorderen Rockteil und einer Wasserfall-Kante weiterentwickelt. Das untere vordere Wickelteil ist nicht symmetrisch mit dem oberen. Der Verschluss ist durch eine schmückende Blüte verdeckt.\n\nFür das Rückteil kann der eingestellte Rockschnitt von Seite 46 unverändert verwendet werden.\n\nDas Bundteil am Untertritt ist kürzer als am Übertritt; der Bund ist also nicht symmetrisch.\n\nDer Rock kann gefüttert werden. In diesem Beispiel hier wären die beiden VT-Futter wegen der unterschiedlichen Einschlag- und Beleg-Kanten nicht identisch.\n\n![img-0.jpeg](img-0.jpeg)\n\n□1 Wickelrock mit Drapierfalten und Wasserfall-Kante\n\n# 1 Rock-VT abwandeln\n\n□3 Den Rock-GS an der SH einstellen.\n\nDa es sich bei diesem Modell um ein asymmetrisches Kleidungsstück handelt, wird das VT vor der Abwandlung an der Körpermitte gespiegelt.\n\n1 Beginn der Übertritt-Kante an der Taille markieren.\nLänge der Wasserfall-Kante waagerecht anzeichnen. Übertrittkante zum Saum formen.\nEinschnitt von der Übertritt-Kante zur Abnäherspitze zeichnen.\n2 Für die Drapierfalten den Faltenbeginn an der Taille markieren.\n3 Entsprechend des Faltenverlaufs die Einschnitte zur SH bzw. zur Abnäherspitze zeichnen und einschneiden.\n\n# 2 Vordere Untertritt-Teil bestimmen\n\n3: Die Länge des Untertritt-Teils an der Taille bestimmen und die Kante einzeichnen.\nDen Saum an der Untertritt-Kante um ca. 0,5 cm kürzen und das Schnittteil kopieren (□5).\n\n# 3 Bund konstruieren\n\n1 2 Die Taillen-Strecken am Rock messen und auf den passenden Bund-GS für den Übertritt-Bund und den Untertritt-Bund übertragen.\nDie Bundteile an der hM anschneiden (siehe 4).\n\nWickelrock mit Drapierfalten und Wasserfall-Kante\n\n□2 Bund-Konstruktion\n\n□3 Rock-VT-Abwandlung\n\n![img-1.jpeg](img-1.jpeg)\n\nWickelrock\nmit Drapier\n\n□4 Produktionsst\n\n□5 Prod\nVT\n\nV\nb\nde\nK\nD\nf\nG\n2\n\n102",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 310,
+          "top_left_y": 1571,
+          "bottom_right_x": 1303,
+          "bottom_right_y": 1841,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1895,
+          "top_left_y": 352,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 2138,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 184,
+          "top_left_y": 2484,
+          "bottom_right_x": 294,
+          "bottom_right_y": 2702,
+          "content": "Rock-Modelle",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 180,
+          "top_left_y": 1296,
+          "bottom_right_x": 298,
+          "bottom_right_y": 2254,
+          "content": "Wickelrock (1)\nmit Drapierung und Wasserfall-Kante",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 404,
+          "top_left_y": 2604,
+          "bottom_right_x": 437,
+          "bottom_right_y": 2665,
+          "content": "a",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 408,
+          "top_left_y": 1957,
+          "bottom_right_x": 805,
+          "bottom_right_y": 2527,
+          "content": "Ein eingestellter Wickelrock mit geradem Bund wird zu einem Modell mit mit Drapierfalten im oberen vorderen Rockteil und einer Wasserfall-Kante weiterentwickelt. Das untere vordere Wickelteil ist nicht symmetrisch mit dem oberen. Der Verschluss ist durch eine schmückende Blüte verdeckt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 821,
+          "top_left_y": 1973,
+          "bottom_right_x": 948,
+          "bottom_right_y": 2548,
+          "content": "Für das Rückteil kann der eingestellte Rockschnitt von Seite 46 unverändert verwendet werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 964,
+          "top_left_y": 1976,
+          "bottom_right_x": 1095,
+          "bottom_right_y": 2558,
+          "content": "Das Bundteil am Untertritt ist kürzer als am Übertritt; der Bund ist also nicht symmetrisch.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1115,
+          "top_left_y": 1982,
+          "bottom_right_x": 1335,
+          "bottom_right_y": 2576,
+          "content": "Der Rock kann gefüttert werden. In diesem Beispiel hier wären die beiden VT-Futter wegen der unterschiedlichen Einschlag- und Beleg-Kanten nicht identisch.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 310,
+          "top_left_y": 1571,
+          "bottom_right_x": 1303,
+          "bottom_right_y": 1841,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1348,
+          "top_left_y": 1553,
+          "bottom_right_x": 1454,
+          "bottom_right_y": 1908,
+          "content": "□1 Wickelrock mit Drapierfalten und Wasserfall-Kante",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 396,
+          "top_left_y": 1026,
+          "bottom_right_x": 433,
+          "bottom_right_y": 1446,
+          "content": "# 1 Rock-VT abwandeln",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 453,
+          "top_left_y": 683,
+          "bottom_right_x": 494,
+          "bottom_right_y": 1378,
+          "content": "□3 Den Rock-GS an der SH einstellen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 511,
+          "top_left_y": 472,
+          "bottom_right_x": 633,
+          "bottom_right_y": 1378,
+          "content": "Da es sich bei diesem Modell um ein asymmetrisches Kleidungsstück handelt, wird das VT vor der Abwandlung an der Körpermitte gespiegelt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 649,
+          "top_left_y": 441,
+          "bottom_right_x": 1144,
+          "bottom_right_y": 1458,
+          "content": "1 Beginn der Übertritt-Kante an der Taille markieren.\nLänge der Wasserfall-Kante waagerecht anzeichnen. Übertrittkante zum Saum formen.\nEinschnitt von der Übertritt-Kante zur Abnäherspitze zeichnen.\n2 Für die Drapierfalten den Faltenbeginn an der Taille markieren.\n3 Entsprechend des Faltenverlaufs die Einschnitte zur SH bzw. zur Abnäherspitze zeichnen und einschneiden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1172,
+          "top_left_y": 714,
+          "bottom_right_x": 1217,
+          "bottom_right_y": 1458,
+          "content": "# 2 Vordere Untertritt-Teil bestimmen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1237,
+          "top_left_y": 426,
+          "bottom_right_x": 1442,
+          "bottom_right_y": 1461,
+          "content": "3: Die Länge des Untertritt-Teils an der Taille bestimmen und die Kante einzeichnen.\nDen Saum an der Untertritt-Kante um ca. 0,5 cm kürzen und das Schnittteil kopieren (□5).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1487,
+          "top_left_y": 1026,
+          "bottom_right_x": 1527,
+          "bottom_right_y": 1461,
+          "content": "# 3 Bund konstruieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1552,
+          "top_left_y": 407,
+          "bottom_right_x": 1768,
+          "bottom_right_y": 1464,
+          "content": "1 2 Die Taillen-Strecken am Rock messen und auf den passenden Bund-GS für den Übertritt-Bund und den Untertritt-Bund übertragen.\nDie Bundteile an der hM anschneiden (siehe 4).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1552,
+          "top_left_y": 2729,
+          "bottom_right_x": 2181,
+          "bottom_right_y": 2843,
+          "content": "Wickelrock mit Drapierfalten und Wasserfall-Kante",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2209,
+          "top_left_y": 2251,
+          "bottom_right_x": 2250,
+          "bottom_right_y": 2646,
+          "content": "□2 Bund-Konstruktion",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3712,
+          "top_left_y": 2297,
+          "bottom_right_x": 3770,
+          "bottom_right_y": 2763,
+          "content": "□3 Rock-VT-Abwandlung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1895,
+          "top_left_y": 352,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 2138,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 261,
+          "top_left_y": 3,
+          "bottom_right_x": 384,
+          "bottom_right_y": 312,
+          "content": "Wickelrock\nmit Drapier",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 649,
+          "top_left_y": 3,
+          "bottom_right_x": 686,
+          "bottom_right_y": 282,
+          "content": "□4 Produktionsst",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1993,
+          "top_left_y": 3,
+          "bottom_right_x": 2062,
+          "bottom_right_y": 181,
+          "content": "□5 Prod\nVT",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2267,
+          "top_left_y": 3,
+          "bottom_right_x": 2789,
+          "bottom_right_y": 119,
+          "content": "V\nb\nde\nK\nD\nf\nG\n2",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3745,
+          "top_left_y": 2888,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 2990,
+          "content": "102",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3694904
+  }
+}

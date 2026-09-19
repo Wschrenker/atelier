@@ -1,0 +1,409 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Rock-\nModelle\n\nVereinfachte Taillenvertiefung und Taillenbeleg (1)\nHüftrock mit kleiner Taillenvertiefung\n\n1B\n2B\n3B\n\n# Taillenbeleg\n\nDer Taillenbeleg deckt die Innenseite der oberen Rock- oder\nHosenkante ab. Ein Beleg ist ein mit Einlage verstärktes,\nbzw. fixiertes Stoffteil, das an die Kante eines Kleidungsstücks\ngeschlagen wird. Damit versäubert und verstärkt es die\nKante. Die Nähtechnik, bei der die Nahtzugabe zwischen\nOberstoff und Beleg verschwindet, nennt man \"Verstürzen\".\n\nDer Beleg hat genau die Form des Schnittteils, an das er gearbeitet wird, wenn die Abnäher genäht sind - er selbst hat keine Abnäher. Da Belege im Inneren des Kleidungsstücks liegen, sollten sie geringfügig kleiner sein, damit sie hinter der Kante verschwinden und von außen nicht sichtbar sind.\n\n# Vereinfachte Taillenvertiefung\n\n☐1 Eine vereinfachte Taillenvertiefung nimmt man vor, wenn nicht bekannt ist, wo genau an einer Kundin der Rock sitzen wird. Die Bundabstände (BuA) sind nicht bekannt.\n\nDa bei einem Rock mit einer kleinen Taillenvertiefung (bis ca. 4 cm) häufig der Bund noch waagerecht liegt, kann vorne und hinten jeweils derselbe Betrag entfernt werden, an der Seitennaht zusätzlich ca. 10 %. Siehe hierzu die Beobachtungen und Hinweise auf Seite 38, 50, 51.\n\nBeispiel: Vertiefung an vM und hM je 3 cm, an den SN 3,3 cm.\n\n① Die Weite der oberen Rockkante muss in jedem Fall mindestens um die Taillenzugabe des Grundschnitts von 0,5 bis 1 cm am halben Rock (besser noch mehr) reduziert werden.\n\nBei kleiner Taillenvertiefung ist es möglich, die Taillenmehrweite ganz oder teilweise durch einen zweiten vorderen und einen zweiten hinteren Abnäher zu entfernen, die genau dort sitzen, wo üblicherweise die Taillennaht am Rock eingehalten wird. Siehe auch Seite 38.\n\n□2\n\nHüftrock mit kleiner Taillenvertiefung und Taillenbeleg\n\n![img-0.jpeg](img-0.jpeg)\n\n□3\n\nGeöffneter Reißverschluss mit Taillenbeleg, Futter und Riegel zum Knöpfen\n\n# 1 Geringe Taillenvertiefung\n\n1 ☐4 Die Abtrennung für eine kleine Taillenvertiefung kann an vM und hM bis zu 4 cm erfolgen (hier 3 cm). An der Seitennaht + 10% (hier 3,3 cm). Die Abtrennlinie optisch parallel zur Taillennaht zeichnen.\n\n2 Die zweiten Abnäher in VT und RT mit 0,5 bis 0,7 cm Inhalt und 7 bis 9 cm Länge wie skizziert an der Taille einzeichnen.\n\n3 ☐5 Bei einem Rock-GS mit zwei Abnähern im RT muss kein dritter Abnäher gezeichnet werden. Man kann zusätzlich etwas an der Seitennaht reduzieren. Optional wäre auch eine Vergrößerung des 2. hinteren Abnähers möglich (hier nicht gezeigt).\n\n# 2 Taillenbeleg einzeichnen\n\n4 ☐4-5 Parallel zur Taillenvertiefung bzw. zur neuen oberen Rockkante und rechtwinklig zur vM und hM wird die Belegbreite von 4 bis 6 cm eingezeichnet.\n\n6 Vordere und hintere Belegfläche kopieren und beim Kopieren ggf. bereits die Abnäher samt Weitenreduzierung zulegen.\n\nZusätzliche Weiten-Reduzierung an der Seitennaht nach Bedarf vornehmen (insgesamt ca. 0 bis 0,5 cm)\n\n![img-1.jpeg](img-1.jpeg)\n\n☐4 Kleine Taillenvertiefung und Beleg für Rock-GS mit einem RT-Abnäher\n\n![img-2.jpeg](img-2.jpeg)\n\n☐5 Kleine Taillenvertiefung und Beleg für Rock-GS mit zwei RT-Abnähern\n\nVereinfachte\nHüftrock mit\n\n☐6 Kopierte Beleg\n☐7 Abnäher zu\n\n☐8 Beleg-Breite\n\n☐9 Reduzierung für einer Reißverschluss\n\n☐10 Produkt\n\n☐11 Produkt\n\n☐10 Produkt\n\n☐11 Produkt\n\n☐11 Produkt\n\n32",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1709,
+          "top_left_y": 1389,
+          "bottom_right_x": 2613,
+          "bottom_right_y": 1760,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1256,
+          "top_left_y": 2005,
+          "bottom_right_x": 2656,
+          "bottom_right_y": 2724,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1176,
+          "top_left_y": 2789,
+          "bottom_right_x": 2662,
+          "bottom_right_y": 3663,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 466,
+          "top_left_y": 331,
+          "bottom_right_x": 659,
+          "bottom_right_y": 433,
+          "content": "Rock-\nModelle",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 861,
+          "top_left_y": 163,
+          "bottom_right_x": 2187,
+          "bottom_right_y": 400,
+          "content": "Vereinfachte Taillenvertiefung und Taillenbeleg (1)\nHüftrock mit kleiner Taillenvertiefung",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 490,
+          "top_left_y": 535,
+          "bottom_right_x": 554,
+          "bottom_right_y": 653,
+          "content": "1B\n2B\n3B",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 643,
+          "top_left_y": 531,
+          "bottom_right_x": 842,
+          "bottom_right_y": 568,
+          "content": "# Taillenbeleg",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 619,
+          "top_left_y": 572,
+          "bottom_right_x": 1532,
+          "bottom_right_y": 837,
+          "content": "Der Taillenbeleg deckt die Innenseite der oberen Rock- oder\nHosenkante ab. Ein Beleg ist ein mit Einlage verstärktes,\nbzw. fixiertes Stoffteil, das an die Kante eines Kleidungsstücks\ngeschlagen wird. Damit versäubert und verstärkt es die\nKante. Die Nähtechnik, bei der die Nahtzugabe zwischen\nOberstoff und Beleg verschwindet, nennt man \"Verstürzen\".",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 597,
+          "top_left_y": 837,
+          "bottom_right_x": 1522,
+          "bottom_right_y": 1054,
+          "content": "Der Beleg hat genau die Form des Schnittteils, an das er gearbeitet wird, wenn die Abnäher genäht sind - er selbst hat keine Abnäher. Da Belege im Inneren des Kleidungsstücks liegen, sollten sie geringfügig kleiner sein, damit sie hinter der Kante verschwinden und von außen nicht sichtbar sind.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 597,
+          "top_left_y": 1086,
+          "bottom_right_x": 1097,
+          "bottom_right_y": 1127,
+          "content": "# Vereinfachte Taillenvertiefung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 576,
+          "top_left_y": 1131,
+          "bottom_right_x": 1513,
+          "bottom_right_y": 1266,
+          "content": "☐1 Eine vereinfachte Taillenvertiefung nimmt man vor, wenn nicht bekannt ist, wo genau an einer Kundin der Rock sitzen wird. Die Bundabstände (BuA) sind nicht bekannt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 564,
+          "top_left_y": 1274,
+          "bottom_right_x": 1510,
+          "bottom_right_y": 1495,
+          "content": "Da bei einem Rock mit einer kleinen Taillenvertiefung (bis ca. 4 cm) häufig der Bund noch waagerecht liegt, kann vorne und hinten jeweils derselbe Betrag entfernt werden, an der Seitennaht zusätzlich ca. 10 %. Siehe hierzu die Beobachtungen und Hinweise auf Seite 38, 50, 51.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 557,
+          "top_left_y": 1503,
+          "bottom_right_x": 1498,
+          "bottom_right_y": 1556,
+          "content": "Beispiel: Vertiefung an vM und hM je 3 cm, an den SN 3,3 cm.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 557,
+          "top_left_y": 1585,
+          "bottom_right_x": 1489,
+          "bottom_right_y": 1719,
+          "content": "① Die Weite der oberen Rockkante muss in jedem Fall mindestens um die Taillenzugabe des Grundschnitts von 0,5 bis 1 cm am halben Rock (besser noch mehr) reduziert werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 530,
+          "top_left_y": 1736,
+          "bottom_right_x": 1495,
+          "bottom_right_y": 1948,
+          "content": "Bei kleiner Taillenvertiefung ist es möglich, die Taillenmehrweite ganz oder teilweise durch einen zweiten vorderen und einen zweiten hinteren Abnäher zu entfernen, die genau dort sitzen, wo üblicherweise die Taillennaht am Rock eingehalten wird. Siehe auch Seite 38.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1577,
+          "top_left_y": 1074,
+          "bottom_right_x": 1626,
+          "bottom_right_y": 1111,
+          "content": "□2",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1666,
+          "top_left_y": 1066,
+          "bottom_right_x": 1917,
+          "bottom_right_y": 1205,
+          "content": "Hüftrock mit kleiner Taillenvertiefung und Taillenbeleg",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1709,
+          "top_left_y": 1389,
+          "bottom_right_x": 2613,
+          "bottom_right_y": 1760,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1660,
+          "top_left_y": 1781,
+          "bottom_right_x": 1712,
+          "bottom_right_y": 1822,
+          "content": "□3",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1755,
+          "top_left_y": 1781,
+          "bottom_right_x": 2555,
+          "bottom_right_y": 1858,
+          "content": "Geöffneter Reißverschluss mit Taillenbeleg, Futter und Riegel zum Knöpfen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 518,
+          "top_left_y": 2071,
+          "bottom_right_x": 1026,
+          "bottom_right_y": 2120,
+          "content": "# 1 Geringe Taillenvertiefung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 505,
+          "top_left_y": 2132,
+          "bottom_right_x": 1130,
+          "bottom_right_y": 2406,
+          "content": "1 ☐4 Die Abtrennung für eine kleine Taillenvertiefung kann an vM und hM bis zu 4 cm erfolgen (hier 3 cm). An der Seitennaht + 10% (hier 3,3 cm). Die Abtrennlinie optisch parallel zur Taillennaht zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 478,
+          "top_left_y": 2418,
+          "bottom_right_x": 1115,
+          "bottom_right_y": 2606,
+          "content": "2 Die zweiten Abnäher in VT und RT mit 0,5 bis 0,7 cm Inhalt und 7 bis 9 cm Länge wie skizziert an der Taille einzeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 466,
+          "top_left_y": 2610,
+          "bottom_right_x": 1103,
+          "bottom_right_y": 3014,
+          "content": "3 ☐5 Bei einem Rock-GS mit zwei Abnähern im RT muss kein dritter Abnäher gezeichnet werden. Man kann zusätzlich etwas an der Seitennaht reduzieren. Optional wäre auch eine Vergrößerung des 2. hinteren Abnähers möglich (hier nicht gezeigt).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 3030,
+          "bottom_right_x": 950,
+          "bottom_right_y": 3104,
+          "content": "# 2 Taillenbeleg einzeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 432,
+          "top_left_y": 3104,
+          "bottom_right_x": 1069,
+          "bottom_right_y": 3365,
+          "content": "4 ☐4-5 Parallel zur Taillenvertiefung bzw. zur neuen oberen Rockkante und rechtwinklig zur vM und hM wird die Belegbreite von 4 bis 6 cm eingezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 414,
+          "top_left_y": 3357,
+          "bottom_right_x": 1060,
+          "bottom_right_y": 3582,
+          "content": "6 Vordere und hintere Belegfläche kopieren und beim Kopieren ggf. bereits die Abnäher samt Weitenreduzierung zulegen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1195,
+          "top_left_y": 1960,
+          "bottom_right_x": 2619,
+          "bottom_right_y": 2005,
+          "content": "Zusätzliche Weiten-Reduzierung an der Seitennaht nach Bedarf vornehmen (insgesamt ca. 0 bis 0,5 cm)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1256,
+          "top_left_y": 2005,
+          "bottom_right_x": 2656,
+          "bottom_right_y": 2724,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1164,
+          "top_left_y": 2700,
+          "bottom_right_x": 2380,
+          "bottom_right_y": 2789,
+          "content": "☐4 Kleine Taillenvertiefung und Beleg für Rock-GS mit einem RT-Abnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1176,
+          "top_left_y": 2789,
+          "bottom_right_x": 2662,
+          "bottom_right_y": 3663,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1121,
+          "top_left_y": 3578,
+          "bottom_right_x": 2377,
+          "bottom_right_y": 3729,
+          "content": "☐5 Kleine Taillenvertiefung und Beleg für Rock-GS mit zwei RT-Abnähern",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2729,
+          "top_left_y": 216,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 351,
+          "content": "Vereinfachte\nHüftrock mit",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2751,
+          "top_left_y": 453,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 1054,
+          "content": "☐6 Kopierte Beleg\n☐7 Abnäher zu",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2754,
+          "top_left_y": 1131,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 1380,
+          "content": "☐8 Beleg-Breite",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2800,
+          "top_left_y": 1401,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 1450,
+          "content": "☐9 Reduzierung für einer Reißverschluss",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2800,
+          "top_left_y": 1605,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 1715,
+          "content": "☐10 Produkt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2787,
+          "top_left_y": 1891,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 2128,
+          "content": "☐11 Produkt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2787,
+          "top_left_y": 2152,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 2197,
+          "content": "☐10 Produkt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2787,
+          "top_left_y": 2291,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 3672,
+          "content": "☐11 Produkt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2876,
+          "top_left_y": 3688,
+          "bottom_right_x": 3057,
+          "bottom_right_y": 3753,
+          "content": "☐11 Produkt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 245,
+          "top_left_y": 3525,
+          "bottom_right_x": 306,
+          "bottom_right_y": 3582,
+          "content": "32",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3950407
+  }
+}

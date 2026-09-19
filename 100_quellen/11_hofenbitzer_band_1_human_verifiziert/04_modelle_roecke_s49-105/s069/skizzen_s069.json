@@ -1,0 +1,39 @@
+{
+  "seite": "s069",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s69.jpg",
+  "ocr_quelle": "ocr_s069_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s069_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 368,
+        "top_left_y": 723,
+        "bottom_right_x": 1413,
+        "bottom_right_y": 1247
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s069_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    },
+    {
+      "datei": "skizzen/s069_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1871,
+        "top_left_y": 230,
+        "bottom_right_x": 3700,
+        "bottom_right_y": 2928
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s069_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht."
+    }
+  ]
+}

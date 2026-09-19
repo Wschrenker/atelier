@@ -1,0 +1,103 @@
+{
+  "seite": "s065",
+  "original_bild": "../../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s65.jpg",
+  "ocr_quelle": "ocr_s065_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s065_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 278,
+        "top_left_y": 2187,
+        "bottom_right_x": 874,
+        "bottom_right_y": 2778
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s065_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zehn-Bahnenrock (VT/RT), zu Caption box7"
+    },
+    {
+      "datei": "skizzen/s065_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 286,
+        "top_left_y": 512,
+        "bottom_right_x": 1609,
+        "bottom_right_y": 1577
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s065_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Rock-GS fuer 10 Bahnen einteilen und Abnaeher verschieben, zu Caption box9"
+    },
+    {
+      "datei": "skizzen/s065_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 539,
+        "top_left_y": 1602,
+        "bottom_right_x": 882,
+        "bottom_right_y": 2175
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s065_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Querschnitt (10-Bahnenrock), zu Caption box8"
+    },
+    {
+      "datei": "skizzen/s065_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2120,
+        "top_left_y": 355,
+        "bottom_right_x": 3696,
+        "bottom_right_y": 1568
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s065_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Rock-GS fuer 12 Bahnen einteilen und Abnaeher verschieben (Caption box12 fehlt in der OCR-Rohfassung)"
+    },
+    {
+      "datei": "skizzen/s065_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2479,
+        "top_left_y": 1553,
+        "bottom_right_x": 2896,
+        "bottom_right_y": 2175
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s065_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Querschnitt (12-Bahnenrock), zu Caption box11"
+    },
+    {
+      "datei": "skizzen/s065_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 3006,
+        "top_left_y": 2169,
+        "bottom_right_x": 3749,
+        "bottom_right_y": 2818
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s065_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zwoelf-Bahnenrock (VT/RT), zu Caption box10"
+    }
+  ]
+}

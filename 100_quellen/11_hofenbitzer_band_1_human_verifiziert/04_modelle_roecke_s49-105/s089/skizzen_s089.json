@@ -1,0 +1,71 @@
+{
+  "seite": "s089",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s89.jpg",
+  "ocr_quelle": "ocr_s089_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s089_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 278,
+        "top_left_y": 1936,
+        "bottom_right_x": 2160,
+        "bottom_right_y": 2830
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s089_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt mVT, sVT mit vorderem Taschenbeutel (Kennziffern 6, 7, 9) und den Verweis '4 Modell-Schnittteile'."
+    },
+    {
+      "datei": "skizzen/s089_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 523,
+        "top_left_y": 1470,
+        "bottom_right_x": 1131,
+        "bottom_right_y": 1902
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s089_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die v-Hueftpasse mit hinterem Taschenbeutel."
+    },
+    {
+      "datei": "skizzen/s089_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 453,
+        "top_left_y": 557,
+        "bottom_right_x": 2120,
+        "bottom_right_y": 1360
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s089_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt RT-Passe (Kennziffer 8), sRT und mRT."
+    },
+    {
+      "datei": "skizzen/s089_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2879,
+        "top_left_y": 429,
+        "bottom_right_x": 3790,
+        "bottom_right_y": 2846
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s089_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt das gesamte Faltenteil (Kennziffern 10-13) mit Faltensegmenten, FaI/FaA/FaT-Beschriftungen und der Angabe 'vorhandene Stoffbreite 92 cm'; darunter '□5 Produktionsschnitt Faltenteil'."
+    }
+  ]
+}

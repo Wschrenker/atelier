@@ -1,0 +1,360 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Miederbund\n\n# Rock-\nModelle\n\n# Miederbund (1)\nRock mit erhöhter Taille bzw. angeschnittenem Bund\n\n![img-0.jpeg](img-0.jpeg)\n\n☐1 An diesem engen eingestellten Rock wird die obere Rockkante erhöht. Optisch wird hierdurch die Taille erhöht. Man bezeichnet diese Form auch als angeschnittenen Bund oder als Miederbund. Der Sitz des Rocks an der Taille muss sehr eng sein. Die obere Rockkante sollte etwas lockerer sitzen und kann natürlich auch anders gestaltet sein, z.B. gerade. Sie wird mit einem Taillenbeleg verstürzt, woran dann das Futter angenäht wird.\n\n![img-1.jpeg](img-1.jpeg)\n\n☐2 Miederbelege mit Breiten-Reduzierung um ca. 0,2 cm\n\n![img-2.jpeg](img-2.jpeg)\n\n☐3 Kabarte Flächen der Miederbelege\n\n![img-3.jpeg](img-3.jpeg)\n\n☐4 Abnäher zulegen mit gleichzeitiger Weiten-Reduzierung um ca. 0,2 cm an den oberen Kanten und max. 0,5 cm an den unteren Belegnähten\n\n![img-4.jpeg](img-4.jpeg)\n\n62\n\n# Angeschnittener Bund\n\n1 ☐2 Die Einhalteweite aus dem Rock-Grundschnitt wird entfernt, indem die Abnäher im Grundschnitt gemessen und die neu positionierten Abnäher an jedem Rockviertel um ca. 0,5 cm größer gezeichnet werden. Die gesamte Taillenweite ist somit um ca. 2 cm reduziert.\n\n2 Seitliche paarweise Abnäherpositionen sehen am besten aus, wenn der vorderste am küzesten und der hinterste am längsten ist.\n\n3 Die Bundhöhe festlegen und die obere Rock-(Bund-)kante gestalten.\n\n4 Oberhalb der Taille wird der Körper wieder breiter. Die Abnäherinhalte sind also an der Taille am größten und werden für mehr Weite nach oben hin wieder kleiner. Abnäher und Seitennähte kann man nach oben spiegeln.\n\n5 Bei einer individuellen Fertigung ist eine Anprobe vor dem Zuschnitt der Miederbelege sinnvoll.\n\n# Miederbelege vorbereiten\n\n6 ☐3+4 Die Flächen der Miederbelege kopieren und für eine Weitenreduzierung die Abnäher an der oberen Kante um ca. 0,2 cm übereinanderlegen.\n\n6 An der unteren Belegnaht kann man an den Abnähern bis zu 0,5 cm übereinanderlegen. Die hier reduzierte Weite wird am Stoff vor der Weiterverarbeitung durch Dehnen der Naht ausgeglichen.\n\n7 ☐5 Die Breiten der so entstandenen Belegflächen werden an der oberen Rockkante um ca. 0,2 cm reduziert und die untere Belegnaht geformt.\n\nMiederbund\nRock mit erhöhter Taille bzw. angeschnittenem Bund\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\n☐7 Produktiv\n\n![img-7.jpeg](img-7.jpeg)",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 286,
+          "top_left_y": 466,
+          "bottom_right_x": 1278,
+          "bottom_right_y": 1130,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 776,
+          "top_left_y": 1176,
+          "bottom_right_x": 2026,
+          "bottom_right_y": 2521,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2246,
+          "top_left_y": 1198,
+          "bottom_right_x": 2512,
+          "bottom_right_y": 2558,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2634,
+          "top_left_y": 1198,
+          "bottom_right_x": 2961,
+          "bottom_right_y": 2588,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 3096,
+          "top_left_y": 1198,
+          "bottom_right_x": 3492,
+          "bottom_right_y": 2619,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 408,
+          "top_left_y": 3,
+          "bottom_right_x": 1789,
+          "bottom_right_y": 383,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 1871,
+          "top_left_y": 3,
+          "bottom_right_x": 2165,
+          "bottom_right_y": 322,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 2316,
+          "top_left_y": 3,
+          "bottom_right_x": 3700,
+          "bottom_right_y": 260,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 1940,
+          "top_left_y": 2610,
+          "bottom_right_x": 2160,
+          "bottom_right_y": 2659,
+          "content": "Miederbund",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 331,
+          "top_left_y": 2395,
+          "bottom_right_x": 437,
+          "bottom_right_y": 2582,
+          "content": "# Rock-\nModelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 278,
+          "top_left_y": 894,
+          "bottom_right_x": 400,
+          "bottom_right_y": 2193,
+          "content": "# Miederbund (1)\nRock mit erhöhter Taille bzw. angeschnittenem Bund",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 286,
+          "top_left_y": 466,
+          "bottom_right_x": 1278,
+          "bottom_right_y": 1130,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 421,
+          "top_left_y": 1176,
+          "bottom_right_x": 743,
+          "bottom_right_y": 2426,
+          "content": "☐1 An diesem engen eingestellten Rock wird die obere Rockkante erhöht. Optisch wird hierdurch die Taille erhöht. Man bezeichnet diese Form auch als angeschnittenen Bund oder als Miederbund. Der Sitz des Rocks an der Taille muss sehr eng sein. Die obere Rockkante sollte etwas lockerer sitzen und kann natürlich auch anders gestaltet sein, z.B. gerade. Sie wird mit einem Taillenbeleg verstürzt, woran dann das Futter angenäht wird.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 776,
+          "top_left_y": 1176,
+          "bottom_right_x": 2026,
+          "bottom_right_y": 2521,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2042,
+          "top_left_y": 1672,
+          "bottom_right_x": 2087,
+          "bottom_right_y": 2521,
+          "content": "☐2 Miederbelege mit Breiten-Reduzierung um ca. 0,2 cm",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2246,
+          "top_left_y": 1198,
+          "bottom_right_x": 2512,
+          "bottom_right_y": 2558,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2504,
+          "top_left_y": 1963,
+          "bottom_right_x": 2553,
+          "bottom_right_y": 2558,
+          "content": "☐3 Kabarte Flächen der Miederbelege",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2634,
+          "top_left_y": 1198,
+          "bottom_right_x": 2961,
+          "bottom_right_y": 2588,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2932,
+          "top_left_y": 1185,
+          "bottom_right_x": 3047,
+          "bottom_right_y": 2588,
+          "content": "☐4 Abnäher zulegen mit gleichzeitiger Weiten-Reduzierung um ca. 0,2 cm an den oberen Kanten und max. 0,5 cm an den unteren Belegnähten",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3096,
+          "top_left_y": 1198,
+          "bottom_right_x": 3492,
+          "bottom_right_y": 2619,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 3496,
+          "top_left_y": 2729,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2787,
+          "content": "62",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 1352,
+          "top_left_y": 625,
+          "bottom_right_x": 1393,
+          "bottom_right_y": 1048,
+          "content": "# Angeschnittener Bund",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1421,
+          "top_left_y": 444,
+          "bottom_right_x": 1822,
+          "bottom_right_y": 1136,
+          "content": "1 ☐2 Die Einhalteweite aus dem Rock-Grundschnitt wird entfernt, indem die Abnäher im Grundschnitt gemessen und die neu positionierten Abnäher an jedem Rockviertel um ca. 0,5 cm größer gezeichnet werden. Die gesamte Taillenweite ist somit um ca. 2 cm reduziert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1842,
+          "top_left_y": 432,
+          "bottom_right_x": 2030,
+          "bottom_right_y": 1136,
+          "content": "2 Seitliche paarweise Abnäherpositionen sehen am besten aus, wenn der vorderste am küzesten und der hinterste am längsten ist.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2046,
+          "top_left_y": 429,
+          "bottom_right_x": 2148,
+          "bottom_right_y": 1136,
+          "content": "3 Die Bundhöhe festlegen und die obere Rock-(Bund-)kante gestalten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2160,
+          "top_left_y": 426,
+          "bottom_right_x": 2508,
+          "bottom_right_y": 1136,
+          "content": "4 Oberhalb der Taille wird der Körper wieder breiter. Die Abnäherinhalte sind also an der Taille am größten und werden für mehr Weite nach oben hin wieder kleiner. Abnäher und Seitennähte kann man nach oben spiegeln.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2512,
+          "top_left_y": 426,
+          "bottom_right_x": 2679,
+          "bottom_right_y": 1130,
+          "content": "5 Bei einer individuellen Fertigung ist eine Anprobe vor dem Zuschnitt der Miederbelege sinnvoll.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2720,
+          "top_left_y": 527,
+          "bottom_right_x": 2777,
+          "bottom_right_y": 1045,
+          "content": "# Miederbelege vorbereiten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2789,
+          "top_left_y": 407,
+          "bottom_right_x": 3055,
+          "bottom_right_y": 1136,
+          "content": "6 ☐3+4 Die Flächen der Miederbelege kopieren und für eine Weitenreduzierung die Abnäher an der oberen Kante um ca. 0,2 cm übereinanderlegen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3063,
+          "top_left_y": 398,
+          "bottom_right_x": 3402,
+          "bottom_right_y": 1136,
+          "content": "6 An der unteren Belegnaht kann man an den Abnähern bis zu 0,5 cm übereinanderlegen. Die hier reduzierte Weite wird am Stoff vor der Weiterverarbeitung durch Dehnen der Naht ausgeglichen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3390,
+          "top_left_y": 392,
+          "bottom_right_x": 3692,
+          "bottom_right_y": 1136,
+          "content": "7 ☐5 Die Breiten der so entstandenen Belegflächen werden an der oberen Rockkante um ca. 0,2 cm reduziert und die untere Belegnaht geformt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 147,
+          "top_left_y": 3,
+          "bottom_right_x": 319,
+          "bottom_right_y": 355,
+          "content": "Miederbund\nRock mit erhöhter Taille bzw. angeschnittenem Bund",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 408,
+          "top_left_y": 3,
+          "bottom_right_x": 1789,
+          "bottom_right_y": 383,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 1871,
+          "top_left_y": 3,
+          "bottom_right_x": 2165,
+          "bottom_right_y": 322,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 2185,
+          "top_left_y": 3,
+          "bottom_right_x": 2226,
+          "bottom_right_y": 260,
+          "content": "☐7 Produktiv",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2316,
+          "top_left_y": 3,
+          "bottom_right_x": 3700,
+          "bottom_right_y": 260,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4013569
+  }
+}

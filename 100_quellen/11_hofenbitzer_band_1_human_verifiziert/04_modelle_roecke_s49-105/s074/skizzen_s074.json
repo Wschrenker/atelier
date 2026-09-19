@@ -1,0 +1,71 @@
+{
+  "seite": "s074",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s74.jpg",
+  "ocr_quelle": "ocr_s074_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s074_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 335,
+        "top_left_y": 441,
+        "bottom_right_x": 1372,
+        "bottom_right_y": 1473
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s074_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Zeichnung □2 (Saumerweiterter Passenrock mit Passe und Streifen, VT/RT)."
+    },
+    {
+      "datei": "skizzen/s074_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 772,
+        "top_left_y": 1528,
+        "bottom_right_x": 1495,
+        "bottom_right_y": 2524
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s074_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Zeichnung □1 (Schnittentwicklung aus dem saumerweiterten Bahnenrock, VT/RT)."
+    },
+    {
+      "datei": "skizzen/s074_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1634,
+        "top_left_y": 254,
+        "bottom_right_x": 3761,
+        "bottom_right_y": 1403
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s074_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt den rechten (RT-)Teil von □3 (Produktionsschnitt Passenrock mit Streifen: h.Passe, RT, h-Streifen, h.Saum)."
+    },
+    {
+      "datei": "skizzen/s074_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1715,
+        "top_left_y": 1587,
+        "bottom_right_x": 3672,
+        "bottom_right_y": 2659
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s074_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt den linken (VT-)Teil von □3 (Produktionsschnitt Passenrock mit Streifen: v.Passe, VT, v-Streifen, v.Saum) sowie die Schrittliste ①② am oberen Rand."
+    }
+  ]
+}

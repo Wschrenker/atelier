@@ -1,0 +1,175 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock mit positionierten Glocken\nModellentwicklung aus dem 10-Bahnenrock (14)\n\nKlar positionierte Glocken sind an diesem Rock nur an den\nseitlichen Teilungsnähten des geraden 10-Bahnenrocks ein-\ngearbeitet. Die mittleren Teilungsnähte werden ignoriert\nund die dort befindlichen Abnäherinhalte müssen verschoben werden. Die Glocken können entsprechend der Formung\nder Tailleinhalt wahlweise direkt aus der Taille fallen (wie\nhier am VT) oder welcher unterhalb der Taille (wie hier am\nRT gezeigt).\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\nDie Abnaher der vorderen bzw. hinteren Teilungsnahte werden an die Öffnungsposition verschoben, indem Dort die beiden Schnittteile um die Beträge der Abnaherinhalte überschnitten werden.\nAm Saum wird für die Glocke die gewünschte Weite geöffnet und der Saumverlauf rund geformt.\n\nDie Formung der Tailleinhalt ist\nnun entscheidend für den Fall der\nGlocke:\n\nWird die entstandene Ecke an der Ansatznah nicht ausgerundet, fällt die Glocke klar und scharf.\nBei einem ausgerundeten Verlauf der Ansatznah, fällt die Glocke welcher und breiter.\n\n☐2 Modell 1\nRock mit positionierten\nGlocken\n\n☐2 Modell 2\nRock mit positionierten\nGlocken und ausgestellter\nSeitennaht\n\nBei Modell 2 werden beide Seiten-\nnähte (wie hier am RT gezeigt) für\nmehr Saumweite ausgestellt.\n\n![img-2.jpeg](img-2.jpeg)\n\nRock mit positionierten Glocken\n\n81",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 339,
+          "top_left_y": 1130,
+          "bottom_right_x": 1327,
+          "bottom_right_y": 1452,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 355,
+          "top_left_y": 649,
+          "bottom_right_x": 1278,
+          "bottom_right_y": 986,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1846,
+          "top_left_y": 254,
+          "bottom_right_x": 3839,
+          "bottom_right_y": 2892,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 131,
+          "top_left_y": 1400,
+          "bottom_right_x": 319,
+          "bottom_right_y": 2662,
+          "content": "# Rock mit positionierten Glocken\nModellentwicklung aus dem 10-Bahnenrock (14)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 363,
+          "top_left_y": 1642,
+          "bottom_right_x": 711,
+          "bottom_right_y": 2680,
+          "content": "Klar positionierte Glocken sind an diesem Rock nur an den\nseitlichen Teilungsnähten des geraden 10-Bahnenrocks ein-\ngearbeitet. Die mittleren Teilungsnähte werden ignoriert\nund die dort befindlichen Abnäherinhalte müssen verschoben werden. Die Glocken können entsprechend der Formung\nder Tailleinhalt wahlweise direkt aus der Taille fallen (wie\nhier am VT) oder welcher unterhalb der Taille (wie hier am\nRT gezeigt).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 339,
+          "top_left_y": 1130,
+          "bottom_right_x": 1327,
+          "bottom_right_y": 1452,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 355,
+          "top_left_y": 649,
+          "bottom_right_x": 1278,
+          "bottom_right_y": 986,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 833,
+          "top_left_y": 2009,
+          "bottom_right_x": 1254,
+          "bottom_right_y": 2708,
+          "content": "Die Abnaher der vorderen bzw. hinteren Teilungsnahte werden an die Öffnungsposition verschoben, indem Dort die beiden Schnittteile um die Beträge der Abnaherinhalte überschnitten werden.\nAm Saum wird für die Glocke die gewünschte Weite geöffnet und der Saumverlauf rund geformt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1270,
+          "top_left_y": 2019,
+          "bottom_right_x": 1409,
+          "bottom_right_y": 2643,
+          "content": "Die Formung der Tailleinhalt ist\nnun entscheidend für den Fall der\nGlocke:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1434,
+          "top_left_y": 2019,
+          "bottom_right_x": 1740,
+          "bottom_right_y": 2729,
+          "content": "Wird die entstandene Ecke an der Ansatznah nicht ausgerundet, fällt die Glocke klar und scharf.\nBei einem ausgerundeten Verlauf der Ansatznah, fällt die Glocke welcher und breiter.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1352,
+          "top_left_y": 1118,
+          "bottom_right_x": 1466,
+          "bottom_right_y": 1568,
+          "content": "☐2 Modell 1\nRock mit positionierten\nGlocken",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1356,
+          "top_left_y": 499,
+          "bottom_right_x": 1503,
+          "bottom_right_y": 980,
+          "content": "☐2 Modell 2\nRock mit positionierten\nGlocken und ausgestellter\nSeitennaht",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1593,
+          "top_left_y": 1247,
+          "bottom_right_x": 1756,
+          "bottom_right_y": 1945,
+          "content": "Bei Modell 2 werden beide Seiten-\nnähte (wie hier am RT gezeigt) für\nmehr Saumweite ausgestellt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1846,
+          "top_left_y": 254,
+          "bottom_right_x": 3839,
+          "bottom_right_y": 2892,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1630,
+          "top_left_y": 322,
+          "bottom_right_x": 2222,
+          "bottom_right_y": 404,
+          "content": "Rock mit positionierten Glocken",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3757,
+          "top_left_y": 153,
+          "bottom_right_x": 3819,
+          "bottom_right_y": 224,
+          "content": "81",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3833265
+  }
+}

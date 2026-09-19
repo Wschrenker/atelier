@@ -1,0 +1,322 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Miederbund (2)\n\nRock mit erhöhter Taille bzw. angeschnittenem Bund\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n☐ 6 Produktions-Schnittteile der Rockteile\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n☐ 7 Produktions-Schnittteile der Miederbelege\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n☐ 8 Produktions-Schnittteile des Rockfutters\n\n# 3 Äußere Rockteile\n\n4 Als äußere Rockteile werden VT und RT jeweils mitsamt der Bundfläche kopiert. Die ursprüngliche Taillenlinie am Grundschnitt markieren.\n\nDie Abnäher mit Bohrlöchern und Knipsen markieren.\n\n5 Große Abnäher kann man mit Nahtzugabe versehen.\n\n# 4 Taillenbelege\n\n6 Am vorbereiteten hinteren Miederbeleg wird an der hM, dort wo der Reißverschluss eingearbeitet wird, ca. 0,5 bis 1 cm entfernt, um den Beleg auf das Reißverschlussband anzunähen (siehe auch vorhergehende Seiten).\n\n7 Wichtig ist das Dehnen der zuschnittenen Stoffflächen an den markierten Stellen, dort wo an der unteren Belegnaht stark reduziert wurde.\n\n# 5 Rockfutter\n\n7 Das Rockfutter ist die Fläche unterhalb der Miederbelege. Für das Futter werden am Saum 2 cm gekürzt und mit 2 x 2 cm Einschlägen versehen. Am RV-Schlitz die Naht um ca. 0,5 cm nach innen verschieben und das Schlitzende um ca. 2 bis 3 cm verlängern (Seite 92).\n\n8 Die Abnäher sind hier als aufspringende Abnäher (halb genähte Abnäher) gearbeitet. Das gibt dem Futter etwas Weite zwischen Taille und Hüfte.\n\n9 Wie am Miederbeleg wird am Reißverschlussschlitz die Naht nach innen verschoben (siehe auch Seiten 59 + 61).\n\n# Taillenband\n\nBei einer sehr hochwertigen Verarbeitung wird innen, genau an der Taille, ein Taillenband (z.B. ein Ripsband) mit Hakenverschluss (unter dem Reißverschluss) durch den Miederbeleg fest an allen Nähten und Abnähern eingenäht. Nach dem Anziehen des Rocks wird zunächst das Taillenband geschlossen, dann erst der Reißverschluss. Das Taillenband ist etwas enger als der Rock an der Taille, wodurch das Herabrutschen des Rocks verhindert wird und ihn sicher in der Taille hält. Auch entlastet es den Reißverschluss, die Nähte und das Material des Rocks. Der Oberstoff des Rocks muss dann nicht so eng geschnitten sein. Dies verhindert somit die Bildung von Stressfalten.\n\nMiederbund\n\n63",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 351,
+          "top_left_y": 2077,
+          "bottom_right_x": 1695,
+          "bottom_right_y": 2830,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 355,
+          "top_left_y": 1277,
+          "bottom_right_x": 1695,
+          "bottom_right_y": 2037,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1838,
+          "top_left_y": 2239,
+          "bottom_right_x": 2144,
+          "bottom_right_y": 2836,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1822,
+          "top_left_y": 1302,
+          "bottom_right_x": 2140,
+          "bottom_right_y": 1826,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 2242,
+          "top_left_y": 2077,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2892,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 2234,
+          "top_left_y": 1198,
+          "bottom_right_x": 3610,
+          "bottom_right_y": 2037,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 106,
+          "top_left_y": 2303,
+          "bottom_right_x": 167,
+          "bottom_right_y": 2720,
+          "content": "Miederbund (2)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 167,
+          "top_left_y": 1342,
+          "bottom_right_x": 265,
+          "bottom_right_y": 2720,
+          "content": "Rock mit erhöhter Taille bzw. angeschnittenem Bund",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 351,
+          "top_left_y": 2077,
+          "bottom_right_x": 1695,
+          "bottom_right_y": 2830,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 355,
+          "top_left_y": 1277,
+          "bottom_right_x": 1695,
+          "bottom_right_y": 2037,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1703,
+          "top_left_y": 2104,
+          "bottom_right_x": 1740,
+          "bottom_right_y": 2790,
+          "content": "☐ 6 Produktions-Schnittteile der Rockteile",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1838,
+          "top_left_y": 2239,
+          "bottom_right_x": 2144,
+          "bottom_right_y": 2836,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1822,
+          "top_left_y": 1302,
+          "bottom_right_x": 2140,
+          "bottom_right_y": 1826,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2156,
+          "top_left_y": 2028,
+          "bottom_right_x": 2197,
+          "bottom_right_y": 2809,
+          "content": "☐ 7 Produktions-Schnittteile der Miederbelege",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2242,
+          "top_left_y": 2077,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2892,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 2234,
+          "top_left_y": 1198,
+          "bottom_right_x": 3610,
+          "bottom_right_y": 2037,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 3663,
+          "top_left_y": 2065,
+          "bottom_right_x": 3712,
+          "bottom_right_y": 2861,
+          "content": "☐ 8 Produktions-Schnittteile des Rockfutters",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 380,
+          "top_left_y": 888,
+          "bottom_right_x": 417,
+          "bottom_right_y": 1256,
+          "content": "# 3 Äußere Rockteile",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 437,
+          "top_left_y": 674,
+          "bottom_right_x": 633,
+          "bottom_right_y": 1259,
+          "content": "4 Als äußere Rockteile werden VT und RT jeweils mitsamt der Bundfläche kopiert. Die ursprüngliche Taillenlinie am Grundschnitt markieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 649,
+          "top_left_y": 668,
+          "bottom_right_x": 731,
+          "bottom_right_y": 1173,
+          "content": "Die Abnäher mit Bohrlöchern und Knipsen markieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 659,
+          "bottom_right_x": 829,
+          "bottom_right_y": 1237,
+          "content": "5 Große Abnäher kann man mit Nahtzugabe versehen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 866,
+          "top_left_y": 913,
+          "bottom_right_x": 911,
+          "bottom_right_y": 1231,
+          "content": "# 4 Taillenbelege",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 927,
+          "top_left_y": 625,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 1234,
+          "content": "6 Am vorbereiteten hinteren Miederbeleg wird an der hM, dort wo der Reißverschluss eingearbeitet wird, ca. 0,5 bis 1 cm entfernt, um den Beleg auf das Reißverschlussband anzunähen (siehe auch vorhergehende Seiten).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1282,
+          "top_left_y": 600,
+          "bottom_right_x": 1499,
+          "bottom_right_y": 1222,
+          "content": "7 Wichtig ist das Dehnen der zuschnittenen Stoffflächen an den markierten Stellen, dort wo an der unteren Belegnaht stark reduziert wurde.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1544,
+          "top_left_y": 925,
+          "bottom_right_x": 1585,
+          "bottom_right_y": 1204,
+          "content": "# 5 Rockfutter",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1605,
+          "top_left_y": 561,
+          "bottom_right_x": 2013,
+          "bottom_right_y": 1207,
+          "content": "7 Das Rockfutter ist die Fläche unterhalb der Miederbelege. Für das Futter werden am Saum 2 cm gekürzt und mit 2 x 2 cm Einschlägen versehen. Am RV-Schlitz die Naht um ca. 0,5 cm nach innen verschieben und das Schlitzende um ca. 2 bis 3 cm verlängern (Seite 92).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2034,
+          "top_left_y": 533,
+          "bottom_right_x": 2267,
+          "bottom_right_y": 1188,
+          "content": "8 Die Abnäher sind hier als aufspringende Abnäher (halb genähte Abnäher) gearbeitet. Das gibt dem Futter etwas Weite zwischen Taille und Hüfte.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2287,
+          "top_left_y": 524,
+          "bottom_right_x": 2483,
+          "bottom_right_y": 1176,
+          "content": "9 Wie am Miederbeleg wird am Reißverschlussschlitz die Naht nach innen verschoben (siehe auch Seiten 59 + 61).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2536,
+          "top_left_y": 925,
+          "bottom_right_x": 2577,
+          "bottom_right_y": 1164,
+          "content": "# Taillenband",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2606,
+          "top_left_y": 435,
+          "bottom_right_x": 3647,
+          "bottom_right_y": 1164,
+          "content": "Bei einer sehr hochwertigen Verarbeitung wird innen, genau an der Taille, ein Taillenband (z.B. ein Ripsband) mit Hakenverschluss (unter dem Reißverschluss) durch den Miederbeleg fest an allen Nähten und Abnähern eingenäht. Nach dem Anziehen des Rocks wird zunächst das Taillenband geschlossen, dann erst der Reißverschluss. Das Taillenband ist etwas enger als der Rock an der Taille, wodurch das Herabrutschen des Rocks verhindert wird und ihn sicher in der Taille hält. Auch entlastet es den Reißverschluss, die Nähte und das Material des Rocks. Der Oberstoff des Rocks muss dann nicht so eng geschnitten sein. Dies verhindert somit die Bildung von Stressfalten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1875,
+          "top_left_y": 395,
+          "bottom_right_x": 2111,
+          "bottom_right_y": 447,
+          "content": "Miederbund",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3623,
+          "top_left_y": 230,
+          "bottom_right_x": 3676,
+          "bottom_right_y": 297,
+          "content": "63",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4104457
+  }
+}

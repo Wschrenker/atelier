@@ -1,0 +1,103 @@
+{
+  "seite": "s067",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s67.jpg",
+  "ocr_quelle": "ocr_s067_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s067_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 335,
+        "top_left_y": 2239,
+        "bottom_right_x": 1544,
+        "bottom_right_y": 2668
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s067_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Godet-Variante 1 (□3) mit Zuschnittkegel."
+    },
+    {
+      "datei": "skizzen/s067_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 359,
+        "top_left_y": 1694,
+        "bottom_right_x": 1560,
+        "bottom_right_y": 2098
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s067_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Godet-Variante 2 (□4) mit Zuschnittkegel."
+    },
+    {
+      "datei": "skizzen/s067_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 392,
+        "top_left_y": 1136,
+        "bottom_right_x": 1572,
+        "bottom_right_y": 1590
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s067_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Godet-Variante 3 (□5) mit Zuschnittkegel."
+    },
+    {
+      "datei": "skizzen/s067_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 417,
+        "top_left_y": 610,
+        "bottom_right_x": 1576,
+        "bottom_right_y": 1087
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s067_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt Godet-Variante 4 (□6) mit Zuschnittkegel."
+    },
+    {
+      "datei": "skizzen/s067_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2299,
+        "top_left_y": 2319,
+        "bottom_right_x": 3525,
+        "bottom_right_y": 2821
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s067_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt den linken unteren Rock (□7, angeschnittene hohe und weite Godets)."
+    },
+    {
+      "datei": "skizzen/s067_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2308,
+        "top_left_y": 450,
+        "bottom_right_x": 3500,
+        "bottom_right_y": 977
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s067_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt den rechten unteren Rock (□8, angeschnittene kurze und mäßig weite Godets)."
+    }
+  ]
+}

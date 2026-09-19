@@ -1,0 +1,55 @@
+{
+  "seite": "s094",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s94.jpg",
+  "ocr_quelle": "ocr_s094_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s094_skizze_01.png",
+      "quelle_id": "manuell nachgetragen (von OCR nicht als Bildregion erkannt)",
+      "bbox_original_px": {
+        "top_left_x": 460,
+        "top_left_y": 949,
+        "bottom_right_x": 1650,
+        "bottom_right_y": 1599
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box manuell am Originalbild ermittelt, da die OCR-Antwort nur eine Bildregion (img-0.jpeg) fuer beide Modellzeichnungen gemeldet hat. Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt □1 (Hinterer Hueftrock mit Taillenbeleg und Seitenschlitzen, Rueckansicht, Etikett 50)."
+    },
+    {
+      "datei": "skizzen/s094_skizze_02.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 441,
+        "top_left_y": 377,
+        "bottom_right_x": 1409,
+        "bottom_right_y": 992
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s094_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt □2 (Hinteres Rockfutter am Hueftrock mit Taillenbeleg und Seitenschlitzen, gewendet, Etikett 59)."
+    },
+    {
+      "datei": "skizzen/s094_skizze_03.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2291,
+        "top_left_y": 1072,
+        "bottom_right_x": 3659,
+        "bottom_right_y": 2521
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s094_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt □3, den Produktionsschnitt (VT- und RT-Hueftrock mit Taillenbeleg und Futter, Schritte 1 bis 5)."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "seite": "s105",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s105.jpg",
+  "ocr_quelle": "ocr_s105_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s105_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 253,
+        "top_left_y": 2233,
+        "bottom_right_x": 1201,
+        "bottom_right_y": 2552
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s105_raw.json; Ausschnitt anschliessend um 90 Grad im Uhrzeigersinn gedreht (siehe Hinweis zum Originalfoto in s105.md). Zeigt die Figurine □4 (Rückansicht mit Wasserfall-Drapierung)."
+    },
+    {
+      "datei": "skizzen/s105_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 412,
+        "top_left_y": 597,
+        "bottom_right_x": 1613,
+        "bottom_right_y": 1823
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s105_raw.json; Ausschnitt anschliessend um 90 Grad im Uhrzeigersinn gedreht. Zeigt die Schnittteil-Zeichnung 'Eingestellter Rock RT' (□5, Bildunterschrift 'RT abwandeln' steht ausserhalb dieses Ausschnitts unter der Zeichnung) mit den Punktnummern 5, 6 (zweimal), 7 und 1 sowie Scherensymbolen an den Einschnittenden."
+    },
+    {
+      "datei": "skizzen/s105_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1707,
+        "top_left_y": 490,
+        "bottom_right_x": 3823,
+        "bottom_right_y": 1902
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s105_raw.json; Ausschnitt anschliessend um 90 Grad im Uhrzeigersinn gedreht. Zeigt die Schnittteil-Zeichnung 'Rock mit Wasserfall-Drapierung RT 1x OSt' (□6, Bildunterschrift 'Produktions-Schnitt des RT' steht ausserhalb dieses Ausschnitts unter der Zeichnung) mit den Punktnummern 8 (zweimal), 9, 10, 11 (zweimal) sowie den Beschriftungen 'Messung von vorne' und 'übertragen'."
+    }
+  ]
+}

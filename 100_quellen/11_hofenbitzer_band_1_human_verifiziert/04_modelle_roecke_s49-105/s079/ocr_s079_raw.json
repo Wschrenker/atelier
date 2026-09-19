@@ -1,0 +1,232 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ballonrock mit Formbund, gekräuselt oder mit Falten\nModellentwicklung aus dem 10-Bahnenrock (12)\n\nAus dem 10-Bahnenrock sind hier mit derselben Schnittentwicklung zwei verschiedene Modelle mit Formbund, großer Taillenweite und reduzierter Saumweite entwickelt: Modell 1 an der Taille gekräuselt, bei Modell 2 ist die Taillenweite in gelegte und abgenähte Falten - an der Seite (ohne Naht) als Kellerfalte gelegt. Ein Schlitz an der hM oder wahlweise an der vM ermöglicht ausreichende Schrittweite.\n\n![img-0.jpeg](img-0.jpeg)\n\n☐1 Schnittentwicklung aus der Zehn-Bahnenrock-Einteilung\n\n1 Die Schnittteile am Saum an den Nähten ca. 0,5 bis 1,5 cm übereinander legen (ergibt bei 10 Nähten - 5 bis 15 cm Saumweitenreduzierung)\n2 An der Bund-Ansatznaht, wie gewünscht, für Falten oder Kräuselweite öffnen.\nSoll das Rockteil gekräuselt werden, ist die Ansatznaht wie beim Modell 1 auf Seite 78 zu zeichnen.\n3 Sollen Falten gelegt werden, sind die Faltendächer entsprechend zu zeichnen.\n4 Hier sind die Falten einige Zentimeter tief abgenäht.\n5 Für einen offenen oder verdeckten Schlitz an der hM (oder vM), die Länge und die Einschlagbreite wählen und anzeichnen.\n6 An den Formbundteilen die Teillenweite reduzieren.\n\n![img-1.jpeg](img-1.jpeg)\n\n☐2 Modell 1 gekräuselt\n\n![img-2.jpeg](img-2.jpeg)\n\n☐3 Modell 2 mit abgenähten Falten und verdecktem Schlitz\n\nDie Rockfutter für Röcke mit Schlitz und für den Ballonrock werden ab Seite 92 beschrieben.\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n☐4 Produktionsschnitt für Modell 2 mit Falten\nFür das Modell 1 wird die Taillennaht ausgerundet und die Naht gekräuselt verarbeitet (VT-Formbund noch spiegeln)\n\nBallonrock mit Formbund und Kräuseltell bzw. Faltenteil und Schlitz\n\n79",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 166,
+          "top_left_y": 772,
+          "bottom_right_x": 857,
+          "bottom_right_y": 1487,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1611,
+          "top_left_y": 417,
+          "bottom_right_x": 1924,
+          "bottom_right_y": 1389,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2032,
+          "top_left_y": 429,
+          "bottom_right_x": 2385,
+          "bottom_right_y": 1340,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 108,
+          "top_left_y": 1805,
+          "bottom_right_x": 765,
+          "bottom_right_y": 2136,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1705,
+          "top_left_y": 1785,
+          "bottom_right_x": 2315,
+          "bottom_right_y": 2124,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 116,
+          "top_left_y": 2022,
+          "bottom_right_x": 2512,
+          "bottom_right_y": 3802,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2770
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 233,
+          "top_left_y": 208,
+          "bottom_right_x": 1647,
+          "bottom_right_y": 384,
+          "content": "# Ballonrock mit Formbund, gekräuselt oder mit Falten\nModellentwicklung aus dem 10-Bahnenrock (12)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 222,
+          "top_left_y": 441,
+          "bottom_right_x": 1550,
+          "bottom_right_y": 694,
+          "content": "Aus dem 10-Bahnenrock sind hier mit derselben Schnittentwicklung zwei verschiedene Modelle mit Formbund, großer Taillenweite und reduzierter Saumweite entwickelt: Modell 1 an der Taille gekräuselt, bei Modell 2 ist die Taillenweite in gelegte und abgenähte Falten - an der Seite (ohne Naht) als Kellerfalte gelegt. Ein Schlitz an der hM oder wahlweise an der vM ermöglicht ausreichende Schrittweite.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 166,
+          "top_left_y": 772,
+          "bottom_right_x": 857,
+          "bottom_right_y": 1487,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 166,
+          "top_left_y": 1527,
+          "bottom_right_x": 679,
+          "bottom_right_y": 1605,
+          "content": "☐1 Schnittentwicklung aus der Zehn-Bahnenrock-Einteilung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 904,
+          "top_left_y": 796,
+          "bottom_right_x": 1564,
+          "bottom_right_y": 1895,
+          "content": "1 Die Schnittteile am Saum an den Nähten ca. 0,5 bis 1,5 cm übereinander legen (ergibt bei 10 Nähten - 5 bis 15 cm Saumweitenreduzierung)\n2 An der Bund-Ansatznaht, wie gewünscht, für Falten oder Kräuselweite öffnen.\nSoll das Rockteil gekräuselt werden, ist die Ansatznaht wie beim Modell 1 auf Seite 78 zu zeichnen.\n3 Sollen Falten gelegt werden, sind die Faltendächer entsprechend zu zeichnen.\n4 Hier sind die Falten einige Zentimeter tief abgenäht.\n5 Für einen offenen oder verdeckten Schlitz an der hM (oder vM), die Länge und die Einschlagbreite wählen und anzeichnen.\n6 An den Formbundteilen die Teillenweite reduzieren.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1611,
+          "top_left_y": 417,
+          "bottom_right_x": 1924,
+          "bottom_right_y": 1389,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1675,
+          "top_left_y": 1417,
+          "bottom_right_x": 1913,
+          "bottom_right_y": 1491,
+          "content": "☐2 Modell 1 gekräuselt",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2032,
+          "top_left_y": 429,
+          "bottom_right_x": 2385,
+          "bottom_right_y": 1340,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1996,
+          "top_left_y": 1393,
+          "bottom_right_x": 2385,
+          "bottom_right_y": 1499,
+          "content": "☐3 Modell 2 mit abgenähten Falten und verdecktem Schlitz",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1636,
+          "top_left_y": 1630,
+          "bottom_right_x": 2282,
+          "bottom_right_y": 1760,
+          "content": "Die Rockfutter für Röcke mit Schlitz und für den Ballonrock werden ab Seite 92 beschrieben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 108,
+          "top_left_y": 1805,
+          "bottom_right_x": 765,
+          "bottom_right_y": 2136,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1705,
+          "top_left_y": 1785,
+          "bottom_right_x": 2315,
+          "bottom_right_y": 2124,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 116,
+          "top_left_y": 2022,
+          "bottom_right_x": 2512,
+          "bottom_right_y": 3802,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 64,
+          "top_left_y": 3504,
+          "bottom_right_x": 582,
+          "bottom_right_y": 3778,
+          "content": "☐4 Produktionsschnitt für Modell 2 mit Falten\nFür das Modell 1 wird die Taillennaht ausgerundet und die Naht gekräuselt verarbeitet (VT-Formbund noch spiegeln)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2404,
+          "top_left_y": 1691,
+          "bottom_right_x": 2556,
+          "bottom_right_y": 2263,
+          "content": "Ballonrock mit Formbund und Kräuseltell bzw. Faltenteil und Schlitz",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2518,
+          "top_left_y": 3733,
+          "bottom_right_x": 2584,
+          "bottom_right_y": 3794,
+          "content": "79",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3537506
+  }
+}

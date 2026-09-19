@@ -1,0 +1,55 @@
+{
+  "seite": "s103",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s103.jpg",
+  "ocr_quelle": "ocr_s103_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s103_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 208,
+        "top_left_y": 417,
+        "bottom_right_x": 470,
+        "bottom_right_y": 2720
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s103_raw.json; Ausschnitt anschliessend um 90 Grad gedreht (siehe Hinweis zum Originalfoto in s103.md). Zeigt die schmale Bund-Zuschnittleiste □4 (Produktionsschnitt Bund) mit den Markierungen VM, SN, hM."
+    },
+    {
+      "datei": "skizzen/s103_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 441,
+        "top_left_y": 438,
+        "bottom_right_x": 2181,
+        "bottom_right_y": 2383
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s103_raw.json; Ausschnitt anschliessend um 90 Grad gedreht. Zeigt die große Schnittteil-Zeichnung □5 (Produktionsschnitt rechtes VT mit Wasserfall-Kante, 'Drapierter-Wickelrock rechtes VT 1x OSt') mit den Schrittkennungen ①, ⑩, ⑪, ⑫, ⑬ (zweifach)."
+    },
+    {
+      "datei": "skizzen/s103_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2144,
+        "top_left_y": 254,
+        "bottom_right_x": 3606,
+        "bottom_right_y": 1406
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s103_raw.json; Ausschnitt anschliessend um 90 Grad gedreht. Zeigt die Schnittteil-Zeichnung □7 (Produktionsschnitt linkes VT mit Untertritt-Einschlag, 'Drapierter-Wickelrock linkes VT (Untertritt) 1x OSt') mit Einschlag Untertritt und vM-Markierungen."
+    }
+  ]
+}

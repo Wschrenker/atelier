@@ -1,0 +1,49 @@
+{
+  "seite": "s061",
+  "quelle_ocr": "ocr_s061_raw.json",
+  "hinweis_pixelraum": "Die OCR wurde ausnahmsweise nicht auf dem unveraenderten Originalbild ausgefuehrt, sondern auf einer aufrecht gedrehten Zwischenfassung (EXIF-Transpose von s61.jpg, verlustfrei als JPEG q100 neu gespeichert, keine Beschneidung). Der Original-Rohaufruf auf s61.jpg lieferte viermal in Folge ein leeres Ergebnis (markdown laenge 21, keine Bilder, keine Bloecke). Die Bounding Boxes unten beziehen sich deshalb bereits auf die aufrechte Pixelorientierung (Breite 3060 x Hoehe 4080) und wurden nicht zusaetzlich gedreht.",
+  "bildbereiche": [
+    {
+      "ocr_id": "img-0.jpeg",
+      "datei": "skizzen/s061_skizze_01.png",
+      "box_aufrecht_px": { "x0": 410, "y0": 408, "x1": 1348, "y1": 1593 },
+      "zugehoerigkeit": "s061",
+      "beschreibung_ocr_bildunterschrift": "Teil der gemeinsamen Bildunterschrift zu img-0 und img-1: ☐ 4 Produktions-Schnittteile der Passen und Rockteile. Zeigt links: Hüftrock mit Passe VT-Passe rechts, VT-Passe links, sowie Rockteil Hüftrock mit Passe VT."
+    },
+    {
+      "ocr_id": "img-1.jpeg",
+      "datei": "skizzen/s061_skizze_02.png",
+      "box_aufrecht_px": { "x0": 1461, "y0": 547, "x1": 2567, "y1": 1609 },
+      "zugehoerigkeit": "s061",
+      "beschreibung_ocr_bildunterschrift": "Teil der gemeinsamen Bildunterschrift zu img-0 und img-1: ☐ 4 Produktions-Schnittteile der Passen und Rockteile. Zeigt rechts: Hüftrock mit Passe RT-Passe (mit Untertritt-Markierung), sowie Rockteil Hüftrock mit Passe RT."
+    },
+    {
+      "ocr_id": "img-2.jpeg",
+      "datei": "skizzen/s061_skizze_03.png",
+      "box_aufrecht_px": { "x0": 882, "y0": 1728, "x1": 2003, "y1": 2197 },
+      "zugehoerigkeit": "s061",
+      "beschreibung_ocr_bildunterschrift": "Keine eigene OCR-Bildunterschrift erfasst. Zeigt die erste Reihe der mit ⑤ nummerierten Zwischenschritte (gefaltete Formbund-/Taillenbeleg-Teile in drei Abschnitten, links und rechts)."
+    },
+    {
+      "ocr_id": "img-3.jpeg",
+      "datei": "skizzen/s061_skizze_04.png",
+      "box_aufrecht_px": { "x0": 282, "y0": 2173, "x1": 2604, "y1": 2593 },
+      "zugehoerigkeit": "s061",
+      "beschreibung_ocr_bildunterschrift": "OCR hat hier keinen eigenen Bildunterschrift-Textblock erzeugt; die Unterschrift ☐ 5 Taillenbelege mit Weiten- und Breiten-Reduzierung um ca. 0,2 cm sowie Nahtzugaben und Markierungen fuer die Produktions-Schnittteile ist nur innerhalb dieses Bildausschnitts sichtbar (unten links im Ausschnitt, teilweise angeschnitten). Siehe Bekannte Luecke in s061.md."
+    },
+    {
+      "ocr_id": "img-4.jpeg",
+      "datei": "skizzen/s061_skizze_05.png",
+      "box_aufrecht_px": { "x0": 205, "y0": 2708, "x1": 1342, "y1": 3602 },
+      "zugehoerigkeit": "s061",
+      "beschreibung_ocr_bildunterschrift": "Teil der gemeinsamen Bildunterschrift zu img-4 und img-5: ☐ 6 Produktions-Schnittteile des Rockfutters fuer Reißverschluss an der linken Seitennaht. Zeigt links: Hüftrock mit Passe RT-Futter."
+    },
+    {
+      "ocr_id": "img-5.jpeg",
+      "datei": "skizzen/s061_skizze_06.png",
+      "box_aufrecht_px": { "x0": 1360, "y0": 2691, "x1": 2797, "y1": 3549 },
+      "zugehoerigkeit": "s061",
+      "beschreibung_ocr_bildunterschrift": "Teil der gemeinsamen Bildunterschrift zu img-4 und img-5: ☐ 6 Produktions-Schnittteile des Rockfutters fuer Reißverschluss an der linken Seitennaht. Zeigt rechts: Hüftrock mit Passe VT-Futter mit zusaetzlichen Anmerkungstexten im Ausschnitt (RV-Schlitz, Schlitzende, Mehrweiten)."
+    }
+  ]
+}

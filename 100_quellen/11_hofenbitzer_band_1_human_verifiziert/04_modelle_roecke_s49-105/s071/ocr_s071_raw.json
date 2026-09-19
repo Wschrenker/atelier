@@ -1,0 +1,193 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Glockiger Bahnenrock\n\n# Modellentwicklung aus dem 10-Bahnenrock (4)\n\nDie Modellabwandlung des glockigen 10-Bahnenrocks mit großer Saumerweiterung erfolgt im Wesentlichen wie beim vorhergehend gezeigten Rock.\n\n![img-0.jpeg](img-0.jpeg)\n\nDie Saumerweiterung an den Nähten verläuft, im Gegensatz zum leicht erweiterten Rock, bis nach oben an die Taillennähte. Die ausgestellte gerade Seitennaht endet an oder knapp unterhalb der Taille. Die große Saumweite wird an allen Nähten (hier an allen 10 Nähten) hinzu gegeben, was dem Rock eine gleichmäßig glockig schwingende Form gibt.\n\nSollen die Glocken direkt aus der Taille fallen, verbleibt die Ecke an der Taillennnaht.\n2 Durfen die Glocken welcher ab unterhalb der Taille fallen, wird die Ecke an der Taillennah ausgerundet.\n\nDie Saumrundungen können als Kreisbögen gezeichnet werden. Wegen des schrägen Fadenlaufs der Nähte wird sich dort der Stoff, je nach Beschaffenheit, mehr oder weniger stark ausdehnen.\n\n3 Der Saum kann daher an den Teilungsnähten leicht gekürzt werden.\n\nHier werden aus Platzgründen nur die hinteren Rockteile dargestellt. Die vorderen sind entsprechend zu erstellen.\n\n□1 Glockiger 10-Bahnen-Rock\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n□2 Produktionschnitt des Rückteils (RT3 noch spiegeln)\nGlockiger Zehn-Bahnenrock mit großer Saumerweiterung\n\nGlockiger 10-Bahnenrock\n\n11",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 408,
+          "top_left_y": 674,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 1247,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1772,
+          "top_left_y": 1875,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2852,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1756,
+          "top_left_y": 395,
+          "bottom_right_x": 3500,
+          "bottom_right_y": 1795,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 155,
+          "top_left_y": 2135,
+          "bottom_right_x": 212,
+          "bottom_right_y": 2735,
+          "content": "# Glockiger Bahnenrock",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 216,
+          "top_left_y": 1532,
+          "bottom_right_x": 306,
+          "bottom_right_y": 2735,
+          "content": "# Modellentwicklung aus dem 10-Bahnenrock (4)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 380,
+          "top_left_y": 1734,
+          "bottom_right_x": 502,
+          "bottom_right_y": 2748,
+          "content": "Die Modellabwandlung des glockigen 10-Bahnenrocks mit großer Saumerweiterung erfolgt im Wesentlichen wie beim vorhergehend gezeigten Rock.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 408,
+          "top_left_y": 674,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 1247,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 519,
+          "top_left_y": 1728,
+          "bottom_right_x": 772,
+          "bottom_right_y": 2754,
+          "content": "Die Saumerweiterung an den Nähten verläuft, im Gegensatz zum leicht erweiterten Rock, bis nach oben an die Taillennähte. Die ausgestellte gerade Seitennaht endet an oder knapp unterhalb der Taille. Die große Saumweite wird an allen Nähten (hier an allen 10 Nähten) hinzu gegeben, was dem Rock eine gleichmäßig glockig schwingende Form gibt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 780,
+          "top_left_y": 1725,
+          "bottom_right_x": 972,
+          "bottom_right_y": 2763,
+          "content": "Sollen die Glocken direkt aus der Taille fallen, verbleibt die Ecke an der Taillennnaht.\n2 Durfen die Glocken welcher ab unterhalb der Taille fallen, wird die Ecke an der Taillennah ausgerundet.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 988,
+          "top_left_y": 1718,
+          "bottom_right_x": 1160,
+          "bottom_right_y": 2772,
+          "content": "Die Saumrundungen können als Kreisbögen gezeichnet werden. Wegen des schrägen Fadenlaufs der Nähte wird sich dort der Stoff, je nach Beschaffenheit, mehr oder weniger stark ausdehnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1176,
+          "top_left_y": 1718,
+          "bottom_right_x": 1266,
+          "bottom_right_y": 2778,
+          "content": "3 Der Saum kann daher an den Teilungsnähten leicht gekürzt werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1286,
+          "top_left_y": 1706,
+          "bottom_right_x": 1389,
+          "bottom_right_y": 2784,
+          "content": "Hier werden aus Platzgründen nur die hinteren Rockteile dargestellt. Die vorderen sind entsprechend zu erstellen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1425,
+          "top_left_y": 680,
+          "bottom_right_x": 1466,
+          "bottom_right_y": 1155,
+          "content": "□1 Glockiger 10-Bahnen-Rock",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1772,
+          "top_left_y": 1875,
+          "bottom_right_x": 3553,
+          "bottom_right_y": 2852,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1756,
+          "top_left_y": 395,
+          "bottom_right_x": 3500,
+          "bottom_right_y": 1795,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 3655,
+          "top_left_y": 1746,
+          "bottom_right_x": 3770,
+          "bottom_right_y": 2858,
+          "content": "□2 Produktionschnitt des Rückteils (RT3 noch spiegeln)\nGlockiger Zehn-Bahnenrock mit großer Saumerweiterung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1666,
+          "top_left_y": 404,
+          "bottom_right_x": 2140,
+          "bottom_right_y": 475,
+          "content": "Glockiger 10-Bahnenrock",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3643,
+          "top_left_y": 214,
+          "bottom_right_x": 3704,
+          "bottom_right_y": 285,
+          "content": "11",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3876299
+  }
+}

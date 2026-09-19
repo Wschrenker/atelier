@@ -1,0 +1,109 @@
+{
+  "seite": "s098",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s98.jpg",
+  "ocr_quelle": "ocr_s098_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s098_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 486,
+        "top_left_y": 466,
+        "bottom_right_x": 1487,
+        "bottom_right_y": 1253
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s098_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die beiden Figurinen □1 'Jeansrock' (Vorder- und Rückansicht) mit der roten Punktnummer 50."
+    },
+    {
+      "datei": "skizzen/s098_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1772,
+        "top_left_y": 1850,
+        "bottom_right_x": 2189,
+        "bottom_right_y": 2472
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s098_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Linke Spalte von □2: fototreues Schnittteil 'Jeans-Rock v-Bund 4x-p OSt' und darunter dieselbe Form mit Punktnummer 6."
+    },
+    {
+      "datei": "skizzen/s098_skizze_03.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1760,
+        "top_left_y": 1167,
+        "bottom_right_x": 2267,
+        "bottom_right_y": 1740
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s098_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Mittlere Spalte von □2: Schnittteil 'Jeans-Rock h-Bund 2x-p OSt' und darunter dieselbe Form mit Punktnummer 6."
+    },
+    {
+      "datei": "skizzen/s098_skizze_04.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1740,
+        "top_left_y": 414,
+        "bottom_right_x": 2267,
+        "bottom_right_y": 1063
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s098_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Rechte Spalte von □2: Schnittteil 'Jeans-Rock RT-Passe 2x-p OSt' und darunter dieselbe Form mit Punktnummer 6. Die drei Spalten (skizze_02/03/04) tragen gemeinsam die Bildunterschrift '□2 Formbund und Passe fertigstellen'."
+    },
+    {
+      "datei": "skizzen/s098_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2320,
+        "top_left_y": 1069,
+        "bottom_right_x": 3778,
+        "bottom_right_y": 2591
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s098_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die große Schnittteil-Zeichnung □3 'Abtrennungen, Taschen und Verschluss' (VT und RT) mit den Punktnummern 1-15 und den Beschriftungen 'Formbund', 'Formbund Passe', 'Einschlag'-Übertritt-Schere-Symbolen."
+    }
+  ],
+  "nicht_uebernommen": [
+    {
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1303,
+        "top_left_y": 3,
+        "bottom_right_x": 2324,
+        "bottom_right_y": 297
+      },
+      "grund": "Gehoert zur mitfotografierten Nachbarseite 99 ('Jeansrock (2)'), nicht zu Seite 98. Zeigt Ausschnitt einer Zeichnung mit 'Einschlag'/'Übertritt'/'vordere Kante' und Punktnummer 16."
+    },
+    {
+      "quelle_id": "img-6.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2822,
+        "top_left_y": 3,
+        "bottom_right_x": 3688,
+        "bottom_right_y": 181
+      },
+      "grund": "Gehoert ebenfalls zur mitfotografierten Nachbarseite 99, nicht zu Seite 98."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "seite": "s086",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s86.jpg",
+  "ocr_quelle": "ocr_s086_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s086_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 221,
+        "top_left_y": 414,
+        "bottom_right_x": 1254,
+        "bottom_right_y": 1332
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s086_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Enthaelt die Modellzeichnung (VP1 Rundum-Faltenrock) zusammen mit den beiden Faltenart-Skizzen (uebergreifende Falten, Normalfalten) als einen zusammenhaengenden Bildbereich."
+    }
+  ]
+}

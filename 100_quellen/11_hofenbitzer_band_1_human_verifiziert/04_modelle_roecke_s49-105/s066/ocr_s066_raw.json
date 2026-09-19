@@ -1,0 +1,201 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-Modelle\n\n# Godetformen (1)\n\nDie französische Bezeichnung Godet bedeutet auf die Bekleidungsfertigung bezogen ein in eine Naht eingesetztes keil- bzw. dreieckförmiges Stoffstück, das dem Kleidungsstück die charakteristische Glocken-Form und die große Saumweite verschafft. Man nennt das Godet auch \"falsche Falte\" oder \"Glockenfalte\" bzw. \"Glocke\".\n\nNachfolgend werden die zwei möglichen Verarbeitungsformen von Godets und deren Schnitt-Konstruktion gezeigt.\n\n![img-0.jpeg](img-0.jpeg)\n\n☐1 Mögliche Größen und Formen von eingesetzten Godets.\n\n# Eingesetzte Godets\n\nGodets sind separat zugeschnittene \"tortenstückförmige\" Glockenteile aus Stoff, die bei Röcken, Hosen, Kleidern oder Mänteln in eine Naht oder mehrere Nähte eingenäht werden, um den Saum zu erweitern und um ggf. eine glockige Form zu erzielen.\n\nDer Saum fällt mit mehreren in gleichmäßigen Abständen eingesetzten Godets leicht schwingend. Die Godets fallen entweder nach innen oder nach außen, je nachdem, wie die Ansatznaht gebügelt wird.\n\n![img-1.jpeg](img-1.jpeg)\n\n# Angeschnittene Godets\n\nDie Godets werden an jeweils zwei benachbarte Rockbahnen angeschnitten. Da man an eine Bahn immer nur die Hälfte der gewünschten Godetfläche anschneidet, verläuft die Naht in der Mitte des Godets (der Glocke).\n\nDie Tellungsnaht kann in zwei Varianten - nach innen oder nach außen gebügelt - gearbeitet werden.\n\nGodethonen und Godetwinkel sind stets frei und nach Belieben wählbar.\n\nDie Godethöhe bestimmt die Stelle, an der der Rock an Weite zunimmt. Die Weite kann abrupt bei großem Godetwinkel oder kaum wahrnehmbar bei kleinem Godetwinkel zunehmen.\n\nWegen der relativ starken Saumrundung bei allen Godetarten muss der Saumeinschlag so schmal wie möglich sein.\n\n66",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 538,
+          "top_left_y": 862,
+          "bottom_right_x": 2515,
+          "bottom_right_y": 1483,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1437,
+          "top_left_y": 1707,
+          "bottom_right_x": 2568,
+          "bottom_right_y": 3561,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2620
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 441,
+          "top_left_y": 392,
+          "bottom_right_x": 619,
+          "bottom_right_y": 490,
+          "content": "# Rock-Modelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 805,
+          "top_left_y": 290,
+          "bottom_right_x": 1188,
+          "bottom_right_y": 384,
+          "content": "# Godetformen (1)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 593,
+          "top_left_y": 408,
+          "bottom_right_x": 1757,
+          "bottom_right_y": 751,
+          "content": "Die französische Bezeichnung Godet bedeutet auf die Bekleidungsfertigung bezogen ein in eine Naht eingesetztes keil- bzw. dreieckförmiges Stoffstück, das dem Kleidungsstück die charakteristische Glocken-Form und die große Saumweite verschafft. Man nennt das Godet auch \"falsche Falte\" oder \"Glockenfalte\" bzw. \"Glocke\".",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 585,
+          "top_left_y": 751,
+          "bottom_right_x": 1039,
+          "bottom_right_y": 833,
+          "content": "Nachfolgend werden die zwei möglichen Verarbeitungsformen von Godets und deren Schnitt-Konstruktion gezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 538,
+          "top_left_y": 862,
+          "bottom_right_x": 2515,
+          "bottom_right_y": 1483,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 543,
+          "top_left_y": 1527,
+          "bottom_right_x": 1330,
+          "bottom_right_y": 1564,
+          "content": "☐1 Mögliche Größen und Formen von eingesetzten Godets.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 543,
+          "top_left_y": 1658,
+          "bottom_right_x": 834,
+          "bottom_right_y": 1699,
+          "content": "# Eingesetzte Godets",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 522,
+          "top_left_y": 1699,
+          "bottom_right_x": 1414,
+          "bottom_right_y": 1920,
+          "content": "Godets sind separat zugeschnittene \"tortenstückförmige\" Glockenteile aus Stoff, die bei Röcken, Hosen, Kleidern oder Mänteln in eine Naht oder mehrere Nähte eingenäht werden, um den Saum zu erweitern und um ggf. eine glockige Form zu erzielen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 511,
+          "top_left_y": 1920,
+          "bottom_right_x": 1403,
+          "bottom_right_y": 2099,
+          "content": "Der Saum fällt mit mehreren in gleichmäßigen Abständen eingesetzten Godets leicht schwingend. Die Godets fallen entweder nach innen oder nach außen, je nachdem, wie die Ansatznaht gebügelt wird.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1437,
+          "top_left_y": 1707,
+          "bottom_right_x": 2568,
+          "bottom_right_y": 3561,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 488,
+          "top_left_y": 2557,
+          "bottom_right_x": 852,
+          "bottom_right_y": 2597,
+          "content": "# Angeschnittene Godets",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 469,
+          "top_left_y": 2622,
+          "bottom_right_x": 1393,
+          "bottom_right_y": 2806,
+          "content": "Die Godets werden an jeweils zwei benachbarte Rockbahnen angeschnitten. Da man an eine Bahn immer nur die Hälfte der gewünschten Godetfläche anschneidet, verläuft die Naht in der Mitte des Godets (der Glocke).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 462,
+          "top_left_y": 2814,
+          "bottom_right_x": 1387,
+          "bottom_right_y": 2920,
+          "content": "Die Tellungsnaht kann in zwei Varianten - nach innen oder nach außen gebügelt - gearbeitet werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 456,
+          "top_left_y": 2928,
+          "bottom_right_x": 1382,
+          "bottom_right_y": 3014,
+          "content": "Godethonen und Godetwinkel sind stets frei und nach Belieben wählbar.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 446,
+          "top_left_y": 3034,
+          "bottom_right_x": 1382,
+          "bottom_right_y": 3222,
+          "content": "Die Godethöhe bestimmt die Stelle, an der der Rock an Weite zunimmt. Die Weite kann abrupt bei großem Godetwinkel oder kaum wahrnehmbar bei kleinem Godetwinkel zunehmen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 3235,
+          "bottom_right_x": 1374,
+          "bottom_right_y": 3394,
+          "content": "Wegen der relativ starken Saumrundung bei allen Godetarten muss der Saumeinschlag so schmal wie möglich sein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 283,
+          "top_left_y": 3410,
+          "bottom_right_x": 336,
+          "bottom_right_y": 3459,
+          "content": "66",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2047301
+  }
+}

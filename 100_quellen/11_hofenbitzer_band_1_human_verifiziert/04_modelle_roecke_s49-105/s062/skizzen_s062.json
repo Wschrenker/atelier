@@ -1,0 +1,82 @@
+{
+  "seite": "s062",
+  "skizzen": [
+    {
+      "datei": "skizzen/s062_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 286,
+        "top_left_y": 466,
+        "bottom_right_x": 1278,
+        "bottom_right_y": 1130
+      },
+      "bildunterschrift_ocr": "□1 Rock mit Miederbund",
+      "hinweis": "bbox bezieht sich auf die rohe Pixelorientierung der OCR-Eingabe (Originaldatei s62.jpg unveraendert, 4080x3060, EXIF-Orientierung 6 noch NICHT angewandt). Der gespeicherte Ausschnitt wurde nach dem Zuschnitt gedreht, um aufrecht zu stehen. Die Bildunterschrift war im Zuschnitt teilweise angeschnitten; gegen das Originalfoto gegengeprueft."
+    },
+    {
+      "datei": "skizzen/s062_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 776,
+        "top_left_y": 1176,
+        "bottom_right_x": 2026,
+        "bottom_right_y": 2521
+      },
+      "bildunterschrift_ocr": "□2 Miederbelege mit Breiten-Reduzierung um ca. 0,2 cm",
+      "hinweis": "bbox bezieht sich auf die rohe Pixelorientierung der OCR-Eingabe (Originaldatei s62.jpg unveraendert, 4080x3060, EXIF-Orientierung 6 noch NICHT angewandt). Der gespeicherte Ausschnitt wurde nach dem Zuschnitt gedreht, um aufrecht zu stehen. Die Zeichnung enthaelt eigene eingekreiste Zahlen (1, 2, 3, 4, 12), die Konstruktionspunkte der Zeichnung markieren und nicht mit den Schrittzahlen im rechten Textspalten-Abschnitt zu verwechseln sind. Diese Zeichnungslabels stehen NICHT in ocr_s062.md, weil sie innerhalb der Bildregion liegen."
+    },
+    {
+      "datei": "skizzen/s062_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 2246,
+        "top_left_y": 1198,
+        "bottom_right_x": 2512,
+        "bottom_right_y": 2558
+      },
+      "bildunterschrift_ocr": "□3 Kopierte Flächen der Miederbelege",
+      "hinweis": "bbox bezieht sich auf die rohe Pixelorientierung der OCR-Eingabe (Originaldatei s62.jpg unveraendert, 4080x3060, EXIF-Orientierung 6 noch NICHT angewandt). Der gespeicherte Ausschnitt wurde nach dem Zuschnitt gedreht, um aufrecht zu stehen. In ocr_s062.md steht die Bildunterschrift verlesen als 'Kabarte Flächen der Miederbelege' (Kopierte -> Kabarte); am Foto eindeutig 'Kopierte'. Die Zeichnung enthaelt ein eigenes eingekreistes Label (5), das nicht mit den Schrittzahlen zu verwechseln ist."
+    },
+    {
+      "datei": "skizzen/s062_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 2634,
+        "top_left_y": 1198,
+        "bottom_right_x": 2961,
+        "bottom_right_y": 2588
+      },
+      "bildunterschrift_ocr": "□4 Abnäher zulegen mit gleichzeitiger Weiten-Reduzierung um ca. 0,2 cm an den oberen Kanten und max. 0,5 cm an den unteren Belegnähten",
+      "hinweis": "bbox bezieht sich auf die rohe Pixelorientierung der OCR-Eingabe (Originaldatei s62.jpg unveraendert, 4080x3060, EXIF-Orientierung 6 noch NICHT angewandt). Der gespeicherte Ausschnitt wurde nach dem Zuschnitt gedreht, um aufrecht zu stehen. Die Zeichnung enthaelt eigene eingekreiste Labels (5, 5, 6, 6), die nicht mit den Schrittzahlen zu verwechseln sind."
+    },
+    {
+      "datei": "skizzen/s062_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 3096,
+        "top_left_y": 1198,
+        "bottom_right_x": 3492,
+        "bottom_right_y": 2619
+      },
+      "bildunterschrift_ocr": "□5 Miederbelege mit Reduzierung an der oberen Kante um ca. 0,2 cm",
+      "hinweis": "bbox bezieht sich auf die rohe Pixelorientierung der OCR-Eingabe (Originaldatei s62.jpg unveraendert, 4080x3060, EXIF-Orientierung 6 noch NICHT angewandt). Der gespeicherte Ausschnitt wurde nach dem Zuschnitt gedreht, um aufrecht zu stehen. Die Zeichnung enthaelt eigene eingekreiste Labels (7, 7), die nicht mit den Schrittzahlen zu verwechseln sind."
+    }
+  ],
+  "ausgeschlossene_regionen_nachbarseite": [
+    {
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_pixel": { "top_left_x": 408, "top_left_y": 3, "bottom_right_x": 1789, "bottom_right_y": 383 },
+      "hinweis": "Gehoert zur mitfotografierten Nachbarseite 63 (Konstruktionszeichnung 'Rock mit VT 1x OSt', Bildunterschrift '□6 Produktion...'). Kein Inhalt von Seite 62, daher nicht als Skizze von s062 uebernommen."
+    },
+    {
+      "quelle_id": "img-6.jpeg",
+      "bbox_original_pixel": { "top_left_x": 1871, "top_left_y": 3, "bottom_right_x": 2165, "bottom_right_y": 322 },
+      "hinweis": "Gehoert zur mitfotografierten Nachbarseite 63. Kein Inhalt von Seite 62."
+    },
+    {
+      "quelle_id": "img-7.jpeg",
+      "bbox_original_pixel": { "top_left_x": 2316, "top_left_y": 3, "bottom_right_x": 3700, "bottom_right_y": 260 },
+      "hinweis": "Gehoert zur mitfotografierten Nachbarseite 63 (Bildunterschrift-Fragment '□7 Produktiv...'). Kein Inhalt von Seite 62."
+    }
+  ]
+}

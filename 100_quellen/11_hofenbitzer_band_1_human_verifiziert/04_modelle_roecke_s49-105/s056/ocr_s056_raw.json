@@ -1,0 +1,293 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "![img-0.jpeg](img-0.jpeg)\n\n# Rock-Modelle\n\n# Formbund (1)\nRock ohne Taillenvertiefung\n\n☐1\n\nEin Formbund besteht aus einem äußeren und einem inneren Bund (siehe ☐5).\nNeben Knopfverschlüssen sind auch Haken und Ösen möglich oder man kann den\nReißverschluss bis an die obere Bundkante nähen.\n\nDie Schnittteile des Formbunds entstehen aus Abtrennungen von einem Rock-\noder Hosen-Grundschnitt. Weil kein gerader Bund angesetzt wird, der die Tail-\nlenmehrweite am Rock zusammenfassen könnte, muss die Weite (1 bis 1,5 cm)\njetzt an der oberen Kante des Formbundes reduziert werden. Die Formung der\nFormbundteile entsteht, wie bei den Taillenbelegen, durch das Zulegen der Tail-\nlenabnäher plus der Weiten-Reduzierungen.\n\nZusätzliche Weiten-Reduzierung an der Seitennaht nach Bedarf vornehmen (insgesamt ca. 0 bis 0,5 cm)\n0,5 bis 0,7 cm\n\n![img-1.jpeg](img-1.jpeg)\n\n☐2 Formbund-Abtrennung und Weiten-Reduzierung am Rock-GS mit einem RT-Abnäher\n\nZusätzliche Weiten-Reduzierung an der Seitennaht nach Bedarf vornehmen (insgesamt ca. 0 bis 0,7 cm)\nalternativ auch am 2. hinteren Abnäher\n\n![img-2.jpeg](img-2.jpeg)\n\n☐3 Formbundabtrennung und Weiten-Reduzierung am Rock-GS mit zwei RT-Abnähern\n\nDie obere Rockkante dieses Modells\nsitzt genau an der (natürlichen) Taille\nhier also ohne eine Taillenvertiefung.\n\nFür einen tiefer sitzenden Hüftrock\nkönnen Abtrennungen für die Taillen-\nvertiefung vorgenommen (ab Seite50).\n\n# 1 Taillenweite reduzieren\n\n1 Die Taillenweite ist wie auf den\nvorhergehenden Seiten zu redu-\nzieren. Allerdings sollte am Bund\ndie Reduzierung parallel zur Sei-\ntennaht erfolgen.\n\n# 2 Formbund abtrennen\n\n2 ☐2+3 Abtrennlinie für den Bund\nparallel zur gewünschten oberen\nRockkante (natürliche Taille, Tail-\nlenvertiefung) gestalten. Dies er-\nfolgt im Wesentlichen genauso\nwie bei einem Taillenbeleg.\n\n![img-3.jpeg](img-3.jpeg)\n\n3 ☐4 Im Unterschied zum Tail-\nlenbeleg werden nun die Flächen\nder Formbundteile vom Rock abge-\ntrennt.\n\n# 3 Abnäher zulegen\n\n☐6 Die abgetrennten Form-\nbundflächen an den Abnähern an-\neinander legen.\n\nZunachst die (obere) Bundkante ausformen.\nDann die (untere) Bundnaht parallel zur Bundkante formen.\n\n☐4 Abtrennen der Formbundteile,\nRockfläche (grau), Bundfläche (violett)\n\nFormbunds",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1956,
+          "top_left_y": 261,
+          "bottom_right_x": 2603,
+          "bottom_right_y": 1246,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 646,
+          "top_left_y": 956,
+          "bottom_right_x": 1879,
+          "bottom_right_y": 1536,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 580,
+          "top_left_y": 1732,
+          "bottom_right_x": 1862,
+          "bottom_right_y": 2348,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 489,
+          "top_left_y": 2491,
+          "bottom_right_x": 1815,
+          "bottom_right_y": 3569,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2760
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 1956,
+          "top_left_y": 261,
+          "bottom_right_x": 2603,
+          "bottom_right_y": 1246,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 564,
+          "top_left_y": 351,
+          "bottom_right_x": 743,
+          "bottom_right_y": 449,
+          "content": "# Rock-Modelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 937,
+          "top_left_y": 286,
+          "bottom_right_x": 1572,
+          "bottom_right_y": 400,
+          "content": "# Formbund (1)\nRock ohne Taillenvertiefung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 591,
+          "top_left_y": 551,
+          "bottom_right_x": 644,
+          "bottom_right_y": 584,
+          "content": "☐1",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 716,
+          "top_left_y": 408,
+          "bottom_right_x": 1870,
+          "bottom_right_y": 588,
+          "content": "Ein Formbund besteht aus einem äußeren und einem inneren Bund (siehe ☐5).\nNeben Knopfverschlüssen sind auch Haken und Ösen möglich oder man kann den\nReißverschluss bis an die obere Bundkante nähen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 702,
+          "top_left_y": 592,
+          "bottom_right_x": 1873,
+          "bottom_right_y": 874,
+          "content": "Die Schnittteile des Formbunds entstehen aus Abtrennungen von einem Rock-\noder Hosen-Grundschnitt. Weil kein gerader Bund angesetzt wird, der die Tail-\nlenmehrweite am Rock zusammenfassen könnte, muss die Weite (1 bis 1,5 cm)\njetzt an der oberen Kante des Formbundes reduziert werden. Die Formung der\nFormbundteile entsteht, wie bei den Taillenbelegen, durch das Zulegen der Tail-\nlenabnäher plus der Weiten-Reduzierungen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 674,
+          "top_left_y": 874,
+          "bottom_right_x": 1895,
+          "bottom_right_y": 956,
+          "content": "Zusätzliche Weiten-Reduzierung an der Seitennaht nach Bedarf vornehmen (insgesamt ca. 0 bis 0,5 cm)\n0,5 bis 0,7 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 646,
+          "top_left_y": 956,
+          "bottom_right_x": 1879,
+          "bottom_right_y": 1536,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 644,
+          "top_left_y": 1536,
+          "bottom_right_x": 1840,
+          "bottom_right_y": 1601,
+          "content": "☐2 Formbund-Abtrennung und Weiten-Reduzierung am Rock-GS mit einem RT-Abnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 624,
+          "top_left_y": 1666,
+          "bottom_right_x": 1879,
+          "bottom_right_y": 1732,
+          "content": "Zusätzliche Weiten-Reduzierung an der Seitennaht nach Bedarf vornehmen (insgesamt ca. 0 bis 0,7 cm)\nalternativ auch am 2. hinteren Abnäher",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 580,
+          "top_left_y": 1732,
+          "bottom_right_x": 1862,
+          "bottom_right_y": 2348,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 577,
+          "top_left_y": 2352,
+          "bottom_right_x": 1801,
+          "bottom_right_y": 2410,
+          "content": "☐3 Formbundabtrennung und Weiten-Reduzierung am Rock-GS mit zwei RT-Abnähern",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1942,
+          "top_left_y": 1527,
+          "bottom_right_x": 2625,
+          "bottom_right_y": 1670,
+          "content": "Die obere Rockkante dieses Modells\nsitzt genau an der (natürlichen) Taille\nhier also ohne eine Taillenvertiefung.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1939,
+          "top_left_y": 1683,
+          "bottom_right_x": 2625,
+          "bottom_right_y": 1830,
+          "content": "Für einen tiefer sitzenden Hüftrock\nkönnen Abtrennungen für die Taillen-\nvertiefung vorgenommen (ab Seite50).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1948,
+          "top_left_y": 1862,
+          "bottom_right_x": 2492,
+          "bottom_right_y": 1907,
+          "content": "# 1 Taillenweite reduzieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1939,
+          "top_left_y": 1928,
+          "bottom_right_x": 2636,
+          "bottom_right_y": 2160,
+          "content": "1 Die Taillenweite ist wie auf den\nvorhergehenden Seiten zu redu-\nzieren. Allerdings sollte am Bund\ndie Reduzierung parallel zur Sei-\ntennaht erfolgen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1942,
+          "top_left_y": 2201,
+          "bottom_right_x": 2445,
+          "bottom_right_y": 2250,
+          "content": "# 2 Formbund abtrennen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1937,
+          "top_left_y": 2271,
+          "bottom_right_x": 2644,
+          "bottom_right_y": 2577,
+          "content": "2 ☐2+3 Abtrennlinie für den Bund\nparallel zur gewünschten oberen\nRockkante (natürliche Taille, Tail-\nlenvertiefung) gestalten. Dies er-\nfolgt im Wesentlichen genauso\nwie bei einem Taillenbeleg.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 489,
+          "top_left_y": 2491,
+          "bottom_right_x": 1815,
+          "bottom_right_y": 3569,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1934,
+          "top_left_y": 2606,
+          "bottom_right_x": 2649,
+          "bottom_right_y": 2810,
+          "content": "3 ☐4 Im Unterschied zum Tail-\nlenbeleg werden nun die Flächen\nder Formbundteile vom Rock abge-\ntrennt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1937,
+          "top_left_y": 2855,
+          "bottom_right_x": 2362,
+          "bottom_right_y": 2920,
+          "content": "# 3 Abnäher zulegen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2017,
+          "top_left_y": 2936,
+          "bottom_right_x": 2649,
+          "bottom_right_y": 3100,
+          "content": "☐6 Die abgetrennten Form-\nbundflächen an den Abnähern an-\neinander legen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1928,
+          "top_left_y": 3108,
+          "bottom_right_x": 2649,
+          "bottom_right_y": 3369,
+          "content": "Zunachst die (obere) Bundkante ausformen.\nDann die (untere) Bundnaht parallel zur Bundkante formen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1843,
+          "top_left_y": 3496,
+          "bottom_right_x": 2586,
+          "bottom_right_y": 3639,
+          "content": "☐4 Abtrennen der Formbundteile,\nRockfläche (grau), Bundfläche (violett)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 483,
+          "top_left_y": 1928,
+          "bottom_right_x": 525,
+          "bottom_right_y": 2103,
+          "content": "Formbunds",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2826973
+  }
+}

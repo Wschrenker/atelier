@@ -1,0 +1,55 @@
+{
+  "seite": "s090",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s90.jpg",
+  "ocr_quelle": "ocr_s090_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s090_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 408,
+        "top_left_y": 1945,
+        "bottom_right_x": 1331,
+        "bottom_right_y": 2325
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box unveraendert aus ocr_s090_raw.json; Ausschnitt gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die Modellzeichnung zu □1 (Rock mit angesetztem Volant aus einem Vollkreis) ohne Bildunterschrift."
+    },
+    {
+      "datei": "skizzen/s090_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 425,
+        "top_left_y": 322,
+        "bottom_right_x": 1777,
+        "bottom_right_y": 1755
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box unveraendert aus ocr_s090_raw.json; Ausschnitt gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die vollstaendige Kreisringkonstruktion zu □1 mit Berechnungsbox (r_AnW, r_SaW, SaW) und den Punkten 2–4."
+    },
+    {
+      "datei": "skizzen/s090_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2010,
+        "top_left_y": 209,
+        "bottom_right_x": 3800,
+        "bottom_right_y": 1859
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Automatisch erkannte Bounding Box aus ocr_s090_raw.json (top_left_x 2745, top_left_y 276, bottom_right_x 3586, bottom_right_y 1801) schnitt die obere Berechnungsbox, das Label „Volant 1 x zuschneiden“ und die Bildunterschrift zu □2 sichtbar ab. Bounding Box deshalb von Hand am vollstaendigen Bild nacherfasst und erweitert (siehe oben); Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die vollstaendige Kreisringkonstruktion zu □2 (zwei Vollkreise) mit Berechnungsbox, der kleinen Modellzeichnung rechts und der Bildunterschrift."
+    }
+  ]
+}

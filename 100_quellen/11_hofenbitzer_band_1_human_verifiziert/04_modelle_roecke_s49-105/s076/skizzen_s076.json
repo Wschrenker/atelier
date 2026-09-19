@@ -1,0 +1,131 @@
+{
+  "seite": "s076",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s76.jpg",
+  "ocr_quelle": "ocr_s076_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s076_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 327,
+        "top_left_y": 423,
+        "bottom_right_x": 1327,
+        "bottom_right_y": 1449
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s076_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt vermutlich die Abbildung zu □2 (Passenrock mit Saumrüsche, VT/RT-Croquis)."
+    },
+    {
+      "datei": "skizzen/s076_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 735,
+        "top_left_y": 1856,
+        "bottom_right_x": 1389,
+        "bottom_right_y": 2521
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s076_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt vermutlich die Abbildung zu □1 (Schnittentwicklung aus der Zehn-Bahnenrock-Einteilung)."
+    },
+    {
+      "datei": "skizzen/s076_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1646,
+        "top_left_y": 1201,
+        "bottom_right_x": 2120,
+        "bottom_right_y": 1902
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s076_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Eines der Schnittteile aus der Gruppe zu □3 (Produktionsschnitt Passenrock mit Saumrüsche); Beschriftung im Ausschnitt: „Rüschen-Rock VT-Passe 1× OSt1“."
+    },
+    {
+      "datei": "skizzen/s076_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1601,
+        "top_left_y": 371,
+        "bottom_right_x": 2099,
+        "bottom_right_y": 1063
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s076_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Eines der Schnittteile aus der Gruppe zu □3; Beschriftung im Ausschnitt: „Rüschen-Rock RT-Passe 1× OSt1“."
+    },
+    {
+      "datei": "skizzen/s076_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2095,
+        "top_left_y": 1170,
+        "bottom_right_x": 2712,
+        "bottom_right_y": 1911
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s076_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Eines der Schnittteile aus der Gruppe zu □3; Beschriftung im Ausschnitt: „Rüschen-Rock VT 1× OSt2“."
+    },
+    {
+      "datei": "skizzen/s076_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2095,
+        "top_left_y": 371,
+        "bottom_right_x": 2716,
+        "bottom_right_y": 1130
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s076_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Eines der Schnittteile aus der Gruppe zu □3; Beschriftung im Ausschnitt: „Rüschen-Rock RT 1× OSt2“."
+    },
+    {
+      "datei": "skizzen/s076_skizze_07.png",
+      "quelle_id": "img-6.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2773,
+        "top_left_y": 352,
+        "bottom_right_x": 3680,
+        "bottom_right_y": 1483
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s076_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Eines der Schnittteile aus der Gruppe zu □3; Beschriftung im Ausschnitt: „Rüschen-Rock Rüsche 2× OSt3“ mit Kräuselsymbolen (S-Zeichen) am oberen Rand."
+    }
+  ],
+  "ausgeschlossene_ausschnitte": [
+    {
+      "quelle_id": "img-7.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 698,
+        "top_left_y": 3,
+        "bottom_right_x": 1397,
+        "bottom_right_y": 236
+      },
+      "grund": "Liegt nach Aufrichtung am rechten Rand der Fotografie und gehoert zur angeschnittenen Nachbarseite 77 (Kapitelkopf „Stufenröcke“), nicht zur Besitzerseite 76. Nicht als Ausschnitt uebernommen."
+    }
+  ]
+}

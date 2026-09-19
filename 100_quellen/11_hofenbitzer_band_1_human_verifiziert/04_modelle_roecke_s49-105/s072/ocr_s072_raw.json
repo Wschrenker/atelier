@@ -1,0 +1,229 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rock-Modelle\n\n# Saumerweiterter Rock\nModellentwicklung aus dem 10-Bahnenrock (5)\n\n![img-0.jpeg](img-0.jpeg)\n\nC3\n\nDer hier gezeigte saumerweiterte Rock entsteht aus dem 10-Bahnenrock mit leichter oder großer Saumerweiterung.\nDie erweiterten Bahnen werden wieder an den trennenden Nähten zusammengelegt, so dass wieder ein Vorder- und ein Hinterrock entsteht.\n\n1 Die Teile des saumerweiterten Bahnenrocks werden an den Teilungsnähten wieder aneinandergelegt. Es konnen damit die Abnaher im Vorderteil, wie hier, ganz zugelegt werden.\n2 Da im Rückteil die Abnaher grober sind, werden diese nicht ganz zugelegt. Die entstehenden Restabnaher werden addiert und zu einem einzigen Abnaher in der Mitte des Rückteils gezeichnet.\n3 Die Taillennahtschon rund ausformen.\n4 Ebenso den Saum über die Erweiterungsflächen gerundet zeitchen.\n\nSaumerweiterter Rock\n\nSaumerweiterter Rock\naus dem 10-Bahnenrock\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\nC2\n\nModellkomitrentwicklung saumerweiterter Rock (hier ist nur das VT gezeigt, das ST ist identisch zu entwickeln)\n\nC3\n\nProduktionsschnitt des Rückteils saumerweiterter Rock (noch spiegeln)\n\n# Glockenrock\nModellentw\n\nEin Glockenrock\nstruiert ist, kann\nBahnenrocks ent\nterungen sind seh\nHierbei schneid\nsymmetrisch (in\n\n1 Die Teile\nlungsnah\nder Taill\n2 Dabei ist\nbetrags a\nten geöff\nschen der\nder SN.\n3 Um eines\nteile so\nte Seiten\nläuft.\n4 Die Taill\nposition\nlassen u\n5 Den Sau\n\nHier wir\ntere Rock\nist ents\n\n72",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 204,
+          "top_left_y": 508,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 1544,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1650,
+          "top_left_y": 377,
+          "bottom_right_x": 3459,
+          "bottom_right_y": 1544,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1679,
+          "top_left_y": 1737,
+          "bottom_right_x": 3308,
+          "bottom_right_y": 2720,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 229,
+          "top_left_y": 2506,
+          "bottom_right_x": 335,
+          "bottom_right_y": 2702,
+          "content": "# Rock-Modelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 163,
+          "top_left_y": 1139,
+          "bottom_right_x": 306,
+          "bottom_right_y": 2294,
+          "content": "# Saumerweiterter Rock\nModellentwicklung aus dem 10-Bahnenrock (5)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 204,
+          "top_left_y": 508,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 1544,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 2610,
+          "bottom_right_x": 478,
+          "bottom_right_y": 2671,
+          "content": "C3",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 372,
+          "top_left_y": 1596,
+          "bottom_right_x": 637,
+          "bottom_right_y": 2533,
+          "content": "Der hier gezeigte saumerweiterte Rock entsteht aus dem 10-Bahnenrock mit leichter oder großer Saumerweiterung.\nDie erweiterten Bahnen werden wieder an den trennenden Nähten zusammengelegt, so dass wieder ein Vorder- und ein Hinterrock entsteht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 849,
+          "top_left_y": 1605,
+          "bottom_right_x": 1409,
+          "bottom_right_y": 2585,
+          "content": "1 Die Teile des saumerweiterten Bahnenrocks werden an den Teilungsnähten wieder aneinandergelegt. Es konnen damit die Abnaher im Vorderteil, wie hier, ganz zugelegt werden.\n2 Da im Rückteil die Abnaher grober sind, werden diese nicht ganz zugelegt. Die entstehenden Restabnaher werden addiert und zu einem einzigen Abnaher in der Mitte des Rückteils gezeichnet.\n3 Die Taillennahtschon rund ausformen.\n4 Ebenso den Saum über die Erweiterungsflächen gerundet zeitchen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1246,
+          "top_left_y": 1054,
+          "bottom_right_x": 1291,
+          "bottom_right_y": 1479,
+          "content": "Saumerweiterter Rock",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1679,
+          "top_left_y": 2708,
+          "bottom_right_x": 2111,
+          "bottom_right_y": 2815,
+          "content": "Saumerweiterter Rock\naus dem 10-Bahnenrock",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1650,
+          "top_left_y": 377,
+          "bottom_right_x": 3459,
+          "bottom_right_y": 1544,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1679,
+          "top_left_y": 1737,
+          "bottom_right_x": 3308,
+          "bottom_right_y": 2720,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 3451,
+          "top_left_y": 2677,
+          "bottom_right_x": 3492,
+          "bottom_right_y": 2723,
+          "content": "C2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3455,
+          "top_left_y": 1728,
+          "bottom_right_x": 3590,
+          "bottom_right_y": 2631,
+          "content": "Modellkomitrentwicklung saumerweiterter Rock (hier ist nur das VT gezeigt, das ST ist identisch zu entwickeln)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3520,
+          "top_left_y": 1525,
+          "bottom_right_x": 3561,
+          "bottom_right_y": 1581,
+          "content": "C3",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3529,
+          "top_left_y": 527,
+          "bottom_right_x": 3627,
+          "bottom_right_y": 1473,
+          "content": "Produktionsschnitt des Rückteils saumerweiterter Rock (noch spiegeln)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 90,
+          "top_left_y": 3,
+          "bottom_right_x": 216,
+          "bottom_right_y": 325,
+          "content": "# Glockenrock\nModellentw",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 290,
+          "top_left_y": 3,
+          "bottom_right_x": 592,
+          "bottom_right_y": 309,
+          "content": "Ein Glockenrock\nstruiert ist, kann\nBahnenrocks ent\nterungen sind seh\nHierbei schneid\nsymmetrisch (in",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 796,
+          "top_left_y": 3,
+          "bottom_right_x": 1585,
+          "bottom_right_y": 282,
+          "content": "1 Die Teile\nlungsnah\nder Taill\n2 Dabei ist\nbetrags a\nten geöff\nschen der\nder SN.\n3 Um eines\nteile so\nte Seiten\nläuft.\n4 Die Taill\nposition\nlassen u\n5 Den Sau",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2867,
+          "top_left_y": 3,
+          "bottom_right_x": 3030,
+          "bottom_right_y": 178,
+          "content": "Hier wir\ntere Rock\nist ents",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3516,
+          "top_left_y": 2830,
+          "bottom_right_x": 3569,
+          "bottom_right_y": 2895,
+          "content": "72",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3929318
+  }
+}

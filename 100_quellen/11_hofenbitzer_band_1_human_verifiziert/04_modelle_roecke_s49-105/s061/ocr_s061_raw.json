@@ -1,0 +1,304 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "beleg\n\nteilchem\nden Passen\n\nse,\nrsaum\n\nlenvertie-\ntrennen.\n\nrnehmen.\nn für die\nichnen.\n\nteile den\neite des\nr Seiten-\nkanten je-\neren und\nleichnen.\n\nPassen-\nzulegen\n\nittteile\n, da sie\nsind.\n\nder lin-\nen Pas-\n\nritt an\ner RT-\nleg an-\ne muss\ntändig\noppel-\n\nübli-\nluzie-\n\nuf Sei-\nn Fut-\n\n# Passen mit Knopfverschluss (2)\n\n# Hüftrock mit Passe, seitlichem Knopfverschluss und Taillenbeleg\n\n![img-0.jpeg](img-0.jpeg)\n\n☐4 Produktions-Schnittteile der Passen und Rockteile\n\n![img-1.jpeg](img-1.jpeg)\n\nPassen mit Knopfverschluss\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n☐6 Produktions-Schnittteile des Rockfutters für Reißverschluss an der linken Seitennaht\n\n61",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 410,
+          "top_left_y": 408,
+          "bottom_right_x": 1348,
+          "bottom_right_y": 1593,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1461,
+          "top_left_y": 547,
+          "bottom_right_x": 2567,
+          "bottom_right_y": 1609,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 882,
+          "top_left_y": 1728,
+          "bottom_right_x": 2003,
+          "bottom_right_y": 2197,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 282,
+          "top_left_y": 2173,
+          "bottom_right_x": 2604,
+          "bottom_right_y": 2593,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 205,
+          "top_left_y": 2708,
+          "bottom_right_x": 1342,
+          "bottom_right_y": 3602,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 1360,
+          "top_left_y": 2691,
+          "bottom_right_x": 2797,
+          "bottom_right_y": 3549,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 155,
+          "bottom_right_x": 156,
+          "bottom_right_y": 249,
+          "content": "beleg",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1286,
+          "bottom_right_x": 196,
+          "bottom_right_y": 1385,
+          "content": "teilchem\nden Passen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1544,
+          "bottom_right_x": 126,
+          "bottom_right_y": 1638,
+          "content": "se,\nrsaum",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1658,
+          "bottom_right_x": 184,
+          "bottom_right_y": 1756,
+          "content": "lenvertie-\ntrennen.",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1777,
+          "bottom_right_x": 181,
+          "bottom_right_y": 1940,
+          "content": "rnehmen.\nn für die\nichnen.",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1952,
+          "bottom_right_x": 178,
+          "bottom_right_y": 2238,
+          "content": "teile den\neite des\nr Seiten-\nkanten je-\neren und\nleichnen.",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2361,
+          "bottom_right_x": 153,
+          "bottom_right_y": 2463,
+          "content": "Passen-\nzulegen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2532,
+          "bottom_right_x": 150,
+          "bottom_right_y": 2679,
+          "content": "ittteile\n, da sie\nsind.",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2708,
+          "bottom_right_x": 141,
+          "bottom_right_y": 2810,
+          "content": "der lin-\nen Pas-",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2887,
+          "bottom_right_x": 132,
+          "bottom_right_y": 3202,
+          "content": "ritt an\ner RT-\nleg an-\ne muss\ntändig\noppel-",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3275,
+          "bottom_right_x": 110,
+          "bottom_right_y": 3382,
+          "content": "übli-\nluzie-",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3565,
+          "bottom_right_x": 110,
+          "bottom_right_y": 3676,
+          "content": "uf Sei-\nn Fut-",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 225,
+          "bottom_right_x": 1250,
+          "bottom_right_y": 306,
+          "content": "# Passen mit Knopfverschluss (2)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 441,
+          "top_left_y": 306,
+          "bottom_right_x": 2034,
+          "bottom_right_y": 404,
+          "content": "# Hüftrock mit Passe, seitlichem Knopfverschluss und Taillenbeleg",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 410,
+          "top_left_y": 408,
+          "bottom_right_x": 1348,
+          "bottom_right_y": 1593,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 1613,
+          "bottom_right_x": 1574,
+          "bottom_right_y": 1670,
+          "content": "☐4 Produktions-Schnittteile der Passen und Rockteile",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1461,
+          "top_left_y": 547,
+          "bottom_right_x": 2567,
+          "bottom_right_y": 1609,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2579,
+          "top_left_y": 1679,
+          "bottom_right_x": 2646,
+          "bottom_right_y": 2177,
+          "content": "Passen mit Knopfverschluss",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 882,
+          "top_left_y": 1728,
+          "bottom_right_x": 2003,
+          "bottom_right_y": 2197,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 2173,
+          "bottom_right_x": 2604,
+          "bottom_right_y": 2593,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 205,
+          "top_left_y": 2708,
+          "bottom_right_x": 1342,
+          "bottom_right_y": 3602,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 1360,
+          "top_left_y": 2691,
+          "bottom_right_x": 2797,
+          "bottom_right_y": 3549,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 309,
+          "top_left_y": 3643,
+          "bottom_right_x": 1767,
+          "bottom_right_y": 3692,
+          "content": "☐6 Produktions-Schnittteile des Rockfutters für Reißverschluss an der linken Seitennaht",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2723,
+          "top_left_y": 3606,
+          "bottom_right_x": 2787,
+          "bottom_right_y": 3659,
+          "content": "61",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 7905920
+  }
+}

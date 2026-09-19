@@ -1,0 +1,51 @@
+{
+  "seite": "s087",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s87.jpg",
+  "ocr_quelle": "ocr_s087_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s087_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 368,
+        "top_left_y": 1323,
+        "bottom_right_x": 1883,
+        "bottom_right_y": 2830
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s087_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Enthaelt die Zeichnung 'zu2 Falten einzeichnen' vollstaendig."
+    },
+    {
+      "datei": "skizzen/s087_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1858,
+        "top_left_y": 1286,
+        "bottom_right_x": 3132,
+        "bottom_right_y": 1997
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s087_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Enthaelt die Zeichnung 'zu3 Falten-Querschnitt (Sparfalten) von oben'."
+    },
+    {
+      "datei": "skizzen/s087_skizze_03.png",
+      "quelle_id": null,
+      "bbox_original_px": null,
+      "bbox_aufrecht_px_naeherung": {
+        "top_left_x": 1060,
+        "top_left_y": 3140,
+        "bottom_right_x": 1920,
+        "bottom_right_y": 3920
+      },
+      "hinweis": "Von der OCR NICHT als Bildregion erkannt (fehlt in den 'images' der ocr_s087_raw.json). Manuell anhand des vollstaendigen Originalbilds nachgetragen, weil die Zeichnung 'zu4 Schablone zum Anzeichnen der Falten und der Abnaehungen' sonst uebersehen worden waere. Koordinaten sind Naeherungswerte im bereits aufrecht gedrehten Bild (nicht aus der OCR-Antwort), gefunden per Sichtkontrolle."
+    }
+  ]
+}

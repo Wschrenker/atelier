@@ -1,0 +1,295 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Godetformen (2)\n\n![img-0.jpeg](img-0.jpeg)\n\n□3 Godet-Variante 1\n\n![img-1.jpeg](img-1.jpeg)\n\n□4 Godet-Variante 2\n\n![img-2.jpeg](img-2.jpeg)\n\n□5 Godet-Variante 3\n\n![img-3.jpeg](img-3.jpeg)\n\n□6 Godet-Variante 4\n\nEingesetzte mittelhohe,\nmäßig weite Godets, nach\naußen gebügelt, aus fes-\ntem Material.\n\nEingesetzte mittelhohe, mä-\nßig weite Godets, nach innen\ngebügelt, aus weich fallen-\ndem, leichtem Material.\n\nEingesetzte kurze, weite\nGodets, nach außen gebü-\ngelt, aus weich fallendem,\nleichtem Material.\n\nEingesetzte hohe, mäßig wei-\nte Godets, nach innen gebü-\ngelt, aus festem Material.\n\n![img-4.jpeg](img-4.jpeg)\n\n# Auswirkung der Godetform auf die Rock-Optik\n\n7 Für eine besonders große Saumweite nimmt man eine eher große Godethöhe und einen großen Winkel (maximal \\(90^{\\circ}\\)).\n□8 Für einen optisch welligen Saum wählt man eine geringe Godethöhe bei mäßigem bis großem Winkel.\n\nEine dezente Saumweite erzielt man mit geringem\nWinkel bei jeder Godethöhe.\n\n1 Feine und leichte Stoffe erfordern eine eher\ngrößere Saumweite, während feste und schwere\nStoffe eine eher mäßige bis geringe Saumweite\nbenötigen.\n\n![img-5.jpeg](img-5.jpeg)\n\n□7\nAngeschnittene hohe und weite\nGodets am 10-Bahnenrock, Nähte\nnach außen gebügelt.\n\n□8\nAngeschnittene kurze und mäßig\nweite Godets am 10-Bahnenrock,\nNähte nach innen gebügelt.\n\nGodetformen\n\n67",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 335,
+          "top_left_y": 2239,
+          "bottom_right_x": 1544,
+          "bottom_right_y": 2668,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 359,
+          "top_left_y": 1694,
+          "bottom_right_x": 1560,
+          "bottom_right_y": 2098,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 392,
+          "top_left_y": 1136,
+          "bottom_right_x": 1572,
+          "bottom_right_y": 1590,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 417,
+          "top_left_y": 610,
+          "bottom_right_x": 1576,
+          "bottom_right_y": 1087,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 2299,
+          "top_left_y": 2319,
+          "bottom_right_x": 3525,
+          "bottom_right_y": 2821,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 2308,
+          "top_left_y": 450,
+          "bottom_right_x": 3500,
+          "bottom_right_y": 977,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 131,
+          "top_left_y": 2169,
+          "bottom_right_x": 196,
+          "bottom_right_y": 2613,
+          "content": "Godetformen (2)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 335,
+          "top_left_y": 2239,
+          "bottom_right_x": 1544,
+          "bottom_right_y": 2668,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1572,
+          "top_left_y": 2313,
+          "bottom_right_x": 1613,
+          "bottom_right_y": 2674,
+          "content": "□3 Godet-Variante 1",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 359,
+          "top_left_y": 1694,
+          "bottom_right_x": 1560,
+          "bottom_right_y": 2098,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1585,
+          "top_left_y": 1740,
+          "bottom_right_x": 1630,
+          "bottom_right_y": 2098,
+          "content": "□4 Godet-Variante 2",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 392,
+          "top_left_y": 1136,
+          "bottom_right_x": 1572,
+          "bottom_right_y": 1590,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1597,
+          "top_left_y": 1170,
+          "bottom_right_x": 1638,
+          "bottom_right_y": 1519,
+          "content": "□5 Godet-Variante 3",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 417,
+          "top_left_y": 610,
+          "bottom_right_x": 1576,
+          "bottom_right_y": 1087,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1605,
+          "top_left_y": 619,
+          "bottom_right_x": 1642,
+          "bottom_right_y": 971,
+          "content": "□6 Godet-Variante 4",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1736,
+          "top_left_y": 2254,
+          "bottom_right_x": 1920,
+          "bottom_right_y": 2732,
+          "content": "Eingesetzte mittelhohe,\nmäßig weite Godets, nach\naußen gebügelt, aus fes-\ntem Material.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1740,
+          "top_left_y": 1651,
+          "bottom_right_x": 1932,
+          "bottom_right_y": 2172,
+          "content": "Eingesetzte mittelhohe, mä-\nßig weite Godets, nach innen\ngebügelt, aus weich fallen-\ndem, leichtem Material.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1752,
+          "top_left_y": 1115,
+          "bottom_right_x": 1936,
+          "bottom_right_y": 1596,
+          "content": "Eingesetzte kurze, weite\nGodets, nach außen gebü-\ngelt, aus weich fallendem,\nleichtem Material.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1756,
+          "top_left_y": 551,
+          "bottom_right_x": 1899,
+          "bottom_right_y": 1060,
+          "content": "Eingesetzte hohe, mäßig wei-\nte Godets, nach innen gebü-\ngelt, aus festem Material.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2299,
+          "top_left_y": 2319,
+          "bottom_right_x": 3525,
+          "bottom_right_y": 2821,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 2303,
+          "top_left_y": 1158,
+          "bottom_right_x": 2357,
+          "bottom_right_y": 2040,
+          "content": "# Auswirkung der Godetform auf die Rock-Optik",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2373,
+          "top_left_y": 1143,
+          "bottom_right_x": 2691,
+          "bottom_right_y": 2061,
+          "content": "7 Für eine besonders große Saumweite nimmt man eine eher große Godethöhe und einen großen Winkel (maximal \\(90^{\\circ}\\)).\n□8 Für einen optisch welligen Saum wählt man eine geringe Godethöhe bei mäßigem bis großem Winkel.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2700,
+          "top_left_y": 1139,
+          "bottom_right_x": 2802,
+          "bottom_right_y": 2065,
+          "content": "Eine dezente Saumweite erzielt man mit geringem\nWinkel bei jeder Godethöhe.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2867,
+          "top_left_y": 1139,
+          "bottom_right_x": 3083,
+          "bottom_right_y": 2061,
+          "content": "1 Feine und leichte Stoffe erfordern eine eher\ngrößere Saumweite, während feste und schwere\nStoffe eine eher mäßige bis geringe Saumweite\nbenötigen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2308,
+          "top_left_y": 450,
+          "bottom_right_x": 3500,
+          "bottom_right_y": 977,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 3443,
+          "top_left_y": 1672,
+          "bottom_right_x": 3614,
+          "bottom_right_y": 2248,
+          "content": "□7\nAngeschnittene hohe und weite\nGodets am 10-Bahnenrock, Nähte\nnach außen gebügelt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3431,
+          "top_left_y": 968,
+          "bottom_right_x": 3598,
+          "bottom_right_y": 1525,
+          "content": "□8\nAngeschnittene kurze und mäßig\nweite Godets am 10-Bahnenrock,\nNähte nach innen gebügelt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1862,
+          "top_left_y": 395,
+          "bottom_right_x": 2111,
+          "bottom_right_y": 444,
+          "content": "Godetformen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3574,
+          "top_left_y": 263,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 331,
+          "content": "67",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3810937
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "seite": "s091",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s91.jpg",
+  "ocr_quelle": "ocr_s091_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s091_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 237,
+        "top_left_y": 2352,
+        "bottom_right_x": 1262,
+        "bottom_right_y": 2830
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s091_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Modellfigur (Rock mit Volant), gehoert zusammen mit skizze_02 zur Bildunterschrift ☐3 'Modell und Schnittkonstruktion fuer einen Volant aus vier Vollkreisen'."
+    },
+    {
+      "datei": "skizzen/s091_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 396,
+        "top_left_y": 705,
+        "bottom_right_x": 1340,
+        "bottom_right_y": 2270
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s091_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Berechnungsbox (r_AnW, r_SaW, SaW) mit Kreis-Schnittkonstruktion (Punkte 2, 3, 4), gehoert zusammen mit skizze_01 zur Bildunterschrift ☐3."
+    },
+    {
+      "datei": "skizzen/s091_skizze_03.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2332,
+        "top_left_y": 2435,
+        "bottom_right_x": 3655,
+        "bottom_right_y": 2876
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s091_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Modellfigur zur Bildunterschrift ☐4 'Saum-Volant aus einem beliebig abgetrennten Schnittteil'."
+    },
+    {
+      "datei": "skizzen/s091_skizze_04.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1907,
+        "top_left_y": 1492,
+        "bottom_right_x": 3610,
+        "bottom_right_y": 2251
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s091_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Schnittteil VT mit Schritten 5 und 6 (Volantform einzeichnen, Einschnittlinien positionieren), gehoert zur Bildunterschrift ☐5 'Abtrennung und Oeffnungslinien exemplarisch am VT gezeigt'."
+    },
+    {
+      "datei": "skizzen/s091_skizze_05.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1552,
+        "top_left_y": 331,
+        "bottom_right_x": 3725,
+        "bottom_right_y": 1559
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s091_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Schnittteile VT und Volant mit Schritten 7 und 8 (abtrennen, Saum und Ansatznaht formen), gehoert zur Bildunterschrift ☐6 'Produktions-Schnittteile Rock-VT und Volant (noch spiegeln)'."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "seite": "s092",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s92.jpg",
+  "ocr_quelle": "ocr_s092_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s092_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 225,
+        "top_left_y": 322,
+        "bottom_right_x": 1258,
+        "bottom_right_y": 1332
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s092_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die beiden Innenansichten-Skizzen zu □1 (separater glockiger Futterrock) und □2 (Ballonrock mit eingenähtem Rockfutter)."
+    },
+    {
+      "datei": "skizzen/s092_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2009,
+        "top_left_y": 1672,
+        "bottom_right_x": 3476,
+        "bottom_right_y": 2588
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s092_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt den linken Schnittteil (Glockiger Rock-GS, VT, 1x Fu) der □3-Zeichnung."
+    },
+    {
+      "datei": "skizzen/s092_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2009,
+        "top_left_y": 208,
+        "bottom_right_x": 3602,
+        "bottom_right_y": 1654
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s092_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt den rechten Schnittteil (Glockiger Rock-GS, RT, 2x-p) mit den Schritten 3 bis 5 zum RV-Schlitz der □3-Zeichnung."
+    }
+  ]
+}

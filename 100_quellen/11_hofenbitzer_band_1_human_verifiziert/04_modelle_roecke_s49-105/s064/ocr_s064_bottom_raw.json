@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "entsprechender Schnittteile für den halben Rock, zusammen 3 bzw. 4 Bahnen, sowie für den ganzen Rock 6 bzw. 8 Bahnen.\n\n8-Bahnenrock\nDie acht Teilungsnähte unterteilen den Rock in acht gleich breite Schnittteile an der Hüfte und am Saum.\nDie im Rock-Grundschnitt vorhandenen Abnäherinhalte können an die Nähte verschoben werden, wenn dies die Passform gestattet. Bei großem Taillenausfall (zwei Abnäher hinten), ist es günstiger, eine Einteilung für einen 10- oder 12-Bahnenrock zu wählen oder einen zusätzlichen Abnäher im RT zu nähen.",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 2775,
+        "width": 1938
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 0,
+          "bottom_right_x": 1938,
+          "bottom_right_y": 2775,
+          "content": "entsprechender Schnittteile für den halben Rock, zusammen 3 bzw. 4 Bahnen, sowie für den ganzen Rock 6 bzw. 8 Bahnen.\n\n8-Bahnenrock\nDie acht Teilungsnähte unterteilen den Rock in acht gleich breite Schnittteile an der Hüfte und am Saum.\nDie im Rock-Grundschnitt vorhandenen Abnäherinhalte können an die Nähte verschoben werden, wenn dies die Passform gestattet. Bei großem Taillenausfall (zwei Abnäher hinten), ist es günstiger, eine Einteilung für einen 10- oder 12-Bahnenrock zu wählen oder einen zusätzlichen Abnäher im RT zu nähen.",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 1744127
+  }
+}

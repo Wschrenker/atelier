@@ -1,0 +1,71 @@
+{
+  "seite": "s058",
+  "skizzen": [
+    {
+      "datei": "skizzen/s058_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 2010,
+        "top_left_y": 196,
+        "bottom_right_x": 2665,
+        "bottom_right_y": 1205
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080). Fuer die OCR wurde vom aufrechten Bild zusaetzlich der rechte Rand (Nachbarseiten-Bleed von Seite 59, ca. 8.5% der Breite, ab x=2800px) abgeschnitten; die hier gelistete bbox liegt innerhalb dieses Zuschnitts und ist zugleich unveraendert die Koordinate im vollen aufrechten Originalbild (kein Offset noetig, da links/oben nichts abgeschnitten wurde)."
+    },
+    {
+      "datei": "skizzen/s058_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 558,
+        "top_left_y": 903,
+        "bottom_right_x": 1984,
+        "bottom_right_y": 1928
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080). Fuer die OCR wurde vom aufrechten Bild zusaetzlich der rechte Rand (Nachbarseiten-Bleed von Seite 59, ca. 8.5% der Breite, ab x=2800px) abgeschnitten; die hier gelistete bbox liegt innerhalb dieses Zuschnitts und ist zugleich unveraendert die Koordinate im vollen aufrechten Originalbild (kein Offset noetig, da links/oben nichts abgeschnitten wurde)."
+    },
+    {
+      "datei": "skizzen/s058_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 510,
+        "top_left_y": 2120,
+        "bottom_right_x": 1132,
+        "bottom_right_y": 2328
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080). Fuer die OCR wurde vom aufrechten Bild zusaetzlich der rechte Rand (Nachbarseiten-Bleed von Seite 59, ca. 8.5% der Breite, ab x=2800px) abgeschnitten; die hier gelistete bbox liegt innerhalb dieses Zuschnitts und ist zugleich unveraendert die Koordinate im vollen aufrechten Originalbild (kein Offset noetig, da links/oben nichts abgeschnitten wurde)."
+    },
+    {
+      "datei": "skizzen/s058_skizze_04.png",
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1191,
+        "top_left_y": 2120,
+        "bottom_right_x": 1875,
+        "bottom_right_y": 2414
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080). Fuer die OCR wurde vom aufrechten Bild zusaetzlich der rechte Rand (Nachbarseiten-Bleed von Seite 59, ca. 8.5% der Breite, ab x=2800px) abgeschnitten; die hier gelistete bbox liegt innerhalb dieses Zuschnitts und ist zugleich unveraendert die Koordinate im vollen aufrechten Originalbild (kein Offset noetig, da links/oben nichts abgeschnitten wurde)."
+    },
+    {
+      "datei": "skizzen/s058_skizze_05.png",
+      "quelle_id": "img-4.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 510,
+        "top_left_y": 2467,
+        "bottom_right_x": 1121,
+        "bottom_right_y": 3410
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080). Fuer die OCR wurde vom aufrechten Bild zusaetzlich der rechte Rand (Nachbarseiten-Bleed von Seite 59, ca. 8.5% der Breite, ab x=2800px) abgeschnitten; die hier gelistete bbox liegt innerhalb dieses Zuschnitts und ist zugleich unveraendert die Koordinate im vollen aufrechten Originalbild (kein Offset noetig, da links/oben nichts abgeschnitten wurde)."
+    },
+    {
+      "datei": "skizzen/s058_skizze_06.png",
+      "quelle_id": "img-5.jpeg",
+      "bbox_original_pixel": {
+        "top_left_x": 1191,
+        "top_left_y": 2422,
+        "bottom_right_x": 1875,
+        "bottom_right_y": 3500
+      },
+      "hinweis": "bbox bezieht sich auf das aufrecht gedrehte Originalbild (EXIF-Orientierung 6 angewandt, 3060x4080). Fuer die OCR wurde vom aufrechten Bild zusaetzlich der rechte Rand (Nachbarseiten-Bleed von Seite 59, ca. 8.5% der Breite, ab x=2800px) abgeschnitten; die hier gelistete bbox liegt innerhalb dieses Zuschnitts und ist zugleich unveraendert die Koordinate im vollen aufrechten Originalbild (kein Offset noetig, da links/oben nichts abgeschnitten wurde)."
+    }
+  ]
+}

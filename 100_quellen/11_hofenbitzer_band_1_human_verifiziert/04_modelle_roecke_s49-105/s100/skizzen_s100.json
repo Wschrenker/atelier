@@ -1,0 +1,67 @@
+{
+  "seite": "s100",
+  "original_bild": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s100.jpg",
+  "ocr_quelle": "ocr_s100_raw.json",
+  "ausschnitte": [
+    {
+      "datei": "skizzen/s100_skizze_01.png",
+      "quelle_id": "img-0.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 261,
+        "top_left_y": 557,
+        "bottom_right_x": 1266,
+        "bottom_right_y": 1305
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s100_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die beiden stehenden Figurinen zum Wickelrock (□1 Wickelrock)."
+    },
+    {
+      "datei": "skizzen/s100_skizze_02.png",
+      "quelle_id": "img-1.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 1397,
+        "top_left_y": 496,
+        "bottom_right_x": 1915,
+        "bottom_right_y": 1323
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s100_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die ovale Querschnitt-Skizze mit hM, SN, vM, Taillenumfang und Hueftumfang, beschriftet '□2 Querschnitt'."
+    },
+    {
+      "datei": "skizzen/s100_skizze_03.png",
+      "quelle_id": "img-2.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2095,
+        "top_left_y": 1283,
+        "bottom_right_x": 3553,
+        "bottom_right_y": 2545
+      },
+      "bild_dimensionen_ocr": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "hinweis": "Bounding Box aus derselben OCR-Antwort wie ocr_s100_raw.json; Ausschnitt anschliessend gemaess EXIF-Orientierung (6) aufrecht gedreht. Zeigt die grosse Schnittteil-Zeichnung des Vorderrocks (VT) mit den Schrittkennungen 1,2,3,4,6,10,11; die Bildunterschrift '□2 Vorderrock an VM spiegeln und Wickelteil gestalten' steht ausserhalb dieser Bounding Box am Fuss der Buchseite."
+    }
+  ],
+  "ausgeschlossen": [
+    {
+      "quelle_id": "img-3.jpeg",
+      "bbox_original_px": {
+        "top_left_x": 2071,
+        "top_left_y": 3,
+        "bottom_right_x": 3553,
+        "bottom_right_y": 211
+      },
+      "grund": "Von der OCR erkannte Bildregion gehoert nicht zu Seite 100, sondern zeigt einen schmalen Ausschnitt einer Schnittteil-Zeichnung der gegenueberliegenden Folgeseite (Register 'Wickelrock', Seite 101, Abschnitt 'Gerader ...'), die am rechten Bildrand mitfotografiert wurde. Deshalb nicht als Skizze von Seite 100 abgelegt."
+    }
+  ]
+}

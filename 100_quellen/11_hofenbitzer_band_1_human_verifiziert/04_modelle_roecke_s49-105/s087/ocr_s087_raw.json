@@ -1,0 +1,210 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Rundum-Faltenrock (2)\nModellentwicklung aus Stoffbahnen\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n# Markieren von Falten am Schnitt\n\nFaltenaußenbruch und Falteninnenbruch werden durch Umbruchlinien markiert. Die Faltenanstoßlinie ist eine dünne durchgezogene Linie.\n\nDie Faltenschraffur kennzeichnet die von der Falte verdeckte Schnittfläche. Es ist der Falteninhalt (gelbe Fläche). Man schraffiert immer den oberen Teil des Falteninhalts mit mindestens drei parallelen Schraffurlinien. Sie treffen sich, schräg abwärts verlaufend, am Falteninnenbruch.\n\nDie Legerichtung symbolisiert durch den Pfeil, dass der Faltenaußenbruch auf die Faltenanstoßlinie gelegt wird.\n\n# Markieren von Falten auf dem Stoff\n\n☐ 3 Für eine rationelle Fertigung kann eine Schablone zum Anzeichnen der Falten verwendet werden. An der Schablone werden die abzunähenden Falteninhalte ausgeschnitten, so dass die Faltenaußenbrüche und Faltenanstoßlinien am Stoff mit Kreide markiert werden können.\n\n# 3 Falten Falten in der Falte reduzieren\n\n2 An der Taillenlinie die Faltenabstände auf den FaA., verringern.\n4 Nähte bis zur gewünschten Tiefe formen. Die endgültige Form entsteht bei Maßkleidung durch Abstecken bei der Anprobe.\nDen Falteninhalt mit Legepfeilen und bei Papierschnitten die Faltenschraffur und Knipse z.B. für den Reißverschluss markieren.\n\n1 Beim Zusammennähen von Stoffstreifen für Faltenteile bzw. Faltenröcke, ist die Naht immer an einen Falteninnenbruch (Mitte des Falteninhalts) zu legen. Aus dem Falteninnenbruch wird so eine \"Falteninnennaht\". Hier kann auch ein Reißverschluss eingearbeitet werden.\n\n# Anprobe\n\n- Zuerst den Saum, dann die Faltenaußenbrüche bügeln.\nDie Faltenaußenbrüche auf die Faltenanstoßlinien legen und die Falteninnenbrüche bis zum Saum bügeln.\nFalteninnennahtschlieben (siehe 3).\nDie Falten im Abnahbereich heften oder stecken.\n- Bei der Anprobe die Form der abgehalten Falten korrigieren.\nDen Bund anstecken und die Lage der Taillennahm am Rock markieren.\n\n# Verarbeitungshinweise\n\nDie Säume der Faltenteile (und ggf. des Rocks) vor dem Bügeln der Falten fertig stellen.\nDie Faltenaußenbrüche und die Faltenanstoßlinien auf der rechten Warenseite markieren.\nDie Faltenaußenbrüche bügeln, auf die Faltenanstoßlinien legen und die Falteninnenbrüche bügeln. Dabei eine feste Zwischenlage benützen, um Abdrücke zu vermeiden.\n- Beim Schließen einer Falteninnennaht am Saum auf einen passenden Übergang achten.\nDas Abnären einer Falte sollte vom Ende des Abnahbereichs in Richtung Taille erfolgen.\n\nRundum-Faltenrock\n\n87",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 368,
+          "top_left_y": 1323,
+          "bottom_right_x": 1883,
+          "bottom_right_y": 2830,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1858,
+          "top_left_y": 1286,
+          "bottom_right_x": 3132,
+          "bottom_right_y": 1997,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 131,
+          "top_left_y": 1835,
+          "bottom_right_x": 286,
+          "bottom_right_y": 2790,
+          "content": "# Rundum-Faltenrock (2)\nModellentwicklung aus Stoffbahnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 368,
+          "top_left_y": 1323,
+          "bottom_right_x": 1883,
+          "bottom_right_y": 2830,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1858,
+          "top_left_y": 1286,
+          "bottom_right_x": 3132,
+          "bottom_right_y": 1997,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2328,
+          "top_left_y": 2166,
+          "bottom_right_x": 2381,
+          "bottom_right_y": 2827,
+          "content": "# Markieren von Falten am Schnitt",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2406,
+          "top_left_y": 2080,
+          "bottom_right_x": 2630,
+          "bottom_right_y": 2846,
+          "content": "Faltenaußenbruch und Falteninnenbruch werden durch Umbruchlinien markiert. Die Faltenanstoßlinie ist eine dünne durchgezogene Linie.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2638,
+          "top_left_y": 2074,
+          "bottom_right_x": 3092,
+          "bottom_right_y": 2849,
+          "content": "Die Faltenschraffur kennzeichnet die von der Falte verdeckte Schnittfläche. Es ist der Falteninhalt (gelbe Fläche). Man schraffiert immer den oberen Teil des Falteninhalts mit mindestens drei parallelen Schraffurlinien. Sie treffen sich, schräg abwärts verlaufend, am Falteninnenbruch.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3104,
+          "top_left_y": 2068,
+          "bottom_right_x": 3288,
+          "bottom_right_y": 2852,
+          "content": "Die Legerichtung symbolisiert durch den Pfeil, dass der Faltenaußenbruch auf die Faltenanstoßlinie gelegt wird.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3382,
+          "top_left_y": 2095,
+          "bottom_right_x": 3451,
+          "bottom_right_y": 2839,
+          "content": "# Markieren von Falten auf dem Stoff",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3471,
+          "top_left_y": 2052,
+          "bottom_right_x": 3953,
+          "bottom_right_y": 2858,
+          "content": "☐ 3 Für eine rationelle Fertigung kann eine Schablone zum Anzeichnen der Falten verwendet werden. An der Schablone werden die abzunähenden Falteninhalte ausgeschnitten, so dass die Faltenaußenbrüche und Faltenanstoßlinien am Stoff mit Kreide markiert werden können.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 449,
+          "top_left_y": 910,
+          "bottom_right_x": 535,
+          "bottom_right_y": 1335,
+          "content": "# 3 Falten Falten in der Falte reduzieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 543,
+          "top_left_y": 668,
+          "bottom_right_x": 1037,
+          "bottom_right_y": 1332,
+          "content": "2 An der Taillenlinie die Faltenabstände auf den FaA., verringern.\n4 Nähte bis zur gewünschten Tiefe formen. Die endgültige Form entsteht bei Maßkleidung durch Abstecken bei der Anprobe.\nDen Falteninhalt mit Legepfeilen und bei Papierschnitten die Faltenschraffur und Knipse z.B. für den Reißverschluss markieren.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1144,
+          "top_left_y": 625,
+          "bottom_right_x": 1503,
+          "bottom_right_y": 1286,
+          "content": "1 Beim Zusammennähen von Stoffstreifen für Faltenteile bzw. Faltenröcke, ist die Naht immer an einen Falteninnenbruch (Mitte des Falteninhalts) zu legen. Aus dem Falteninnenbruch wird so eine \"Falteninnennaht\". Hier kann auch ein Reißverschluss eingearbeitet werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1683,
+          "top_left_y": 1087,
+          "bottom_right_x": 1728,
+          "bottom_right_y": 1253,
+          "content": "# Anprobe",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1740,
+          "top_left_y": 505,
+          "bottom_right_x": 2573,
+          "bottom_right_y": 1253,
+          "content": "- Zuerst den Saum, dann die Faltenaußenbrüche bügeln.\nDie Faltenaußenbrüche auf die Faltenanstoßlinien legen und die Falteninnenbrüche bis zum Saum bügeln.\nFalteninnennahtschlieben (siehe 3).\nDie Falten im Abnahbereich heften oder stecken.\n- Bei der Anprobe die Form der abgehalten Falten korrigieren.\nDen Bund anstecken und die Lage der Taillennahm am Rock markieren.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2651,
+          "top_left_y": 723,
+          "bottom_right_x": 2704,
+          "bottom_right_y": 1182,
+          "content": "# Verarbeitungshinweise",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2712,
+          "top_left_y": 371,
+          "bottom_right_x": 3798,
+          "bottom_right_y": 1170,
+          "content": "Die Säume der Faltenteile (und ggf. des Rocks) vor dem Bügeln der Falten fertig stellen.\nDie Faltenaußenbrüche und die Faltenanstoßlinien auf der rechten Warenseite markieren.\nDie Faltenaußenbrüche bügeln, auf die Faltenanstoßlinien legen und die Falteninnenbrüche bügeln. Dabei eine feste Zwischenlage benützen, um Abdrücke zu vermeiden.\n- Beim Schließen einer Falteninnennaht am Saum auf einen passenden Übergang achten.\nDas Abnären einer Falte sollte vom Ende des Abnahbereichs in Richtung Taille erfolgen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1830,
+          "top_left_y": 383,
+          "bottom_right_x": 2214,
+          "bottom_right_y": 450,
+          "content": "Rundum-Faltenrock",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3733,
+          "top_left_y": 175,
+          "bottom_right_x": 3794,
+          "bottom_right_y": 239,
+          "content": "87",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3898949
+  }
+}
