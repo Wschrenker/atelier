@@ -1,0 +1,188 @@
+{
+  "page": "s173",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s173.jpg",
+  "orientation": "EXIF-Orientierung angewendet",
+  "upright_size": [
+    3060,
+    4080
+  ],
+  "crop_box_in_upright_px": [
+    444,
+    0,
+    3060,
+    4080
+  ],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s173_skizze_01.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        29,
+        543,
+        463,
+        1115
+      ],
+      "bbox_upright_px": [
+        473,
+        543,
+        907,
+        1115
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s173_skizze_02.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        532,
+        564,
+        969,
+        1131
+      ],
+      "bbox_upright_px": [
+        976,
+        564,
+        1413,
+        1131
+      ]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s173_skizze_03.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1123,
+        629,
+        1529,
+        1180
+      ],
+      "bbox_upright_px": [
+        1567,
+        629,
+        1973,
+        1180
+      ]
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s173_skizze_04.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1592,
+        670,
+        1982,
+        1180
+      ],
+      "bbox_upright_px": [
+        2036,
+        670,
+        2426,
+        1180
+      ]
+    },
+    {
+      "id": "img-4.jpeg",
+      "file": "skizzen/s173_skizze_05.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        13,
+        1450,
+        733,
+        2348
+      ],
+      "bbox_upright_px": [
+        457,
+        1450,
+        1177,
+        2348
+      ]
+    },
+    {
+      "id": "img-5.jpeg",
+      "file": "skizzen/s173_skizze_06.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        791,
+        1470,
+        1453,
+        2328
+      ],
+      "bbox_upright_px": [
+        1235,
+        1470,
+        1897,
+        2328
+      ]
+    },
+    {
+      "id": "img-6.jpeg",
+      "file": "skizzen/s173_skizze_07.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1637,
+        1772,
+        2095,
+        2242
+      ],
+      "bbox_upright_px": [
+        2081,
+        1772,
+        2539,
+        2242
+      ]
+    },
+    {
+      "id": "img-7.jpeg",
+      "file": "skizzen/s173_skizze_08.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1511,
+        2634,
+        2166,
+        3512
+      ],
+      "bbox_upright_px": [
+        1955,
+        2634,
+        2610,
+        3512
+      ]
+    },
+    {
+      "id": "img-8.jpeg",
+      "file": "skizzen/s173_skizze_09.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        791,
+        2659,
+        1459,
+        3602
+      ],
+      "bbox_upright_px": [
+        1235,
+        2659,
+        1903,
+        3602
+      ]
+    },
+    {
+      "id": "img-9.jpeg",
+      "file": "skizzen/s173_skizze_10.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        13,
+        2683,
+        738,
+        3639
+      ],
+      "bbox_upright_px": [
+        457,
+        2683,
+        1182,
+        3639
+      ]
+    }
+  ]
+}

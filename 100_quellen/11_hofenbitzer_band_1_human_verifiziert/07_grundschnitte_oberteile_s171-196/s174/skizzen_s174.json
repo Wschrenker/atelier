@@ -1,0 +1,120 @@
+{
+  "page": "s174",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s174.jpg",
+  "orientation": "EXIF-Orientierung angewendet",
+  "upright_size": [
+    3060,
+    4080
+  ],
+  "crop_box_in_upright_px": [
+    184,
+    0,
+    2830,
+    4080
+  ],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s174_skizze_01.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1168,
+        421,
+        1764,
+        1601
+      ],
+      "bbox_upright_px": [
+        1352,
+        421,
+        1948,
+        1601
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s174_skizze_02.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1986,
+        388,
+        2593,
+        1589
+      ],
+      "bbox_upright_px": [
+        2170,
+        388,
+        2777,
+        1589
+      ]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s174_skizze_03.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        381,
+        462,
+        1004,
+        1605
+      ],
+      "bbox_upright_px": [
+        565,
+        462,
+        1188,
+        1605
+      ]
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s174_skizze_04.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        230,
+        1736,
+        1089,
+        2622
+      ],
+      "bbox_upright_px": [
+        414,
+        1736,
+        1273,
+        2622
+      ]
+    },
+    {
+      "id": "img-4.jpeg",
+      "file": "skizzen/s174_skizze_05.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1295,
+        1740,
+        1783,
+        2700
+      ],
+      "bbox_upright_px": [
+        1479,
+        1740,
+        1967,
+        2700
+      ]
+    },
+    {
+      "id": "img-5.jpeg",
+      "file": "skizzen/s174_skizze_06.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        2066,
+        1764,
+        2535,
+        2724
+      ],
+      "bbox_upright_px": [
+        2250,
+        1764,
+        2719,
+        2724
+      ]
+    }
+  ]
+}

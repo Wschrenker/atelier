@@ -1,0 +1,428 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Oberteil-Grundschnitte\n\n# Übersicht\nAnalyse verschiedener Oberteile (1)\n\nAnalyse verschiedener Oberteile\n\n# Übersicht\n\nÜbersicht der Oberteil-Grundschnitte 172\n\nGrundschnitt-Typen 173\n\nKontrolle und Korrektur der Balance\n\nbei schwierigen Figuren 174\n\nPassformklassen und Zugaben 176\n\nKonstruktionstabelle 177\n\nGrundgerüst für sämtliche Oberteil-Grundschnitte 178\n\nLegerer Oberteil-Grundschnitt ohne und mit Abnäher 182\n\nTaillierter Oberteil-Grundschnitt mit Hüftausfall 184\n\nTaillierter Oberteil-Grundschnitt ohne Hüftausfall 186\n\nNahtgestaltung und Zuschnitt für die Anprobe 187\n\nEnger Oberteil-Grundschnitt für elastische Materialien 188\n\nGrundschnitt-Vergrößerungen 191\n\nWeite an erprobtem Oberteil-Grundschnitt hinzugeben 194\n\nWeite an erprobtem Oberteil-Grundschnitt reduzieren\n\nKorsagen-Grundschnitt 196\n\n# Zwei Modelle mit gleicher Weite und gleicher Grundschnitt-Konstruktion entwickelt\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n☐1 Jeansjacke\naus tailliertem OT-GS\nmit Brustabnäher (PK 4-5)\n\n☐2 Klassische Weste\naus tailliertem OT-GS\nmit Brustabnäher (PK 4-5)\n\nDie Erläuterungen zur Verwendung des Passform-Piktogramms sind auf der Seite 176 zu finden.\n\n☐3 Passform-Piktogramm\nmit Weitenzugaben\n\n# Drei Modelle aus der gleichen Grundschnitt-Konstruktion aber mit unterschiedlichen Weiten\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n☐4 Enges Kleid (Etuhleid)\naus dem taillierten OT-GS\nmit Brustabnäher (PK 3-4)\n\n☐5 Damen-Blazer\naus dem taillierten OT-GS mit\nBrustabnäher (PK 5-7)\n\n☐6 Trenchcoat\naus dem taillierten OT-GS mit\nBrustabnäher (PK 9-10)\n\n172",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 368,
+          "top_left_y": 1454,
+          "bottom_right_x": 1049,
+          "bottom_right_y": 2344,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1113,
+          "top_left_y": 1462,
+          "bottom_right_x": 1852,
+          "bottom_right_y": 2361,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2061,
+          "top_left_y": 1777,
+          "bottom_right_x": 2607,
+          "bottom_right_y": 2324,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 252,
+          "top_left_y": 2695,
+          "bottom_right_x": 994,
+          "bottom_right_y": 3647,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1028,
+          "top_left_y": 2724,
+          "bottom_right_x": 1791,
+          "bottom_right_y": 3696,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 1849,
+          "top_left_y": 2765,
+          "bottom_right_x": 2621,
+          "bottom_right_y": 3745,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2647
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 249,
+          "top_left_y": 225,
+          "bottom_right_x": 636,
+          "bottom_right_y": 343,
+          "content": "# Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 700,
+          "top_left_y": 204,
+          "bottom_right_x": 1701,
+          "bottom_right_y": 339,
+          "content": "# Übersicht\nAnalyse verschiedener Oberteile (1)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 236,
+          "top_left_y": 584,
+          "bottom_right_x": 321,
+          "bottom_right_y": 984,
+          "content": "Analyse verschiedener Oberteile",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 448,
+          "top_left_y": 470,
+          "bottom_right_x": 633,
+          "bottom_right_y": 506,
+          "content": "# Übersicht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 440,
+          "top_left_y": 515,
+          "bottom_right_x": 1455,
+          "bottom_right_y": 555,
+          "content": "Übersicht der Oberteil-Grundschnitte 172",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 440,
+          "top_left_y": 572,
+          "bottom_right_x": 1455,
+          "bottom_right_y": 613,
+          "content": "Grundschnitt-Typen 173",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 437,
+          "top_left_y": 617,
+          "bottom_right_x": 1455,
+          "bottom_right_y": 653,
+          "content": "Kontrolle und Korrektur der Balance",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 435,
+          "top_left_y": 666,
+          "bottom_right_x": 1452,
+          "bottom_right_y": 711,
+          "content": "bei schwierigen Figuren 174",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 432,
+          "top_left_y": 719,
+          "bottom_right_x": 1449,
+          "bottom_right_y": 764,
+          "content": "Passformklassen und Zugaben 176",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 429,
+          "top_left_y": 776,
+          "bottom_right_x": 1449,
+          "bottom_right_y": 817,
+          "content": "Konstruktionstabelle 177",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 427,
+          "top_left_y": 825,
+          "bottom_right_x": 1449,
+          "bottom_right_y": 870,
+          "content": "Grundgerüst für sämtliche Oberteil-Grundschnitte 178",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1524,
+          "top_left_y": 474,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 519,
+          "content": "Legerer Oberteil-Grundschnitt ohne und mit Abnäher 182",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1524,
+          "top_left_y": 527,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 572,
+          "content": "Taillierter Oberteil-Grundschnitt mit Hüftausfall 184",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1524,
+          "top_left_y": 584,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 629,
+          "content": "Taillierter Oberteil-Grundschnitt ohne Hüftausfall 186",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1524,
+          "top_left_y": 645,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 690,
+          "content": "Nahtgestaltung und Zuschnitt für die Anprobe 187",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1521,
+          "top_left_y": 702,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 747,
+          "content": "Enger Oberteil-Grundschnitt für elastische Materialien 188",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1521,
+          "top_left_y": 760,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 805,
+          "content": "Grundschnitt-Vergrößerungen 191",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1518,
+          "top_left_y": 813,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 862,
+          "content": "Weite an erprobtem Oberteil-Grundschnitt hinzugeben 194",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1518,
+          "top_left_y": 870,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 915,
+          "content": "Weite an erprobtem Oberteil-Grundschnitt reduzieren",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1518,
+          "top_left_y": 923,
+          "bottom_right_x": 2602,
+          "bottom_right_y": 972,
+          "content": "Korsagen-Grundschnitt 196",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 400,
+          "top_left_y": 1344,
+          "bottom_right_x": 1977,
+          "bottom_right_y": 1393,
+          "content": "# Zwei Modelle mit gleicher Weite und gleicher Grundschnitt-Konstruktion entwickelt",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 368,
+          "top_left_y": 1454,
+          "bottom_right_x": 1049,
+          "bottom_right_y": 2344,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1113,
+          "top_left_y": 1462,
+          "bottom_right_x": 1852,
+          "bottom_right_y": 2361,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2061,
+          "top_left_y": 1777,
+          "bottom_right_x": 2607,
+          "bottom_right_y": 2324,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 413,
+          "top_left_y": 2365,
+          "bottom_right_x": 906,
+          "bottom_right_y": 2487,
+          "content": "☐1 Jeansjacke\naus tailliertem OT-GS\nmit Brustabnäher (PK 4-5)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1147,
+          "top_left_y": 2385,
+          "bottom_right_x": 1603,
+          "bottom_right_y": 2512,
+          "content": "☐2 Klassische Weste\naus tailliertem OT-GS\nmit Brustabnäher (PK 4-5)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 1474,
+          "bottom_right_x": 2594,
+          "bottom_right_y": 1670,
+          "content": "Die Erläuterungen zur Verwendung des Passform-Piktogramms sind auf der Seite 176 zu finden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2088,
+          "top_left_y": 2418,
+          "bottom_right_x": 2520,
+          "bottom_right_y": 2508,
+          "content": "☐3 Passform-Piktogramm\nmit Weitenzugaben",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 331,
+          "top_left_y": 2548,
+          "bottom_right_x": 2128,
+          "bottom_right_y": 2659,
+          "content": "# Drei Modelle aus der gleichen Grundschnitt-Konstruktion aber mit unterschiedlichen Weiten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 252,
+          "top_left_y": 2695,
+          "bottom_right_x": 994,
+          "bottom_right_y": 3647,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1028,
+          "top_left_y": 2724,
+          "bottom_right_x": 1791,
+          "bottom_right_y": 3696,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 1849,
+          "top_left_y": 2765,
+          "bottom_right_x": 2621,
+          "bottom_right_y": 3745,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 374,
+          "top_left_y": 3659,
+          "bottom_right_x": 843,
+          "bottom_right_y": 3802,
+          "content": "☐4 Enges Kleid (Etuhleid)\naus dem taillierten OT-GS\nmit Brustabnäher (PK 3-4)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1100,
+          "top_left_y": 3708,
+          "bottom_right_x": 1688,
+          "bottom_right_y": 3851,
+          "content": "☐5 Damen-Blazer\naus dem taillierten OT-GS mit\nBrustabnäher (PK 5-7)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1916,
+          "top_left_y": 3757,
+          "bottom_right_x": 2469,
+          "bottom_right_y": 3900,
+          "content": "☐6 Trenchcoat\naus dem taillierten OT-GS mit\nBrustabnäher (PK 9-10)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 56,
+          "top_left_y": 3757,
+          "bottom_right_x": 143,
+          "bottom_right_y": 3810,
+          "content": "172",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3433682
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s172.jpg",
+    "orientation": "EXIF-Orientierung angewendet",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      153,
+      0,
+      2800,
+      4080
+    ],
+    "cropped": true,
+    "note": "Bounding Boxes der OCR-Antwort beziehen sich auf das OCR-Eingabebild."
+  }
+}

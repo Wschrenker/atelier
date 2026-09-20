@@ -1,0 +1,362 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Oberteil-Grundschnitte\n\n# Weite an erprobtem Oberteil-Grundschnitt reduzieren\nKorsagen-Grundschnitt aus dem Kleider-Grundschnitt, PK 0 aus PK 3\n\nKorsagen-Grundschnitt aus dem\ntaillierter Oberteil-Grundschnitt\n\nIm Prinzip gibt es zwei Möglichkeiten, einen Korsagen-Grundschnitt zu erstellen:\n\n1. Man konstruiert den Korsagen-Grundschnitt im Passformklasse 0 oder 1 wie auf den vorhergehenden Seiten gezeigt.\n2. Man reduziert die Weite eines erprobten Kleider-Grundschnitt zu einem Korsagen-Grundschnitt.\n\nHier wird das Verkleinern eines vorhandenen Kleider-Grundschnitts mit der Passformklasse 3 zu einem Korsagen-Grundschnitt mit der Passformklasse 0 gezeigt.\n\nDurch diese Methode erspart man sich eine erneute Konstruktion mit kleineren Zugaben und die aufwändige Passformoptimierung. Voraussetzung ist ein optimierter, eng anliegender Oberteil-Grundschnitt.\n\n☐2 Ausschnitt aus der Zugabentabelle\n\n# Differenzen ermitteln\n\nDie Differenzbeträge zwischen den Zugaben von PK 3 und PK 0 ermitteln.\n\nAm Oberteil-GS der PK 3 werden die überschüssigen Weiten durch Zulegen und Wegzeichnen entfernt.\n\n# 1 BrW reduzieren\n\n1 Für die Reduzierung der BrB und der RüB am VT und am RT so einschneiden, dass kein Abnäher \"verletzt\" wird.\n2 Dann die entsprechenden Differenzbeträge zugelegen.\n3 Der ArD wird an den SN jeweils um ½ Differenzbetrags verschmälert.\n\n# 2 Armloch anheben\n\n4 Die AIT um den Differenzbetrag (1,3 cm) (die Brustlinie) anheben.\n\n# 3 „Puschen“\n\n5 Den Brustpunkt anheben: Für kleinere Brüste ca. 0 bis 1 cm, bei großen Brüsten bis ca. 3 cm. Brust- und Taillenabnäher neu zeichnen.\n\n# 4 HüW und TaW anpassen\n\n6 Die neue ½ TaW messen und ggf. überschüssige Weite jeweils zur Hälfte an den Seitennähten entfernen.\n7 Mehrweite an der Hüfte kann im Korsagen-GS verbleiben. Alternativ kann wie an der Taille überschüssige Weite an der Seitennäht entfernt werden.\n\n[tbl-0.md](tbl-0.md)\n\n☐1 Ausschnitt aus dem Maßsatz des vorhandenen Grundschnitts, PK3\n\nZugabentabelle für Oberteil-Konstruktionen\n\n[tbl-1.md](tbl-1.md)\n\nZugabe zur BrB:\n\n[tbl-2.md](tbl-2.md)\n\nZugabe zum ArD:\n\n[tbl-3.md](tbl-3.md)\n\nZugabe zur RüB:\n\n[tbl-4.md](tbl-4.md)\n\n![img-0.jpeg](img-0.jpeg)\n\n= 49,2 cm\n\n196",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 994,
+          "top_left_y": 1780,
+          "bottom_right_x": 2359,
+          "bottom_right_y": 3441,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionstabelle alle Maßangaben in cm Oberteil | Name |  |   |   |   |   | Größe | 2a  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | taillierter Oberteil-GS |   | PK | 3  |\n|   | Hauptmaße (Kennmaße) | Körpermaße | Zugaben |   | Körpermaße (1,3 cm) (Körper 1a)  |   |   |   |   |\n|  KöH | Körperhöhe | 168 |  |   |   |   |   |   |   |\n|  BrU | Brustumfang | 88 | × | 6 | × | BrW | 94 | ½ | 47  |\n|  TaU | Taillenumfang | 72 | × | 4 | × | TaW | 76 | ½ | 38  |\n|  HüU | Hüftumfang | 97 | × | 4 | × | HüW | 101 | ½ | 50,5  |\n|  AIT | Armlochtiefe | 20,1 | × | 1,3 | × | AIT+ | 21,4 |   |   |\n|  HUT | Hüfttiefe | 21 |  |  | MeL | Modelllänge | 95  |   |   |\n|  BrT | Brusttiefe (ab Schulter) | 28,1 |   |   | HIB | Halslochbreite | 6,5  |   |   |\n|  RüB | Rückenbreite (½) | 16,5 | × | 0,5 | × | RüB+ | 17 |   |   |\n|  ArD | Armdurchmesser | 9,3 | × | 1,5 | × | ArD+ | 10,8 | ¼ | 2,7  |\n|  BrB | Brustbreite (½) | 18,2 | × | 1 | × | BrB+ | 19,2 |   |   |\n|   | Kontrollie: Σ = ½ BrU | 44 | × | 3 | × | ½ BrW | 47 |   |   |\n|  SuB | Schulterbreite | 12,2 | × | 0,3 | × | SuML | 12,5 |   |   |\n|  hSuML | hintere Schulternahltlänge | SuML = 2 (Haltzwert), 0,3 cm bis 1 cm | × | 0,7 | × | hSuML | 13,2 |   |   |\n|  SuWI | Schulterwinkel (in Grad, °) | 20° Am lockenleg | — | — | × | SuWI | 20° |   |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  Passformklasse | Zugaben (für den ganzen Schnitt) |   |   | AIT | BrW-Zugaben (für ½ Zunehm) |   |   | SuB  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  BrT | TaU | HüU |   | RüB | ArD | BrB  |   |\n|  0 | 0 | 0 | 0 | 0 - 0,5 | 0 | 0 | 0 - 0,4 | 0  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  PK 3 | 1,0 cm  |\n| --- | --- |\n|  PK 0 | 0,2 cm  |\n|  Differenz = | 0,8 cm  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  PK 3 | 1,5 cm  |\n| --- | --- |\n|  PK 0 | 0 cm  |\n|  Differenz = | 1,5 cm  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-4.md",
+          "content": "|  PK 3 | 0,5 cm  |\n| --- | --- |\n|  PK 0 | 0 cm  |\n|  Differenz = | 0,5 cm  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3600,
+        "width": 2515
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 217,
+          "top_left_y": 126,
+          "bottom_right_x": 582,
+          "bottom_right_y": 241,
+          "content": "# Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 639,
+          "top_left_y": 115,
+          "bottom_right_x": 2314,
+          "bottom_right_y": 245,
+          "content": "# Weite an erprobtem Oberteil-Grundschnitt reduzieren\nKorsagen-Grundschnitt aus dem Kleider-Grundschnitt, PK 0 aus PK 3",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 209,
+          "top_left_y": 270,
+          "bottom_right_x": 310,
+          "bottom_right_y": 832,
+          "content": "Korsagen-Grundschnitt aus dem\ntaillierter Oberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 403,
+          "top_left_y": 357,
+          "bottom_right_x": 994,
+          "bottom_right_y": 479,
+          "content": "Im Prinzip gibt es zwei Möglichkeiten, einen Korsagen-Grundschnitt zu erstellen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 378,
+          "top_left_y": 501,
+          "bottom_right_x": 999,
+          "bottom_right_y": 804,
+          "content": "1. Man konstruiert den Korsagen-Grundschnitt im Passformklasse 0 oder 1 wie auf den vorhergehenden Seiten gezeigt.\n2. Man reduziert die Weite eines erprobten Kleider-Grundschnitt zu einem Korsagen-Grundschnitt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 368,
+          "top_left_y": 822,
+          "bottom_right_x": 984,
+          "bottom_right_y": 1027,
+          "content": "Hier wird das Verkleinern eines vorhandenen Kleider-Grundschnitts mit der Passformklasse 3 zu einem Korsagen-Grundschnitt mit der Passformklasse 0 gezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 368,
+          "top_left_y": 1045,
+          "bottom_right_x": 967,
+          "bottom_right_y": 1297,
+          "content": "Durch diese Methode erspart man sich eine erneute Konstruktion mit kleineren Zugaben und die aufwändige Passformoptimierung. Voraussetzung ist ein optimierter, eng anliegender Oberteil-Grundschnitt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 639,
+          "top_left_y": 1387,
+          "bottom_right_x": 972,
+          "bottom_right_y": 1463,
+          "content": "☐2 Ausschnitt aus der Zugabentabelle",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 352,
+          "top_left_y": 1542,
+          "bottom_right_x": 720,
+          "bottom_right_y": 1589,
+          "content": "# Differenzen ermitteln",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 347,
+          "top_left_y": 1607,
+          "bottom_right_x": 947,
+          "bottom_right_y": 1701,
+          "content": "Die Differenzbeträge zwischen den Zugaben von PK 3 und PK 0 ermitteln.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 327,
+          "top_left_y": 1712,
+          "bottom_right_x": 954,
+          "bottom_right_y": 1845,
+          "content": "Am Oberteil-GS der PK 3 werden die überschüssigen Weiten durch Zulegen und Wegzeichnen entfernt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 322,
+          "top_left_y": 1993,
+          "bottom_right_x": 665,
+          "bottom_right_y": 2040,
+          "content": "# 1 BrW reduzieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 297,
+          "top_left_y": 2058,
+          "bottom_right_x": 937,
+          "bottom_right_y": 2411,
+          "content": "1 Für die Reduzierung der BrB und der RüB am VT und am RT so einschneiden, dass kein Abnäher \"verletzt\" wird.\n2 Dann die entsprechenden Differenzbeträge zugelegen.\n3 Der ArD wird an den SN jeweils um ½ Differenzbetrags verschmälert.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 292,
+          "top_left_y": 2440,
+          "bottom_right_x": 665,
+          "bottom_right_y": 2486,
+          "content": "# 2 Armloch anheben",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 2501,
+          "bottom_right_x": 916,
+          "bottom_right_y": 2605,
+          "content": "4 Die AIT um den Differenzbetrag (1,3 cm) (die Brustlinie) anheben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 2634,
+          "bottom_right_x": 539,
+          "bottom_right_y": 2681,
+          "content": "# 3 „Puschen“",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 267,
+          "top_left_y": 2695,
+          "bottom_right_x": 906,
+          "bottom_right_y": 2886,
+          "content": "5 Den Brustpunkt anheben: Für kleinere Brüste ca. 0 bis 1 cm, bei großen Brüsten bis ca. 3 cm. Brust- und Taillenabnäher neu zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 267,
+          "top_left_y": 2919,
+          "bottom_right_x": 735,
+          "bottom_right_y": 2977,
+          "content": "# 4 HüW und TaW anpassen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 244,
+          "top_left_y": 2984,
+          "bottom_right_x": 894,
+          "bottom_right_y": 3351,
+          "content": "6 Die neue ½ TaW messen und ggf. überschüssige Weite jeweils zur Hälfte an den Seitennähten entfernen.\n7 Mehrweite an der Hüfte kann im Korsagen-GS verbleiben. Alternativ kann wie an der Taille überschüssige Weite an der Seitennäht entfernt werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1062,
+          "top_left_y": 357,
+          "bottom_right_x": 2389,
+          "bottom_right_y": 1171,
+          "content": "|  Konstruktionstabelle alle Maßangaben in cm Oberteil | Name |  |   |   |   |   | Größe | 2a  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | taillierter Oberteil-GS |   | PK | 3  |\n|   | Hauptmaße (Kennmaße) | Körpermaße | Zugaben |   | Körpermaße (1,3 cm) (Körper 1a)  |   |   |   |   |\n|  KöH | Körperhöhe | 168 |  |   |   |   |   |   |   |\n|  BrU | Brustumfang | 88 | × | 6 | × | BrW | 94 | ½ | 47  |\n|  TaU | Taillenumfang | 72 | × | 4 | × | TaW | 76 | ½ | 38  |\n|  HüU | Hüftumfang | 97 | × | 4 | × | HüW | 101 | ½ | 50,5  |\n|  AIT | Armlochtiefe | 20,1 | × | 1,3 | × | AIT+ | 21,4 |   |   |\n|  HUT | Hüfttiefe | 21 |  |  | MeL | Modelllänge | 95  |   |   |\n|  BrT | Brusttiefe (ab Schulter) | 28,1 |   |   | HIB | Halslochbreite | 6,5  |   |   |\n|  RüB | Rückenbreite (½) | 16,5 | × | 0,5 | × | RüB+ | 17 |   |   |\n|  ArD | Armdurchmesser | 9,3 | × | 1,5 | × | ArD+ | 10,8 | ¼ | 2,7  |\n|  BrB | Brustbreite (½) | 18,2 | × | 1 | × | BrB+ | 19,2 |   |   |\n|   | Kontrollie: Σ = ½ BrU | 44 | × | 3 | × | ½ BrW | 47 |   |   |\n|  SuB | Schulterbreite | 12,2 | × | 0,3 | × | SuML | 12,5 |   |   |\n|  hSuML | hintere Schulternahltlänge | SuML = 2 (Haltzwert), 0,3 cm bis 1 cm | × | 0,7 | × | hSuML | 13,2 |   |   |\n|  SuWI | Schulterwinkel (in Grad, °) | 20° Am lockenleg | — | — | × | SuWI | 20° |   |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 1032,
+          "top_left_y": 1193,
+          "bottom_right_x": 2057,
+          "bottom_right_y": 1236,
+          "content": "☐1 Ausschnitt aus dem Maßsatz des vorhandenen Grundschnitts, PK3",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1032,
+          "top_left_y": 1305,
+          "bottom_right_x": 1704,
+          "bottom_right_y": 1351,
+          "content": "Zugabentabelle für Oberteil-Konstruktionen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1027,
+          "top_left_y": 1355,
+          "bottom_right_x": 2359,
+          "bottom_right_y": 1521,
+          "content": "|  Passformklasse | Zugaben (für den ganzen Schnitt) |   |   | AIT | BrW-Zugaben (für ½ Zunehm) |   |   | SuB  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  BrT | TaU | HüU |   | RüB | ArD | BrB  |   |\n|  0 | 0 | 0 | 0 | 0 - 0,5 | 0 | 0 | 0 - 0,4 | 0  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1035,
+          "top_left_y": 1560,
+          "bottom_right_x": 1317,
+          "bottom_right_y": 1604,
+          "content": "Zugabe zur BrB:",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1035,
+          "top_left_y": 1625,
+          "bottom_right_x": 1397,
+          "bottom_right_y": 1755,
+          "content": "|  PK 3 | 1,0 cm  |\n| --- | --- |\n|  PK 0 | 0,2 cm  |\n|  Differenz = | 0,8 cm  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 1493,
+          "top_left_y": 1568,
+          "bottom_right_x": 1805,
+          "bottom_right_y": 1611,
+          "content": "Zugabe zum ArD:",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1490,
+          "top_left_y": 1629,
+          "bottom_right_x": 1865,
+          "bottom_right_y": 1762,
+          "content": "|  PK 3 | 1,5 cm  |\n| --- | --- |\n|  PK 0 | 0 cm  |\n|  Differenz = | 1,5 cm  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 1969,
+          "top_left_y": 1578,
+          "bottom_right_x": 2258,
+          "bottom_right_y": 1625,
+          "content": "Zugabe zur RüB:",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1966,
+          "top_left_y": 1640,
+          "bottom_right_x": 2341,
+          "bottom_right_y": 1784,
+          "content": "|  PK 3 | 0,5 cm  |\n| --- | --- |\n|  PK 0 | 0 cm  |\n|  Differenz = | 0,5 cm  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-4.md"
+        },
+        {
+          "top_left_x": 994,
+          "top_left_y": 1780,
+          "bottom_right_x": 2359,
+          "bottom_right_y": 3441,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 2120,
+          "top_left_y": 3449,
+          "bottom_right_x": 2271,
+          "bottom_right_y": 3477,
+          "content": "= 49,2 cm",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 63,
+          "top_left_y": 3333,
+          "bottom_right_x": 141,
+          "bottom_right_y": 3380,
+          "content": "196",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3016730
+  }
+}

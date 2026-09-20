@@ -1,0 +1,35 @@
+{
+  "source": "s196.jpg",
+  "source_orientation": "EXIF-aufgerichtet (Hochformat)",
+  "source_size_px": [
+    3060,
+    4080
+  ],
+  "bbox_bezug": "Pixel der aufrechten Vollseite",
+  "ocr_eingabe": "temporaerer Zuschnitt [410, 0, 2925, 3600] der aufrechten Vollseite",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s196_skizze_01.png",
+      "bbox_raw_pixels": [
+        1404,
+        1780,
+        2769,
+        3441
+      ]
+    },
+    {
+      "id": "manuell-02",
+      "file": "skizzen/s196_skizze_02.png",
+      "bbox_raw_pixels": [
+        1380,
+        1740,
+        2915,
+        3500
+      ],
+      "herkunft": "manuell am vollstaendigen Originalbild ergaenzt (nicht von der OCR erkannt)",
+      "begruendung": "Die automatische Bildregion img-0.jpeg schneidet den rechten Rand (Anmerkungen 'mit 1/2 Taillenweite ueberpruefen', '1/2 TaW = 34,7 cm', 'mit 1/2 Hueftweite ueberpruefen', '1/2 HueW') und die unterste Zeile der Zeichnung ab; dieser Ausschnitt zeigt die vollstaendige Zeichnung."
+    }
+  ]
+}

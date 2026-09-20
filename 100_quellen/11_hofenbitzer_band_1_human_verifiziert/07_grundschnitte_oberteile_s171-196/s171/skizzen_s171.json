@@ -1,0 +1,103 @@
+{
+  "page": "s171",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s171.jpg",
+  "orientation": "EXIF-Orientierung angewendet",
+  "upright_size": [
+    3060,
+    4080
+  ],
+  "crop_box_in_upright_px": [
+    444,
+    0,
+    3060,
+    4080
+  ],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s171_skizze_01.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        73,
+        2287,
+        752,
+        3782
+      ],
+      "bbox_upright_px": [
+        517,
+        2287,
+        1196,
+        3782
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s171_skizze_02.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1144,
+        2271,
+        1686,
+        3680
+      ],
+      "bbox_upright_px": [
+        1588,
+        2271,
+        2130,
+        3680
+      ]
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s171_skizze_03.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1668,
+        1630,
+        2255,
+        2234
+      ],
+      "bbox_upright_px": [
+        2112,
+        1630,
+        2699,
+        2234
+      ]
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s171_skizze_04.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1773,
+        2299,
+        2325,
+        3631
+      ],
+      "bbox_upright_px": [
+        2217,
+        2299,
+        2769,
+        3631
+      ]
+    },
+    {
+      "id": "manuell-5",
+      "file": "skizzen/s171_skizze_05.png",
+      "origin": "manuell",
+      "bbox_ocr_input_px": [
+        954,
+        469,
+        2367,
+        1734
+      ],
+      "bbox_upright_px": [
+        1398,
+        469,
+        2811,
+        1734
+      ]
+    }
+  ]
+}

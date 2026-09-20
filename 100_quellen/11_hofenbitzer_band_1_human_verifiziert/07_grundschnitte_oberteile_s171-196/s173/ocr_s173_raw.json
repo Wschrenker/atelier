@@ -1,0 +1,378 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Grundschnitt-Typen\n\nAnalyse verschiedener Oberteile (2)\n\nVerschiedene Oberteil-Grundschnitt-Typen\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n☐7 Legerer Oberteil-GS ohne Abnäher\n\n☐8 Legerer Oberteil-GS mit Brustabnäher\n\n☐9 Taillierter Oberteil-GS\n\n☐10 Enger Oberteil-GS für elastische Materialien ohne und mit Brustabnäher\n\nZwei Modelle mit gleicher Weite, aber unterschiedlichen Grundschnitt-Konstruktionen\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\n☐11 Enges Shirt aus dem engen OT-GS mit Abnäher für elastische Materialien (PK 1-2)\n\n☐12 Korsagen-Kleid aus dem taillierten OT-GS mit Brustabnäher (PK 1-2)\n\nDrei Modelle die jeweils aus den gleichen oder verschiedenen Grundschnitt-Konstruktionen entwickelt werden\n\n![img-7.jpeg](img-7.jpeg)\n\n![img-8.jpeg](img-8.jpeg)\n\n![img-9.jpeg](img-9.jpeg)\n\n☐13 Hemdbluse aus tailliertem-OT-GS mit Abnähern oder legerem OT-GS ohne Abnäher (PK 5-7)\n\n☐14 Blouson aus tailliertem OT-GS oder legerem OT-GS ohne Abnäher (PK 7-9)\n\n☐15 Outdoor-Jacke aus tailliertem OT-GS oder legerem OT-GS ohne Abnäher (PK 7-9)\n\nAnalyse verschiedener Oberteile\n\n173",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 29,
+          "top_left_y": 543,
+          "bottom_right_x": 463,
+          "bottom_right_y": 1115,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 532,
+          "top_left_y": 564,
+          "bottom_right_x": 969,
+          "bottom_right_y": 1131,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1123,
+          "top_left_y": 629,
+          "bottom_right_x": 1529,
+          "bottom_right_y": 1180,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1592,
+          "top_left_y": 670,
+          "bottom_right_x": 1982,
+          "bottom_right_y": 1180,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 13,
+          "top_left_y": 1450,
+          "bottom_right_x": 733,
+          "bottom_right_y": 2348,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 791,
+          "top_left_y": 1470,
+          "bottom_right_x": 1453,
+          "bottom_right_y": 2328,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 1637,
+          "top_left_y": 1772,
+          "bottom_right_x": 2095,
+          "bottom_right_y": 2242,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 1511,
+          "top_left_y": 2634,
+          "bottom_right_x": 2166,
+          "bottom_right_y": 3512,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-8.jpeg",
+          "top_left_x": 791,
+          "top_left_y": 2659,
+          "bottom_right_x": 1459,
+          "bottom_right_y": 3602,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-9.jpeg",
+          "top_left_x": 13,
+          "top_left_y": 2683,
+          "bottom_right_x": 738,
+          "bottom_right_y": 3639,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2616
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 45,
+          "top_left_y": 192,
+          "bottom_right_x": 605,
+          "bottom_right_y": 265,
+          "content": "Grundschnitt-Typen",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 45,
+          "top_left_y": 265,
+          "bottom_right_x": 1024,
+          "bottom_right_y": 396,
+          "content": "Analyse verschiedener Oberteile (2)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 55,
+          "top_left_y": 445,
+          "bottom_right_x": 838,
+          "bottom_right_y": 523,
+          "content": "Verschiedene Oberteil-Grundschnitt-Typen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 29,
+          "top_left_y": 543,
+          "bottom_right_x": 463,
+          "bottom_right_y": 1115,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 532,
+          "top_left_y": 564,
+          "bottom_right_x": 969,
+          "bottom_right_y": 1131,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1123,
+          "top_left_y": 629,
+          "bottom_right_x": 1529,
+          "bottom_right_y": 1180,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1592,
+          "top_left_y": 670,
+          "bottom_right_x": 1982,
+          "bottom_right_y": 1180,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 60,
+          "top_left_y": 1123,
+          "bottom_right_x": 411,
+          "bottom_right_y": 1188,
+          "content": "☐7 Legerer Oberteil-GS ohne Abnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 553,
+          "top_left_y": 1123,
+          "bottom_right_x": 937,
+          "bottom_right_y": 1213,
+          "content": "☐8 Legerer Oberteil-GS mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1173,
+          "top_left_y": 1172,
+          "bottom_right_x": 1409,
+          "bottom_right_y": 1250,
+          "content": "☐9 Taillierter Oberteil-GS",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1637,
+          "top_left_y": 1197,
+          "bottom_right_x": 2006,
+          "bottom_right_y": 1331,
+          "content": "☐10 Enger Oberteil-GS für elastische Materialien ohne und mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 45,
+          "top_left_y": 1335,
+          "bottom_right_x": 1582,
+          "bottom_right_y": 1429,
+          "content": "Zwei Modelle mit gleicher Weite, aber unterschiedlichen Grundschnitt-Konstruktionen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 13,
+          "top_left_y": 1450,
+          "bottom_right_x": 733,
+          "bottom_right_y": 2348,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 791,
+          "top_left_y": 1470,
+          "bottom_right_x": 1453,
+          "bottom_right_y": 2328,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 1637,
+          "top_left_y": 1772,
+          "bottom_right_x": 2095,
+          "bottom_right_y": 2242,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 84,
+          "top_left_y": 2365,
+          "bottom_right_x": 660,
+          "bottom_right_y": 2475,
+          "content": "☐11 Enges Shirt aus dem engen OT-GS mit Abnäher für elastische Materialien (PK 1-2)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 841,
+          "top_left_y": 2348,
+          "bottom_right_x": 1356,
+          "bottom_right_y": 2455,
+          "content": "☐12 Korsagen-Kleid aus dem taillierten OT-GS mit Brustabnäher (PK 1-2)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 39,
+          "top_left_y": 2508,
+          "bottom_right_x": 2014,
+          "bottom_right_y": 2602,
+          "content": "Drei Modelle die jeweils aus den gleichen oder verschiedenen Grundschnitt-Konstruktionen entwickelt werden",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1511,
+          "top_left_y": 2634,
+          "bottom_right_x": 2166,
+          "bottom_right_y": 3512,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        },
+        {
+          "top_left_x": 791,
+          "top_left_y": 2659,
+          "bottom_right_x": 1459,
+          "bottom_right_y": 3602,
+          "content": "![img-8.jpeg](img-8.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-8.jpeg"
+        },
+        {
+          "top_left_x": 13,
+          "top_left_y": 2683,
+          "bottom_right_x": 738,
+          "bottom_right_y": 3639,
+          "content": "![img-9.jpeg](img-9.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-9.jpeg"
+        },
+        {
+          "top_left_x": 60,
+          "top_left_y": 3651,
+          "bottom_right_x": 710,
+          "bottom_right_y": 3782,
+          "content": "☐13 Hemdbluse aus tailliertem-OT-GS mit Abnähern oder legerem OT-GS ohne Abnäher (PK 5-7)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 848,
+          "top_left_y": 3614,
+          "bottom_right_x": 1472,
+          "bottom_right_y": 3725,
+          "content": "☐14 Blouson aus tailliertem OT-GS oder legerem OT-GS ohne Abnäher (PK 7-9)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1576,
+          "top_left_y": 3529,
+          "bottom_right_x": 2098,
+          "bottom_right_y": 3635,
+          "content": "☐15 Outdoor-Jacke aus tailliertem OT-GS oder legerem OT-GS ohne Abnäher (PK 7-9)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2134,
+          "top_left_y": 707,
+          "bottom_right_x": 2213,
+          "bottom_right_y": 1074,
+          "content": "Analyse verschiedener Oberteile",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2281,
+          "top_left_y": 3610,
+          "bottom_right_x": 2352,
+          "bottom_right_y": 3659,
+          "content": "173",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3529167
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s173.jpg",
+    "orientation": "EXIF-Orientierung angewendet",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      444,
+      0,
+      3060,
+      4080
+    ],
+    "cropped": true,
+    "note": "Bounding Boxes der OCR-Antwort beziehen sich auf das OCR-Eingabebild."
+  }
+}

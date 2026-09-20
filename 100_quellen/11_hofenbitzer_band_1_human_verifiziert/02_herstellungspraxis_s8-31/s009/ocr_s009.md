@@ -26,7 +26,7 @@ Systematik, Eigenschaften, Beträge, Werte, Operanden, Aktionen
 - Die Systematik soll es ermöglichen, einfache und verständliche neue Abkürzungskombinationen selber zusammen zu stellen.
 - Die Abkürzungen werden gelesen, wie man die Begriffskombinationen spricht.
 - Bei Abkürzungskombinationen werden die Kurzzeichen ohne Zwischenraum oder Punkt verbunden.
-- Doppelte Bedeutungen sind sehr selten und lassen sich durch den Zusammenhang klären: ALT = Armlochtiefe, TB = Taschenbreite, Tb = Taschenbeutel. Abkürzungen für Beträge und Werte (z.B. T = Tiefe) stehen immer am Ende einer Abkürzung.
+- Doppelte Bedeutungen sind sehr selten und lassen sich durch den Zusammenhang klären: AlT = Armlochtiefe, TB = Taschenbreite, Tb = Taschenbeutel. Abkürzungen für Beträge und Werte (z.B. T = Tiefe) stehen immer am Ende einer Abkürzung.
 - Kombinationen mit ausgeschriebenen Begriffen können durch einen Bindestrich getrennt sein, z.B. Kr-Steg = „Kragensteg“.
 - Ein Bindestrich ersetzt auch eine Präposition oder modale Konjugation, z.B. vM-N = vordere Mitte als Naht oder 2x-p OSt = Zuschnitt von zwei Schnittteilen paarig (spiegelsymmetrisch) aus Oberstoff.
 

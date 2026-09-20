@@ -59,7 +59,7 @@ und Werte", „Operanden", „Aktionen").
 **Auffällig (noch nicht bestätigt):**
 
 - Zeile „mal in Berechnungen": Die OCR gibt hier einen Grundlinien-Punkt „.“
-  wieder. Im Foto wirkt das Zeichen wie ein mittig gesetzter Punkt „·“
+  wieder. Im Foto wirkt das Zeichen wie ein mittig gesetzter Punkt „·“ mittig!!!
   (Malpunkt), nicht wie ein Dezimalpunkt. Am Original zu klären, welches
   Zeichen tatsächlich gedruckt ist.
 - Zeile „entspricht": Die Symbolspalte ist bei der OCR leer geblieben. Beim
@@ -67,7 +67,7 @@ und Werte", „Operanden", „Aktionen").
   Seitenbereich nicht, siehe stattdessen die Prüfstellen in `s009.md`) ist
   an dieser Stelle im Original ebenfalls kein Symbol sichtbar – zu
   bestätigen, dass das kein Druck- oder Aufnahmefehler ist, sondern die
-  Buchseite hier tatsächlich ohne Symbol auskommt.
+  Buchseite hier tatsächlich ohne Symbol auskommt.  hier hat es kein symbol ist korrekt. buch hat hier fehler. 
 
 ## tbl-3 – Aktionen
 
