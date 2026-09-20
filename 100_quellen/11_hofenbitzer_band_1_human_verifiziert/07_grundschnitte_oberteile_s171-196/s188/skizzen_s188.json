@@ -1,0 +1,35 @@
+{
+  "seite": "s188",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s188.jpg (kein Zuschnitt vor der OCR; siehe s188.md, Abschnitt Anmerkungen zur OCR-Eingabe)",
+  "hinweis": "Pixelkoordinaten beziehen sich auf die OCR-Eingabe in ihrer rohen Dateiorientierung (4080x3060, EXIF-Orientation 6 = 90° im Uhrzeigersinn drehen für aufrechte Ansicht). Die gespeicherten PNG-Ausschnitte sind bereits aufrecht gedreht (Rotation um 90° im Uhrzeigersinn aus der rohen Bounding Box). Beide Regionen wurden von der OCR automatisch erkannt; keine manuell ergänzten Bereiche nötig.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s188_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_rohbild_pixel": {
+        "top_left_x": 543,
+        "top_left_y": 322,
+        "bottom_right_x": 1250,
+        "bottom_right_y": 1391
+      },
+      "beschreibung": "Drei stehende Torso-Figurinen mit Beschriftung \"Elastic\" (zwei rosa, eine blau); linke Figur ohne sichtbare Abnäherlinien, mittlere Figur mit Abnäherlinien am Vorderteil, rechte (blaue) Figur in Rückansicht mit Abnähern",
+      "zugehoerige_ocr_bildunterschrift": "☐1d UNISEX: Enger Oberteil-GS für elastische Materialien mit und ohne Brustabnäher",
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s188_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_rohbild_pixel": {
+        "top_left_x": 2406,
+        "top_left_y": 392,
+        "bottom_right_x": 2851,
+        "bottom_right_y": 824
+      },
+      "beschreibung": "Schematische Körperfigur mit vier Maßpfeilen: ovale Kästchen \"168\" (seitlich, Körperhöhe), \"88\", \"68\", \"97\" (Brust-/Taillen-/Hüfthöhe) zeigen per Pfeil auf vier rechteckige Kästchen \"1\", \"2\", \"...\", \"0\" rechts der Figur. Kein eigener Bildunterschriftentext in der OCR-Ausgabe erkannt.",
+      "zugehoerige_ocr_bildunterschrift": null,
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "bestaetigt": false
+    }
+  ]
+}

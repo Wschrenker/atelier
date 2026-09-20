@@ -1,0 +1,322 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Kontrolle und Korrektur der Balance bei schwierigen Figuren (2)\nEine kurze Erläuterung der Vorgehensweise\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n☐4a Figur mit rundem Rücken\n\n☐5a Figur mit geradem Rücken\n\n☐6a Figur mit extrem rundem Rücken und eingefallener Brust (Buckel, Skollose)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n☐4b Optimierung für runden Rücken:\nFür die Konstruktion wurde die RüL um 1,5 cm gekürzt. Diese Kürzung um 1,5 cm wird nun an der Konstruktion wieder ergänzt. Der Schulterabnäher wird größer.\n\nlen Balance ab, muss nach der Ursache geforscht werden. Die Figur wird in der Seitenansicht analysiert und die Maße ggf. noch einmal zum exakt waagerecht liegenden Taillenband nachgewiesen.\n\n# 2 Konstruktionsmaße normalisieren\n\n☐7 Das Balance-Problem wird errechnet und entsprechend der Figurbeobachtung werden abweichende Maße so korrigiert, dass sie den optimalen Proportionen einer „Normalfigur“ entsprechen.\n\n☐2a So wird z.B. bei einer Figur mit starker Brust die zu lange VL so weit gekürzt dass die „Balance“ zwischen VL und RüL stimmt.\n\n☐5b Optimierung für runden Rücken:\nFür die Konstruktion wurde die RüL um 1 cm verlängert. Diese Verlängerung um 1 cm wird nun an der Konstruktion wieder reduziert. Der Schulterabnäher wird kleiner.\n\n# 3 Grundschnittkonstruktion\n\n☐1b Mit den „normalisierten“ bzw. optimierten Balancemaßen der VL und der RüL wird nun der Grundschnitt konstruiert.\n\nDie Maße der Figurbeispiele sind hier so gewählt, dass für alle drei Figuren, obwohl sie sehr unterschiedlich sind, das gleiche Grundgerüst konstruiert wird.\n\n# 4 Grundschnittoptimierung\n\n☐5 Der auf diese Weise konstruierte Grundschnitt ist für die besondere Figur noch nicht passend. In ☐2b-6b wird gezeigt, wie die jeweiligen Schnittanpassungen für die speziellen Figuren vorgenommen werden.\n\n☐6b Optimierung für die Skollose:\nFür die Konstruktion wurde die VL um 1,5 cm verlängert, die RüL um 2,5 cm gekürzt. Diese VL-Verlängerung um 1,5 cm wird nun an der Konstruktion wieder reduziert und die RüL-Kürzung um 2,5 cm wieder verlängert. Der Brustabnäher wird kleiner, der Schulterabnäher wird größer.\n\nDort, wo zuvor ein Balancemaß gekürzt wurde, wird am Grundschnitt geöffnet. Wo ein Balancemaß vergrößert wurde, wird am Grundschnitt zugelegt. Jetzt stimmen die Maße am Grundschnitt wieder mit den gemessenen Körpermaßen VL und RüL überein.\n\nNur durch diese Anpassungen der Schnittflächen sowie durch die Formung der Nähte erhält ein Grundschnitt die für das Figurproblem notwendige Form.\n\nWeitere wichtige Figurprobleme und deren schnitttechnische Behandlung werden in Band 2 „Maßschnitte und Passform“ genauer beschrieben.\n\n175",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 45,
+          "top_left_y": 388,
+          "bottom_right_x": 708,
+          "bottom_right_y": 1572,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 838,
+          "top_left_y": 433,
+          "bottom_right_x": 1456,
+          "bottom_right_y": 1589,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1580,
+          "top_left_y": 511,
+          "bottom_right_x": 2167,
+          "bottom_right_y": 1601,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 111,
+          "top_left_y": 1715,
+          "bottom_right_x": 581,
+          "bottom_right_y": 2683,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1430,
+          "top_left_y": 1732,
+          "bottom_right_x": 2299,
+          "bottom_right_y": 2614,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 864,
+          "top_left_y": 1748,
+          "bottom_right_x": 1284,
+          "bottom_right_y": 2646,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2640
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 45,
+          "top_left_y": 216,
+          "bottom_right_x": 1742,
+          "bottom_right_y": 425,
+          "content": "# Kontrolle und Korrektur der Balance bei schwierigen Figuren (2)\nEine kurze Erläuterung der Vorgehensweise",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 45,
+          "top_left_y": 388,
+          "bottom_right_x": 708,
+          "bottom_right_y": 1572,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 838,
+          "top_left_y": 433,
+          "bottom_right_x": 1456,
+          "bottom_right_y": 1589,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1580,
+          "top_left_y": 511,
+          "bottom_right_x": 2167,
+          "bottom_right_y": 1601,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 87,
+          "top_left_y": 1589,
+          "bottom_right_x": 600,
+          "bottom_right_y": 1630,
+          "content": "☐4a Figur mit rundem Rücken",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 893,
+          "top_left_y": 1601,
+          "bottom_right_x": 1369,
+          "bottom_right_y": 1650,
+          "content": "☐5a Figur mit geradem Rücken",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1517,
+          "top_left_y": 1617,
+          "bottom_right_x": 2146,
+          "bottom_right_y": 1691,
+          "content": "☐6a Figur mit extrem rundem Rücken und eingefallener Brust (Buckel, Skollose)",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 111,
+          "top_left_y": 1715,
+          "bottom_right_x": 581,
+          "bottom_right_y": 2683,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1430,
+          "top_left_y": 1732,
+          "bottom_right_x": 2299,
+          "bottom_right_y": 2614,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 864,
+          "top_left_y": 1748,
+          "bottom_right_x": 1284,
+          "bottom_right_y": 2646,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 34,
+          "top_left_y": 2704,
+          "bottom_right_x": 751,
+          "bottom_right_y": 2904,
+          "content": "☐4b Optimierung für runden Rücken:\nFür die Konstruktion wurde die RüL um 1,5 cm gekürzt. Diese Kürzung um 1,5 cm wird nun an der Konstruktion wieder ergänzt. Der Schulterabnäher wird größer.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 34,
+          "top_left_y": 2990,
+          "bottom_right_x": 758,
+          "bottom_right_y": 3300,
+          "content": "len Balance ab, muss nach der Ursache geforscht werden. Die Figur wird in der Seitenansicht analysiert und die Maße ggf. noch einmal zum exakt waagerecht liegenden Taillenband nachgewiesen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 48,
+          "top_left_y": 3320,
+          "bottom_right_x": 753,
+          "bottom_right_y": 3378,
+          "content": "# 2 Konstruktionsmaße normalisieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 34,
+          "top_left_y": 3394,
+          "bottom_right_x": 764,
+          "bottom_right_y": 3712,
+          "content": "☐7 Das Balance-Problem wird errechnet und entsprechend der Figurbeobachtung werden abweichende Maße so korrigiert, dass sie den optimalen Proportionen einer „Normalfigur“ entsprechen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 34,
+          "top_left_y": 3725,
+          "bottom_right_x": 766,
+          "bottom_right_y": 3949,
+          "content": "☐2a So wird z.B. bei einer Figur mit starker Brust die zu lange VL so weit gekürzt dass die „Balance“ zwischen VL und RüL stimmt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 819,
+          "top_left_y": 2663,
+          "bottom_right_x": 1501,
+          "bottom_right_y": 2871,
+          "content": "☐5b Optimierung für runden Rücken:\nFür die Konstruktion wurde die RüL um 1 cm verlängert. Diese Verlängerung um 1 cm wird nun an der Konstruktion wieder reduziert. Der Schulterabnäher wird kleiner.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 830,
+          "top_left_y": 2949,
+          "bottom_right_x": 1374,
+          "bottom_right_y": 2998,
+          "content": "# 3 Grundschnittkonstruktion",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 825,
+          "top_left_y": 3006,
+          "bottom_right_x": 1501,
+          "bottom_right_y": 3235,
+          "content": "☐1b Mit den „normalisierten“ bzw. optimierten Balancemaßen der VL und der RüL wird nun der Grundschnitt konstruiert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 825,
+          "top_left_y": 3226,
+          "bottom_right_x": 1506,
+          "bottom_right_y": 3467,
+          "content": "Die Maße der Figurbeispiele sind hier so gewählt, dass für alle drei Figuren, obwohl sie sehr unterschiedlich sind, das gleiche Grundgerüst konstruiert wird.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 830,
+          "top_left_y": 3471,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 3529,
+          "content": "# 4 Grundschnittoptimierung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 830,
+          "top_left_y": 3529,
+          "bottom_right_x": 1520,
+          "bottom_right_y": 3900,
+          "content": "☐5 Der auf diese Weise konstruierte Grundschnitt ist für die besondere Figur noch nicht passend. In ☐2b-6b wird gezeigt, wie die jeweiligen Schnittanpassungen für die speziellen Figuren vorgenommen werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1546,
+          "top_left_y": 2638,
+          "bottom_right_x": 2299,
+          "bottom_right_y": 2900,
+          "content": "☐6b Optimierung für die Skollose:\nFür die Konstruktion wurde die VL um 1,5 cm verlängert, die RüL um 2,5 cm gekürzt. Diese VL-Verlängerung um 1,5 cm wird nun an der Konstruktion wieder reduziert und die RüL-Kürzung um 2,5 cm wieder verlängert. Der Brustabnäher wird kleiner, der Schulterabnäher wird größer.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1557,
+          "top_left_y": 2961,
+          "bottom_right_x": 2212,
+          "bottom_right_y": 3300,
+          "content": "Dort, wo zuvor ein Balancemaß gekürzt wurde, wird am Grundschnitt geöffnet. Wo ein Balancemaß vergrößert wurde, wird am Grundschnitt zugelegt. Jetzt stimmen die Maße am Grundschnitt wieder mit den gemessenen Körpermaßen VL und RüL überein.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1567,
+          "top_left_y": 3308,
+          "bottom_right_x": 2222,
+          "bottom_right_y": 3569,
+          "content": "Nur durch diese Anpassungen der Schnittflächen sowie durch die Formung der Nähte erhält ein Grundschnitt die für das Figurproblem notwendige Form.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1575,
+          "top_left_y": 3565,
+          "bottom_right_x": 2238,
+          "bottom_right_y": 3786,
+          "content": "Weitere wichtige Figurprobleme und deren schnitttechnische Behandlung werden in Band 2 „Maßschnitte und Passform“ genauer beschrieben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2347,
+          "top_left_y": 3721,
+          "bottom_right_x": 2431,
+          "bottom_right_y": 3774,
+          "content": "175",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3039534
+  }
+}

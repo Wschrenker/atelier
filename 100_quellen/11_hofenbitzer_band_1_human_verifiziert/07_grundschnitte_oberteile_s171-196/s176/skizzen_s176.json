@@ -1,0 +1,72 @@
+{
+  "page": "s176",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s176.jpg",
+  "orientation": "EXIF-Orientierung angewendet",
+  "upright_size": [
+    3060,
+    4080
+  ],
+  "crop_box_in_upright_px": [
+    0,
+    0,
+    2860,
+    4080
+  ],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s176_skizze_01.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        2282,
+        1634,
+        2829,
+        2140
+      ],
+      "bbox_upright_px": [
+        2282,
+        1634,
+        2829,
+        2140
+      ],
+      "beschreibung": "Körpermaße-Piktogramm: Körpersilhouette mit Kreispunkten 1-8, Zahlen 168/88/72/97 und Zugabewerten 5/10/10/7 (Bildunterschrift ☐1)"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s176_skizze_02.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        587,
+        2597,
+        1334,
+        3006
+      ],
+      "bbox_upright_px": [
+        587,
+        2597,
+        1334,
+        3006
+      ],
+      "beschreibung": "Körperquerschnitt in Brusthöhe mit Labels vordere Mitte, Brustbreite (BrB), Armdurchmesser (ArD), Arm, Rückenbreite (RüB), hintere Mitte (Bildunterschrift ☐2)"
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s176_skizze_03.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1506,
+        2683,
+        1852,
+        3451
+      ],
+      "bbox_upright_px": [
+        1506,
+        2683,
+        1852,
+        3451
+      ],
+      "beschreibung": "Rückenansicht-Skizze mit farbigen Markierungen und Label AIT (Bildunterschrift ☐3)"
+    }
+  ]
+}

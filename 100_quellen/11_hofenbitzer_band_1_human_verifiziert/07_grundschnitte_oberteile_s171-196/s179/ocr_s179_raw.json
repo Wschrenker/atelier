@@ -1,0 +1,228 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Grundgerüst für sämtliche Oberteil-Grundschnitte (1)\ncheckliste, hintere Mitte und erste Linien\n\n![img-0.jpeg](img-0.jpeg)\n\n□1c Taillierter Oberteil-GS mit Naht an der hinteren Mitte\n\n□1d Eriger Oberteil-GS für elastische Materialien ohne und mit Brustabnäher\n\n# 2 Erste Linien und hM zeichnen\n\n1 ☐3 Senkrechte Grundlinie rechts am Blattrand zeichnen und oben bei P1 rechtwinklig ca. 20 cm abwinkeln.\n2 Von P1 sind HIB :3 + 1 cm nach unten abzutragen.\n3 Von P2 die Modelllänge (MoL) nach unten abtragen. Von dort weit nach links abwinkeln → Saumlinie\n4 Von P2 die Armlochtiefe mit Zugabe (AIT+) nach unten abtragen. Von dort weit nach links abwinkeln → Brustlinie\n5 Von P2 die Rückenlänge (RüL) nach unten abtragen. Von dort weit nach links abwinkeln → Taillenlinie\n6 Von P5 die Hüfttiefe (HüT) nach unten abtragen. Von dort weit nach links abwinkeln → Hüftlinie\n\n# Für taillierte Oberteil-Grundschnitte □1c Konstruktion für eine taillierte hintere Mitte mit Naht\n\n1 Von P5 und P3 jeweils 2 cm nach links abtragen (schlanke Figuren mit ausgeprägtem Hohlkreuz oder Figuren mit flachem Gesäß tragen hier jeweils 2,5 bis 3 cm ab).\n\nDie taillierte hintere Mitte von P2 über P7 nach P8 jeweils gerade bis zur Saumlinie zeichnen.\n\n# Für legere Oberteil-Grundschnitte □1a + □1b sowie für enge Oberteil-Grundschnitte □1d Konstruktion für eine gerade hintere Mitte (ggf. ohne Naht)\n\nAlternativ kann für ein Oberteil ohne Naht an der hM die hM auch gerade gezeichnet werden. Hierzu von P6 an der Hüftlinie 2 cm nach links abtragen und\n\ndie gerade hM von P2 über P6a in einer Geraden zeichnen.\n\nEs ergeben sich mit der geraden hM an der Taillenlinie und der Saumlinie die Schnittpunkte P7 und P8.\nAn der Brustlinie ergeben sich für beide hM-Varianten jeweils ein eigener Schnittpunkte mit der jeweiligen hM. Der jeweilige Schnittpunkt dient als Ausgangspunkt für die weiteren Konstruktionsschnitte!\n\n# Checkliste\n\nBei individuellen Maßen: Sind die VL und die RüL kontrolliert und stehen sie in der optimalen Balance (siehe Maßsabelle ab Seite 19, sowie die Infos auf Seite 174)?\nSind die richtigen Zugaben für die gewünschte Passform gewählt?\nIst die Konstruktionstabelle vollständig ausgefüllt?\nIst die Summe der BrU-Maße in der Konstruktionstabelle kontrolliert?\n\nGrundgerüst\nOberteil-Grundschnitt\n\nHIB\nHüT\n\n![img-1.jpeg](img-1.jpeg)\n\n□3 Erste Messungen und Hüftlinien sowie die taillierte hM mit Naht und die gerade hM ohne Naht\n\n179",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 363,
+          "top_left_y": 1446,
+          "bottom_right_x": 1303,
+          "bottom_right_y": 2821,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1295,
+          "top_left_y": 741,
+          "bottom_right_x": 3594,
+          "bottom_right_y": 1415,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 188,
+          "top_left_y": 1354,
+          "bottom_right_x": 417,
+          "bottom_right_y": 2741,
+          "content": "# Grundgerüst für sämtliche Oberteil-Grundschnitte (1)\ncheckliste, hintere Mitte und erste Linien",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 363,
+          "top_left_y": 1446,
+          "bottom_right_x": 1303,
+          "bottom_right_y": 2821,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1303,
+          "top_left_y": 2288,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 2778,
+          "content": "□1c Taillierter Oberteil-GS mit Naht an der hinteren Mitte",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1319,
+          "top_left_y": 1602,
+          "bottom_right_x": 1442,
+          "bottom_right_y": 2147,
+          "content": "□1d Eriger Oberteil-GS für elastische Materialien ohne und mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1593,
+          "top_left_y": 2181,
+          "bottom_right_x": 1646,
+          "bottom_right_y": 2787,
+          "content": "# 2 Erste Linien und hM zeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1674,
+          "top_left_y": 1712,
+          "bottom_right_x": 2295,
+          "bottom_right_y": 2803,
+          "content": "1 ☐3 Senkrechte Grundlinie rechts am Blattrand zeichnen und oben bei P1 rechtwinklig ca. 20 cm abwinkeln.\n2 Von P1 sind HIB :3 + 1 cm nach unten abzutragen.\n3 Von P2 die Modelllänge (MoL) nach unten abtragen. Von dort weit nach links abwinkeln → Saumlinie\n4 Von P2 die Armlochtiefe mit Zugabe (AIT+) nach unten abtragen. Von dort weit nach links abwinkeln → Brustlinie\n5 Von P2 die Rückenlänge (RüL) nach unten abtragen. Von dort weit nach links abwinkeln → Taillenlinie\n6 Von P5 die Hüfttiefe (HüT) nach unten abtragen. Von dort weit nach links abwinkeln → Hüftlinie",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2385,
+          "top_left_y": 1819,
+          "bottom_right_x": 2479,
+          "bottom_right_y": 2760,
+          "content": "# Für taillierte Oberteil-Grundschnitte □1c Konstruktion für eine taillierte hintere Mitte mit Naht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2499,
+          "top_left_y": 1721,
+          "bottom_right_x": 2646,
+          "bottom_right_y": 2821,
+          "content": "1 Von P5 und P3 jeweils 2 cm nach links abtragen (schlanke Figuren mit ausgeprägtem Hohlkreuz oder Figuren mit flachem Gesäß tragen hier jeweils 2,5 bis 3 cm ab).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2659,
+          "top_left_y": 1715,
+          "bottom_right_x": 2765,
+          "bottom_right_y": 2769,
+          "content": "Die taillierte hintere Mitte von P2 über P7 nach P8 jeweils gerade bis zur Saumlinie zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2843,
+          "top_left_y": 1734,
+          "bottom_right_x": 3002,
+          "bottom_right_y": 2772,
+          "content": "# Für legere Oberteil-Grundschnitte □1a + □1b sowie für enge Oberteil-Grundschnitte □1d Konstruktion für eine gerade hintere Mitte (ggf. ohne Naht)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3018,
+          "top_left_y": 1731,
+          "bottom_right_x": 3186,
+          "bottom_right_y": 2830,
+          "content": "Alternativ kann für ein Oberteil ohne Naht an der hM die hM auch gerade gezeichnet werden. Hierzu von P6 an der Hüftlinie 2 cm nach links abtragen und",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3190,
+          "top_left_y": 1783,
+          "bottom_right_x": 3239,
+          "bottom_right_y": 2781,
+          "content": "die gerade hM von P2 über P6a in einer Geraden zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3255,
+          "top_left_y": 1734,
+          "bottom_right_x": 3590,
+          "bottom_right_y": 2843,
+          "content": "Es ergeben sich mit der geraden hM an der Taillenlinie und der Saumlinie die Schnittpunkte P7 und P8.\nAn der Brustlinie ergeben sich für beide hM-Varianten jeweils ein eigener Schnittpunkte mit der jeweiligen hM. Der jeweilige Schnittpunkt dient als Ausgangspunkt für die weiteren Konstruktionsschnitte!",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 592,
+          "top_left_y": 1188,
+          "bottom_right_x": 641,
+          "bottom_right_y": 1354,
+          "content": "# Checkliste",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 658,
+          "top_left_y": 818,
+          "bottom_right_x": 1172,
+          "bottom_right_y": 1415,
+          "content": "Bei individuellen Maßen: Sind die VL und die RüL kontrolliert und stehen sie in der optimalen Balance (siehe Maßsabelle ab Seite 19, sowie die Infos auf Seite 174)?\nSind die richtigen Zugaben für die gewünschte Passform gewählt?\nIst die Konstruktionstabelle vollständig ausgefüllt?\nIst die Summe der BrU-Maße in der Konstruktionstabelle kontrolliert?",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 760,
+          "top_left_y": 640,
+          "bottom_right_x": 1111,
+          "bottom_right_y": 717,
+          "content": "Grundgerüst\nOberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1144,
+          "top_left_y": 640,
+          "bottom_right_x": 1221,
+          "bottom_right_y": 717,
+          "content": "HIB\nHüT",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1295,
+          "top_left_y": 741,
+          "bottom_right_x": 3594,
+          "bottom_right_y": 1415,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 3476,
+          "top_left_y": 1179,
+          "bottom_right_x": 3623,
+          "bottom_right_y": 1642,
+          "content": "□3 Erste Messungen und Hüftlinien sowie die taillierte hM mit Naht und die gerade hM ohne Naht",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3574,
+          "top_left_y": 600,
+          "bottom_right_x": 3623,
+          "bottom_right_y": 680,
+          "content": "179",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3735147
+  }
+}

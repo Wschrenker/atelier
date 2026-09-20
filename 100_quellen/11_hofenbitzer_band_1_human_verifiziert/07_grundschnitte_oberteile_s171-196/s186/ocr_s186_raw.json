@@ -1,0 +1,303 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Oberteil-Grundschnitte\n\n# Taillierter Oberteil-Grundschnitt ohne Hüftausfall\n\n# für Figuren mit stärkerer Taille (hier mit dem TaU aus der Größentabelle)\n\nTaillierter Oberteil-Grundschnitt ohne Hüftausfall\n\n[tbl-0.md](tbl-0.md)\n\n☐1 Ausschnitt aus der Konstruktionsabelle (TaU der Größe 38 nach der Größentabelle)\n\n![img-0.jpeg](img-0.jpeg)\n\n[tbl-1.md](tbl-1.md)\n\n[tbl-2.md](tbl-2.md)\n\nDieser Grundschnitt ist eine Weiterentwicklung aus dem taillierten Oberteil-GS von Seite 184 (bis Schritt 9, P31). Abbildungen des genähten Grundschnitts sind auf Seite 187 ☐1.\n\nDer Unterschied zum vorhergehenden Grundschnitt mit Hüftausfall ist lediglich die Art der Taillierung. Diese hier gezeigte Taillierung entsteht beim vorhergehenden Schnitt ohnehin (ab P31), sobald die Figur einen größeren Taillenumfang besitzt (hier 72 cm). Dabei entfällt der Hüftausfall automatisch.\n\nMan konstruiert bis P31 auf vorhergehenden Seiten und fährt hier fort:\n\n# 9 Einfache Taillierung\n\n1 ☐2 Die Abstände an der Taillenlinie von der vlk zur Seiten-linie messen - vTaB und von der Seitenlinie zur hA messen - hTaB.\n4 Beide addieren = Taillenbreite (TaB) (Breite an der Taille) und den Taillenausfall in der Konstruktionsstabelle berechnen (s. unten):\n\nTaillenausfall (TaAf)\n\n\\(= \\mathrm{TAB} - 1\\% \\mathrm{TaW}\\)\n\\(= 46,2\\mathrm{cm} - 38,5\\mathrm{cm}\\)\n\\(= 7,7\\mathrm{cm}\\)\n\nDer Ausfallbetrag wird an verschiedene Stellen verteilt:\n\nDie Taille an den Seitenlinien um 1 cm erhöhen und dort jeweils 0 bis 2 cm einstellen und die oberen Seitennähte (SN) gerade zu den Armbüchern zeichnen. Den Taillen-ausfall auf die entsprechenden Abnäherpositionen am Schnitt ver-tellen und die Abnäher zeichnen.\n\nBei diesem Beispiel:\n\n1 SN \\(2\\times 1cm = 2cm\\)\n2 vAbI = 2 cm\n3 optional shAbI hier \\(= 0\\) cm\n4 hAbI = 3,7 cm\nSumme des Ausfalls = 7,7 cm\n\n# 10 Hüftweite und Seitennäht\n\nV HUB und hHUB messen und addieren = Hufbreite (HUB).\nDen Huftehbetrag in der Konstruktionsstabelle berechnen:\n\nHüft-Fehlbetrag (HüFb)\n\n\\(= \\mathrm{HUB} - 1\\% \\mathrm{HUW}\\)\n\\(= 46,5\\mathrm{cm} - 51\\mathrm{cm}\\)\n\\(= -4,5\\mathrm{cm}\\rightarrow 4,5\\mathrm{cm}\\quad \\nu_{2} = 2,2\\mathrm{cm}\\)\n\nJeweils den halben HüFb (hier 2,2 cm) an den Seitenlinien ausstellen.\n\nHüftbögen formen, dann die Seitennähte nach unten senkrecht zur Saumlinie zeichnen.\n\n186",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1421,
+          "top_left_y": 968,
+          "bottom_right_x": 3341,
+          "bottom_right_y": 2319,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionsabelle alle Abtragten in cm Oberteil | Nennl |   |   |   | Größe | BB  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |   |   | Modell | Taillierter Oberteil-GS | IN  |\n|   | Hauptstraße (Sternstädte) | Körperstraße | Zugaben |   |   |   |   |\n|  KOH | Körperhöhe | 168 |  |  |  |  |   |\n|  BHJ | Brustumfang | 88 | 6 | → | BrW | 94 | ½ 47  |\n|  TAU | Taillenumfang | 72 | 4 | → | TaW | 76 | ½ 38  |\n|  HGU | Haftumfang | 97 | 4 | → | HüW | 101 | ½ 50,5  |\n|  ALT | Armüschnärh | 201 | 1,3 | → | ALT+ | 21,4 |   |\n|  HUT | Hüftnerh | 21 |  |  | Brut | Modelllänge | 95  |\n|  BFT | Brusthefe als blüden | 28,1 |  |  | Hüb | Häldischbreite | 6,5  |\n|  RUB | Rückenbreite (½) | 16,5 | 0,5 | → | RUB+ | 17 |   |\n|  ArD | Armdurchmesser | 9,3 | 1,5 | → | ArD+ | 10,8 | ¼ 4,7 1½ 3,6  |\n|  BrB | Brustbreite (½) | 18,2 | 1 | → | BrB+ | 19,2 |   |\n|   | Kontrolle Σ = ½ BrU | 44 | 3 | → | ½ BrW | 47 |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  TaAf | Taillenumfang  |\n| --- | --- |\n|  HüFb | Häldischbetrag  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  Brustmenge (A) | 46 | → ½ TaW | 38 | → | 8  |\n| --- | --- | --- | --- | --- | --- |\n|  Armückmenge (AB) | 46,5 | → ½ HüW | 50,5 | → | 4  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 368,
+          "top_left_y": 2019,
+          "bottom_right_x": 478,
+          "bottom_right_y": 2380,
+          "content": "# Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 310,
+          "top_left_y": 671,
+          "bottom_right_x": 368,
+          "bottom_right_y": 1966,
+          "content": "# Taillierter Oberteil-Grundschnitt ohne Hüftausfall",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 368,
+          "top_left_y": 190,
+          "bottom_right_x": 474,
+          "bottom_right_y": 1966,
+          "content": "# für Figuren mit stärkerer Taille (hier mit dem TaU aus der Größentabelle)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 555,
+          "top_left_y": 2300,
+          "bottom_right_x": 1066,
+          "bottom_right_y": 2380,
+          "content": "Taillierter Oberteil-Grundschnitt ohne Hüftausfall",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 555,
+          "top_left_y": 922,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 2199,
+          "content": "|  Konstruktionsabelle alle Abtragten in cm Oberteil | Nennl |   |   |   | Größe | BB  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |   |   | Modell | Taillierter Oberteil-GS | IN  |\n|   | Hauptstraße (Sternstädte) | Körperstraße | Zugaben |   |   |   |   |\n|  KOH | Körperhöhe | 168 |  |  |  |  |   |\n|  BHJ | Brustumfang | 88 | 6 | → | BrW | 94 | ½ 47  |\n|  TAU | Taillenumfang | 72 | 4 | → | TaW | 76 | ½ 38  |\n|  HGU | Haftumfang | 97 | 4 | → | HüW | 101 | ½ 50,5  |\n|  ALT | Armüschnärh | 201 | 1,3 | → | ALT+ | 21,4 |   |\n|  HUT | Hüftnerh | 21 |  |  | Brut | Modelllänge | 95  |\n|  BFT | Brusthefe als blüden | 28,1 |  |  | Hüb | Häldischbreite | 6,5  |\n|  RUB | Rückenbreite (½) | 16,5 | 0,5 | → | RUB+ | 17 |   |\n|  ArD | Armdurchmesser | 9,3 | 1,5 | → | ArD+ | 10,8 | ¼ 4,7 1½ 3,6  |\n|  BrB | Brustbreite (½) | 18,2 | 1 | → | BrB+ | 19,2 |   |\n|   | Kontrolle Σ = ½ BrU | 44 | 3 | → | ½ BrW | 47 |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 1262,
+          "top_left_y": 950,
+          "bottom_right_x": 1299,
+          "bottom_right_y": 2227,
+          "content": "☐1 Ausschnitt aus der Konstruktionsabelle (TaU der Größe 38 nach der Größentabelle)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1421,
+          "top_left_y": 968,
+          "bottom_right_x": 3341,
+          "bottom_right_y": 2319,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 3463,
+          "top_left_y": 1905,
+          "bottom_right_x": 3598,
+          "bottom_right_y": 2331,
+          "content": "|  TaAf | Taillenumfang  |\n| --- | --- |\n|  HüFb | Häldischbetrag  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 3480,
+          "top_left_y": 971,
+          "bottom_right_x": 3663,
+          "bottom_right_y": 1850,
+          "content": "|  Brustmenge (A) | 46 | → ½ TaW | 38 | → | 8  |\n| --- | --- | --- | --- | --- | --- |\n|  Armückmenge (AB) | 46,5 | → ½ HüW | 50,5 | → | 4  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 543,
+          "top_left_y": 227,
+          "bottom_right_x": 756,
+          "bottom_right_y": 855,
+          "content": "Dieser Grundschnitt ist eine Weiterentwicklung aus dem taillierten Oberteil-GS von Seite 184 (bis Schritt 9, P31). Abbildungen des genähten Grundschnitts sind auf Seite 187 ☐1.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 772,
+          "top_left_y": 221,
+          "bottom_right_x": 1111,
+          "bottom_right_y": 867,
+          "content": "Der Unterschied zum vorhergehenden Grundschnitt mit Hüftausfall ist lediglich die Art der Taillierung. Diese hier gezeigte Taillierung entsteht beim vorhergehenden Schnitt ohnehin (ab P31), sobald die Figur einen größeren Taillenumfang besitzt (hier 72 cm). Dabei entfällt der Hüftausfall automatisch.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1131,
+          "top_left_y": 224,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 867,
+          "content": "Man konstruiert bis P31 auf vorhergehenden Seiten und fährt hier fort:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1278,
+          "top_left_y": 435,
+          "bottom_right_x": 1323,
+          "bottom_right_y": 864,
+          "content": "# 9 Einfache Taillierung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1344,
+          "top_left_y": 224,
+          "bottom_right_x": 1699,
+          "bottom_right_y": 870,
+          "content": "1 ☐2 Die Abstände an der Taillenlinie von der vlk zur Seiten-linie messen - vTaB und von der Seitenlinie zur hA messen - hTaB.\n4 Beide addieren = Taillenbreite (TaB) (Breite an der Taille) und den Taillenausfall in der Konstruktionsstabelle berechnen (s. unten):",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1732,
+          "top_left_y": 493,
+          "bottom_right_x": 1777,
+          "bottom_right_y": 867,
+          "content": "Taillenausfall (TaAf)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1781,
+          "top_left_y": 459,
+          "bottom_right_x": 1907,
+          "bottom_right_y": 867,
+          "content": "\\(= \\mathrm{TAB} - 1\\% \\mathrm{TaW}\\)\n\\(= 46,2\\mathrm{cm} - 38,5\\mathrm{cm}\\)\n\\(= 7,7\\mathrm{cm}\\)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1928,
+          "top_left_y": 227,
+          "bottom_right_x": 2018,
+          "bottom_right_y": 885,
+          "content": "Der Ausfallbetrag wird an verschiedene Stellen verteilt:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2038,
+          "top_left_y": 224,
+          "bottom_right_x": 2397,
+          "bottom_right_y": 821,
+          "content": "Die Taille an den Seitenlinien um 1 cm erhöhen und dort jeweils 0 bis 2 cm einstellen und die oberen Seitennähte (SN) gerade zu den Armbüchern zeichnen. Den Taillen-ausfall auf die entsprechenden Abnäherpositionen am Schnitt ver-tellen und die Abnäher zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2410,
+          "top_left_y": 463,
+          "bottom_right_x": 2463,
+          "bottom_right_y": 818,
+          "content": "Bei diesem Beispiel:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2475,
+          "top_left_y": 236,
+          "bottom_right_x": 2749,
+          "bottom_right_y": 891,
+          "content": "1 SN \\(2\\times 1cm = 2cm\\)\n2 vAbI = 2 cm\n3 optional shAbI hier \\(= 0\\) cm\n4 hAbI = 3,7 cm\nSumme des Ausfalls = 7,7 cm",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2822,
+          "top_left_y": 349,
+          "bottom_right_x": 2875,
+          "bottom_right_y": 888,
+          "content": "# 10 Hüftweite und Seitennäht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2892,
+          "top_left_y": 236,
+          "bottom_right_x": 3096,
+          "bottom_right_y": 897,
+          "content": "V HUB und hHUB messen und addieren = Hufbreite (HUB).\nDen Huftehbetrag in der Konstruktionsstabelle berechnen:",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3104,
+          "top_left_y": 450,
+          "bottom_right_x": 3161,
+          "bottom_right_y": 891,
+          "content": "Hüft-Fehlbetrag (HüFb)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3161,
+          "top_left_y": 242,
+          "bottom_right_x": 3304,
+          "bottom_right_y": 891,
+          "content": "\\(= \\mathrm{HUB} - 1\\% \\mathrm{HUW}\\)\n\\(= 46,5\\mathrm{cm} - 51\\mathrm{cm}\\)\n\\(= -4,5\\mathrm{cm}\\rightarrow 4,5\\mathrm{cm}\\quad \\nu_{2} = 2,2\\mathrm{cm}\\)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3337,
+          "top_left_y": 236,
+          "bottom_right_x": 3439,
+          "bottom_right_y": 907,
+          "content": "Jeweils den halben HüFb (hier 2,2 cm) an den Seitenlinien ausstellen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3451,
+          "top_left_y": 239,
+          "bottom_right_x": 3602,
+          "bottom_right_y": 907,
+          "content": "Hüftbögen formen, dann die Seitennähte nach unten senkrecht zur Saumlinie zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3561,
+          "top_left_y": 2438,
+          "bottom_right_x": 3610,
+          "bottom_right_y": 2521,
+          "content": "186",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3859755
+  }
+}

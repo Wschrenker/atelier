@@ -1,0 +1,20 @@
+{
+  "page": "s180",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s180.jpg",
+  "orientation": "EXIF-Orientierung angewendet",
+  "upright_size": [3060, 4080],
+  "crop_box_in_upright_px": [0, 0, 2830, 4080],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s180_skizze_01.png",
+      "origin": "mistral (Bounding Box manuell erweitert)",
+      "bbox_mistral_reported_px": [1289, 874, 2728, 2851],
+      "bbox_upright_px": [1230, 845, 2790, 3110],
+      "erweiterung": "Von der OCR gemeldete Box endete an der Saumlinie und schnitt den unteren Kastenrand sowie die darunterstehende Bildunterschrift ab; die Box wurde händisch bis unter die Bildunterschrift '☐4 Brustweite abtragen, Hilfslinien und vM zeichnen' sowie links um den Messpunkt '14' herum erweitert.",
+      "beschreibung": "Konstruktionsschema 'Brustweite abtragen, Hilfslinien und vM zeichnen': Gitter aus vM, vorderer/hinterer Armlinie, vorderer/hinterer Seitenlinie und hM zwischen Brust-, Taillen-, Hüft- und Saumlinie; Messpunkte 9–14, Maße BrB+, ⅓/⅔ ArD+, RüB+, vBrW/hBrW, Zwischenraum 7 bis 10 cm, Kasten 'Kontrolle der BrW' mit Formel vBrW + hBrW = ½ BrW."
+    }
+  ],
+  "hinweis": "Vollständiges Bild gegen die automatisch erkannte Region geprüft; keine weitere von der OCR übersehene Bildregion auf dieser Seite gefunden."
+}

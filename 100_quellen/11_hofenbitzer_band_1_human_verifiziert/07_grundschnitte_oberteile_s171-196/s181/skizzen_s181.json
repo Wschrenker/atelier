@@ -1,0 +1,20 @@
+{
+  "page": "s181",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s181.jpg",
+  "orientation": "EXIF-Orientierung angewendet",
+  "upright_size": [3060, 4080],
+  "crop_box_in_upright_px": [0, 0, 3060, 4080],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s181_skizze_01.png",
+      "origin": "mistral (Bounding Box manuell erweitert)",
+      "bbox_mistral_reported_px": [1115, 596, 2524, 2683],
+      "bbox_upright_px": [1115, 596, 2524, 2790],
+      "erweiterung": "Von der OCR gemeldete Box endete kurz oberhalb der Bildunterschrift und schnitt sie ab; die Box wurde nach unten bis unter die Bildunterschrift '☐5 Hintere Schulter, vorderes und hinteres Halsloch zeichnen' erweitert.",
+      "beschreibung": "Konstruktionsschema 'Hintere Schulter, vorderes und hinteres Halsloch zeichnen': zwei Teilgrafiken (links vorderer Bereich mit HlB, HlP, SuWi+2°, SuNL, P20/P21/P22/P23/P24, vSuP, BrP, vÄP, ¼ ArD+, ½ BrB+; rechts hinterer Bereich mit HlB+0,5 cm, HlP, SuWi-2°, hSuNL, P1/P2/P15/P16/P17/P18, hSuP, hÄP, Schulterblattlinie, Kontrollhinweis 'obere gemessene RüB + RüB-Zugabe') über dem gemeinsamen Gitter aus vM, vorderer/hinterer Armlinie, vorderer/hinterer Seitenlinie und hM zwischen Brust-, Taillen-, Hüft- und Saumlinie."
+    }
+  ],
+  "hinweis": "Vollständiges Bild gegen die automatisch erkannte Region geprüft; keine weitere von der OCR übersehene Bildregion auf dieser Seite gefunden."
+}

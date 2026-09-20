@@ -1,0 +1,370 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Oberteil-Grundschnitte\n\n# Passformklassen und Zugaben\n\nPassformklassen und Zugaben\n\nOberteil-Grundschitte werden mit unterschiedlichen Zugaben konstruiert - entsprechend der späteren Verwendung, z.B. für eine Korsage, ein Kleid, eine Jacke oder einen Mantel.\n\nAus den Körpermaßen einer Größe oder Person werden Konstruktionsmaße ermittelt, zu denen dann Zugaben addiert werden.\n\nDie Zugaben für einen bestimmten Grundschnitt müssen proportional ausgewogen sein. Passende Zugaben für ein Oberteil finden sich zeilenweise in der Zugabentabelle.\n\n1 Die Ziffern einer Passformklasse (PK) geben die jeweilige die Zugabe für den halben Brustumfang an; hier z.B. für eine enge Jacke:\n\n2\n\nPK5 2 × 5 cm = 10 cm BrW-Zugabe\n\nDie Verwendung von Passformklassen ist nicht einheitlich oder genormt. Manche Schnittsysteme arbeiten mit, andere ohne Passformklassen. Bei der Arbeit mit industriellen Schnitten, aber auch im Unterricht, haben sich Passformklassen sehr bewährt.\n\nTabelle der Passformklassen für Oberteil-Konstruktionen\n\n[tbl-0.md](tbl-0.md)\n\n# Passform-Piktogramm\n\nDieses gibt in Zentimeter die Körpermaße einer Person an, für die die Kleidung produziert wurde.\n\n2 Körperhöhe (KöH)\n3 Brustumfang (BrU)\n4 Taillenumfang (TaU)\n5 Hüftumfang (HüU)\n\n# Zugaben am Modell\n\n6 zum Brustumfang\n7 zum Taillenumfang\n8 zum Hüftumfang\n\n![img-0.jpeg](img-0.jpeg)\n\nZugabentabelle für Oberteil-Konstruktionen\n\n[tbl-1.md](tbl-1.md)\n\n☐1 Passform-Piktogramm der Damen-Größe 38 mit Ergänzung der Passformklasse und der Weitenzugaben für eine enge Jacke der PK 5\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n☐2 Brustumfangsmaße, dargestellt am Körperquerschnitt in Brusthöhe.\n\nJe nach Verwendung des zu konstruierenden Grundschnitts werden die Weitenzugaben auf die Brustumfangsmaße unterschiedlich verteilt.\n\nDie Zugabentabelle listet eine optimale Verteilung der Brustweitenzugaben für die jeweilige Passformklasse auf.\n\n☐3 Die (am Rücken) gemessene Armlochlseife und das Armloch mit addierter Längenzugabe\n\n# Konstruktionstabelle ausfüllen\n\nFür einen Grundschnitt werden die Körpermaße aus der Größentabelle (Seite 18) oder aus der Maßtabelle (Seite 17) in die erste Spalte eingefügt. In die nächste Spalte werden die Zugaben notiert und daraus die Konstruktionswerte in den weiteren Spalten ermittelt (folgende Seite).\n\nDie Konstruktionstabelle sollte später mit dem fertigen Grundschnitt aufbewahrt werden.\n\n# Korrektur der Balancemaße\n\nWie auf Seite 174 erläutert, werden bei Figurproblemen die VL und/oder die Rül korrigiert. Diese Korrekturwerte in die Konstruktionstabelle eintragen, die Konstruktionswerte errechnen und nur diese für die Konstruktion verwenden!\n\n176",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 2282,
+          "top_left_y": 1634,
+          "bottom_right_x": 2829,
+          "bottom_right_y": 2140,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 587,
+          "top_left_y": 2597,
+          "bottom_right_x": 1334,
+          "bottom_right_y": 3006,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1506,
+          "top_left_y": 2683,
+          "bottom_right_x": 1852,
+          "bottom_right_y": 3451,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Anwendung | Passformklasse | Modelle Woche / Kleid / Bluse | Jacke | Weste / Mantel  |\n| --- | --- | --- | --- | --- |\n|  extrem körpernah | 0 | Rademoden, Wäsche Korsage Grund, Nieder |  |   |\n|   |  1  |   |   |   |\n|   |  2  |   |   |   |\n|  sehr körpernah | 3 | Kleid Kleid, Bluse eng | Jacke sehr eng | Weste eng  |\n|   |  4  |   |   |   |\n|  körpernah | 5 | Kleid, Bluse halbweit Kleid, Bluse weit | Jacke eng Jacke halbweit | Weste halbweit Mantel eng  |\n|   |  6  |   |   |   |\n|  locker | 7 | Kleid, Bluse sehr weit | Jacke weit Jacke halbweit | Mantel halbweit Mantel weit  |\n|   |  8  |   |   |   |\n|  körperfern | 9 |  | Jacke sehr weit Jacke sehr weit | Mantel weit Mantel sehr weit  |\n|   |  10  |   |   |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  Passformklasse | Zugaben (für den ganzen Schnitt) |   |   |   | BrW-Zugaben (für 15 Schnitt) |   |   | Gr.B  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  BrW | TaU | HüU | AIT | HüU | ArD | BrA  |   |\n|  0 | 0 | 0 | 0 | 0 - 0,5 | 0 | 0 | 0 - 0,4 | 0  |\n|  1 | 2 | 0 - 2 | 0 - 2 | 0,2 - 0,7 | 0,1 | 0,3 | 0,6 | 0,1  |\n|  2 | 4 | 2 - 4 | 2 - 4 | 0,5 - 1 | 0,3 | 0,9 | 0,8 | 0,2  |\n|  3 | 6 | 4 - 6 | 4 - 6 | 1,3 | 0,5 | 1,5 | 1 | 0,3  |\n|  4 | 8 | 4 - 8 | 4 - 8 | 1,7 | 0,8 | 2 | 1,2 | 0,4  |\n|  5 | 10 | 8 - 12 | 6 - 8 | 2,1 | 1,1 | 2,5 | 1,4 | 0,5  |\n|  6 | 12 | 8 - 16 | 6 - 10 | 2,5 | 1,4 | 3 | 1,6 | 0,6  |\n|  7 | 14 | 12 - 16 | 8 - 12 | 3 | 1,6 | 3,6 | 1,8 | 0,7  |\n|  8 | 16 | 12 - 20 | 8 - 16 | 3,5 | 1,8 | 4,2 | 2 | 0,8  |\n|  9 | 18 | 12 - 20 | 10 - 20 | 4 | 2 | 5 | 2 | 0,9  |\n|  10 | 20 | 16 - 24 | 10 - 24 | 4,5 | 2,2 | 5,8 | 2 | 1  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2860
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 532,
+          "top_left_y": 139,
+          "bottom_right_x": 910,
+          "bottom_right_y": 257,
+          "content": "# Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 971,
+          "top_left_y": 118,
+          "bottom_right_x": 1758,
+          "bottom_right_y": 180,
+          "content": "# Passformklassen und Zugaben",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 573,
+          "top_left_y": 368,
+          "bottom_right_x": 621,
+          "bottom_right_y": 866,
+          "content": "Passformklassen und Zugaben",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 716,
+          "top_left_y": 368,
+          "bottom_right_x": 1348,
+          "bottom_right_y": 580,
+          "content": "Oberteil-Grundschitte werden mit unterschiedlichen Zugaben konstruiert - entsprechend der späteren Verwendung, z.B. für eine Korsage, ein Kleid, eine Jacke oder einen Mantel.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 707,
+          "top_left_y": 596,
+          "bottom_right_x": 1343,
+          "bottom_right_y": 768,
+          "content": "Aus den Körpermaßen einer Größe oder Person werden Konstruktionsmaße ermittelt, zu denen dann Zugaben addiert werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1411,
+          "top_left_y": 355,
+          "bottom_right_x": 2050,
+          "bottom_right_y": 568,
+          "content": "Die Zugaben für einen bestimmten Grundschnitt müssen proportional ausgewogen sein. Passende Zugaben für ein Oberteil finden sich zeilenweise in der Zugabentabelle.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1400,
+          "top_left_y": 584,
+          "bottom_right_x": 2056,
+          "bottom_right_y": 760,
+          "content": "1 Die Ziffern einer Passformklasse (PK) geben die jeweilige die Zugabe für den halben Brustumfang an; hier z.B. für eine enge Jacke:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2471,
+          "top_left_y": 302,
+          "bottom_right_x": 2516,
+          "bottom_right_y": 343,
+          "content": "2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2119,
+          "top_left_y": 347,
+          "bottom_right_x": 2754,
+          "bottom_right_y": 400,
+          "content": "PK5 2 × 5 cm = 10 cm BrW-Zugabe",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2116,
+          "top_left_y": 408,
+          "bottom_right_x": 2777,
+          "bottom_right_y": 711,
+          "content": "Die Verwendung von Passformklassen ist nicht einheitlich oder genormt. Manche Schnittsysteme arbeiten mit, andere ohne Passformklassen. Bei der Arbeit mit industriellen Schnitten, aber auch im Unterricht, haben sich Passformklassen sehr bewährt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 707,
+          "top_left_y": 862,
+          "bottom_right_x": 1615,
+          "bottom_right_y": 907,
+          "content": "Tabelle der Passformklassen für Oberteil-Konstruktionen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 678,
+          "top_left_y": 931,
+          "bottom_right_x": 2147,
+          "bottom_right_y": 1597,
+          "content": "|  Anwendung | Passformklasse | Modelle Woche / Kleid / Bluse | Jacke | Weste / Mantel  |\n| --- | --- | --- | --- | --- |\n|  extrem körpernah | 0 | Rademoden, Wäsche Korsage Grund, Nieder |  |   |\n|   |  1  |   |   |   |\n|   |  2  |   |   |   |\n|  sehr körpernah | 3 | Kleid Kleid, Bluse eng | Jacke sehr eng | Weste eng  |\n|   |  4  |   |   |   |\n|  körpernah | 5 | Kleid, Bluse halbweit Kleid, Bluse weit | Jacke eng Jacke halbweit | Weste halbweit Mantel eng  |\n|   |  6  |   |   |   |\n|  locker | 7 | Kleid, Bluse sehr weit | Jacke weit Jacke halbweit | Mantel halbweit Mantel weit  |\n|   |  8  |   |   |   |\n|  körperfern | 9 |  | Jacke sehr weit Jacke sehr weit | Mantel weit Mantel sehr weit  |\n|   |  10  |   |   |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 2310,
+          "top_left_y": 862,
+          "bottom_right_x": 2708,
+          "bottom_right_y": 915,
+          "content": "# Passform-Piktogramm",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2299,
+          "top_left_y": 927,
+          "bottom_right_x": 2774,
+          "bottom_right_y": 1103,
+          "content": "Dieses gibt in Zentimeter die Körpermaße einer Person an, für die die Kleidung produziert wurde.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2299,
+          "top_left_y": 1119,
+          "bottom_right_x": 2768,
+          "bottom_right_y": 1319,
+          "content": "2 Körperhöhe (KöH)\n3 Brustumfang (BrU)\n4 Taillenumfang (TaU)\n5 Hüftumfang (HüU)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2310,
+          "top_left_y": 1348,
+          "bottom_right_x": 2660,
+          "bottom_right_y": 1397,
+          "content": "# Zugaben am Modell",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2299,
+          "top_left_y": 1413,
+          "bottom_right_x": 2697,
+          "bottom_right_y": 1556,
+          "content": "6 zum Brustumfang\n7 zum Taillenumfang\n8 zum Hüftumfang",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2282,
+          "top_left_y": 1634,
+          "bottom_right_x": 2829,
+          "bottom_right_y": 2140,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 676,
+          "top_left_y": 1634,
+          "bottom_right_x": 1403,
+          "bottom_right_y": 1683,
+          "content": "Zugabentabelle für Oberteil-Konstruktionen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 630,
+          "top_left_y": 1691,
+          "bottom_right_x": 2136,
+          "bottom_right_y": 2430,
+          "content": "|  Passformklasse | Zugaben (für den ganzen Schnitt) |   |   |   | BrW-Zugaben (für 15 Schnitt) |   |   | Gr.B  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  BrW | TaU | HüU | AIT | HüU | ArD | BrA  |   |\n|  0 | 0 | 0 | 0 | 0 - 0,5 | 0 | 0 | 0 - 0,4 | 0  |\n|  1 | 2 | 0 - 2 | 0 - 2 | 0,2 - 0,7 | 0,1 | 0,3 | 0,6 | 0,1  |\n|  2 | 4 | 2 - 4 | 2 - 4 | 0,5 - 1 | 0,3 | 0,9 | 0,8 | 0,2  |\n|  3 | 6 | 4 - 6 | 4 - 6 | 1,3 | 0,5 | 1,5 | 1 | 0,3  |\n|  4 | 8 | 4 - 8 | 4 - 8 | 1,7 | 0,8 | 2 | 1,2 | 0,4  |\n|  5 | 10 | 8 - 12 | 6 - 8 | 2,1 | 1,1 | 2,5 | 1,4 | 0,5  |\n|  6 | 12 | 8 - 16 | 6 - 10 | 2,5 | 1,4 | 3 | 1,6 | 0,6  |\n|  7 | 14 | 12 - 16 | 8 - 12 | 3 | 1,6 | 3,6 | 1,8 | 0,7  |\n|  8 | 16 | 12 - 20 | 8 - 16 | 3,5 | 1,8 | 4,2 | 2 | 0,8  |\n|  9 | 18 | 12 - 20 | 10 - 20 | 4 | 2 | 5 | 2 | 0,9  |\n|  10 | 20 | 16 - 24 | 10 - 24 | 4,5 | 2,2 | 5,8 | 2 | 1  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 2299,
+          "top_left_y": 2230,
+          "bottom_right_x": 2745,
+          "bottom_right_y": 2463,
+          "content": "☐1 Passform-Piktogramm der Damen-Größe 38 mit Ergänzung der Passformklasse und der Weitenzugaben für eine enge Jacke der PK 5",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 587,
+          "top_left_y": 2597,
+          "bottom_right_x": 1334,
+          "bottom_right_y": 3006,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1506,
+          "top_left_y": 2683,
+          "bottom_right_x": 1852,
+          "bottom_right_y": 3451,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 581,
+          "top_left_y": 3153,
+          "bottom_right_x": 1182,
+          "bottom_right_y": 3243,
+          "content": "☐2 Brustumfangsmaße, dargestellt am Körperquerschnitt in Brusthöhe.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 578,
+          "top_left_y": 3247,
+          "bottom_right_x": 1237,
+          "bottom_right_y": 3398,
+          "content": "Je nach Verwendung des zu konstruierenden Grundschnitts werden die Weitenzugaben auf die Brustumfangsmaße unterschiedlich verteilt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 575,
+          "top_left_y": 3406,
+          "bottom_right_x": 1234,
+          "bottom_right_y": 3533,
+          "content": "Die Zugabentabelle listet eine optimale Verteilung der Brustweitenzugaben für die jeweilige Passformklasse auf.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1371,
+          "top_left_y": 3447,
+          "bottom_right_x": 1938,
+          "bottom_right_y": 3582,
+          "content": "☐3 Die (am Rücken) gemessene Armlochlseife und das Armloch mit addierter Längenzugabe",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2104,
+          "top_left_y": 2524,
+          "bottom_right_x": 2683,
+          "bottom_right_y": 2577,
+          "content": "# Konstruktionstabelle ausfüllen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2087,
+          "top_left_y": 2593,
+          "bottom_right_x": 2774,
+          "bottom_right_y": 2981,
+          "content": "Für einen Grundschnitt werden die Körpermaße aus der Größentabelle (Seite 18) oder aus der Maßtabelle (Seite 17) in die erste Spalte eingefügt. In die nächste Spalte werden die Zugaben notiert und daraus die Konstruktionswerte in den weiteren Spalten ermittelt (folgende Seite).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2096,
+          "top_left_y": 2998,
+          "bottom_right_x": 2763,
+          "bottom_right_y": 3145,
+          "content": "Die Konstruktionstabelle sollte später mit dem fertigen Grundschnitt aufbewahrt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2098,
+          "top_left_y": 3190,
+          "bottom_right_x": 2620,
+          "bottom_right_y": 3243,
+          "content": "# Korrektur der Balancemaße",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2076,
+          "top_left_y": 3259,
+          "bottom_right_x": 2771,
+          "bottom_right_y": 3606,
+          "content": "Wie auf Seite 174 erläutert, werden bei Figurproblemen die VL und/oder die Rül korrigiert. Diese Korrekturwerte in die Konstruktionstabelle eintragen, die Konstruktionswerte errechnen und nur diese für die Konstruktion verwenden!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 378,
+          "top_left_y": 3512,
+          "bottom_right_x": 464,
+          "bottom_right_y": 3565,
+          "content": "176",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3198485
+  }
+}

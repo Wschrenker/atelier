@@ -1,0 +1,30 @@
+[
+  {
+    "id": "s179_skizze_01",
+    "file": "skizzen/s179_skizze_01.png",
+    "quelle": "automatisch erkannt (Mistral OCR Layout-Antwort, ocr_s179_raw.json)",
+    "bbox_original_pixel_raw_orientierung": {
+      "top_left_x": 363,
+      "top_left_y": 1446,
+      "bottom_right_x": 1303,
+      "bottom_right_y": 2821
+    },
+    "bbox_hinweis": "Koordinaten beziehen sich auf die Rohbild-Pixelorientierung vor EXIF-Korrektur (EXIF-Orientation 6); Ausschnitt danach 90° im Uhrzeigersinn gedreht und mit 20px Rand versehen.",
+    "beschreibung_vorlaeufig": "Vier Figurinen (Vorder-/Rückansicht): 1c Taillierter Oberteil-GS mit Naht an der hinteren Mitte; 1d Enger Oberteil-GS fuer elastische Materialien (Elastic-Beschriftung)",
+    "status": "noch nicht von Werner am Original bestaetigt"
+  },
+  {
+    "id": "s179_skizze_02",
+    "file": "skizzen/s179_skizze_02.png",
+    "quelle": "automatisch erkannt (Mistral OCR Layout-Antwort, ocr_s179_raw.json)",
+    "bbox_original_pixel_raw_orientierung": {
+      "top_left_x": 1295,
+      "top_left_y": 741,
+      "bottom_right_x": 3594,
+      "bottom_right_y": 1415
+    },
+    "bbox_hinweis": "Koordinaten beziehen sich auf die Rohbild-Pixelorientierung vor EXIF-Korrektur (EXIF-Orientation 6); Ausschnitt danach 90° im Uhrzeigersinn gedreht und mit 20px Rand versehen.",
+    "beschreibung_vorlaeufig": "Technische Konstruktionszeichnung: Grundlinie, hintere Mitte als Naht (dunkel), gerade hintere Mitte ohne Naht (rot), Punkte P1-P9 inkl. P6a, Hilfslinien Brust-/Taillen-/Hueft-/Saumlinie",
+    "status": "noch nicht von Werner am Original bestaetigt"
+  }
+]

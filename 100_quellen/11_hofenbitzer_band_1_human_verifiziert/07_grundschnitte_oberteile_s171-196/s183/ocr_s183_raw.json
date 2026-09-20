@@ -1,0 +1,210 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Legerer Oberteil-Grundschnitt (2)\nmit Brust- und Schulterabnäher, mit leichter Taillierung, ohne Naht an FM\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n☐7a Legerer Oberteil-Grundschnitt mit\nSeiten-Taillierung sowie mit Brust-\nund Schulterabnäher.\n\nDieser Schnitt ist eine Weiterent-\nwicklung des Schnitts auf der vor-\nhergehenden Seite. Er kann mit dem\nBrustabnäher für alle Figuren, ins-\nbesondere für solche mit starker\nBrustrundung Verwendung finden.\n\nBei dieser Grundschnitt-Variante ist die\nSeitennaht leicht tailliert (alternativ\naber auch ohne Taillierung möglich).\nDas Armloch ist hier durch die Brust-\nund Schulterabnäher verkleinert. Die\nPassform verbessert sich und wegen des\nkleineren Armlochs sind schmalere Ar-\nmelkonstruktionen möglich.\n\nPK3 bis PK5 für Blusen und Kleider.\nFür Jacken und Mäntel verwendet\nman ggf. Zugaben größerer Pass-\nformklassen (siehe Seite 176).\n\n# 7 Brustabnäher konstruieren\n\n☐7b Vom vSuP1 eine Hilfsinie zum BrP zeichnen → Dreieck.\nRechts der vorderen Armlinie den maximalen Abstand zur Armlinie anzeichnen → Li26.\nDas dargestellte Dreieck kopieren, um den BrP drehen und den vSuP1 maximal bis zur Li26 drehen (hier weniger) und anlegen oder zum BrP senkrecht einschneiden und das Dreieck zur Li26 falten.\n\nJe weiter das Dreieck nach außen ge-\ndreht wird, desto größer wird der\nBrustabnäher und damit die Formung\nfür die Brust im Vorderteil. Dabei wird\ndas Armloch kleiner und anliegender.\n\nDas Dreieck kann für eine Armloch-\nauflockierung jederzeit zurück nach\nim den Schritt werden, wodurch sich\ndann der Brustabnäher wieder ver-\nkleinert und das Armloch größer\nwird. (siehe Seiten 192 und 217).\n\n☐7b Legerer Grundschnitt mit Brustabnäher\n\n# 8 Armlöcher\n\nVorderes Armloch von der Seite, seitlich vorbei am VAP, senkrecht durch P18 und ungerahr rechtwinklig zur SuN zum vSuP2 formen.\nDas hintere Armloch wie in 6b formen.\nAn der Schulterblattlinie am Armloch den Schulterabnaher mit 1 bis 1,5 cm Inhalt einzelnnen und in die Schulternaht verlegen.\n\n# 9 Seitennahte zeichnen\n\nDen Hüft-Fehibetrag wie auf vorhergehender Seite berechnen und an der Hüfte anstellen.\nDie SN gerade zeichnen oder für eine leichte Taillierung die Taille an der Seite um 1 cm erhöhen und dORT 0,5 cm bis 1,5 cm einstellen. Die Seitennaht wie darge-stellt formen.\n\nLegerer\nOberteil-Grundschnitt\n\n183",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 351,
+          "top_left_y": 2025,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 2839,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 486,
+          "top_left_y": 597,
+          "bottom_right_x": 2463,
+          "bottom_right_y": 1933,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 135,
+          "top_left_y": 1764,
+          "bottom_right_x": 286,
+          "bottom_right_y": 2754,
+          "content": "# Legerer Oberteil-Grundschnitt (2)\nmit Brust- und Schulterabnäher, mit leichter Taillierung, ohne Naht an FM",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 351,
+          "top_left_y": 2025,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 2839,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 486,
+          "top_left_y": 597,
+          "bottom_right_x": 2463,
+          "bottom_right_y": 1933,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1409,
+          "top_left_y": 2110,
+          "bottom_right_x": 1527,
+          "bottom_right_y": 2772,
+          "content": "☐7a Legerer Oberteil-Grundschnitt mit\nSeiten-Taillierung sowie mit Brust-\nund Schulterabnäher.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1634,
+          "top_left_y": 2061,
+          "bottom_right_x": 1936,
+          "bottom_right_y": 2778,
+          "content": "Dieser Schnitt ist eine Weiterent-\nwicklung des Schnitts auf der vor-\nhergehenden Seite. Er kann mit dem\nBrustabnäher für alle Figuren, ins-\nbesondere für solche mit starker\nBrustrundung Verwendung finden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1944,
+          "top_left_y": 2049,
+          "bottom_right_x": 2348,
+          "bottom_right_y": 2790,
+          "content": "Bei dieser Grundschnitt-Variante ist die\nSeitennaht leicht tailliert (alternativ\naber auch ohne Taillierung möglich).\nDas Armloch ist hier durch die Brust-\nund Schulterabnäher verkleinert. Die\nPassform verbessert sich und wegen des\nkleineren Armlochs sind schmalere Ar-\nmelkonstruktionen möglich.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2357,
+          "top_left_y": 2065,
+          "bottom_right_x": 2569,
+          "bottom_right_y": 2784,
+          "content": "PK3 bis PK5 für Blusen und Kleider.\nFür Jacken und Mäntel verwendet\nman ggf. Zugaben größerer Pass-\nformklassen (siehe Seite 176).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2679,
+          "top_left_y": 2187,
+          "bottom_right_x": 2728,
+          "bottom_right_y": 2784,
+          "content": "# 7 Brustabnäher konstruieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2753,
+          "top_left_y": 2055,
+          "bottom_right_x": 3382,
+          "bottom_right_y": 2800,
+          "content": "☐7b Vom vSuP1 eine Hilfsinie zum BrP zeichnen → Dreieck.\nRechts der vorderen Armlinie den maximalen Abstand zur Armlinie anzeichnen → Li26.\nDas dargestellte Dreieck kopieren, um den BrP drehen und den vSuP1 maximal bis zur Li26 drehen (hier weniger) und anlegen oder zum BrP senkrecht einschneiden und das Dreieck zur Li26 falten.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3402,
+          "top_left_y": 2068,
+          "bottom_right_x": 3672,
+          "bottom_right_y": 2790,
+          "content": "Je weiter das Dreieck nach außen ge-\ndreht wird, desto größer wird der\nBrustabnäher und damit die Formung\nfür die Brust im Vorderteil. Dabei wird\ndas Armloch kleiner und anliegender.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3676,
+          "top_left_y": 2068,
+          "bottom_right_x": 4006,
+          "bottom_right_y": 2790,
+          "content": "Das Dreieck kann für eine Armloch-\nauflockierung jederzeit zurück nach\nim den Schritt werden, wodurch sich\ndann der Brustabnäher wieder ver-\nkleinert und das Armloch größer\nwird. (siehe Seiten 192 und 217).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2512,
+          "top_left_y": 1222,
+          "bottom_right_x": 2561,
+          "bottom_right_y": 1921,
+          "content": "☐7b Legerer Grundschnitt mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2655,
+          "top_left_y": 1694,
+          "bottom_right_x": 2704,
+          "bottom_right_y": 1976,
+          "content": "# 8 Armlöcher",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2712,
+          "top_left_y": 1296,
+          "bottom_right_x": 3288,
+          "bottom_right_y": 1985,
+          "content": "Vorderes Armloch von der Seite, seitlich vorbei am VAP, senkrecht durch P18 und ungerahr rechtwinklig zur SuN zum vSuP2 formen.\nDas hintere Armloch wie in 6b formen.\nAn der Schulterblattlinie am Armloch den Schulterabnaher mit 1 bis 1,5 cm Inhalt einzelnnen und in die Schulternaht verlegen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3320,
+          "top_left_y": 1486,
+          "bottom_right_x": 3365,
+          "bottom_right_y": 1976,
+          "content": "# 9 Seitennahte zeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3365,
+          "top_left_y": 1286,
+          "bottom_right_x": 3933,
+          "bottom_right_y": 1985,
+          "content": "Den Hüft-Fehibetrag wie auf vorhergehender Seite berechnen und an der Hüfte anstellen.\nDie SN gerade zeichnen oder für eine leichte Taillierung die Taille an der Seite um 1 cm erhöhen und dORT 0,5 cm bis 1,5 cm einstellen. Die Seitennaht wie darge-stellt formen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 756,
+          "top_left_y": 487,
+          "bottom_right_x": 1127,
+          "bottom_right_y": 564,
+          "content": "Legerer\nOberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3749,
+          "top_left_y": 383,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 456,
+          "content": "183",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3796797
+  }
+}

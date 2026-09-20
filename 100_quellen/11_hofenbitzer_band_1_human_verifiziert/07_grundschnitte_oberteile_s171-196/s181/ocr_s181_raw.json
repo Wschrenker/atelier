@@ -1,0 +1,432 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Grundgerüst für sämtliche Oberteil-Grundschnitte (4)\nHalslöcher und Schultern\n\n### 4 Hinteres Halsloch und Schulter\n\nHIP Von P1 nach links die Halslochbreite (HIB) + 0,5 cm abtragen.\n\nVon P2 das hintere Halsloch rechtwinklig aus der hM formen.\n\nDen Schulterwinkel aus der Konstruktionstabelle und -2° vom hinteren HIP nach links unten zeichnen.\n\nSUP hSuNL in der Konstruktionstabelle ablesen und vom HIP aus abtragen → hintere Schulter.\n\nIst der Schnittpunkt von hinterer Armlinie und Schulternaht.\n\nBei großer RüB und schmaler Schulter ergibt sich ggf. kein Schnittpunkt. Dann endet die hintere Armlinie auf Höhe des hSuP → P16.\n\nNAP Die Strecke von P10 bis P16 halbieren → P17 und die Schulterblattlinie nach rechts abwinkeln.\n\nDie untere Hälfte der Strecke nochmals halbieren → hinterer Ärmelpunkt (hÄP) und\n\neine Hilfslinie nach links abwinkeln → P18 = Schnittpunkt mit der vorderen Armlinie.\n\n### 5 Vorderes Halsloch\n\nSchnittpunkt von vM und Taille.\n\nVon P19 nach oben die Vorderlänge (VL) - 1 cm abtragen\n\nund von P20 nach unten die Brusttiefe (BrT) - 1 cm abtragen.\n\nBrP Von P21 nach rechts die halbe Brustbreite+ (½ BrB+) - 0,3 cm abtragen → Brustpunkt.\n\n→ Brustabnäher-Linie senkrecht zur Brustlinie nach oben und nach unten zeichnen.\n\nHIP Von P20 nach rechts die HIB abtragen.\n\nVon P20 nach unten HIB + 0,5 abtragen und zum HIP das vordere Halsloch formen.\n\n### 6 Vordere Schulter\n\nAus der Konstruktionstabelle den Schulterwinkel ablesen und + 2° vom HIP die vordere Schulternaht nach rechts unten zeichnen.\n\nSUP Die SuNL aus der Konstruktionstabelle ablesen und ab dem Halsloch abtragen → vordere Schulter und vSuP.\n\nNAP □6 An der vorderen Armlinie ¼ ArD+ von P13 nach oben abtragen → vorderer Ärmelpunkt (vÄP).\n\n![img-0.jpeg](img-0.jpeg)\n\n□5 Hintere Schulter, vorderes und hinteres Halsloch zeichnen\n\nHiermit ist die Konstruktion des Grundgerüsts abgeschlossen\n\nSämtliche Varianten von Oberteilgrundschnitten können mit diesem Grundgerüst weiter entwickelt werden. Die einzelnen\n\nKonstruktionen werden auf den folgenden Seiten gezeigt.\n\nKonstruktionen folgender Oberteil-Varianten findet man hier:\n\nLeger Oberteilgrundschnitt ohne Brustabnäher 182\n\nLegerer Oberteil-Grundschnitt mit Brustabnäher 183\n\nTalllierter Oberteil-Grundschnitt mit Hüftausfall\n\nfür individuellen Grundschnitt 184\n\nTalllierter Oberteil-Grundschnitt ohne Hüftausfall\n\nmit einfacher Taillierung für industriellen Grundschnitt 186\n\nTalllierter Oberteil-Grundschnitt ohne Brustabnäher 188\n\nEnger Oberteil-Grundschnitt mit Brustabnäher 190\n\nEnger Oberteil-Grundschnitt mit Brustabnäher\n\nEnger Oberteil-Grundschnitt mit Brustabnäher\n\nEnger Oberteil-Grundschnitt mit Brustabnäher\n\nGrundgerüst\nOberteil-Grundschnitt\n\n181",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1115,
+          "top_left_y": 596,
+          "bottom_right_x": 2524,
+          "bottom_right_y": 2683,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 383,
+          "top_left_y": 25,
+          "bottom_right_x": 1875,
+          "bottom_right_y": 274,
+          "content": "Grundgerüst für sämtliche Oberteil-Grundschnitte (4)\nHalslöcher und Schultern",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 383,
+          "top_left_y": 298,
+          "bottom_right_x": 1057,
+          "bottom_right_y": 359,
+          "content": "### 4 Hinteres Halsloch und Schulter",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 377,
+          "top_left_y": 368,
+          "bottom_right_x": 1066,
+          "bottom_right_y": 470,
+          "content": "HIP Von P1 nach links die Halslochbreite (HIB) + 0,5 cm abtragen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 374,
+          "top_left_y": 482,
+          "bottom_right_x": 1066,
+          "bottom_right_y": 580,
+          "content": "Von P2 das hintere Halsloch rechtwinklig aus der hM formen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 438,
+          "top_left_y": 596,
+          "bottom_right_x": 1066,
+          "bottom_right_y": 788,
+          "content": "Den Schulterwinkel aus der Konstruktionstabelle und -2° vom hinteren HIP nach links unten zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 365,
+          "top_left_y": 809,
+          "bottom_right_x": 1063,
+          "bottom_right_y": 948,
+          "content": "SUP hSuNL in der Konstruktionstabelle ablesen und vom HIP aus abtragen → hintere Schulter.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 358,
+          "top_left_y": 972,
+          "bottom_right_x": 1063,
+          "bottom_right_y": 1070,
+          "content": "Ist der Schnittpunkt von hinterer Armlinie und Schulternaht.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 426,
+          "top_left_y": 1082,
+          "bottom_right_x": 1063,
+          "bottom_right_y": 1278,
+          "content": "Bei großer RüB und schmaler Schulter ergibt sich ggf. kein Schnittpunkt. Dann endet die hintere Armlinie auf Höhe des hSuP → P16.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 349,
+          "top_left_y": 1295,
+          "bottom_right_x": 1057,
+          "bottom_right_y": 1454,
+          "content": "NAP Die Strecke von P10 bis P16 halbieren → P17 und die Schulterblattlinie nach rechts abwinkeln.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 343,
+          "top_left_y": 1474,
+          "bottom_right_x": 1057,
+          "bottom_right_y": 1617,
+          "content": "Die untere Hälfte der Strecke nochmals halbieren → hinterer Ärmelpunkt (hÄP) und",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 340,
+          "top_left_y": 1642,
+          "bottom_right_x": 1057,
+          "bottom_right_y": 1789,
+          "content": "eine Hilfslinie nach links abwinkeln → P18 = Schnittpunkt mit der vorderen Armlinie.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 340,
+          "top_left_y": 1871,
+          "bottom_right_x": 769,
+          "bottom_right_y": 1920,
+          "content": "### 5 Vorderes Halsloch",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 331,
+          "top_left_y": 1944,
+          "bottom_right_x": 1005,
+          "bottom_right_y": 2005,
+          "content": "Schnittpunkt von vM und Taille.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 331,
+          "top_left_y": 2022,
+          "bottom_right_x": 1051,
+          "bottom_right_y": 2128,
+          "content": "Von P19 nach oben die Vorderlänge (VL) - 1 cm abtragen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 325,
+          "top_left_y": 2148,
+          "bottom_right_x": 1051,
+          "bottom_right_y": 2254,
+          "content": "und von P20 nach unten die Brusttiefe (BrT) - 1 cm abtragen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 325,
+          "top_left_y": 2271,
+          "bottom_right_x": 1051,
+          "bottom_right_y": 2430,
+          "content": "BrP Von P21 nach rechts die halbe Brustbreite+ (½ BrB+) - 0,3 cm abtragen → Brustpunkt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 322,
+          "top_left_y": 2450,
+          "bottom_right_x": 1048,
+          "bottom_right_y": 2606,
+          "content": "→ Brustabnäher-Linie senkrecht zur Brustlinie nach oben und nach unten zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 322,
+          "top_left_y": 2626,
+          "bottom_right_x": 1045,
+          "bottom_right_y": 2736,
+          "content": "HIP Von P20 nach rechts die HIB abtragen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 322,
+          "top_left_y": 2753,
+          "bottom_right_x": 1041,
+          "bottom_right_y": 2920,
+          "content": "Von P20 nach unten HIB + 0,5 abtragen und zum HIP das vordere Halsloch formen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 322,
+          "top_left_y": 3002,
+          "bottom_right_x": 717,
+          "bottom_right_y": 3067,
+          "content": "### 6 Vordere Schulter",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 312,
+          "top_left_y": 3079,
+          "bottom_right_x": 1038,
+          "bottom_right_y": 3300,
+          "content": "Aus der Konstruktionstabelle den Schulterwinkel ablesen und + 2° vom HIP die vordere Schulternaht nach rechts unten zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 309,
+          "top_left_y": 3308,
+          "bottom_right_x": 1035,
+          "bottom_right_y": 3537,
+          "content": "SUP Die SuNL aus der Konstruktionstabelle ablesen und ab dem Halsloch abtragen → vordere Schulter und vSuP.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 306,
+          "top_left_y": 3545,
+          "bottom_right_x": 1035,
+          "bottom_right_y": 3729,
+          "content": "NAP □6 An der vorderen Armlinie ¼ ArD+ von P13 nach oben abtragen → vorderer Ärmelpunkt (vÄP).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1115,
+          "top_left_y": 596,
+          "bottom_right_x": 2524,
+          "bottom_right_y": 2683,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1317,
+          "top_left_y": 2716,
+          "bottom_right_x": 2306,
+          "bottom_right_y": 2757,
+          "content": "□5 Hintere Schulter, vorderes und hinteres Halsloch zeichnen",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 2879,
+          "bottom_right_x": 2484,
+          "bottom_right_y": 2936,
+          "content": "Hiermit ist die Konstruktion des Grundgerüsts abgeschlossen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 2949,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3092,
+          "content": "Sämtliche Varianten von Oberteilgrundschnitten können mit diesem Grundgerüst weiter entwickelt werden. Die einzelnen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3092,
+          "bottom_right_x": 2386,
+          "bottom_right_y": 3132,
+          "content": "Konstruktionen werden auf den folgenden Seiten gezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3141,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3190,
+          "content": "Konstruktionen folgender Oberteil-Varianten findet man hier:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3190,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3235,
+          "content": "Leger Oberteilgrundschnitt ohne Brustabnäher 182",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3239,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3288,
+          "content": "Legerer Oberteil-Grundschnitt mit Brustabnäher 183",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3296,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3345,
+          "content": "Talllierter Oberteil-Grundschnitt mit Hüftausfall",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3349,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3398,
+          "content": "für individuellen Grundschnitt 184",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3402,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3451,
+          "content": "Talllierter Oberteil-Grundschnitt ohne Hüftausfall",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3455,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3504,
+          "content": "mit einfacher Taillierung für industriellen Grundschnitt 186",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3508,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3557,
+          "content": "Talllierter Oberteil-Grundschnitt ohne Brustabnäher 188",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3561,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3610,
+          "content": "Enger Oberteil-Grundschnitt mit Brustabnäher 190",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3614,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3663,
+          "content": "Enger Oberteil-Grundschnitt mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3668,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3717,
+          "content": "Enger Oberteil-Grundschnitt mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 3717,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 3766,
+          "content": "Enger Oberteil-Grundschnitt mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2576,
+          "top_left_y": 633,
+          "bottom_right_x": 2659,
+          "bottom_right_y": 1013,
+          "content": "Grundgerüst\nOberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2668,
+          "top_left_y": 3696,
+          "bottom_right_x": 2741,
+          "bottom_right_y": 3749,
+          "content": "181",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3941455
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s181.jpg",
+    "orientation": "EXIF-Orientierung angewendet",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      0,
+      0,
+      3060,
+      4080
+    ],
+    "cropped": false,
+    "note": "Bounding Boxes der OCR-Antwort beziehen sich auf das OCR-Eingabebild."
+  }
+}

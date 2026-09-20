@@ -1,0 +1,263 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Enger Oberteil-Grundschnitt für elastische Materialien (2)\nmit und ohne Brustabnäher\n\nUNISEX\n\n# Checkliste\n\nSind die VL und die RUL kontrolliert und stehen in der optimalen Balance? (Siehe in der Maßtabelle ab Seite 19)\nSind die richtigen Zugaben für die gewünschte Passform gewählt?\nIst die Konstruktionstabelle vollständig ausgefüllt?\nIst die Summe der BrU-Maße in der Konstruktionstabelle kontrolliert?\n\n# Konstruktion\n\nDie Grundlage der Konstruktion ist auch hier das Grundgerüst von Seite 179 bis 181 mit der geraden hinteren Mitte (P9). Die Konstruktionsvorschrift ist prinzipiell für alle Größen mit der Passformklassen ab PK 0 zu verwenden.\nDer Schnitt ist für Figuren mit großem Busen allerdings nur mit Brustabnäher geeignet.\n\nDie Konstruktion des Grundgerüsts erfolgt (ab Seite 179) mit den Maßen aus der entsprechenden Konstruktionstabelle (hier links) bis Punkt 24. Dann geht es hier weiter.\n\nDer Schnitt wird nur bis zur Hüftlinie gezeichnet. Selbstverständlich kann er auch länger konstruiert werden (siehe Seite 190) oder aber nach Fertigstellung der Konstruktion weiter verlängert werden.\n\nEnger Oberteil-Grundschnitt für elastische Materialien\n\n179\n\n![img-0.jpeg](img-0.jpeg)\n\n3\n\nKonstruktion ohne Brustabnäher\n\n# Taillierung und Hüfte\n\nD3 Dieser Grundschnitt wird nur an der Seite stark tailliert.\nDie vTaB und hTaB messen, addieren und den Taillenausfall in der Konstruktionstabelle berechnen.\n\n# Taillenausfall (TaAf)\n\n\\(\\mathbf{v}\\mathbf{T}\\mathbf{a}\\mathbf{B} + \\mathbf{h}\\mathbf{T}\\mathbf{a}\\mathbf{B} - \\frac{1}{2}\\mathbf{T}\\mathbf{a}\\mathbf{W}\\)\n\\(44,6cm\\) -36cm\n\\(= 7,8cm\\)\n\nDen halben Ausfallbetrag an der erhöhten Taillenlinie jeweils nachinnen abgetragen.\nDie vHUB und hHUB messen, addieren und den Hüftfehlbetrag in der Konstruktionstabelle berechnen.\n\n# Hüft-Fehlbetrag (HüFb)\n\n\\(\\mathbf{v}\\mathbf{H}\\mathbf{U}\\mathbf{B} + \\mathbf{h}\\mathbf{H}\\mathbf{U}\\mathbf{B} - \\frac{1}{2}\\mathbf{H}\\mathbf{U}\\mathbf{W}\\)\n\\(43,8cm\\) -48,5cm\n\\( - 4,7\\mathrm{cm} \\rightarrow 4,7\\mathrm{cm}\\frac{1}{2} = 2,4\\mathrm{cm} \\)\n\nD3+5 Den halben Fehlbetrag in Hüfthöhe jeweils an den Seitenlinien hinzu geben.\n\nObere Seitennaht zunächst gerade zeichnen und die untere Seitennaht als Hüftbogen formen.\n\nDen Saum rechtwinklig vom Hüftbogen aus auf die hM zeichnen.\n\nEr hierzu passende Enge Ärmel ist ab Seite 200 beschrieben.\n\n189",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 729,
+          "top_left_y": 1438,
+          "bottom_right_x": 2127,
+          "bottom_right_y": 3190,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2630
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 45,
+          "top_left_y": 355,
+          "bottom_right_x": 1506,
+          "bottom_right_y": 588,
+          "content": "# Enger Oberteil-Grundschnitt für elastische Materialien (2)\nmit und ohne Brustabnäher",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1761,
+          "top_left_y": 625,
+          "bottom_right_x": 1932,
+          "bottom_right_y": 686,
+          "content": "UNISEX",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 45,
+          "top_left_y": 613,
+          "bottom_right_x": 276,
+          "bottom_right_y": 666,
+          "content": "# Checkliste",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 37,
+          "top_left_y": 686,
+          "bottom_right_x": 671,
+          "bottom_right_y": 1197,
+          "content": "Sind die VL und die RUL kontrolliert und stehen in der optimalen Balance? (Siehe in der Maßtabelle ab Seite 19)\nSind die richtigen Zugaben für die gewünschte Passform gewählt?\nIst die Konstruktionstabelle vollständig ausgefüllt?\nIst die Summe der BrU-Maße in der Konstruktionstabelle kontrolliert?",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1014,
+          "top_left_y": 686,
+          "bottom_right_x": 1290,
+          "bottom_right_y": 756,
+          "content": "# Konstruktion",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1016,
+          "top_left_y": 756,
+          "bottom_right_x": 1946,
+          "bottom_right_y": 1062,
+          "content": "Die Grundlage der Konstruktion ist auch hier das Grundgerüst von Seite 179 bis 181 mit der geraden hinteren Mitte (P9). Die Konstruktionsvorschrift ist prinzipiell für alle Größen mit der Passformklassen ab PK 0 zu verwenden.\nDer Schnitt ist für Figuren mit großem Busen allerdings nur mit Brustabnäher geeignet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1016,
+          "top_left_y": 1062,
+          "bottom_right_x": 1967,
+          "bottom_right_y": 1225,
+          "content": "Die Konstruktion des Grundgerüsts erfolgt (ab Seite 179) mit den Maßen aus der entsprechenden Konstruktionstabelle (hier links) bis Punkt 24. Dann geht es hier weiter.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1016,
+          "top_left_y": 1225,
+          "bottom_right_x": 1972,
+          "bottom_right_y": 1385,
+          "content": "Der Schnitt wird nur bis zur Hüftlinie gezeichnet. Selbstverständlich kann er auch länger konstruiert werden (siehe Seite 190) oder aber nach Fertigstellung der Konstruktion weiter verlängert werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2040,
+          "top_left_y": 817,
+          "bottom_right_x": 2130,
+          "bottom_right_y": 1266,
+          "content": "Enger Oberteil-Grundschnitt für elastische Materialien",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2056,
+          "top_left_y": 1286,
+          "bottom_right_x": 2111,
+          "bottom_right_y": 1323,
+          "content": "179",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 729,
+          "top_left_y": 1438,
+          "bottom_right_x": 2127,
+          "bottom_right_y": 3190,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1251,
+          "top_left_y": 3251,
+          "bottom_right_x": 1295,
+          "bottom_right_y": 3292,
+          "content": "3",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 1335,
+          "top_left_y": 3226,
+          "bottom_right_x": 1777,
+          "bottom_right_y": 3267,
+          "content": "Konstruktion ohne Brustabnäher",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 13,
+          "top_left_y": 1781,
+          "bottom_right_x": 469,
+          "bottom_right_y": 1826,
+          "content": "# Taillierung und Hüfte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 11,
+          "top_left_y": 1850,
+          "bottom_right_x": 663,
+          "bottom_right_y": 2144,
+          "content": "D3 Dieser Grundschnitt wird nur an der Seite stark tailliert.\nDie vTaB und hTaB messen, addieren und den Taillenausfall in der Konstruktionstabelle berechnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 11,
+          "top_left_y": 2169,
+          "bottom_right_x": 363,
+          "bottom_right_y": 2218,
+          "content": "# Taillenausfall (TaAf)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 11,
+          "top_left_y": 2238,
+          "bottom_right_x": 463,
+          "bottom_right_y": 2381,
+          "content": "\\(\\mathbf{v}\\mathbf{T}\\mathbf{a}\\mathbf{B} + \\mathbf{h}\\mathbf{T}\\mathbf{a}\\mathbf{B} - \\frac{1}{2}\\mathbf{T}\\mathbf{a}\\mathbf{W}\\)\n\\(44,6cm\\) -36cm\n\\(= 7,8cm\\)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2475,
+          "bottom_right_x": 658,
+          "bottom_right_y": 2834,
+          "content": "Den halben Ausfallbetrag an der erhöhten Taillenlinie jeweils nachinnen abgetragen.\nDie vHUB und hHUB messen, addieren und den Hüftfehlbetrag in der Konstruktionstabelle berechnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2924,
+          "bottom_right_x": 408,
+          "bottom_right_y": 2985,
+          "content": "# Hüft-Fehlbetrag (HüFb)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3002,
+          "bottom_right_x": 645,
+          "bottom_right_y": 3153,
+          "content": "\\(\\mathbf{v}\\mathbf{H}\\mathbf{U}\\mathbf{B} + \\mathbf{h}\\mathbf{H}\\mathbf{U}\\mathbf{B} - \\frac{1}{2}\\mathbf{H}\\mathbf{U}\\mathbf{W}\\)\n\\(43,8cm\\) -48,5cm\n\\( - 4,7\\mathrm{cm} \\rightarrow 4,7\\mathrm{cm}\\frac{1}{2} = 2,4\\mathrm{cm} \\)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3214,
+          "bottom_right_x": 648,
+          "bottom_right_y": 3373,
+          "content": "D3+5 Den halben Fehlbetrag in Hüfthöhe jeweils an den Seitenlinien hinzu geben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3390,
+          "bottom_right_x": 648,
+          "bottom_right_y": 3545,
+          "content": "Obere Seitennaht zunächst gerade zeichnen und die untere Seitennaht als Hüftbogen formen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3557,
+          "bottom_right_x": 645,
+          "bottom_right_y": 3668,
+          "content": "Den Saum rechtwinklig vom Hüftbogen aus auf die hM zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3749,
+          "bottom_right_x": 645,
+          "bottom_right_y": 3868,
+          "content": "Er hierzu passende Enge Ärmel ist ab Seite 200 beschrieben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2156,
+          "top_left_y": 3757,
+          "bottom_right_x": 2232,
+          "bottom_right_y": 3806,
+          "content": "189",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2690827
+  }
+}

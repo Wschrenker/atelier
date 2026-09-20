@@ -1,0 +1,123 @@
+{
+  "seite": "s175",
+  "quelle_ocr_eingabe": "temporärer aufrechter Seitenzuschnitt aus s175.jpg (nur Seite 175, linke Nachbarseite 174 ausgeschlossen)",
+  "hinweis": "Pixelkoordinaten beziehen sich auf die OCR-Eingabe (aufrecht gedrehter Zuschnitt, 2640x4080), nicht auf das unveränderte Originalbild. Alle Zahlen in den Beschreibungen sind vorläufige OCR-Ablesungen der KI aus den Bildregionen, nicht von der OCR-Engine erkannt (die Regionen wurden vom Modell nur als Bilder markiert, nicht als Text gelesen) und noch nicht von Werner bestätigt.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s175_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 45,
+        "top_left_y": 388,
+        "bottom_right_x": 708,
+        "bottom_right_y": 1572
+      },
+      "beschreibung": "Seitenansicht einer Körperfigur mit rundem Rücken samt Maßboxen und Balance-Erläuterung (linke von drei Figuren oben auf der Seite)",
+      "sichtbare_labels": [
+        "Balance muss korrekt sein! hier 4 cm", "VL für Konstruktion 46",
+        "RüL für Konstruktion 42", "± vorderer Korrekturwert 0",
+        "± hinterer Korrekturwert -1,5", "VL bei waagerechtem Taillenband 46",
+        "RüL bei waagerechtem Taillenband 43,5", "3 Balance korrekt?",
+        "VL aus Maßtabelle 46", "RüL aus Maßtabelle 43,5",
+        "Balance ist nicht korrekt hier 3 cm", "Vorderlänge ist ok.",
+        "Rückenlänge ist bei rundem Rücken um 1,5 cm zu lang. Sie wird für die Konstruktion um 1,5 cm gekürzt."
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐4a Figur mit rundem Rücken",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s175_skizze_02.png",
+      "ocr_id": "img-1.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 838,
+        "top_left_y": 433,
+        "bottom_right_x": 1456,
+        "bottom_right_y": 1589
+      },
+      "beschreibung": "Seitenansicht einer Körperfigur mit geradem Rücken samt Maßboxen und Balance-Erläuterung (mittlere von drei Figuren oben auf der Seite)",
+      "sichtbare_labels": [
+        "Balance muss korrekt sein! hier 4 cm", "VL für Konstruktion 46",
+        "RüL für Konstruktion 42", "± vorderer Korrekturwert 0",
+        "± hinterer Korrekturwert +1", "VL bei waagerechtem Taillenband 46",
+        "RüL bei waagerechtem Taillenband 41", "3 Balance korrekt?",
+        "VL aus Maßtabelle 46", "RüL aus Maßtabelle 41",
+        "Balance ist nicht korrekt hier 5 cm", "Vorderlänge ist ok.",
+        "Rückenlänge ist bei geraden, flachen Rücken um 1 cm zu kurz. Sie wird für die Konstruktion um 1 cm vergrößert."
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐5a Figur mit geradem Rücken",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s175_skizze_03.png",
+      "ocr_id": "img-2.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1580,
+        "top_left_y": 511,
+        "bottom_right_x": 2167,
+        "bottom_right_y": 1601
+      },
+      "beschreibung": "Seitenansicht einer Körperfigur mit extrem rundem Rücken und eingefallener Brust samt Maßboxen und Balance-Erläuterung (rechte von drei Figuren oben auf der Seite)",
+      "sichtbare_labels": [
+        "Balance muss korrekt sein! hier 4 cm", "VL für Konstruktion 46",
+        "RüL für Konstruktion 42", "± vorderer Korrekturwert +1,5",
+        "± hinterer Korrekturwert -2,5", "VL bei waagerechtem Taillenband 44,5",
+        "RüL bei waagerechtem Taillenband 44,5", "3 Balance korrekt?",
+        "VL aus Maßtabelle 44,5", "RüL aus Maßtabelle 44,5",
+        "Balance ist nicht korrekt hier 0 cm",
+        "Vorderlänge ist bei eingefallener Brust um 1,5 cm zu kurz. Sie wird für die Konstruktion um 1,5 cm vergrößert.",
+        "Rückenlänge ist bei rundem Rücken um 2,5 cm zu lang. Sie wird für die Konstruktion um 2,5 cm gekürzt."
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐6a Figur mit extrem rundem Rücken und eingefallener Brust (Buckel, Skoliose)",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s175_skizze_04.png",
+      "ocr_id": "img-3.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 111,
+        "top_left_y": 1715,
+        "bottom_right_x": 581,
+        "bottom_right_y": 2683
+      },
+      "beschreibung": "Schnittteil Rückenteil (RT) mit Korrekturmaß am Schulterabnäher/Rückenlänge (linkes von drei Schnittbildern unten auf der Seite)",
+      "sichtbare_labels": [
+        "1,5 cm", "gemessene RüL = 43,5 cm", "RT", "hÄP"
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐4b Optimierung für runden Rücken: Für die Konstruktion wurde die RüL um 1,5 cm gekürzt. Diese Kürzung um 1,5 cm wird nun an der Konstruktion wieder ergänzt. Der Schulterabnäher wird größer.",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s175_skizze_05.png",
+      "ocr_id": "img-4.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1430,
+        "top_left_y": 1732,
+        "bottom_right_x": 2299,
+        "bottom_right_y": 2614
+      },
+      "beschreibung": "Zwei Schnittteile Vorderteil (VT) und Rückenteil (RT) nebeneinander mit Korrekturmaßen für Skoliose-Anpassung (rechtes von drei Schnittbildern unten auf der Seite)",
+      "sichtbare_labels": [
+        "gemessene VL -1 cm = 44,5 cm", "1,5 cm", "vÄP", "BrP", "VT",
+        "1 cm", "2 cm", "2,5 cm", "hÄP", "gemessene RüL = 44,5 cm", "RT"
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐6b Optimierung für die Skoliose: Für die Konstruktion wurde die VL um 1,5 cm verlängert, die RüL um 2,5 cm gekürzt. Diese VL-Verlängerung um 1,5 cm wird nun an der Konstruktion wieder reduziert und die RüL-Kürzung um 2,5 cm wieder verlängert. Der Brustabnäher wird kleiner, der Schulterabnäher wird größer.",
+      "bestaetigt": false
+    },
+    {
+      "datei": "skizzen/s175_skizze_06.png",
+      "ocr_id": "img-5.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 864,
+        "top_left_y": 1748,
+        "bottom_right_x": 1284,
+        "bottom_right_y": 2646
+      },
+      "beschreibung": "Schnittteil Rückenteil (RT) mit Korrekturmaß am Schulterabnäher/Rückenlänge (mittleres von drei Schnittbildern unten auf der Seite)",
+      "sichtbare_labels": [
+        "1 cm", "gemessene RüL = 41 cm", "RT", "hÄP"
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐5b Optimierung für runden Rücken: Für die Konstruktion wurde die RüL um 1 cm verlängert. Diese Verlängerung um 1 cm wird nun an der Konstruktion wieder reduziert. Der Schulterabnäher wird kleiner.",
+      "bestaetigt": false
+    }
+  ]
+}

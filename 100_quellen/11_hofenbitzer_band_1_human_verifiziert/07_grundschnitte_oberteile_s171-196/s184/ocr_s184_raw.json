@@ -1,0 +1,300 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Oberteil-Grundschnitte\n\n# Taillierter Oberteil-Grundschnitt mit Hüftausfall (1)\nBrustabnäher, Armlöcher und vorderer Taillenabnäher\n\nTaillierter\nOberteil-Grundschnitt\n\n![img-0.jpeg](img-0.jpeg)\n\nDies ist die Weiterentwicklung des\nGrundgerüsts von Seite 181 zu einem\ntaillierten Oberteil-Grundschnitt für\nKleider und schmale Blusen.\n\nTaillierte Oberteil-Grundschnitte ab\nPassformklasse PK1 sind für alle Größen\ngeeignet. Schulter- und Brustbereich\nwerden körpergerecht geformt.\n\nPK3 bis PK5 für Blusen und Kleider.\nFür Jacken und Mäntel verwendet\nman ggf. Zugaben größerer Pass-\nformklassen (siehe Seite 176).\n\n# 7 Brustabnäher konstruieren\n\n2B b Vom vSuP1 eine Hilftsinie zum BrP zeichnen \\(\\rightarrow\\) Dreieck.\nRechts der vorderen Armlinie den maximalen Abstand zur Armlinie anzeichnen \\(\\rightarrow\\) Li26.\n\nDas dargestellte Dreieck kopie-\nren, um den BrP drehen und den\nvSuP1 maximal bis zur Li26 dre-\nhen und anlegen (oder zum BrP\nsenkrecht einschneiden und das\nDreieck zur Li26 falten).\n\nJe weiter das Dreieck nach außen ge-\ndreht wird, desto größer wird der\nBrustabnäher und damit die Formung\nfür die Brust im Vorderteil. Dabei wird\ndas Armloch kleiner und anliegender.\n\nDas Dreieck kann für eine Armloch-\nauflockerung jederzeit wieder zu-\nrück nach innen gedreht werden, wo-\ndurch sich dann der Brustabnäher ver-\nkleinert und das Armloch größer\nwird. (siehe Seiten 192 und 217).\n\n# 8 Armlöcher und Schulterabnäher\n\nVorderes Armloch von der Seite, seitlich vorbei am VAP, senkrecht durch P18 und ungebahr rechtwinklig zur SuN zum vSuP formen.\nHinteres Armloch von der Seite, ca. 1,5 cm am hAP vorbei, senkrecht an P17 zum hSuP formen.\n\n![img-1.jpeg](img-1.jpeg)\n\n☐8b Brustabnäher, Armlöcher und vorderer Taillenabnäher\n\nAn der Hälfte zwischen hM und hinterer Armlinie eine Senk-rechte zur hSuN und zur Hüftlinie zeichnen \\(\\rightarrow\\) hintere Abnahermitte\nDen Schulterabnäher mit 1,5 cm Inhalt ins Armloch zeichnen.\nAn hinterer Abnahermitte senkrecht von der Schulter aus zur Schulterblattlinie einschneiden.\n□8c Schulterabnäher am Armloch zulegen. Hinteres Armloch formen.\nTaillenabnahervorbereiten\nDie Taillenlinie an den Seitenlinien um 1 cm und an der hinteren Armlinie um 0,5 cm erhöhen.\nVon der vorderen Armlinie zur vM \\(1 / 4\\) TaU abtragen (nicht \\(1 / 4\\) TaW!)\nReicht dieser Abtrag von \\(1 / 4\\) TaU über die vM hinaus, deutet dies auf eine \"Starke Figur\" hin. Nähere Informationen über die Konstruktion für eine Starke Figur findet man in Band 2.\n\nReicht dieser Abtrag von ¼ TaU über\ndie vM hinaus, deutet dies auf eine\n„Starke Figur“ hin. Nähere Informa-\ntionen über die Konstruktion für eine\nStarke Figur findet man in Band 2.\n\n# 10 Vorderer Taillenabnäher\n\n10 Strecke zur vM messen und + 0 bis 1\ncm als Abnäherinhalt übertragen.\nvAbl = me + 0 bis 1 cm = 3,2 cm\n\nbis Passformklasse 4 + 1,0 cm\nPassformklasse 5 bis 7 + 0,5 cm\nab Passformklasse 8 + 0 cm\n\nDen Abnäher zum BrP zeichnen.\n\n# 11 Taillenausfall (TaAf)\n\n11 vTaB (ohne Abnäherinhalt) und\nhTaB messen, addieren = TaB. Die\n½ TaW aus der Konstruktions-\ntabelle entnehmen und dort den\nTaAf berechnen:\n\nTaillenausfall (TaAf)\n\n= TaB - ½ TaW\n= 42,8 cm - 36 cm = 6,8 cm\n\nDer Taillenausfall ist der Betrag, der\ndurch Einstellung an den SN und\ndurch Abnäher im Rückzeil entfernt\nwerden kann (der vordere Taillen-\nabnäher ist bereits berücksichtigt).\n\n184",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 618,
+          "top_left_y": 441,
+          "bottom_right_x": 1347,
+          "bottom_right_y": 1266,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1372,
+          "top_left_y": 453,
+          "bottom_right_x": 2686,
+          "bottom_right_y": 2263,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2730
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 522,
+          "top_left_y": 278,
+          "bottom_right_x": 888,
+          "bottom_right_y": 388,
+          "content": "# Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 940,
+          "top_left_y": 245,
+          "bottom_right_x": 2265,
+          "bottom_right_y": 372,
+          "content": "# Taillierter Oberteil-Grundschnitt mit Hüftausfall (1)\nBrustabnäher, Armlöcher und vorderer Taillenabnäher",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 516,
+          "top_left_y": 621,
+          "bottom_right_x": 609,
+          "bottom_right_y": 968,
+          "content": "Taillierter\nOberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 618,
+          "top_left_y": 441,
+          "bottom_right_x": 1347,
+          "bottom_right_y": 1266,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 675,
+          "top_left_y": 1327,
+          "bottom_right_x": 1282,
+          "bottom_right_y": 1495,
+          "content": "Dies ist die Weiterentwicklung des\nGrundgerüsts von Seite 181 zu einem\ntaillierten Oberteil-Grundschnitt für\nKleider und schmale Blusen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 659,
+          "top_left_y": 1515,
+          "bottom_right_x": 1279,
+          "bottom_right_y": 1687,
+          "content": "Taillierte Oberteil-Grundschnitte ab\nPassformklasse PK1 sind für alle Größen\ngeeignet. Schulter- und Brustbereich\nwerden körpergerecht geformt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 659,
+          "top_left_y": 1699,
+          "bottom_right_x": 1273,
+          "bottom_right_y": 1875,
+          "content": "PK3 bis PK5 für Blusen und Kleider.\nFür Jacken und Mäntel verwendet\nman ggf. Zugaben größerer Pass-\nformklassen (siehe Seite 176).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 648,
+          "top_left_y": 1952,
+          "bottom_right_x": 1181,
+          "bottom_right_y": 2001,
+          "content": "# 7 Brustabnäher konstruieren",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 637,
+          "top_left_y": 2013,
+          "bottom_right_x": 1271,
+          "bottom_right_y": 2250,
+          "content": "2B b Vom vSuP1 eine Hilftsinie zum BrP zeichnen \\(\\rightarrow\\) Dreieck.\nRechts der vorderen Armlinie den maximalen Abstand zur Armlinie anzeichnen \\(\\rightarrow\\) Li26.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 604,
+          "top_left_y": 2267,
+          "bottom_right_x": 1265,
+          "bottom_right_y": 2536,
+          "content": "Das dargestellte Dreieck kopie-\nren, um den BrP drehen und den\nvSuP1 maximal bis zur Li26 dre-\nhen und anlegen (oder zum BrP\nsenkrecht einschneiden und das\nDreieck zur Li26 falten).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 609,
+          "top_left_y": 2557,
+          "bottom_right_x": 1241,
+          "bottom_right_y": 2785,
+          "content": "Je weiter das Dreieck nach außen ge-\ndreht wird, desto größer wird der\nBrustabnäher und damit die Formung\nfür die Brust im Vorderteil. Dabei wird\ndas Armloch kleiner und anliegender.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 598,
+          "top_left_y": 2802,
+          "bottom_right_x": 1235,
+          "bottom_right_y": 3083,
+          "content": "Das Dreieck kann für eine Armloch-\nauflockerung jederzeit wieder zu-\nrück nach innen gedreht werden, wo-\ndurch sich dann der Brustabnäher ver-\nkleinert und das Armloch größer\nwird. (siehe Seiten 192 und 217).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 588,
+          "top_left_y": 3112,
+          "bottom_right_x": 1219,
+          "bottom_right_y": 3173,
+          "content": "# 8 Armlöcher und Schulterabnäher",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 574,
+          "top_left_y": 3182,
+          "bottom_right_x": 1232,
+          "bottom_right_y": 3541,
+          "content": "Vorderes Armloch von der Seite, seitlich vorbei am VAP, senkrecht durch P18 und ungebahr rechtwinklig zur SuN zum vSuP formen.\nHinteres Armloch von der Seite, ca. 1,5 cm am hAP vorbei, senkrecht an P17 zum hSuP formen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1372,
+          "top_left_y": 453,
+          "bottom_right_x": 2686,
+          "bottom_right_y": 2263,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1784,
+          "top_left_y": 2275,
+          "bottom_right_x": 2681,
+          "bottom_right_y": 2324,
+          "content": "☐8b Brustabnäher, Armlöcher und vorderer Taillenabnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1304,
+          "top_left_y": 2365,
+          "bottom_right_x": 1976,
+          "bottom_right_y": 3316,
+          "content": "An der Hälfte zwischen hM und hinterer Armlinie eine Senk-rechte zur hSuN und zur Hüftlinie zeichnen \\(\\rightarrow\\) hintere Abnahermitte\nDen Schulterabnäher mit 1,5 cm Inhalt ins Armloch zeichnen.\nAn hinterer Abnahermitte senkrecht von der Schulter aus zur Schulterblattlinie einschneiden.\n□8c Schulterabnäher am Armloch zulegen. Hinteres Armloch formen.\nTaillenabnahervorbereiten\nDie Taillenlinie an den Seitenlinien um 1 cm und an der hinteren Armlinie um 0,5 cm erhöhen.\nVon der vorderen Armlinie zur vM \\(1 / 4\\) TaU abtragen (nicht \\(1 / 4\\) TaW!)\nReicht dieser Abtrag von \\(1 / 4\\) TaU über die vM hinaus, deutet dies auf eine \"Starke Figur\" hin. Nähere Informationen über die Konstruktion für eine Starke Figur findet man in Band 2.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1298,
+          "top_left_y": 3324,
+          "bottom_right_x": 1954,
+          "bottom_right_y": 3569,
+          "content": "Reicht dieser Abtrag von ¼ TaU über\ndie vM hinaus, deutet dies auf eine\n„Starke Figur“ hin. Nähere Informa-\ntionen über die Konstruktion für eine\nStarke Figur findet man in Band 2.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2039,
+          "top_left_y": 2385,
+          "bottom_right_x": 2561,
+          "bottom_right_y": 2438,
+          "content": "# 10 Vorderer Taillenabnäher",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2033,
+          "top_left_y": 2450,
+          "bottom_right_x": 2689,
+          "bottom_right_y": 2597,
+          "content": "10 Strecke zur vM messen und + 0 bis 1\ncm als Abnäherinhalt übertragen.\nvAbl = me + 0 bis 1 cm = 3,2 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2041,
+          "top_left_y": 2610,
+          "bottom_right_x": 2648,
+          "bottom_right_y": 2757,
+          "content": "bis Passformklasse 4 + 1,0 cm\nPassformklasse 5 bis 7 + 0,5 cm\nab Passformklasse 8 + 0 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2036,
+          "top_left_y": 2769,
+          "bottom_right_x": 2645,
+          "bottom_right_y": 2826,
+          "content": "Den Abnäher zum BrP zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2041,
+          "top_left_y": 2863,
+          "bottom_right_x": 2479,
+          "bottom_right_y": 2916,
+          "content": "# 11 Taillenausfall (TaAf)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2033,
+          "top_left_y": 2932,
+          "bottom_right_x": 2694,
+          "bottom_right_y": 3165,
+          "content": "11 vTaB (ohne Abnäherinhalt) und\nhTaB messen, addieren = TaB. Die\n½ TaW aus der Konstruktions-\ntabelle entnehmen und dort den\nTaAf berechnen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2041,
+          "top_left_y": 3186,
+          "bottom_right_x": 2416,
+          "bottom_right_y": 3239,
+          "content": "Taillenausfall (TaAf)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2041,
+          "top_left_y": 3239,
+          "bottom_right_x": 2667,
+          "bottom_right_y": 3333,
+          "content": "= TaB - ½ TaW\n= 42,8 cm - 36 cm = 6,8 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2036,
+          "top_left_y": 3349,
+          "bottom_right_x": 2689,
+          "bottom_right_y": 3594,
+          "content": "Der Taillenausfall ist der Betrag, der\ndurch Einstellung an den SN und\ndurch Abnäher im Rückzeil entfernt\nwerden kann (der vordere Taillen-\nabnäher ist bereits berücksichtigt).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 383,
+          "top_left_y": 3516,
+          "bottom_right_x": 467,
+          "bottom_right_y": 3565,
+          "content": "184",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3581901
+  }
+}

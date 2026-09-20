@@ -1,0 +1,313 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Nahtgestaltung und Zuschnitt für die Anprobe\nFür taillierte Oberteil-Grundschnitte ohne und mit Hüftausfall\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n☐1 Taillierter Oberteil-GS ohne Hüftausfall\nzur Anprobe aus Nessel\n\n☐2\nZuschnitt mit\ngekürzten und\ngeformten\nAbnähern\n\n☐2 Brust-, Taillen- und Schulterabnäher um 2 cm an\nder Spitze kürzen und separat nähen. Den Brustpunkt zur\nKontrolle ggf. mit einem Bohrloch markieren.\n\n☐2+4 Alle Abnäher und Seitennähte wie skizziert for-\nmen, um harte Ecken an der Taille zu vermeiden. Diese\nwürden ansonsten Stressfalten am Stoff erzeugen.\n\nDas VT wird bei der Anprobe an der vM zugesteckt und da-\nher mit einem Einschlag für die Übertrittseite versehen.\n\nNahtzugaben nicht am Schnitt, sondern für eine erste An-\nprobe mit Hilfe der Schablone wie skizziert direkt auf die\nlinke Seite des Stoffs anzeichnen. Außerdem sollten alle\nProportionslinien (auch die vM) auf die rechte Stoffseite\nübertragen werden, um bei der Anprobe den korrekten\nVerlauf kontrollieren zu können.\n\nSaumeinschläge werden zwischen 2 cm\nund 4 cm Breite angezeichnet.\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n☐4 Im VT werden hier die Abnäher in ei-\nner Englischen Naht (S. 376 ff) aufge-\nnommen.\n\nDas RT ist hier mit einer Flankennaht ge-\nteilt (Seite 388 ff). Das Flankenteil sollte\nwie skizziert optimiert werden, um\nSchrägzüge unter dem Arm zu verhin-\ndern. Darauf kann bei einer Grund-\nschnitt-Anprobe auch verzichtet wer-\nden. Im RT könnte auch eine Englische\nNaht gestaltet werden (Seite 376 ff).\n\nLange Oberteil-Grundschnitte können an\nallen Nähten (außer an der hM-Naht) bis\n\n![img-5.jpeg](img-5.jpeg)\n\n☐3 Taillierter Oberteil-GS mit Hüftausfall\nzur Anprobe aus Nessel\n\nzu 1 cm ausgestellt werden. Dadurch wird der Fall etwas bes-\nser.\n\nSchrägzüge unter dem Arm zu verhindern. Darauf kann bei ei-\nner Grundschnitt-Anprobe auch verzichtet werden. Im RT\nkönnte auch eine Englische Naht gestaltet werden (Seite 376\nff).\n\nNahtgestaltung und Zuschnitt\nfür die Anprobe\n\nTDS\nTDS\n\n☐4\n\nGeteilter Schnitt mit Englischer Naht am VT und mit (optimierter) Flankennaht im RT\n\n187",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 0,
+          "top_left_y": 433,
+          "bottom_right_x": 808,
+          "bottom_right_y": 1340,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1103,
+          "top_left_y": 555,
+          "bottom_right_x": 1577,
+          "bottom_right_y": 1911,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1651,
+          "top_left_y": 637,
+          "bottom_right_x": 2114,
+          "bottom_right_y": 1920,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 811,
+          "top_left_y": 2340,
+          "bottom_right_x": 1422,
+          "bottom_right_y": 3831,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1474,
+          "top_left_y": 2340,
+          "bottom_right_x": 2248,
+          "bottom_right_y": 3725,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 13,
+          "top_left_y": 3177,
+          "bottom_right_x": 719,
+          "bottom_right_y": 3802,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2630
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 71,
+          "top_left_y": 225,
+          "bottom_right_x": 1316,
+          "bottom_right_y": 417,
+          "content": "# Nahtgestaltung und Zuschnitt für die Anprobe\nFür taillierte Oberteil-Grundschnitte ohne und mit Hüftausfall",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 433,
+          "bottom_right_x": 808,
+          "bottom_right_y": 1340,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1103,
+          "top_left_y": 555,
+          "bottom_right_x": 1577,
+          "bottom_right_y": 1911,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1651,
+          "top_left_y": 637,
+          "bottom_right_x": 2114,
+          "bottom_right_y": 1920,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 53,
+          "top_left_y": 1368,
+          "bottom_right_x": 745,
+          "bottom_right_y": 1446,
+          "content": "☐1 Taillierter Oberteil-GS ohne Hüftausfall\nzur Anprobe aus Nessel",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 858,
+          "top_left_y": 1286,
+          "bottom_right_x": 1077,
+          "bottom_right_y": 1474,
+          "content": "☐2\nZuschnitt mit\ngekürzten und\ngeformten\nAbnähern",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 45,
+          "top_left_y": 1527,
+          "bottom_right_x": 1069,
+          "bottom_right_y": 1683,
+          "content": "☐2 Brust-, Taillen- und Schulterabnäher um 2 cm an\nder Spitze kürzen und separat nähen. Den Brustpunkt zur\nKontrolle ggf. mit einem Bohrloch markieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 42,
+          "top_left_y": 1695,
+          "bottom_right_x": 1069,
+          "bottom_right_y": 1854,
+          "content": "☐2+4 Alle Abnäher und Seitennähte wie skizziert for-\nmen, um harte Ecken an der Taille zu vermeiden. Diese\nwürden ansonsten Stressfalten am Stoff erzeugen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 42,
+          "top_left_y": 1862,
+          "bottom_right_x": 1066,
+          "bottom_right_y": 1969,
+          "content": "Das VT wird bei der Anprobe an der vM zugesteckt und da-\nher mit einem Einschlag für die Übertrittseite versehen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 34,
+          "top_left_y": 1981,
+          "bottom_right_x": 1069,
+          "bottom_right_y": 2267,
+          "content": "Nahtzugaben nicht am Schnitt, sondern für eine erste An-\nprobe mit Hilfe der Schablone wie skizziert direkt auf die\nlinke Seite des Stoffs anzeichnen. Außerdem sollten alle\nProportionslinien (auch die vM) auf die rechte Stoffseite\nübertragen werden, um bei der Anprobe den korrekten\nVerlauf kontrollieren zu können.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 32,
+          "top_left_y": 2291,
+          "bottom_right_x": 787,
+          "bottom_right_y": 2393,
+          "content": "Saumeinschläge werden zwischen 2 cm\nund 4 cm Breite angezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 811,
+          "top_left_y": 2340,
+          "bottom_right_x": 1422,
+          "bottom_right_y": 3831,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1474,
+          "top_left_y": 2340,
+          "bottom_right_x": 2248,
+          "bottom_right_y": 3725,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 29,
+          "top_left_y": 2410,
+          "bottom_right_x": 777,
+          "bottom_right_y": 2561,
+          "content": "☐4 Im VT werden hier die Abnäher in ei-\nner Englischen Naht (S. 376 ff) aufge-\nnommen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 24,
+          "top_left_y": 2581,
+          "bottom_right_x": 769,
+          "bottom_right_y": 2985,
+          "content": "Das RT ist hier mit einer Flankennaht ge-\nteilt (Seite 388 ff). Das Flankenteil sollte\nwie skizziert optimiert werden, um\nSchrägzüge unter dem Arm zu verhin-\ndern. Darauf kann bei einer Grund-\nschnitt-Anprobe auch verzichtet wer-\nden. Im RT könnte auch eine Englische\nNaht gestaltet werden (Seite 376 ff).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 24,
+          "top_left_y": 3002,
+          "bottom_right_x": 766,
+          "bottom_right_y": 3112,
+          "content": "Lange Oberteil-Grundschnitte können an\nallen Nähten (außer an der hM-Naht) bis",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 13,
+          "top_left_y": 3177,
+          "bottom_right_x": 719,
+          "bottom_right_y": 3802,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 18,
+          "top_left_y": 3835,
+          "bottom_right_x": 700,
+          "bottom_right_y": 3949,
+          "content": "☐3 Taillierter Oberteil-GS mit Hüftausfall\nzur Anprobe aus Nessel",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1158,
+          "top_left_y": 1973,
+          "bottom_right_x": 2114,
+          "bottom_right_y": 2058,
+          "content": "zu 1 cm ausgestellt werden. Dadurch wird der Fall etwas bes-\nser.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1158,
+          "top_left_y": 2079,
+          "bottom_right_x": 2119,
+          "bottom_right_y": 2263,
+          "content": "Schrägzüge unter dem Arm zu verhindern. Darauf kann bei ei-\nner Grundschnitt-Anprobe auch verzichtet werden. Im RT\nkönnte auch eine Englische Naht gestaltet werden (Seite 376\nff).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2177,
+          "top_left_y": 678,
+          "bottom_right_x": 2261,
+          "bottom_right_y": 1197,
+          "content": "Nahtgestaltung und Zuschnitt\nfür die Anprobe",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2182,
+          "top_left_y": 1217,
+          "bottom_right_x": 2243,
+          "bottom_right_y": 1303,
+          "content": "TDS\nTDS",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 853,
+          "top_left_y": 3864,
+          "bottom_right_x": 908,
+          "bottom_right_y": 3904,
+          "content": "☐4",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 948,
+          "top_left_y": 3847,
+          "bottom_right_x": 2222,
+          "bottom_right_y": 3900,
+          "content": "Geteilter Schnitt mit Englischer Naht am VT und mit (optimierter) Flankennaht im RT",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 2259,
+          "top_left_y": 3757,
+          "bottom_right_x": 2338,
+          "bottom_right_y": 3806,
+          "content": "187",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3301459
+  }
+}

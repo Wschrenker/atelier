@@ -1,0 +1,27 @@
+{
+  "page": "s184",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s184.jpg",
+  "orientation": "EXIF-Orientierung angewendet (Orientation 6)",
+  "upright_size": [3060, 4080],
+  "crop_box_in_upright_px": [0, 0, 2730, 4080],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s184_skizze_01.png",
+      "origin": "mistral (unverändert)",
+      "bbox_upright_px": [618, 441, 1347, 1266],
+      "beschreibung": "Zwei Figurinen (Vorder-/Rückansicht) im tailliert konstruierten Oberteil-Grundschnitt mit eingezeichneten Abnäher- und Konstruktionslinien; Bildunterschrift '☐8a Taillierter Oberteil-GS' bereits innerhalb der gemeldeten Box enthalten."
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s184_skizze_02.png",
+      "origin": "mistral (Bounding Box manuell erweitert)",
+      "bbox_mistral_reported_px": [1372, 453, 2686, 2263],
+      "bbox_upright_px": [1372, 453, 2686, 2340],
+      "erweiterung": "Von der OCR gemeldete Box endete kurz unterhalb der Saumlinie und schnitt die darunterstehende Bildunterschrift ab; die Box wurde nach unten bis unter die Bildunterschrift '☐8b Brustabnäher, Armlöcher und vorderer Taillenabnäher' erweitert.",
+      "beschreibung": "Konstruktionsschema 'Brustabnäher, Armlöcher und vorderer Taillenabnäher': Gitter aus vM, vorderer/hinterer Armlinie, Brustabnäher-Linie, zwei Seitenlinien und hM zwischen Brust-, (erhöhter) Taillen-, Hüft- und Saumlinie. Rosa schattiertes Dreieck mit vSuP1/vSuP2/BrP zur Brustabnäher-Konstruktion (Punkte 25, 26, 27, 37, 36!, 35, me/2,2, vAbl/3,2); grau schattiertes Feld mit Scherensymbol am hSuP zur Schulterabnäher-Konstruktion (Punkte 29, 17, 31, 32, Abnäher 1,5 cm, Schulterblattlinie); vorderes/hinteres Armloch mit vÄP/hÄP/hAP (Punkte 18, 28); Maße 'maximal BrU:20 +1 cm', '¼ TaU', '1 cm', '0,5 cm', '½ / ½' an der Taillenlinie sowie Formel 'vTaB + hTaB = TaB' an der hinteren Seite (Punkte 30, 34, 34, 38, 38, 38)."
+    }
+  ],
+  "hinweis": "Vollständiges Bild gegen die automatisch erkannten Regionen geprüft; keine weitere von der OCR übersehene Bildregion auf dieser Seite gefunden. Die auf der Zeichnung selbst stehende Formel 'vTaB + hTaB = TaB' ist Teil der Bildregion (skizzen/s184_skizze_02.png) und wurde von der OCR nicht als eigener Textblock erkannt."
+}

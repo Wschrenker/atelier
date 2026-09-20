@@ -1,0 +1,221 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Konstruktionstabelle\n\nalle Maßangaben in cm Oberteil\n\n[tbl-0.md](tbl-0.md)\n\n[tbl-1.md](tbl-1.md)\n\n![img-0.jpeg](img-0.jpeg)\n\n[tbl-2.md](tbl-2.md)\n\n[tbl-3.md](tbl-3.md)\n\n[tbl-4.md](tbl-4.md)\n\n[tbl-5.md](tbl-5.md)\n\n# Zugabentabelle für Oberteil-Konstruktionen\n\n[tbl-6.md](tbl-6.md)\n\nalle Maßangaben in cm\n\n177",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1717,
+          "top_left_y": 1405,
+          "bottom_right_x": 2148,
+          "bottom_right_y": 1858,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|   | Hauptmaße (Kennmaße) | Name |  |  |  |   |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |  | Datum |  |  |  |   |\n|  KöH | Körperhöhe | Körpermaße | Zugaben | Modell | taillierter Oberteil-GS | Größe 38  |\n|  BrU | Brustumfang | 168 |  |  |  | PK 4  |\n|  TaU | Taillenumfang | 88 |  |  |  |   |\n|  HüU | Hüftumfang | 72 | 8 = | BrW | 96 | ½ 48  |\n|   |  | 97 | 6 = | TaW | 78 | ½ 39  |\n|  AlT | Armlochtiefe | 20,1 | 4 = | HüW | 101 | ½ 50,5  |\n|  HüT | Hüfttiefe | 21 | 1,7 = | AlT+ | 21,8 |   |\n|  BrT | Brusttiefe (ab Schulter) | 28 |  | MoL | Modelllänge | 95  |\n|   |  |  |  | HiB | Halslochbreite | 6,5  |\n|  RüB | Rückenbreite (½) | 16,5 | 0,8 = | RüB+ | 17,3 |   |\n|  ArD | Armdurchmesser | 9,3 | 2 = | ArD+ | 11,3 | ¼ 2,8 ⅓ 3,8  |\n|  BrB | Brustbreite (½) | 18,2 | 1,2 = | BrB+ | 19,4 |   |\n|   | Kontrolle: Σ = ½ BrU | 44 | 4 = | ½ BrW | 48 | Kontrolle  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  SuB | Schulterbreite | 12,2 | 0,4 = | SuNL | 12,6  |\n| --- | --- | --- | --- | --- | --- |\n|  hSuNL | hintere Schuitemahtlänge | SuNL + Einhalteweite 0,5 cm bis 5cm | 0,7 = | hSuNL | 13,3  |\n|  SuWi | Schulterwinkel (in Grad °) | 20° auf lockerung | --- = | SuWi | 20°  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|   | Balancemaße |  |  | Korrekturen | Konstruktionen  |\n| --- | --- | --- | --- | --- | --- |\n|  RÜL | Rückenlänge (waagerechte Taille) | 41,6 | ± --- = | RÜL | 41,6  |\n|  VL | Vorderlänge (waagerechte Taille) | 45,3 | ± --- = | VL | 45,3  |\n|  Differenz VL - RÜL = | individuelle Balance = | 3,7 | korrigierte Balance = |  | 3,7  |\n|  BaI | optimale Balance aus Maßtabelle | 3,5 |  |  |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  oBrB | Oberbrustbreite (½) | --- | uBrU | Unterbrustumfang (½) | ---  |\n| --- | --- | --- | --- | --- | --- |\n|  oBrA | Oberbrustabstand | --- | uBrA | Unterbrustabstand | ---  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-4.md",
+          "content": "|  TaAf | Taillenausfall | gemessene TaB | - ½ TaW =  |\n| --- | --- | --- | --- |\n|  HüFb | Hüftfehlbetrag | gemessene HüB | - ½ HüW =  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-5.md",
+          "content": "|  Mehrweite im Armloch | vAlU | + hAlU | - AlaU =  |\n| --- | --- | --- | --- |\n|  Sollwert der Mehrweite | = 2 · Zugabe zur AlT |   | (Toletanz +2 cm bis -1 cm) =  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-6.md",
+          "content": "|  Pass Arm-Muise | Zugaben (für den ganzen Schnitt) |   |   | AlT | BrW-Zugaben (für ½ Schnitt) |   |   | SuB  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  HU | TaU | HUU |   | HüB | ArD | BrA  |   |\n|  0 | 0 | 0 | 0 | 0 - 0,5 | 0 | 0 | 0 - 0,4 | 0  |\n|  1 | 2 | 0 - 2 | 0 - 2 | 0,2 - 0,7 | 0,1 | 0,3 | 0,6 | 0,1  |\n|  2 | 4 | 2 - 4 | 2 - 4 | 0,5 - 1 | 0,3 | 0,9 | 0,8 | 0,2  |\n|  3 | 6 | 4 - 6 | 4 - 6 | 1,3 | 0,5 | 1,5 | 1 | 0,3  |\n|  4 | 8 | 4 - 8 | 4 - 8 | 1,7 | 0,8 | 2 | 1,2 | 0,4  |\n|  5 | 10 | 8 - 12 | 6 - 8 | 2,1 | 1,1 | 2,5 | 1,4 | 0,5  |\n|  6 | 12 | 8 - 16 | 6 - 10 | 2,5 | 1,4 | 3 | 1,6 | 0,6  |\n|  7 | 14 | 12 - 16 | 8 - 12 | 3 | 1,6 | 3,6 | 1,8 | 0,7  |\n|  8 | 16 | 12 - 20 | 8 - 16 | 3,5 | 1,8 | 4,2 | 2 | 0,8  |\n|  9 | 18 | 12 - 20 | 10 - 20 | 4 | 2 | 5 | 2 | 0,9  |\n|  10 | 20 | 16 - 24 | 10 - 24 | 4,5 | 2,2 | 5,8 | 2 | 1  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2723
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 93,
+          "top_left_y": 192,
+          "bottom_right_x": 619,
+          "bottom_right_y": 253,
+          "content": "# Konstruktionstabelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 93,
+          "top_left_y": 265,
+          "bottom_right_x": 613,
+          "bottom_right_y": 319,
+          "content": "alle Maßangaben in cm Oberteil",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 65,
+          "top_left_y": 327,
+          "bottom_right_x": 2025,
+          "bottom_right_y": 1262,
+          "content": "|   | Hauptmaße (Kennmaße) | Name |  |  |  |   |\n| --- | --- | --- | --- | --- | --- | --- |\n|   |  | Datum |  |  |  |   |\n|  KöH | Körperhöhe | Körpermaße | Zugaben | Modell | taillierter Oberteil-GS | Größe 38  |\n|  BrU | Brustumfang | 168 |  |  |  | PK 4  |\n|  TaU | Taillenumfang | 88 |  |  |  |   |\n|  HüU | Hüftumfang | 72 | 8 = | BrW | 96 | ½ 48  |\n|   |  | 97 | 6 = | TaW | 78 | ½ 39  |\n|  AlT | Armlochtiefe | 20,1 | 4 = | HüW | 101 | ½ 50,5  |\n|  HüT | Hüfttiefe | 21 | 1,7 = | AlT+ | 21,8 |   |\n|  BrT | Brusttiefe (ab Schulter) | 28 |  | MoL | Modelllänge | 95  |\n|   |  |  |  | HiB | Halslochbreite | 6,5  |\n|  RüB | Rückenbreite (½) | 16,5 | 0,8 = | RüB+ | 17,3 |   |\n|  ArD | Armdurchmesser | 9,3 | 2 = | ArD+ | 11,3 | ¼ 2,8 ⅓ 3,8  |\n|  BrB | Brustbreite (½) | 18,2 | 1,2 = | BrB+ | 19,4 |   |\n|   | Kontrolle: Σ = ½ BrU | 44 | 4 = | ½ BrW | 48 | Kontrolle  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 55,
+          "top_left_y": 1274,
+          "bottom_right_x": 1625,
+          "bottom_right_y": 1568,
+          "content": "|  SuB | Schulterbreite | 12,2 | 0,4 = | SuNL | 12,6  |\n| --- | --- | --- | --- | --- | --- |\n|  hSuNL | hintere Schuitemahtlänge | SuNL + Einhalteweite 0,5 cm bis 5cm | 0,7 = | hSuNL | 13,3  |\n|  SuWi | Schulterwinkel (in Grad °) | 20° auf lockerung | --- = | SuWi | 20°  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1717,
+          "top_left_y": 1405,
+          "bottom_right_x": 2148,
+          "bottom_right_y": 1858,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 52,
+          "top_left_y": 1568,
+          "bottom_right_x": 1625,
+          "bottom_right_y": 1944,
+          "content": "|   | Balancemaße |  |  | Korrekturen | Konstruktionen  |\n| --- | --- | --- | --- | --- | --- |\n|  RÜL | Rückenlänge (waagerechte Taille) | 41,6 | ± --- = | RÜL | 41,6  |\n|  VL | Vorderlänge (waagerechte Taille) | 45,3 | ± --- = | VL | 45,3  |\n|  Differenz VL - RÜL = | individuelle Balance = | 3,7 | korrigierte Balance = |  | 3,7  |\n|  BaI | optimale Balance aus Maßtabelle | 3,5 |  |  |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 52,
+          "top_left_y": 1989,
+          "bottom_right_x": 1881,
+          "bottom_right_y": 2136,
+          "content": "|  oBrB | Oberbrustbreite (½) | --- | uBrU | Unterbrustumfang (½) | ---  |\n| --- | --- | --- | --- | --- | --- |\n|  oBrA | Oberbrustabstand | --- | uBrA | Unterbrustabstand | ---  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 52,
+          "top_left_y": 2173,
+          "bottom_right_x": 1881,
+          "bottom_right_y": 2328,
+          "content": "|  TaAf | Taillenausfall | gemessene TaB | - ½ TaW =  |\n| --- | --- | --- | --- |\n|  HüFb | Hüftfehlbetrag | gemessene HüB | - ½ HüW =  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-4.md"
+        },
+        {
+          "top_left_x": 52,
+          "top_left_y": 2348,
+          "bottom_right_x": 1881,
+          "bottom_right_y": 2512,
+          "content": "|  Mehrweite im Armloch | vAlU | + hAlU | - AlaU =  |\n| --- | --- | --- | --- |\n|  Sollwert der Mehrweite | = 2 · Zugabe zur AlT |   | (Toletanz +2 cm bis -1 cm) =  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-5.md"
+        },
+        {
+          "top_left_x": 46,
+          "top_left_y": 2671,
+          "bottom_right_x": 1041,
+          "bottom_right_y": 2736,
+          "content": "# Zugabentabelle für Oberteil-Konstruktionen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 41,
+          "top_left_y": 2740,
+          "bottom_right_x": 1943,
+          "bottom_right_y": 3770,
+          "content": "|  Pass Arm-Muise | Zugaben (für den ganzen Schnitt) |   |   | AlT | BrW-Zugaben (für ½ Schnitt) |   |   | SuB  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  HU | TaU | HUU |   | HüB | ArD | BrA  |   |\n|  0 | 0 | 0 | 0 | 0 - 0,5 | 0 | 0 | 0 - 0,4 | 0  |\n|  1 | 2 | 0 - 2 | 0 - 2 | 0,2 - 0,7 | 0,1 | 0,3 | 0,6 | 0,1  |\n|  2 | 4 | 2 - 4 | 2 - 4 | 0,5 - 1 | 0,3 | 0,9 | 0,8 | 0,2  |\n|  3 | 6 | 4 - 6 | 4 - 6 | 1,3 | 0,5 | 1,5 | 1 | 0,3  |\n|  4 | 8 | 4 - 8 | 4 - 8 | 1,7 | 0,8 | 2 | 1,2 | 0,4  |\n|  5 | 10 | 8 - 12 | 6 - 8 | 2,1 | 1,1 | 2,5 | 1,4 | 0,5  |\n|  6 | 12 | 8 - 16 | 6 - 10 | 2,5 | 1,4 | 3 | 1,6 | 0,6  |\n|  7 | 14 | 12 - 16 | 8 - 12 | 3 | 1,6 | 3,6 | 1,8 | 0,7  |\n|  8 | 16 | 12 - 20 | 8 - 16 | 3,5 | 1,8 | 4,2 | 2 | 0,8  |\n|  9 | 18 | 12 - 20 | 10 - 20 | 4 | 2 | 5 | 2 | 0,9  |\n|  10 | 20 | 16 - 24 | 10 - 24 | 4,5 | 2,2 | 5,8 | 2 | 1  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-6.md"
+        },
+        {
+          "top_left_x": 1608,
+          "top_left_y": 2671,
+          "bottom_right_x": 1905,
+          "bottom_right_y": 2704,
+          "content": "alle Maßangaben in cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2216,
+          "top_left_y": 3574,
+          "bottom_right_x": 2295,
+          "bottom_right_y": 3623,
+          "content": "177",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3916183
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s177.jpg",
+    "orientation": "EXIF-Orientierung angewendet",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      337,
+      0,
+      3060,
+      4080
+    ],
+    "cropped": true,
+    "note": "Bounding Boxes der OCR-Antwort beziehen sich auf das OCR-Eingabebild."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "seite": "s189",
+  "quelle_ocr_eingabe": "temporärer aufrechter Seitenzuschnitt aus s189.jpg (nur Seite 189, linke Nachbarseite 188 ausgeschlossen)",
+  "hinweis": "Pixelkoordinaten beziehen sich auf die OCR-Eingabe (aufrecht gedrehter Zuschnitt, 2630x4080), nicht auf das unveränderte Originalbild. Alle Zahlen in der Beschreibung sind vorläufige OCR-Ablesungen der KI aus der Bildregion, nicht von der OCR-Engine erkannt (die Region wurde vom Modell nur als Bild markiert, nicht als Text gelesen) und noch nicht von Werner bestätigt.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s189_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 729,
+        "top_left_y": 1438,
+        "bottom_right_x": 2127,
+        "bottom_right_y": 3190
+      },
+      "beschreibung": "Konstruktionszeichnung des engen Oberteil-Grundschnitts ohne Brustabnäher: Vorderteil (links) und Rückenteil (rechts) nebeneinander vom Hals bis zum Saum, mit Balance-, Abnäher- und Nahtlinien sowie zahlreichen Punktbezeichnungen und Maßangaben.",
+      "sichtbare_labels": [
+        "HlP", "HlB-0,5", "HlB + 0 bis 0,5 cm", "SuWi +2°", "SuNL", "vSuP",
+        "BrT - 1 cm", "vÄP", "1/4 ArD+", "1/3 ArD+", "2/3 ArD+", "BrB+",
+        "1/2 BrB+ - 0,3 cm", "BrP", "vBrW", "Kontrolle der BrW",
+        "Brustabnäher-Linie", "vM", "VL - 1 cm",
+        "5", "jeweils 1/2 Ausfallbetrag (hier 3,9 cm)", "1 cm", "2",
+        "Taillenlinie", "1", "vTaB +", "SN", "Seitenlinie",
+        "3", "vHüB +", "4", "jeweils 1/2 Hüft-Fehlbetrag (hier 2,4 cm)",
+        "SuP", "hSuNL", "SuWi -2°", "SuNL + EW (0 bis 0,5 cm)", "HlB",
+        "HlB :3 +1 cm", "Armlochtiefe (AlT+)", "0,5 bis 1 cm", "1/2",
+        "Schulterblattlinie", "hAP", "1/4", "ca. 1 bis 1,5 cm", "RüB+",
+        "hBrW", "vBrW + hBrW = 1/2 BrW", "hM", "Grundlinie",
+        "Rückenlänge (RüL)", "hTaB = TaB", "Hüftlinie", "hHüB = HüB",
+        "2 cm", "Hüfttiefe (HüT)", "Seitenlinie parallel zur hM", "Saum", "6"
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐3 Konstruktion ohne Brustabnäher",
+      "bestaetigt": false
+    }
+  ]
+}

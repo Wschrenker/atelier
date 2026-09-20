@@ -1,0 +1,323 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Oberteil-Grundschnitte\n\n# Grundgerüst für sämtliche Oberteil-Grundschnitte (1)\nKonstruktionstabelle\n\n![img-0.jpeg](img-0.jpeg)\n\nGrundgerüst\nOberteil-Grundschnitt\n\nDie Konstruktionsschritte des Grundgerüsts für sämtliche Varianten von Oberteil-Grundschnitten sind identisch.\n\nDie Dimensionen des Grundgerüsts werden bestimmt durch die Körpermaße und durch die verwendeten Zugaben.\n\nDie Konstruktion des Grundgerüsts ist für alle Größen, Passformklassen und nahezu für alle Figurtypen geeignet (Ausnahme sind die sogenannten Bauchfiguren, siehe Band 2).\n\nDie Wahl der Zugaben in der Konstruktions-tabelle ist entscheidend für die Verwendung des Grundschnitts (siehe Tabelle der Passformklassen und Zugabentabelle ab Seite 176). Zudem wird eine der beiden Formen der hinteren Mitte zu Beginn der Konstruktion festgelegt, siehe Schritt 2 bei P7 und P8.\n\nIn ☐1a-d sind verschiedene Grundschnitt-Varianten abgebildet.\n\n☐1a Legerer Oberteil-GS ohne Abnäher\n\n☐1b Legerer Oberteil-GS mit Brustabnäher\n\n[tbl-0.md](tbl-0.md)\n\nDer TaU ist hier um 4 cm kleiner als in der Größentabelle für die Größe 38.\n\n[tbl-1.md](tbl-1.md)\n\n[tbl-2.md](tbl-2.md)\n\n![img-1.jpeg](img-1.jpeg)\n\n[tbl-3.md](tbl-3.md)\n\n[tbl-4.md](tbl-4.md)\n\n[tbl-5.md](tbl-5.md)\n\nDie Differenz von 0,2 cm zwischen individueller und optimaler Balance liegt innerhalb der Toleranz und wird vernachlässigt. Somit werden die RüL und die VL unkorrigiert verwendet.\n\nDie Berechnungen TaAf und HüFb werden erst im Laufe der Konstruktion für den Oberteil-Grundschnitt vorgenommen.\n\n178\n\n☐2\n\nKonstruktionstabelle für einen Oberteil-Grundschnitt der PK 3",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1440,
+          "top_left_y": 417,
+          "bottom_right_x": 2842,
+          "bottom_right_y": 1348,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 2061,
+          "top_left_y": 2401,
+          "bottom_right_x": 2595,
+          "bottom_right_y": 2928,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionstabelle alle Maßangaben in cm Oberteil | Name |  |   |   |   | Größe | 38  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | taillierter Oberteil-GS | PK | 3  |\n|   | Hauptmaße (Kennmaße) | Körpermaße | Zugaben |   | Proportionsmaße (Konstruktions-, Kontrollmaße)  |   |   |   |\n|  KöH | Körperhöhe | 168 |   |   |   |   |   |   |\n|  BrU | Brustumfang | 88 | + | 6 = | BrW | 94 | ½ 48 |   |\n|  TaU | Taillenumfang | 68 | + | 4 = | TaW | 72 | ½ 36 |   |\n|  HüU | Hüftumfang | 97 | + | 4 = | HüW | 101 | ½ 50,5 |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  AlT | Armlochtiefe | 20,1 | + | 1,3 = | AlT+ | 21,8 |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  HüT | Hüfttiefe | 21 |  | MoL | Modelllänge | 95  |   |\n|  BrT | Brusttiefe (ab Schulter) | 28,1 |   |   | HIB | Halslochbreite | 6,5  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  RüB | Rückenbreite (½) | 16,5 | + | 0,5 = | RüB+ | 17 |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  ArD | Armdurchmesser | 9,3 | + | 1,5 = | ArD+ | 10,8 | ¼ 2,7 ⅓ 3,6  |\n|  BrB | Brustbreite (½) | 18,2 | + | 1 = | BrB+ | 19,2 |   |\n|   | Kontrolle: Σ = ½ BrU | 44 | + | 3 = | ½ BrW | 47 |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  SuB | Schulterbreite | 12,2 | + | 0,3 = | SuNL | 12,5  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  hSuNL | hintere Schulternahtlänge | SuNL - Einhalteweite 0,5 cm bis 1 cm | + | 0,7 = | hSuNL | 13,2  |\n|  SuWi | Schulterwinkel (in Grad, °) | 20° - Alf- lockenrig | - | --- = | SuWi | 20°  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-4.md",
+          "content": "|   | Balancemaße |  | Korrekturen |   | Konstruktionsmaße  |   |\n| --- | --- | --- | --- | --- | --- | --- |\n|  RüL | Rückenlänge (waagerechte Taille) | 41,6 | ± | --- = | RüL | 41,6  |\n|  VL | Vorderlänge (waagerechte Taille) | 45,3 | ± | --- = | VL | 45,3  |\n|  Differenz VL - RüL = | Individuelle Balance = | 3,7 | korrigierte Balance = |   |   | 3,7  |\n|  Bal | optimale Balance aus Maßtabelle | 3,5 | Optimale und korrigierte Balance müssten jetzt sehr ähnlich sein. (x 1 cm Toleranz, nur wenn kein Figurproblem zu beobachten ist)  |   |   |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-5.md",
+          "content": "|  oBrB | Oberbrustbreite (½) | --- | uBrU | Unterbrustumfang (½) | ---  |\n| --- | --- | --- | --- | --- | --- |\n|  oBrA | Oberbrustabstand | --- | uBrA | Unterbrustabstand | ---  |\n|  TaAf | Taillenumfall | gemessene TaB | - ½ TaW | = |   |\n|  HüFb | Hüftfeldbetrag | gemessene HüB | - ½ HüW | = |   |\n|  Mehrweite im Armloch |   | VAIU + hAIU | - AraU | = |   |\n|  Sollwert der Mehrweite |   | = 2 - Zugabe zur AlT (Toleranz +2 cm bis -1 cm) = |   |  | Nur bei Oberteilen mit Brustabnäher!  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2900
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 511,
+          "top_left_y": 282,
+          "bottom_right_x": 891,
+          "bottom_right_y": 404,
+          "content": "# Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 952,
+          "top_left_y": 237,
+          "bottom_right_x": 2395,
+          "bottom_right_y": 396,
+          "content": "# Grundgerüst für sämtliche Oberteil-Grundschnitte (1)\nKonstruktionstabelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1440,
+          "top_left_y": 417,
+          "bottom_right_x": 2842,
+          "bottom_right_y": 1348,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 511,
+          "top_left_y": 800,
+          "bottom_right_x": 554,
+          "bottom_right_y": 1021,
+          "content": "Grundgerüst\nOberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 703,
+          "top_left_y": 519,
+          "bottom_right_x": 1405,
+          "bottom_right_y": 645,
+          "content": "Die Konstruktionsschritte des Grundgerüsts für sämtliche Varianten von Oberteil-Grundschnitten sind identisch.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 697,
+          "top_left_y": 662,
+          "bottom_right_x": 1399,
+          "bottom_right_y": 792,
+          "content": "Die Dimensionen des Grundgerüsts werden bestimmt durch die Körpermaße und durch die verwendeten Zugaben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 688,
+          "top_left_y": 805,
+          "bottom_right_x": 1396,
+          "bottom_right_y": 984,
+          "content": "Die Konstruktion des Grundgerüsts ist für alle Größen, Passformklassen und nahezu für alle Figurtypen geeignet (Ausnahme sind die sogenannten Bauchfiguren, siehe Band 2).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 679,
+          "top_left_y": 1001,
+          "bottom_right_x": 1390,
+          "bottom_right_y": 1307,
+          "content": "Die Wahl der Zugaben in der Konstruktions-tabelle ist entscheidend für die Verwendung des Grundschnitts (siehe Tabelle der Passformklassen und Zugabentabelle ab Seite 176). Zudem wird eine der beiden Formen der hinteren Mitte zu Beginn der Konstruktion festgelegt, siehe Schritt 2 bei P7 und P8.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 671,
+          "top_left_y": 1323,
+          "bottom_right_x": 1382,
+          "bottom_right_y": 1417,
+          "content": "In ☐1a-d sind verschiedene Grundschnitt-Varianten abgebildet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1489,
+          "top_left_y": 1356,
+          "bottom_right_x": 2102,
+          "bottom_right_y": 1393,
+          "content": "☐1a Legerer Oberteil-GS ohne Abnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2189,
+          "top_left_y": 1352,
+          "bottom_right_x": 2839,
+          "bottom_right_y": 1397,
+          "content": "☐1b Legerer Oberteil-GS mit Brustabnäher",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 554,
+          "top_left_y": 1495,
+          "bottom_right_x": 2418,
+          "bottom_right_y": 1960,
+          "content": "|  Konstruktionstabelle alle Maßangaben in cm Oberteil | Name |  |   |   |   | Größe | 38  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | taillierter Oberteil-GS | PK | 3  |\n|   | Hauptmaße (Kennmaße) | Körpermaße | Zugaben |   | Proportionsmaße (Konstruktions-, Kontrollmaße)  |   |   |   |\n|  KöH | Körperhöhe | 168 |   |   |   |   |   |   |\n|  BrU | Brustumfang | 88 | + | 6 = | BrW | 94 | ½ 48 |   |\n|  TaU | Taillenumfang | 68 | + | 4 = | TaW | 72 | ½ 36 |   |\n|  HüU | Hüftumfang | 97 | + | 4 = | HüW | 101 | ½ 50,5 |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 2256,
+          "top_left_y": 1817,
+          "bottom_right_x": 2798,
+          "bottom_right_y": 1899,
+          "content": "Der TaU ist hier um 4 cm kleiner als in der Größentabelle für die Größe 38.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 540,
+          "top_left_y": 1960,
+          "bottom_right_x": 2412,
+          "bottom_right_y": 2173,
+          "content": "|  AlT | Armlochtiefe | 20,1 | + | 1,3 = | AlT+ | 21,8 |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  HüT | Hüfttiefe | 21 |  | MoL | Modelllänge | 95  |   |\n|  BrT | Brusttiefe (ab Schulter) | 28,1 |   |   | HIB | Halslochbreite | 6,5  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 523,
+          "top_left_y": 2160,
+          "bottom_right_x": 2409,
+          "bottom_right_y": 2463,
+          "content": "|  RüB | Rückenbreite (½) | 16,5 | + | 0,5 = | RüB+ | 17 |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  ArD | Armdurchmesser | 9,3 | + | 1,5 = | ArD+ | 10,8 | ¼ 2,7 ⅓ 3,6  |\n|  BrB | Brustbreite (½) | 18,2 | + | 1 = | BrB+ | 19,2 |   |\n|   | Kontrolle: Σ = ½ BrU | 44 | + | 3 = | ½ BrW | 47 |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 2061,
+          "top_left_y": 2401,
+          "bottom_right_x": 2595,
+          "bottom_right_y": 2928,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 508,
+          "top_left_y": 2455,
+          "bottom_right_x": 1959,
+          "bottom_right_y": 2708,
+          "content": "|  SuB | Schulterbreite | 12,2 | + | 0,3 = | SuNL | 12,5  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  hSuNL | hintere Schulternahtlänge | SuNL - Einhalteweite 0,5 cm bis 1 cm | + | 0,7 = | hSuNL | 13,2  |\n|  SuWi | Schulterwinkel (in Grad, °) | 20° - Alf- lockenrig | - | --- = | SuWi | 20°  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 491,
+          "top_left_y": 2708,
+          "bottom_right_x": 1957,
+          "bottom_right_y": 3092,
+          "content": "|   | Balancemaße |  | Korrekturen |   | Konstruktionsmaße  |   |\n| --- | --- | --- | --- | --- | --- | --- |\n|  RüL | Rückenlänge (waagerechte Taille) | 41,6 | ± | --- = | RüL | 41,6  |\n|  VL | Vorderlänge (waagerechte Taille) | 45,3 | ± | --- = | VL | 45,3  |\n|  Differenz VL - RüL = | Individuelle Balance = | 3,7 | korrigierte Balance = |   |   | 3,7  |\n|  Bal | optimale Balance aus Maßtabelle | 3,5 | Optimale und korrigierte Balance müssten jetzt sehr ähnlich sein. (x 1 cm Toleranz, nur wenn kein Figurproblem zu beobachten ist)  |   |   |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-4.md"
+        },
+        {
+          "top_left_x": 479,
+          "top_left_y": 3096,
+          "bottom_right_x": 2206,
+          "bottom_right_y": 3643,
+          "content": "|  oBrB | Oberbrustbreite (½) | --- | uBrU | Unterbrustumfang (½) | ---  |\n| --- | --- | --- | --- | --- | --- |\n|  oBrA | Oberbrustabstand | --- | uBrA | Unterbrustabstand | ---  |\n|  TaAf | Taillenumfall | gemessene TaB | - ½ TaW | = |   |\n|  HüFb | Hüftfeldbetrag | gemessene HüB | - ½ HüW | = |   |\n|  Mehrweite im Armloch |   | VAIU + hAIU | - AraU | = |   |\n|  Sollwert der Mehrweite |   | = 2 - Zugabe zur AlT (Toleranz +2 cm bis -1 cm) = |   |  | Nur bei Oberteilen mit Brustabnäher!  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-5.md"
+        },
+        {
+          "top_left_x": 2351,
+          "top_left_y": 2994,
+          "bottom_right_x": 2769,
+          "bottom_right_y": 3300,
+          "content": "Die Differenz von 0,2 cm zwischen individueller und optimaler Balance liegt innerhalb der Toleranz und wird vernachlässigt. Somit werden die RüL und die VL unkorrigiert verwendet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2348,
+          "top_left_y": 3345,
+          "bottom_right_x": 2775,
+          "bottom_right_y": 3545,
+          "content": "Die Berechnungen TaAf und HüFb werden erst im Laufe der Konstruktion für den Oberteil-Grundschnitt vorgenommen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 372,
+          "top_left_y": 3676,
+          "bottom_right_x": 453,
+          "bottom_right_y": 3729,
+          "content": "178",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 2200,
+          "top_left_y": 3672,
+          "bottom_right_x": 2258,
+          "bottom_right_y": 3708,
+          "content": "☐2",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 2200,
+          "top_left_y": 3717,
+          "bottom_right_x": 2691,
+          "bottom_right_y": 3798,
+          "content": "Konstruktionstabelle für einen Oberteil-Grundschnitt der PK 3",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2491116
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s178.jpg",
+    "orientation": "EXIF-Orientierung angewendet",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      0,
+      0,
+      2900,
+      4080
+    ],
+    "cropped": true,
+    "note": "Bounding Boxes der OCR-Antwort beziehen sich auf das OCR-Eingabebild."
+  }
+}

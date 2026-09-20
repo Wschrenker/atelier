@@ -1,0 +1,16 @@
+[
+  {
+    "id": "s186_skizze_01",
+    "file": "skizzen/s186_skizze_01.png",
+    "quelle": "automatisch erkannt (Mistral OCR Layout-Antwort, ocr_s186_raw.json, Region img-0.jpeg), Rand manuell um 20px erweitert",
+    "bbox_original_pixel_raw_orientierung": {
+      "top_left_x": 1401,
+      "top_left_y": 948,
+      "bottom_right_x": 3361,
+      "bottom_right_y": 2339
+    },
+    "bbox_hinweis": "Koordinaten beziehen sich auf die Rohbild-Pixelorientierung vor EXIF-Korrektur (EXIF-Orientation 6); von der OCR gemeldete Box (1421,968)-(3341,2319) plus 20px Rand auf allen Seiten, danach 90° im Uhrzeigersinn gedreht.",
+    "beschreibung_vorlaeufig": "Technische Konstruktionszeichnung 'Taillierung am Oberteil-GS ohne Hüftausfall' (Bildunterschrift ☐2): vier Schnittteile mit Abnäherlinien, Punktlabels BrP/vÄP/hÄP, Kreiszahlen 35-43, Maßangaben (vAbI, an SN, shAbI, hAbI, vTaB, hTaB, vHüB, hHüB), Linienbezeichnungen (Brustlinie, Taillenlinie, Hüftlinie, Saumlinie, Seitenlinie, hintere Armlinie, Schulterblattlinie, hintere Abnähermitte, hintere Mitte (hM))",
+    "status": "noch nicht von Werner am Original bestaetigt"
+  }
+]

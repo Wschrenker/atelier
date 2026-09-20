@@ -1,0 +1,401 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Taillierter Oberteil-Grundschnitt mit Hüftausfall (2)\nTaillierung, Hüfte und Seitennaht\n\n# 1 Taillierung des Taillenausfalls\n\nHier:\n\n[tbl-0.md](tbl-0.md)\n\n![img-0.jpeg](img-0.jpeg)\n\n# 2 Hintere Taillenabnäher\n\nTaillierung an der Seitennaht,\nden seitlichen hinteren Abnaher (shAb) sowie\n4) den hinteren Abnaher (hAb) zur Bcl. und nach unten zeichnen.\n\n# 3 Hüftausfall im VT\n\nBei diesem Schnitt wird ein Hüftausfall (HüAf), eine besondere Art des Abnäherinhalts, bis zum Saum gezeichnet, da ansonsten das Vorderteil im Bereich der Hüfte zu weit wäre.\n\nHüftausfall (HüAf)\n\n\\( = \\) vAbl -2cm\n\\(= 3,2cm - 2cm\\)\n\\(= 1,2cm\\)\n\n4a Den HüAf senkrecht bis zur Saumlinie zeichnen.\n\nIst der Hüftausfall kleiner als 0,5 cm, wird er nicht gezeichnet.\n\nLiegt er zwischen 0,5 und 1 cm kann er ggf. vernachlässigt werden.\n\nEntsteht bei der Berechnung ein Minobetrag, wird kein Hüftausfall gezeichnet.\n\nIn allen diesen Fällen, entsteht der taillierte Oberteil-Grundschnitt ohne Hüftausfall auf Seite 186.\n\n# 4b Hüft-Fehlbetrag (HüFb)\n\n4b HÜB und hHÜB (ohne Hüftausfall) messen, addieren = HÜB und in der Konstruktionstabelle (siehe rechts) den HüFb berechnen:\n\nHüft-Fehlbetrag (HüFb)\n\n\\( = \\) HUB - 1/2HüW\n\\(= 44,9cm - 50,5cm\\)\n\\(= -5,6cm\\rightarrow 5,6cm\\quad 1 / 2 = 2,8cm\\)\n\n![img-1.jpeg](img-1.jpeg)\n\nBeträgt der Hüft-Fehlbetrag weniger als 2 cm, ist der HüU unterproportional. Beträgt der HüFb mehr als 8 cm, ist der HüU überproportional. In beiden Fällen könnte es sich um ein Figurproblem handeln (siehe Band 2).\n\nJeweils den halben HUFb (hier 5,6 cm; \\(2 = 2,8\\) cm) an den Seitenlinien in Hufthöhe ausstellen.\nHüftbögen formen und die Seitennahtte weiter senkrecht nach unten zur Saumlinie zeichnen.\n\n□8c Taillierung, Hüftausfall und Hüftbögen\n\n[tbl-1.md](tbl-1.md)\n\n[tbl-2.md](tbl-2.md)\n\n# Kontrolle der Oberbrustbreite\n\n4a Die Strecke zwischen vM und Armloch messen und mit der halben Oberbrustbreite vergleichen.\n\nBei unerwünschter Mehrweite kann diese dort z.B. durch eine Englische Huht reduziert werden (siehe S. 376).\n\n# Kontrolle des Armlochumfangs\n\nBeide Armlochkurven messen und addieren. Hiervon den am Körper gemessenen Armansatzumfang (AraU) absenen. Die Differenz ist die Mehrzeiten im Armloch. Sie sollte min- bis zweifachen der destens dem ein- bis zweifachen der Zugabe zur AIT entsprechen (siehe Auszug der Konstruktionstabelle unten).\n\nMehrweite im Armloch:\n\nSollwert der Mehrweite\n\n[tbl-3.md](tbl-3.md)\n\nTaillierter Oberteil-Grundschnitt\n\n185",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 568,
+          "top_left_y": 597,
+          "bottom_right_x": 2483,
+          "bottom_right_y": 1872,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 2691,
+          "top_left_y": 579,
+          "bottom_right_x": 3790,
+          "bottom_right_y": 1210,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  0 bis 2 cm | SN | 2 = 1 cm | = | 2,0 cm  |\n| --- | --- | --- | --- | --- |\n|  1 bis 3 cm | shAbl |  | = | 2,0 cm  |\n|  2 bis 4 cm | hAbl |  | = | 2,8 cm  |\n|  T = Kontrolle TaAf |   |   | = | 6,8 cm  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  TaAf | Taillenausfall  |\n| --- | --- |\n|  HüFb | Hüftfehlbetrag  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  genossene TaB | 42,8 | - ½ TaW | 36 | - | 6,8  |\n| --- | --- | --- | --- | --- | --- |\n|  genossene HÜB | 44,9 | - ½ HÜW | 50,5 | - | -5,6  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  haAu | 22,5 | + haU | 24,5 | - hAu | 44,5 | + | 2,8  |\n| --- | --- | --- | --- | --- | --- | --- | --- |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 229,
+          "top_left_y": 1216,
+          "bottom_right_x": 486,
+          "bottom_right_y": 2585,
+          "content": "# Taillierter Oberteil-Grundschnitt mit Hüftausfall (2)\nTaillierung, Hüfte und Seitennaht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 482,
+          "top_left_y": 1982,
+          "bottom_right_x": 543,
+          "bottom_right_y": 2585,
+          "content": "# 1 Taillierung des Taillenausfalls",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 568,
+          "top_left_y": 2509,
+          "bottom_right_x": 609,
+          "bottom_right_y": 2588,
+          "content": "Hier:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 617,
+          "top_left_y": 1945,
+          "bottom_right_x": 845,
+          "bottom_right_y": 2594,
+          "content": "|  0 bis 2 cm | SN | 2 = 1 cm | = | 2,0 cm  |\n| --- | --- | --- | --- | --- |\n|  1 bis 3 cm | shAbl |  | = | 2,0 cm  |\n|  2 bis 4 cm | hAbl |  | = | 2,8 cm  |\n|  T = Kontrolle TaAf |   |   | = | 6,8 cm  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 568,
+          "top_left_y": 597,
+          "bottom_right_x": 2483,
+          "bottom_right_y": 1872,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 911,
+          "top_left_y": 2107,
+          "bottom_right_x": 964,
+          "bottom_right_y": 2604,
+          "content": "# 2 Hintere Taillenabnäher",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 980,
+          "top_left_y": 1948,
+          "bottom_right_x": 1266,
+          "bottom_right_y": 2625,
+          "content": "Taillierung an der Seitennaht,\nden seitlichen hinteren Abnaher (shAb) sowie\n4) den hinteren Abnaher (hAb) zur Bcl. und nach unten zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1327,
+          "top_left_y": 2245,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 2625,
+          "content": "# 3 Hüftausfall im VT",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 1954,
+          "bottom_right_x": 1638,
+          "bottom_right_y": 2646,
+          "content": "Bei diesem Schnitt wird ein Hüftausfall (HüAf), eine besondere Art des Abnäherinhalts, bis zum Saum gezeichnet, da ansonsten das Vorderteil im Bereich der Hüfte zu weit wäre.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1654,
+          "top_left_y": 2313,
+          "bottom_right_x": 1703,
+          "bottom_right_y": 2640,
+          "content": "Hüftausfall (HüAf)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1707,
+          "top_left_y": 2328,
+          "bottom_right_x": 1842,
+          "bottom_right_y": 2643,
+          "content": "\\( = \\) vAbl -2cm\n\\(= 3,2cm - 2cm\\)\n\\(= 1,2cm\\)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1871,
+          "top_left_y": 1966,
+          "bottom_right_x": 1964,
+          "bottom_right_y": 2659,
+          "content": "4a Den HüAf senkrecht bis zur Saumlinie zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1989,
+          "top_left_y": 1979,
+          "bottom_right_x": 2087,
+          "bottom_right_y": 2662,
+          "content": "Ist der Hüftausfall kleiner als 0,5 cm, wird er nicht gezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2107,
+          "top_left_y": 1985,
+          "bottom_right_x": 2209,
+          "bottom_right_y": 2665,
+          "content": "Liegt er zwischen 0,5 und 1 cm kann er ggf. vernachlässigt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2226,
+          "top_left_y": 1988,
+          "bottom_right_x": 2373,
+          "bottom_right_y": 2671,
+          "content": "Entsteht bei der Berechnung ein Minobetrag, wird kein Hüftausfall gezeichnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2397,
+          "top_left_y": 1994,
+          "bottom_right_x": 2553,
+          "bottom_right_y": 2680,
+          "content": "In allen diesen Fällen, entsteht der taillierte Oberteil-Grundschnitt ohne Hüftausfall auf Seite 186.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2646,
+          "top_left_y": 2159,
+          "bottom_right_x": 2708,
+          "bottom_right_y": 2680,
+          "content": "# 4b Hüft-Fehlbetrag (HüFb)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2716,
+          "top_left_y": 1994,
+          "bottom_right_x": 2932,
+          "bottom_right_y": 2699,
+          "content": "4b HÜB und hHÜB (ohne Hüftausfall) messen, addieren = HÜB und in der Konstruktionstabelle (siehe rechts) den HüFb berechnen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2941,
+          "top_left_y": 2251,
+          "bottom_right_x": 3010,
+          "bottom_right_y": 2699,
+          "content": "Hüft-Fehlbetrag (HüFb)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3018,
+          "top_left_y": 2025,
+          "bottom_right_x": 3186,
+          "bottom_right_y": 2702,
+          "content": "\\( = \\) HUB - 1/2HüW\n\\(= 44,9cm - 50,5cm\\)\n\\(= -5,6cm\\rightarrow 5,6cm\\quad 1 / 2 = 2,8cm\\)",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2691,
+          "top_left_y": 579,
+          "bottom_right_x": 3790,
+          "bottom_right_y": 1210,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 3247,
+          "top_left_y": 2025,
+          "bottom_right_x": 3574,
+          "bottom_right_y": 2720,
+          "content": "Beträgt der Hüft-Fehlbetrag weniger als 2 cm, ist der HüU unterproportional. Beträgt der HüFb mehr als 8 cm, ist der HüU überproportional. In beiden Fällen könnte es sich um ein Figurproblem handeln (siehe Band 2).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3574,
+          "top_left_y": 2022,
+          "bottom_right_x": 3937,
+          "bottom_right_y": 2735,
+          "content": "Jeweils den halben HUFb (hier 5,6 cm; \\(2 = 2,8\\) cm) an den Seitenlinien in Hufthöhe ausstellen.\nHüftbögen formen und die Seitennahtte weiter senkrecht nach unten zur Saumlinie zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2499,
+          "top_left_y": 1231,
+          "bottom_right_x": 2544,
+          "bottom_right_y": 1875,
+          "content": "□8c Taillierung, Hüftausfall und Hüftbögen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2569,
+          "top_left_y": 1473,
+          "bottom_right_x": 2691,
+          "bottom_right_y": 1917,
+          "content": "|  TaAf | Taillenausfall  |\n| --- | --- |\n|  HüFb | Hüftfehlbetrag  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 2573,
+          "top_left_y": 594,
+          "bottom_right_x": 2683,
+          "bottom_right_y": 1418,
+          "content": "|  genossene TaB | 42,8 | - ½ TaW | 36 | - | 6,8  |\n| --- | --- | --- | --- | --- | --- |\n|  genossene HÜB | 44,9 | - ½ HÜW | 50,5 | - | -5,6  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 2749,
+          "top_left_y": 1305,
+          "bottom_right_x": 2794,
+          "bottom_right_y": 1838,
+          "content": "# Kontrolle der Oberbrustbreite",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2814,
+          "top_left_y": 1271,
+          "bottom_right_x": 2965,
+          "bottom_right_y": 1933,
+          "content": "4a Die Strecke zwischen vM und Armloch messen und mit der halben Oberbrustbreite vergleichen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2981,
+          "top_left_y": 1265,
+          "bottom_right_x": 3149,
+          "bottom_right_y": 1942,
+          "content": "Bei unerwünschter Mehrweite kann diese dort z.B. durch eine Englische Huht reduziert werden (siehe S. 376).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3177,
+          "top_left_y": 1299,
+          "bottom_right_x": 3226,
+          "bottom_right_y": 1844,
+          "content": "# Kontrolle des Armlochumfangs",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3247,
+          "top_left_y": 1271,
+          "bottom_right_x": 3680,
+          "bottom_right_y": 1954,
+          "content": "Beide Armlochkurven messen und addieren. Hiervon den am Körper gemessenen Armansatzumfang (AraU) absenen. Die Differenz ist die Mehrzeiten im Armloch. Sie sollte min- bis zweifachen der destens dem ein- bis zweifachen der Zugabe zur AIT entsprechen (siehe Auszug der Konstruktionstabelle unten).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3749,
+          "top_left_y": 1617,
+          "bottom_right_x": 3806,
+          "bottom_right_y": 1954,
+          "content": "Mehrweite im Armloch:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3806,
+          "top_left_y": 1617,
+          "bottom_right_x": 3888,
+          "bottom_right_y": 1954,
+          "content": "Sollwert der Mehrweite",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3717,
+          "top_left_y": 585,
+          "bottom_right_x": 3794,
+          "bottom_right_y": 1590,
+          "content": "|  haAu | 22,5 | + haU | 24,5 | - hAu | 44,5 | + | 2,8  |\n| --- | --- | --- | --- | --- | --- | --- | --- |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 858,
+          "top_left_y": 450,
+          "bottom_right_x": 1221,
+          "bottom_right_y": 530,
+          "content": "Taillierter Oberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3770,
+          "top_left_y": 395,
+          "bottom_right_x": 3823,
+          "bottom_right_y": 466,
+          "content": "185",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3787753
+  }
+}

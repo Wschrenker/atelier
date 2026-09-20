@@ -1,0 +1,52 @@
+{
+  "page": "s178",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s178.jpg",
+  "orientation": "EXIF-Orientierung angewendet",
+  "upright_size": [
+    3060,
+    4080
+  ],
+  "crop_box_in_upright_px": [
+    0,
+    0,
+    2900,
+    4080
+  ],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s178_skizze_01.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        1440,
+        417,
+        2842,
+        1348
+      ],
+      "bbox_upright_px": [
+        1440,
+        417,
+        2842,
+        1348
+      ]
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s178_skizze_02.png",
+      "origin": "mistral",
+      "bbox_ocr_input_px": [
+        2061,
+        2401,
+        2595,
+        2928
+      ],
+      "bbox_upright_px": [
+        2061,
+        2401,
+        2595,
+        2928
+      ]
+    }
+  ]
+}

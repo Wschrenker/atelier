@@ -1,0 +1,27 @@
+{
+  "page": "s190",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s190.jpg",
+  "orientation": "EXIF-Orientierung angewendet (Orientation 6)",
+  "upright_size": [3060, 4080],
+  "crop_box_in_upright_px": [0, 0, 2650, 4080],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s190_skizze_01.png",
+      "origin": "mistral (+20 px Rand ergänzt)",
+      "bbox_mistral_reported_px": [623, 1033, 1210, 2504],
+      "bbox_saved_px": [603, 1013, 1230, 2524],
+      "beschreibung": "Linkes Vorderteil-Schnittteil zu '☐4 VT ohne Brustabnäher': Schulter-/Armlochkurve mit Punktlabeln 'vÄP' und 'BrP', ausgehend von 'BrP' ein schräg schraffierter (rosa) Keilbereich zwischen zwei gestrichelten Linien bis zur oberen Schulterkante, senkrechte Mittellinie gestrichelt, seitliche Kontur von der Brustlinie (waagerechte gestrichelte Linie) bis zur Hüftlinie mit Punktstrich-/Volllinien-Wechsel an der Seitennaht."
+    },
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s190_skizze_02.png",
+      "origin": "mistral (unveränderte Box)",
+      "bbox_mistral_reported_px": [1273, 964, 2650, 3373],
+      "bbox_saved_px": [1253, 944, 2650, 3393],
+      "beschreibung": "Zwei nebeneinanderliegende Schnittteile zu '☐5 VT mit Brustabnäher und verlängert zu einem Kleid': links ein Vorderteil mit Punktlabeln 'HIP', 'SuP', 'vÄP', 'BrP', geöffnetem rosa Abnäher-Keil (Beschriftung 'falten', Scherensymbol, Maßangaben 'BrU:20 – 1 bis + 1 cm' und 'ca. 1 cm'), unten die Maßangabe 'wie seitlich + 0,5 cm' sowie die Zahlenmarken '9' und '8'; rechts ein zweites Schnittteil mit Punktlabeln 'HIP', 'SuP', 'hÄP' und den Zahlenmarken '7' (zweimal, 'me 7' und 'üb 7') und '6'. Zusätzlich enthält die Box den grauen Platzhalterkasten 'Konstruktions-tabelle hier aufkleben!' (kein OCR-Tabellenblock, nur bedruckter Hinweistext im Buch)."
+    }
+  ],
+  "hinweis": "Vollständiges Originalbild gegen beide automatisch erkannten Regionen geprüft; keine weitere von der OCR übersehene Zeichnung oder Tabelle auf dieser Seite gefunden. Die beiden Punktlabel-Paare 'HIP'/'SuP' in img-0.jpeg gehören zu zwei getrennten Schnittteilen (je ein eigenes Schulterpunkt-Paar), nicht zu einer verdoppelten Beschriftung desselben Teils."
+}

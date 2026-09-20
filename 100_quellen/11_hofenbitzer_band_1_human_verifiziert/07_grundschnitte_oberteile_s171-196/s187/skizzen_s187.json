@@ -1,0 +1,49 @@
+{
+  "seite": "s187",
+  "hinweis": "Bounding Boxes beziehen sich auf den temporären Seitenzuschnitt (Crop [430, 0, 3060, 4080] aus der aufrechten Vollseite, EXIF-Orientierung 6 angewendet), NICHT auf das unveränderte Originalbild s187.jpg. Ausschnitte automatisch von mistral-ocr-latest vorgeschlagen, gegen das vollständige Bild geprüft und unverändert übernommen.",
+  "ocr_eingabe_masse": {"breite": 2630, "hoehe": 4080},
+  "skizzen": [
+    {
+      "datei": "skizzen/s187_skizze_01.png",
+      "bbox_ocr_eingabe": [0, 433, 808, 1340],
+      "quelle": "automatisch erkannt (img-0.jpeg)",
+      "beschreibung": "Zwei Modellfiguren (Vorderansicht, Rückansicht) im tailliertem Oberteil-Grundschnitt ohne Hüftausfall, mit vM/vHM sowie Brust-, Taillen- und Hüftlinie gestrichelt.",
+      "zugehoerige_bildunterschrift_im_ocr_text": "☐1 Taillierter Oberteil-GS ohne Hüftausfall zur Anprobe aus Nessel"
+    },
+    {
+      "datei": "skizzen/s187_skizze_02.png",
+      "bbox_ocr_eingabe": [1103, 555, 1577, 1911],
+      "quelle": "automatisch erkannt (img-1.jpeg)",
+      "beschreibung": "Vorderteil-Schnittteil (VT) mit gekürzten, spitz geformten Brust-, Taillen- und Schulterabnähern. Labels: vM, BrP, vAP, SN, „2 cm kürzen\" (zweimal, grün), Nahtzugaben „2 cm\", „1 cm\", „vorderer Einschlag ca. 2 cm bis 4 cm\", unten „2 bis 4 cm\".",
+      "zugehoerige_bildunterschrift_im_ocr_text": "☐2 Zuschnitt mit gekürzten und geformten Abnähern"
+    },
+    {
+      "datei": "skizzen/s187_skizze_03.png",
+      "bbox_ocr_eingabe": [1651, 637, 2114, 1920],
+      "quelle": "automatisch erkannt (img-2.jpeg)",
+      "beschreibung": "Zweites Schnittteil neben Skizze 02 (seitliches Vorderteil oder Rückteil, vermutlich sVT), mit geformtem Abnäher, Labels hAP, SN, Nahtzugaben „2 cm\", „1 cm\", unten „2 bis 4 cm\". Gehört inhaltlich zur selben Bildunterschrift ☐2 wie Skizze 02.",
+      "zugehoerige_bildunterschrift_im_ocr_text": "☐2 Zuschnitt mit gekürzten und geformten Abnähern"
+    },
+    {
+      "datei": "skizzen/s187_skizze_04.png",
+      "bbox_ocr_eingabe": [811, 2340, 1422, 3831],
+      "quelle": "automatisch erkannt (img-3.jpeg)",
+      "beschreibung": "Zwei schmale Schnittteile nebeneinander, beschriftet „VT\" und „sVT\", mit Labels vM, BrP, vAP, SN, „Kontrolle = ½ oBrB\", „me +\", Maßangaben „1,5 cm\", „2 cm\", „1 cm\", unten je „2 bis 4 cm\". Rechts unten am Bildrand ein abgeschnittenes Wortfragment einer weiteren Bildunterschrift sichtbar (siehe Anmerkungen).",
+      "zugehoerige_bildunterschrift_im_ocr_text": "keine eigene Bildunterschrift im erkannten OCR-Text; Teil der Doppelabbildung zu ☐4"
+    },
+    {
+      "datei": "skizzen/s187_skizze_05.png",
+      "bbox_ocr_eingabe": [1474, 2340, 2248, 3725],
+      "quelle": "automatisch erkannt (img-4.jpeg)",
+      "beschreibung": "Drei schmale Schnittteile nebeneinander, beschriftet „sRT\", „sRT\", „RT\", mit Labels hAP, BrP, hM, Maßangaben „2 cm\" (mehrfach), „1 cm\", unten je „2 bis 4 cm\". Eingebetteter Bildtext oben links (nicht im OCR-Fließtext erfasst): „Für eine bessere Passform wird das Armloch des seitlichen Rückteils um 1 cm nach hinten verschoben und beide Längsnähte neu geformt.\" Zwei rot/blau eingefärbte Nahtlinien am linken und mittleren Teil, farblich unterschieden.",
+      "zugehoerige_bildunterschrift_im_ocr_text": "keine eigene Bildunterschrift im erkannten OCR-Text; Teil der Doppelabbildung zu ☐4"
+    },
+    {
+      "datei": "skizzen/s187_skizze_06.png",
+      "bbox_ocr_eingabe": [13, 3177, 719, 3802],
+      "quelle": "automatisch erkannt (img-5.jpeg)",
+      "beschreibung": "Zwei Modellfiguren (Vorderansicht, Rückansicht) im taillierten Oberteil-Grundschnitt mit Hüftausfall, mit vM/vHM sowie Brust-, Taillen- und Hüftlinie gestrichelt.",
+      "zugehoerige_bildunterschrift_im_ocr_text": "☐3 Taillierter Oberteil-GS mit Hüftausfall zur Anprobe aus Nessel"
+    }
+  ]
+}
