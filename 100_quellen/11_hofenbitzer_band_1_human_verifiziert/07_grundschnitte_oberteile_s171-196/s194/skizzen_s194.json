@@ -1,0 +1,27 @@
+{
+  "seite": "s194",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s194.jpg (Landscape-Rohdatei mit EXIF-Orientierung 6), ohne Zuschnitt an die OCR gegeben",
+  "hinweis": "Pixelkoordinaten beziehen sich auf die OCR-Eingabe, wie sie Mistral zurückmeldet (Breite 4080 x Höhe 3060 px, entspricht der unrotierten Rohdatei, nicht der aufrecht gedrehten Ansicht). Der Ausschnitt wurde nach dem Zuschneiden entsprechend EXIF-Orientierung 6 aufrecht gedreht. Alle Angaben unter 'sichtbare_labels' sind vorläufige KI-Ablesungen aus dem Bildausschnitt, nicht von der OCR-Text-Engine erkannt, und noch nicht von Werner bestätigt.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s194_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_ocr_eingabe": {
+        "top_left_x": 1883,
+        "top_left_y": 306,
+        "bottom_right_x": 2900,
+        "bottom_right_y": 1865
+      },
+      "beschreibung": "Zeichnung ☐3 'Schnittvergrößerung von PK3 nach PK9': links VT (Vorderteil) mit zwei Schnitteinschnitten (①②) und Zugabewerten (½=0,5 cm zweimal, ⅓=1,2 cm), rechts RT (Rückenteil) mit zwei weiteren Schnitteinschnitten (③①) und Zugabewerten (Rest 1 cm, wie am VT 0,5 cm, ⅔=2,3 cm), in der Mitte eine gelbe Box 'Zugabe zur AIT: PK 3 1,3 cm / PK 9 4,0 cm / Differenz = 2,7 cm' sowie Bezugspunkte vÄP/BrP/hÄP, Pfeile 'jeweils 2,7 cm nach unten' und '⅔=2,3 cm', punktierte neue Seitennähte und die Bezeichnung 'neue Brustlinie'. Nummerierte Kreise ①–⑦ entsprechen den Anleitungsschritten im Abschnitt '1 OT-GS erweitern' im Fließtext.",
+      "sichtbare_labels": [
+        "VT", "RT", "① ½ = 0,5 cm", "② ½ = 0,5 cm", "⅓ = 1,2 cm",
+        "③ Rest 1 cm", "① wie am VT 0,5 cm", "⅔ = 2,3 cm",
+        "Zugabe zur AIT: PK 3 1,3 cm / PK 9 4,0 cm / Differenz = 2,7 cm",
+        "vÄP", "BrP", "hÄP", "④ jeweils 2,7 cm nach unten (zweimal)",
+        "⑥ ⅔ = 2,3 cm", "neue Brustlinie", "⑤", "⑦ (zweimal)"
+      ],
+      "zugehoerige_ocr_bildunterschrift": "☐3: Schnittvergrößerung von PK3 nach PK9 (Bildunterschrift steht im OCR-Fließtext unterhalb der Zeichnung)",
+      "bestaetigt": false
+    }
+  ]
+}

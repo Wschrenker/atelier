@@ -1,0 +1,353 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Oberteil-Grundschnitte\n\nWeite an erprobtem Oberteil-Grundschnitt hinzugeben (1)\nOberteil öffnen, PK 3 nach PK 9 (weiter Mantel-Grundschnitt)\n\nWeite an erprobtem Oberteil-Grundschnitt hinzugeben\n\nIm Prinzip gibt es zwei Möglichkeiten, einen weiten Oberteil-Grundschnitt zu erstellen:\n\n1. Man konstruiert den gewünschten OT-GS mit den Zugaben der entsprechenden Passformklasse wie auf den vorhergehenden Seiten gezeigt.\n2. Man erweitert einen erprobten GS zu einem Grundschnitt in benötigter Weite, indem man die fehlende Weite an den Schnittteilen hinzugibt.\n\nHier wird das Erweitern eines vorhandenen taillierten Kleider-GS mit der Passformklasse 3 zu einem taillierten Mantel-GS mit der Passformklasse 9 gezeigt. Alle anderen Vergrößerungen erfolgen nach demselben Prinzip.\n\nDurch diese Methode erspart man sich eine erneute Konstruktion mit größeren Zugaben und die aufwändige Passformoptimierung. Voraussetzung ist ein optimierter, eng anliegender Oberteil-Grundschnitt\n\n☐2 Ausschnitt aus der Zugabentabelle\n\n# Differenzen ermitteln\n\nDie Differenzbeträge zwischen den Zugaben von vorhandenem engen OT-GS und gewünschtem weiten OT-GS sind zu ermitteln.\n\nAm vorhandenen engen OT-GS werden dann die entsprechenden fehlenden Weiten durch Öffnen bzw. Anzeichnen vergrößert.\n\n☐3: Schnittvergrößerung von PK3 nach PK9\n\n[tbl-0.md](tbl-0.md)\n\n☐1 Ausschnitt aus dem Maßsatz des vorhandenen engen Grundschnitts\n\nZugabentabelle für Oberteil-Konstruktionen\n\n[tbl-1.md](tbl-1.md)\n\nZugabe zur BrB:\n\n[tbl-2.md](tbl-2.md)\n\nZugabe zum ArD:\n\n[tbl-3.md](tbl-3.md)\n\nZugabe zur RüB:\n\n[tbl-4.md](tbl-4.md)\n\n![img-0.jpeg](img-0.jpeg)\n\n# 1 OT-GS erweitern\n\n1 An VT und RT ca. 3 cm neben der vM bzw. hM in (oder direkt neben den) den Halslöchern zum Saum einschneiden und jeweils die Hälfte der errechneten Mehrweiten-Differenz zur BrB exakt waagerecht öffnen. So ergibt sich automatisch der richtige BrPA.\n2 Soll das Halsloch nicht erweitert werden, kann alternativ direkt ne-\n\nben den Halslöchern an der Schulter eingeschnitten werden.\n\nAn VT und RT seitlich zwischen Armloch und Abnäher zum Saum einschneiden.\n\n3 Am seitlichen VT-Einschnitt wie am VT-Halsloch öffnen (hier 0,5 cm).\n4 Am seitlichen RT-Einschnitt den restlichen Differenzbetrag zur RüB-Differenz öffnen (hier 1 cm).\n\n5 Das Armloch um die AIT-Differenz vertiefen und die neue Brustlinie zeichnen.\n6 Ein Drittel der ArD-Differenz an der Seitennahlt vom VT ausstellen.\n7 Zwei Drittel an der Seitennahlt vom RT ausstellen.\n\nDie neuen Seitennähte parallel zu den alten Seitennähten zeichnen.\n\n190",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1883,
+          "top_left_y": 306,
+          "bottom_right_x": 2900,
+          "bottom_right_y": 1865,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionstabelle alle Maßnahmen in der Oberteil | Name |   |  |   |  |   | Grüße | 1  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |   |  |   | Model | taillierter Oberteil-GS |   | PK 3  |\n|   |   |  Hauptmaße (Nennmaße) | Körpermaße | Zugaben |   |   |   |   |   |\n|  KOH | Körperhöhe | 168 |   |   |   |   |   |   |   |\n|  BrO | Bruttumfang | 88 | × | 6 | × | BrW | 94 | ½ | 47  |\n|  TAU | Taillenumfang | 72 | × | 4 | × | TaW | 76 | ½ | 38  |\n|  HSU | HSUumfang | 97 | × | 4 | × | HSW | 101 | ½ | 50,5  |\n|  AIT | Armischstelle | 201 | × | 1,3 | × | AIT+ | 21,4 |   |   |\n|  HST | Häftstelle | 21 |  | Mol. | Nutzeltlänge |   | 95  |   |   |\n|  BrT | Brusttiefe (ab886) | 28,1 |   |   |   | HIB | Halslochbreite |   | 6,5  |\n|  RUB | Rückenbreite (½) | 16,5 | × | 0,5 | × | RUB+ | 17 |   |   |\n|  ArD | Armdurchmesser | 9,3 | × | 1,5 | × | ArD+ | 10,8 | ¼ | 2,7  |\n|  BrB | Brustbreite (½) | 18,2 | × | 1,1 | × | BrB+ | 19,2 |   |   |\n|   | Bremside 2 × ½ BrH | 44 | × | 3 | × | ½ BrW | 47 |   |   |\n|  SuB | Schulterbreite | 13,2 | × | 0,3 | × | SuWL | 13,5 |   |   |\n|  NSuNL | Weitere Schulterwähllänge | SuNL = Schulterweite 0,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71,73,75,77,79,81,83,85,87,89,91,93,95,97,99,101,103,105,107,109,111,113,115,117,119,121,123,125,127,129,131,133,135,137,139,141,143,145,147,149,151,153,155,157,159,161,163,165,167,169,171,173,175,177,179,181,183,185,187,189,191,193,195,197,199,201,203,205,207,209,211,213,215,217,219,221,223,225,227,229,231,233,235,237,239,241,243,245,247,249,251,253,255,257,259,261,263,265,267,269,271,273,275,277,279,281,283,285,287,289,291,293,295,297,299,301,303,305,307,309,311,313,315,317,319,321,323,325,327,329,331,333,335,337,339,341,343,345,347,349,351,353,355,357,359,361,363,365,367,369,371,373,375,377,379,381,383,385,387,389,391,393,395,397,399,401,403,405,407,409,411,413,415,417,419,421,423,425,427,429,431,433,435,437,439,441,443,445,447,449,451,453,455,457,459,461,463,465,467,469,471,473,475,477,479,481,483,485,487,489,491,493,495,497,499,501,503,505,507,509,511,513,515,517,519,521,523,525,527,529,531,533,535,537,539,541,543,545,547,549,551,553,555,557,559,561,563,565,567,569,571,573,575,577,579,581,583,585,587,589,591,593,595,597,599,601,603,605,607,609,611,613,615,617,619,621,623,625,627,629,631,633,635,637,639,641,643,645,647,649,651,653,655,657,659,661,663,665,667,669,671,673,675,677,679,681,683,685,687,689,691,693,695,697,699,701,703,705,707,709,711,713,715,717,719,721,723,725,727,729,731,733,735,737,739,741,743,745,747,749,751,753,755,757,759,761,763,765,767,769,771,773,775,777,779,781,783,785,787,789,791,793,795,797,799,801,803,805,807,809,811,813,815,817,819,821,823,825,827,829,831,833,835,837,839,841,843,845,847,849,851,853,855,857,859,861,863,865,867,869,871,873,875,877,879,881,883,885,887,889,891,893,895,897,899,901,903,905,907,909,911,913,915,917,919,921,923,925,927,929,931,933,935,937,939,941,943,945,947,949,951,953,955,957,959,961,963,965,967,969,971,973,975,977,979,981,983,985,987,989,991,993,995,997,999,1000  |   |   |   |   |   |   |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  Halteste PK 3 | Zugabentabelle für Oberteil-Grundschnitt |   | AIT | Erste Zugaben für die Maßangaben |   |   | PK 3 | PK 9  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  PK 3 | PK 9 |   | HSU | HSU | HSU  |   |   |\n|  9 | 18 | 12 - 20 | 10 - 20 | 4 | 2 | 5 | 2 | 0,3  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  PK 3 | 1,0 cm  |\n| --- | --- |\n|  PK 9 | 2,0 cm  |\n|  Differenz = | 1,0 cm  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  PK 3 | 1,5 cm  |\n| --- | --- |\n|  PK 9 | 5,0 cm  |\n|  Differenz = | 3,5 cm  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-4.md",
+          "content": "|  PK 3 | 0,5 cm  |\n| --- | --- |\n|  PK 9 | 2,0 cm  |\n|  Differenz = | 1,5 cm  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 53,
+          "top_left_y": 2153,
+          "bottom_right_x": 176,
+          "bottom_right_y": 2539,
+          "content": "Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 53,
+          "top_left_y": 521,
+          "bottom_right_x": 188,
+          "bottom_right_y": 2095,
+          "content": "Weite an erprobtem Oberteil-Grundschnitt hinzugeben (1)\nOberteil öffnen, PK 3 nach PK 9 (weiter Mantel-Grundschnitt)",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 282,
+          "top_left_y": 2447,
+          "bottom_right_x": 796,
+          "bottom_right_y": 2539,
+          "content": "Weite an erprobtem Oberteil-Grundschnitt hinzugeben",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 294,
+          "top_left_y": 1718,
+          "bottom_right_x": 425,
+          "bottom_right_y": 2337,
+          "content": "Im Prinzip gibt es zwei Möglichkeiten, einen weiten Oberteil-Grundschnitt zu erstellen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 449,
+          "top_left_y": 1715,
+          "bottom_right_x": 813,
+          "bottom_right_y": 2362,
+          "content": "1. Man konstruiert den gewünschten OT-GS mit den Zugaben der entsprechenden Passformklasse wie auf den vorhergehenden Seiten gezeigt.\n2. Man erweitert einen erprobten GS zu einem Grundschnitt in benötigter Weite, indem man die fehlende Weite an den Schnittteilen hinzugibt.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 829,
+          "top_left_y": 1740,
+          "bottom_right_x": 1127,
+          "bottom_right_y": 2368,
+          "content": "Hier wird das Erweitern eines vorhandenen taillierten Kleider-GS mit der Passformklasse 3 zu einem taillierten Mantel-GS mit der Passformklasse 9 gezeigt. Alle anderen Vergrößerungen erfolgen nach demselben Prinzip.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1172,
+          "top_left_y": 1749,
+          "bottom_right_x": 1438,
+          "bottom_right_y": 2380,
+          "content": "Durch diese Methode erspart man sich eine erneute Konstruktion mit größeren Zugaben und die aufwändige Passformoptimierung. Voraussetzung ist ein optimierter, eng anliegender Oberteil-Grundschnitt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1511,
+          "top_left_y": 1752,
+          "bottom_right_x": 1593,
+          "bottom_right_y": 2101,
+          "content": "☐2 Ausschnitt aus der Zugabentabelle",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1764,
+          "top_left_y": 2000,
+          "bottom_right_x": 1813,
+          "bottom_right_y": 2398,
+          "content": "# Differenzen ermitteln",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1830,
+          "top_left_y": 1902,
+          "bottom_right_x": 2050,
+          "bottom_right_y": 2405,
+          "content": "Die Differenzbeträge zwischen den Zugaben von vorhandenem engen OT-GS und gewünschtem weiten OT-GS sind zu ermitteln.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2071,
+          "top_left_y": 1896,
+          "bottom_right_x": 2291,
+          "bottom_right_y": 2432,
+          "content": "Am vorhandenen engen OT-GS werden dann die entsprechenden fehlenden Weiten durch Öffnen bzw. Anzeichnen vergrößert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2675,
+          "top_left_y": 1924,
+          "bottom_right_x": 2757,
+          "bottom_right_y": 2310,
+          "content": "☐3: Schnittvergrößerung von PK3 nach PK9",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 298,
+          "top_left_y": 285,
+          "bottom_right_x": 1160,
+          "bottom_right_y": 1657,
+          "content": "|  Konstruktionstabelle alle Maßnahmen in der Oberteil | Name |   |  |   |  |   | Grüße | 1  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |   |  |   | Model | taillierter Oberteil-GS |   | PK 3  |\n|   |   |  Hauptmaße (Nennmaße) | Körpermaße | Zugaben |   |   |   |   |   |\n|  KOH | Körperhöhe | 168 |   |   |   |   |   |   |   |\n|  BrO | Bruttumfang | 88 | × | 6 | × | BrW | 94 | ½ | 47  |\n|  TAU | Taillenumfang | 72 | × | 4 | × | TaW | 76 | ½ | 38  |\n|  HSU | HSUumfang | 97 | × | 4 | × | HSW | 101 | ½ | 50,5  |\n|  AIT | Armischstelle | 201 | × | 1,3 | × | AIT+ | 21,4 |   |   |\n|  HST | Häftstelle | 21 |  | Mol. | Nutzeltlänge |   | 95  |   |   |\n|  BrT | Brusttiefe (ab886) | 28,1 |   |   |   | HIB | Halslochbreite |   | 6,5  |\n|  RUB | Rückenbreite (½) | 16,5 | × | 0,5 | × | RUB+ | 17 |   |   |\n|  ArD | Armdurchmesser | 9,3 | × | 1,5 | × | ArD+ | 10,8 | ¼ | 2,7  |\n|  BrB | Brustbreite (½) | 18,2 | × | 1,1 | × | BrB+ | 19,2 |   |   |\n|   | Bremside 2 × ½ BrH | 44 | × | 3 | × | ½ BrW | 47 |   |   |\n|  SuB | Schulterbreite | 13,2 | × | 0,3 | × | SuWL | 13,5 |   |   |\n|  NSuNL | Weitere Schulterwähllänge | SuNL = Schulterweite 0,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71,73,75,77,79,81,83,85,87,89,91,93,95,97,99,101,103,105,107,109,111,113,115,117,119,121,123,125,127,129,131,133,135,137,139,141,143,145,147,149,151,153,155,157,159,161,163,165,167,169,171,173,175,177,179,181,183,185,187,189,191,193,195,197,199,201,203,205,207,209,211,213,215,217,219,221,223,225,227,229,231,233,235,237,239,241,243,245,247,249,251,253,255,257,259,261,263,265,267,269,271,273,275,277,279,281,283,285,287,289,291,293,295,297,299,301,303,305,307,309,311,313,315,317,319,321,323,325,327,329,331,333,335,337,339,341,343,345,347,349,351,353,355,357,359,361,363,365,367,369,371,373,375,377,379,381,383,385,387,389,391,393,395,397,399,401,403,405,407,409,411,413,415,417,419,421,423,425,427,429,431,433,435,437,439,441,443,445,447,449,451,453,455,457,459,461,463,465,467,469,471,473,475,477,479,481,483,485,487,489,491,493,495,497,499,501,503,505,507,509,511,513,515,517,519,521,523,525,527,529,531,533,535,537,539,541,543,545,547,549,551,553,555,557,559,561,563,565,567,569,571,573,575,577,579,581,583,585,587,589,591,593,595,597,599,601,603,605,607,609,611,613,615,617,619,621,623,625,627,629,631,633,635,637,639,641,643,645,647,649,651,653,655,657,659,661,663,665,667,669,671,673,675,677,679,681,683,685,687,689,691,693,695,697,699,701,703,705,707,709,711,713,715,717,719,721,723,725,727,729,731,733,735,737,739,741,743,745,747,749,751,753,755,757,759,761,763,765,767,769,771,773,775,777,779,781,783,785,787,789,791,793,795,797,799,801,803,805,807,809,811,813,815,817,819,821,823,825,827,829,831,833,835,837,839,841,843,845,847,849,851,853,855,857,859,861,863,865,867,869,871,873,875,877,879,881,883,885,887,889,891,893,895,897,899,901,903,905,907,909,911,913,915,917,919,921,923,925,927,929,931,933,935,937,939,941,943,945,947,949,951,953,955,957,959,961,963,965,967,969,971,973,975,977,979,981,983,985,987,989,991,993,995,997,999,1000  |   |   |   |   |   |   |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 1193,
+          "top_left_y": 297,
+          "bottom_right_x": 1286,
+          "bottom_right_y": 867,
+          "content": "☐1 Ausschnitt aus dem Maßsatz des vorhandenen engen Grundschnitts",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1311,
+          "top_left_y": 980,
+          "bottom_right_x": 1360,
+          "bottom_right_y": 1682,
+          "content": "Zugabentabelle für Oberteil-Konstruktionen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1368,
+          "top_left_y": 303,
+          "bottom_right_x": 1544,
+          "bottom_right_y": 1688,
+          "content": "|  Halteste PK 3 | Zugabentabelle für Oberteil-Grundschnitt |   | AIT | Erste Zugaben für die Maßangaben |   |   | PK 3 | PK 9  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |  PK 3 | PK 9 |   | HSU | HSU | HSU  |   |   |\n|  9 | 18 | 12 - 20 | 10 - 20 | 4 | 2 | 5 | 2 | 0,3  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1630,
+          "top_left_y": 1378,
+          "bottom_right_x": 1679,
+          "bottom_right_y": 1669,
+          "content": "Zugabe zur BrB:",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1699,
+          "top_left_y": 1296,
+          "bottom_right_x": 1838,
+          "bottom_right_y": 1669,
+          "content": "|  PK 3 | 1,0 cm  |\n| --- | --- |\n|  PK 9 | 2,0 cm  |\n|  Differenz = | 1,0 cm  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 1638,
+          "top_left_y": 876,
+          "bottom_right_x": 1691,
+          "bottom_right_y": 1198,
+          "content": "Zugabe zum ArD:",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1703,
+          "top_left_y": 809,
+          "bottom_right_x": 1846,
+          "bottom_right_y": 1198,
+          "content": "|  PK 3 | 1,5 cm  |\n| --- | --- |\n|  PK 9 | 5,0 cm  |\n|  Differenz = | 3,5 cm  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 1654,
+          "top_left_y": 410,
+          "bottom_right_x": 1703,
+          "bottom_right_y": 708,
+          "content": "Zugabe zur RüB:",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1723,
+          "top_left_y": 328,
+          "bottom_right_x": 1862,
+          "bottom_right_y": 708,
+          "content": "|  PK 3 | 0,5 cm  |\n| --- | --- |\n|  PK 9 | 2,0 cm  |\n|  Differenz = | 1,5 cm  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-4.md"
+        },
+        {
+          "top_left_x": 1883,
+          "top_left_y": 306,
+          "bottom_right_x": 2900,
+          "bottom_right_y": 1865,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 2887,
+          "top_left_y": 2083,
+          "bottom_right_x": 2936,
+          "bottom_right_y": 2460,
+          "content": "# 1 OT-GS erweitern",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2953,
+          "top_left_y": 1804,
+          "bottom_right_x": 3451,
+          "bottom_right_y": 2484,
+          "content": "1 An VT und RT ca. 3 cm neben der vM bzw. hM in (oder direkt neben den) den Halslöchern zum Saum einschneiden und jeweils die Hälfte der errechneten Mehrweiten-Differenz zur BrB exakt waagerecht öffnen. So ergibt sich automatisch der richtige BrPA.\n2 Soll das Halsloch nicht erweitert werden, kann alternativ direkt ne-",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2981,
+          "top_left_y": 1072,
+          "bottom_right_x": 3083,
+          "bottom_right_y": 1663,
+          "content": "ben den Halslöchern an der Schulter eingeschnitten werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3096,
+          "top_left_y": 1072,
+          "bottom_right_x": 3202,
+          "bottom_right_y": 1749,
+          "content": "An VT und RT seitlich zwischen Armloch und Abnäher zum Saum einschneiden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3210,
+          "top_left_y": 1075,
+          "bottom_right_x": 3480,
+          "bottom_right_y": 1749,
+          "content": "3 Am seitlichen VT-Einschnitt wie am VT-Halsloch öffnen (hier 0,5 cm).\n4 Am seitlichen RT-Einschnitt den restlichen Differenzbetrag zur RüB-Differenz öffnen (hier 1 cm).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3002,
+          "top_left_y": 340,
+          "bottom_right_x": 3382,
+          "bottom_right_y": 1008,
+          "content": "5 Das Armloch um die AIT-Differenz vertiefen und die neue Brustlinie zeichnen.\n6 Ein Drittel der ArD-Differenz an der Seitennahlt vom VT ausstellen.\n7 Zwei Drittel an der Seitennahlt vom RT ausstellen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3402,
+          "top_left_y": 349,
+          "bottom_right_x": 3500,
+          "bottom_right_y": 940,
+          "content": "Die neuen Seitennähte parallel zu den alten Seitennähten zeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3410,
+          "top_left_y": 2588,
+          "bottom_right_x": 3459,
+          "bottom_right_y": 2680,
+          "content": "190",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3971552
+  }
+}

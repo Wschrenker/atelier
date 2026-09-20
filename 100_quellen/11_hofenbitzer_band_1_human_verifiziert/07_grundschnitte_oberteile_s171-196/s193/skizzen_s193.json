@@ -1,0 +1,35 @@
+{
+  "page": "s193",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s193.jpg",
+  "orientation": "EXIF-Orientierung angewendet (Orientation 6)",
+  "upright_size": [3060, 4080],
+  "crop_box_in_upright_px": [350, 0, 3060, 4080],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s193_skizze_01.png",
+      "origin": "mistral (+20 px Rand ergänzt)",
+      "bbox_mistral_reported_px": [92, 1450, 884, 3651],
+      "bbox_saved_px": [72, 1430, 904, 3671],
+      "beschreibung": "Linkes Schnittteil 'VT' (OT-GS, G38, PK7 aus PK3): Halsausschnitt-/Schulterkurve mit Punktlabeln 'vÄP' (zweimal) und 'BrP', rosa Scherensymbol am Abnäher, schräge Beschriftung 'SuN verlängern, dann insgesamt ausmessen' entlang der roten Linie zu Punkt 3, Zahlenmarken 1, 3, 5, 6, 8, 13, 14 sowie 10 und 12 am unteren Rand, gestrichelte Mittellinie 'vM', rot gestrichelte/durchgezogene Seitennaht 'SN' mit Wechsel bei Punkt 13, Maßangabe '0 bis 1 cm', unten 'ausstellen wie am vorderen Armloch'."
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s193_skizze_02.png",
+      "origin": "manuell aus separat aufgenommenem Detailfoto s193_detail.jpg zugeschnitten (nicht aus der OCR-Eingabe; das Detailfoto zeigt dieselbe Bildregion schärfer und wurde deshalb anstelle des automatischen Mistral-Ausschnitts verwendet)",
+      "bbox_mistral_reported_px_in_ocr_input": [949, 2990, 1251, 3378],
+      "bbox_saved_px_in_detail_photo_upright": [900, 1150, 2280, 2750],
+      "beschreibung": "Schemafigur zu Abschnitt '5 Optimierung der Saumform' / Punkt 14: stilisierte Körperfigur mit drei waagerechten Maßpfeilen von links ('88', '72', '97') zu Kästchen rechts ('14' rot, sowie zweimal '---' unausgefüllt), links außen eine senkrechte Klammer mit der Zahl '168'."
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s193_skizze_03.png",
+      "origin": "mistral (+20 px Rand ergänzt)",
+      "bbox_mistral_reported_px": [1375, 1544, 2110, 3578],
+      "bbox_saved_px": [1355, 1524, 2130, 3598],
+      "beschreibung": "Rechtes Schnittteil 'RT' (OT-GS, G38, PK7 aus PK3): Schulter-/Armlochkurve mit Punktlabeln 'hÄP' (zweimal), Beschriftung 'vordere SuNL + Einhalteweite (0,5 bis 1 cm)' bei Punkt 4, rosa Scherensymbole bei Punkt 2, Zahlenmarken 2, 3, 4, 7, 8, 11, 13, 14 und 12, Maßangabe '0 bis 1 cm', unten 'ausstellen wie am hinteren Armloch + 1 cm' und 'hM gerade'."
+    }
+  ],
+  "hinweis": "Vollständiges Originalbild gegen alle drei automatisch erkannten Regionen geprüft; keine weitere von der OCR übersehene Zeichnung oder Tabelle auf dieser Seite gefunden. Für img-1.jpeg wurde statt des automatischen Ausschnitts aus der OCR-Eingabe der schärfere, eigens für diese Stelle aufgenommene Detailfoto-Ausschnitt gespeichert; beide zeigen dieselbe Bildregion."
+}

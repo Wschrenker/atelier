@@ -1,0 +1,20 @@
+{
+  "page": "s192",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s192.jpg",
+  "orientation": "EXIF-Orientierung angewendet (Orientation 6)",
+  "upright_size": [3060, 4080],
+  "crop_box_in_upright_px": [0, 0, 2800, 4080],
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s192_skizze_01.png",
+      "origin": "mistral (Box manuell erweitert)",
+      "bbox_mistral_reported_px": [479, 1201, 2764, 3459],
+      "bbox_saved_px": [460, 1180, 2800, 3485],
+      "erweiterung": "Die von der OCR gemeldete Box schnitt oben die Spitzen der verbindenden Vergleichskurven (Kreiszahl '3') zwischen den drei Schnittteilen leicht an und unten die Eckmarken '5'/'6' am hinteren rechten Schnittteil ab. Die Box wurde daher oben und unten um jeweils rund 20 px erweitert. Dadurch ragen am unteren Bildrand die ersten Zeilen der Bildunterschriften '☐2' und '☐3' geringfügig ins Bild hinein; ihr vollständiger Wortlaut steht unverändert auch im OCR-Fließtext.",
+      "beschreibung": "Ein zusammenhängender Illustrationsblock mit drei nebeneinanderliegenden Vorderteil-/Rückenteil-Schnittteilen, die durch lange, über die Spaltengrenzen hinweg gezeichnete rote Vergleichskurven (Kreiszahl '3', zweimal beschriftet, mit Text 'hinteren Restabnäher messen und die vordere SuN verlängern') miteinander verbunden sind – deshalb als ein Bildausschnitt und nicht als drei getrennte Ausschnitte erfasst. Linkes Teil ('☐2'): VT mit Punktlabeln 'vÄP' und 'BrP', Kreiszahlen 1, 4, 8, 9, 11, 12, Beschriftungen 'moderate Armloch-Auflockerung', 'vorderen Abnäher reduzieren oder entfernen', 'maximal den ½ Hüftausfall an SN entfernen', 'Grundlage ist der taillierte OT-GS mit Hüftausfall G 38 PK 5', 'Hüftausfall entfernen', Achsenbeschriftungen 'vM', 'üb', 'SN'. Mittleres Teil ('☐3'): VT mit Punktlabeln 'vÄP' und 'BrP', Kreiszahlen 1, 4, 8, 12, Beschriftung 'maximale Armloch-Auflockerung', 'vorderen Abnäher reduzieren oder entfernen', 'Grundlage ist der taillierte OT-GS ohne Hüftausfall G 38 PK 5', darunter eine kleine Figurskizze mit den Maßzahlen '88', '72', '97' (mit Pfeilen zu einer roten '10' und zwei roten gestrichelten Platzhalterfeldern) sowie '168' seitlich der Figur; Achsenbeschriftungen 'vM', 'üb'. Rechtes Teil ('☐4', zwei eng benachbarte RT-Schnittteile): Punktlabel 'hÄP', Kreiszahlen 4, 2 (mit Scherensymbolen), 8 (zweimal), 10, 11, 7 (dreimal), 5 (zweimal), 6, Textfeld 'Ärmelanpassung für ein aufgelockertes Armloch siehe Seite 219.', Beschriftungen 'beide Taillenabnäher können unabhängig voneinander reduziert oder entfernt werden', 'ggf. neue hintere Abnähermitten parallel zur neuen hM', 'neue Hüftlinie', '+ 1 cm', Achsenbeschriftungen 'SN' (zweimal), 'me', 'hM gerade (ohne Naht)'."
+    }
+  ],
+  "hinweis": "Vollständiges Bild gegen die automatisch erkannte Region geprüft; keine weitere von der OCR übersehene Tabelle oder Zeichnung auf dieser Seite gefunden. Die einzelnen Schnittteile wurden bewusst nicht in separate Ausschnitte zerlegt, weil die roten Vergleichskurven ('3', 'hinteren Restabnäher messen...') optisch über die Spaltengrenzen hinweg zusammenhängen."
+}

@@ -1,0 +1,281 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Oberteil-Grundschnitte\n\n# Grundschnitt-Vergrößerungen (2) mit gerader hM und Seitennah für legere Blusen-, Kleider- und Jacken-Modelle ohne Taillierung\n\nLegerer Kleider-Grundschnitt mit Armlochauflockerungen\n\nHier wird ein legerer „kastenförmiger“ Oberteil-Grundschnitt mit geraden Seitennähten und hM entwickelt. Die Taillen-, Hüft- und Saumweite werden zusätzlich vergrößert.\n\nDie Armlochvertiefung und Armloch-Verbreiterung ist ausführlich auf den Seiten 212 und 217 dargestellt.\n\n# 1 Armloch-Auflockerung\n\nDas Armloch erhält Mehrlänge. Es liegt damit weniger eng am Körper an. Dabei verkleinern sich Brust- und Schulterabnäher.\n\nDie Armlochauflockerung mit der ggf. notwendigen Ärmelanpassung ist ausführlich auf Seite 217 beschrieben.\n\n1 Armloch moderat oder maximal öffnen, dabei den Brustabnäher schließen.\n\n2 Hinten weniger als vorne auflockern. Restlicher Schulterabnäher wird geräht oder verbleibt wie hier als Schulterverbreiterung.\n\n3 Die vordere Schulternaht anpassen.\n\n4 Neue Armlöcher ungefähr über die Öffnungsmitten neu formen.\n\n# 2 Geradestellung der hM und SN\n\n5 ☐4 Die Länge der hM bestimmen und gerade über die Hüfte zeichnen.\n\n6 Den Saum abwinkeln.\n\n7 Die Mitten der hinteren Abnäher und die SN parallel zur hM zeichnen.\n\n8 ☐2-4 Sämtliche Taillenabnäher reduzieren oder streichen.\n\n9 ☐4 Beim VT maximal den halben Hüftausfall an der SN entfernen.\n\n10 Das RT an der Hüfte 1 cm weiter.\n\n11 Die geraden neuen SN über P9 und P10 zum Saum zeichnen. Optional anschließend eine leichte Taillierung der SN (hier gestrichelt) formen.\n\n12 Die Längen der neuen SN kontrollieren und angleichen.\n\nDie Optimierung des Saums wird auf folgender Seite gezeigt.\n\n![img-0.jpeg](img-0.jpeg)\n\n☐2 Geradestellen der SN am vorderen Oberteil-Grundschnitt mit Hüftausfall ergibt mehr TaW, ohne die HüW zu vergrößern\n\n☐3 Geradestellen der SN am vorderen Oberteil-Grundschnitt ohne Hüftausfall erzeugt mehr TaW, ohne die HüW zu vergrößern\n\n☐4 Geradestellen der hM und der SN am hinteren Oberteil-Grundschnitt erzeugt mehr TaW und etwas mehr HüW am RT.\n\n192",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 479,
+          "top_left_y": 1201,
+          "bottom_right_x": 2764,
+          "bottom_right_y": 3459,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2800
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 547,
+          "top_left_y": 204,
+          "bottom_right_x": 925,
+          "bottom_right_y": 327,
+          "content": "# Oberteil-Grundschnitte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 978,
+          "top_left_y": 200,
+          "bottom_right_x": 2674,
+          "bottom_right_y": 339,
+          "content": "# Grundschnitt-Vergrößerungen (2) mit gerader hM und Seitennah für legere Blusen-, Kleider- und Jacken-Modelle ohne Taillierung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 547,
+          "top_left_y": 368,
+          "bottom_right_x": 639,
+          "bottom_right_y": 923,
+          "content": "Legerer Kleider-Grundschnitt mit Armlochauflockerungen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 743,
+          "top_left_y": 441,
+          "bottom_right_x": 1343,
+          "bottom_right_y": 645,
+          "content": "Hier wird ein legerer „kastenförmiger“ Oberteil-Grundschnitt mit geraden Seitennähten und hM entwickelt. Die Taillen-, Hüft- und Saumweite werden zusätzlich vergrößert.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 726,
+          "top_left_y": 662,
+          "bottom_right_x": 1343,
+          "bottom_right_y": 788,
+          "content": "Die Armlochvertiefung und Armloch-Verbreiterung ist ausführlich auf den Seiten 212 und 217 dargestellt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 726,
+          "top_left_y": 800,
+          "bottom_right_x": 1158,
+          "bottom_right_y": 845,
+          "content": "# 1 Armloch-Auflockerung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 715,
+          "top_left_y": 862,
+          "bottom_right_x": 1337,
+          "bottom_right_y": 1025,
+          "content": "Das Armloch erhält Mehrlänge. Es liegt damit weniger eng am Körper an. Dabei verkleinern sich Brust- und Schulterabnäher.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 718,
+          "top_left_y": 1046,
+          "bottom_right_x": 1317,
+          "bottom_right_y": 1176,
+          "content": "Die Armlochauflockerung mit der ggf. notwendigen Ärmelanpassung ist ausführlich auf Seite 217 beschrieben.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 437,
+          "bottom_right_x": 2029,
+          "bottom_right_y": 523,
+          "content": "1 Armloch moderat oder maximal öffnen, dabei den Brustabnäher schließen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 539,
+          "bottom_right_x": 2029,
+          "bottom_right_y": 702,
+          "content": "2 Hinten weniger als vorne auflockern. Restlicher Schulterabnäher wird geräht oder verbleibt wie hier als Schulterverbreiterung.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 719,
+          "bottom_right_x": 2007,
+          "bottom_right_y": 764,
+          "content": "3 Die vordere Schulternaht anpassen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 780,
+          "bottom_right_x": 2026,
+          "bottom_right_y": 862,
+          "content": "4 Neue Armlöcher ungefähr über die Öffnungsmitten neu formen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 882,
+          "bottom_right_x": 1965,
+          "bottom_right_y": 923,
+          "content": "# 2 Geradestellung der hM und SN",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1393,
+          "top_left_y": 939,
+          "bottom_right_x": 2026,
+          "bottom_right_y": 1029,
+          "content": "5 ☐4 Die Länge der hM bestimmen und gerade über die Hüfte zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1393,
+          "top_left_y": 1046,
+          "bottom_right_x": 1799,
+          "bottom_right_y": 1090,
+          "content": "6 Den Saum abwinkeln.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 437,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 523,
+          "content": "7 Die Mitten der hinteren Abnäher und die SN parallel zur hM zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 539,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 621,
+          "content": "8 ☐2-4 Sämtliche Taillenabnäher reduzieren oder streichen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 637,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 723,
+          "content": "9 ☐4 Beim VT maximal den halben Hüftausfall an der SN entfernen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 735,
+          "bottom_right_x": 2674,
+          "bottom_right_y": 788,
+          "content": "10 Das RT an der Hüfte 1 cm weiter.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 800,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 972,
+          "content": "11 Die geraden neuen SN über P9 und P10 zum Saum zeichnen. Optional anschließend eine leichte Taillierung der SN (hier gestrichelt) formen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 984,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 1074,
+          "content": "12 Die Längen der neuen SN kontrollieren und angleichen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 1090,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 1184,
+          "content": "Die Optimierung des Saums wird auf folgender Seite gezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 479,
+          "top_left_y": 1201,
+          "bottom_right_x": 2764,
+          "bottom_right_y": 3459,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 519,
+          "top_left_y": 3398,
+          "bottom_right_x": 1166,
+          "bottom_right_y": 3533,
+          "content": "☐2 Geradestellen der SN am vorderen Oberteil-Grundschnitt mit Hüftausfall ergibt mehr TaW, ohne die HüW zu vergrößern",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1200,
+          "top_left_y": 3435,
+          "bottom_right_x": 1912,
+          "bottom_right_y": 3569,
+          "content": "☐3 Geradestellen der SN am vorderen Oberteil-Grundschnitt ohne Hüftausfall erzeugt mehr TaW, ohne die HüW zu vergrößern",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2054,
+          "top_left_y": 3471,
+          "bottom_right_x": 2724,
+          "bottom_right_y": 3594,
+          "content": "☐4 Geradestellen der hM und der SN am hinteren Oberteil-Grundschnitt erzeugt mehr TaW und etwas mehr HüW am RT.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 387,
+          "top_left_y": 3484,
+          "bottom_right_x": 476,
+          "bottom_right_y": 3541,
+          "content": "192",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 1174882
+  }
+}

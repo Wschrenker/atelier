@@ -1,0 +1,274 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Grundschnitt-Vergrößerungen (3) alle Vergrößerungen auf einen Blick für legere Kleider-, Blusen-, Westen-, Jacken- und Mantel-Modelle\n\nAlle Grundschnitt-Vergrößerungen auf einen Blick für einen legeren Schnitt in PK 7 aus dem engen Kleider-Grundschnitt in PK 3.\n\n# Armloch-Auflockerung\n\n1 Das vordere Armloch knapp oberhalb des Ärmelpunktes zum BrP einschneiden und wie gewünscht öffnen.\n\n2 Am RT an der Schulterblattlinie eingeschneiden und öffnen. In den Beispielen hier werden die Abnäher komplett geschlossen.\n\n# Schulterverbreiterung\n\n3 Vor dem Einzeichnen der Armlöcher die Schulter am VT um 1/10 Armloch-Verbreiterung verbreitern.\n4 Die hintere Schulternahltänge angleichen. Sie entspricht der vorderen SuNL + Einhalteweite (0,5 bis 1 cm).\n\n# Armlöcher neu zeichnen\n\n5 Die Brustbreite um mind. 1/4 Armloch-Verbreiterung am vorderen Armloch ausstellen (hier ergibt sie sich, bei der Formung über die Mitte der Öffnung).\n6 Durch das Öffnen am Armloch entsteht automatisch etwas Mehrwei-te oberhalb der Brust, wenn das neue Armloch über die Mitte der Öffnung verläuft. Das neue Armloch formen.\n7 Am hinteren Armloch wird die Rückenbreite vergrößert, wie auf Seite 191 beschrieben, um bis zu 1/4 der Armlochverbreiterung.\n8 Die Ärmelpunkte um 3/4 der Armlochvertiefung nach unten verschieben.\n\n# Hintere Mitte und Seitennähte\n\n9 Die hintere Mitte wird gerade gestellt wie auf Seite 192 gezeigt.\n10 Für gerade Seitennähte wird vorne an der Hüfte derselbe Betrag wie am vorderen Armloch ausgestellt und die Naht gerade zum Saum gezeichnet.\n11 Hinten wird an der Hüfte derselbe Betrag wie am hinteren Armloch + 1 cm ausgestellt und die Naht gerade gezeichnet.\n12 Die Länge der Seitennähte und den Saum wie auf Seite 192 kontrollieren und zeichnen.\n13 Eine leichte Taillierung der SN (hier gestrichelt dargestellt) erfolgt bei Bedarf erst nach der Geradestellung der SN.\n\nLegerer Mantel- (Jacken-) GS ohne und mit leichter Taillierung\n\n![img-0.jpeg](img-0.jpeg)\n\nAuflistung der hier verwendeten Armlochvertiefung, Armloch-Verbreiterung und Armloch-Auflockerung\n\nFür den legeren Jacken- bzw. Mantel-Grundschnitt wird hier der halbe Schnitt mit einer Armlochverbreiterung von 4 cm erweitert. Für den ganzen Schnitt beträgt die Erweiterung somit ca. 8 bis 8,5 cm, wenn man die Mehrweite an der hM hinzumisst.\n\nDie Armlochvertiefung beträgt 2,5 cm. Die Armloch-Auflockerung vorne ist hier 2,5 cm und hinten 1,5 cm.\n\n# Ärmelanpassungen\n\n1. für eine Armloch-Vertiefung und Armloch-Verbreiterung siehe auf Seite 212\n2. für eine Armloch-Auflockerung siehe auf Seite 217.\n\n# Optimierung der Saumform\n\n10 Die Saume werden rechtwinklig zur SN abgewinkelt, wobei die Kürzungen an VT und RT jeweils identisch sein müssen.\n\n![img-1.jpeg](img-1.jpeg)\n\nLegerer Jacken-, Mantel-Grundschnitt mit Armloch-Vertiefung, -Verbreiterung und -Auflockerung sowie gerade gestellter Seitennah\n\n![img-2.jpeg](img-2.jpeg)\n\n193",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 92,
+          "top_left_y": 1450,
+          "bottom_right_x": 884,
+          "bottom_right_y": 3651,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 949,
+          "top_left_y": 2990,
+          "bottom_right_x": 1251,
+          "bottom_right_y": 3378,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1375,
+          "top_left_y": 1544,
+          "bottom_right_x": 2110,
+          "bottom_right_y": 3578,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2710
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 174,
+          "top_left_y": 192,
+          "bottom_right_x": 1855,
+          "bottom_right_y": 535,
+          "content": "# Grundschnitt-Vergrößerungen (3) alle Vergrößerungen auf einen Blick für legere Kleider-, Blusen-, Westen-, Jacken- und Mantel-Modelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 174,
+          "top_left_y": 441,
+          "bottom_right_x": 773,
+          "bottom_right_y": 617,
+          "content": "Alle Grundschnitt-Vergrößerungen auf einen Blick für einen legeren Schnitt in PK 7 aus dem engen Kleider-Grundschnitt in PK 3.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 233,
+          "top_left_y": 625,
+          "bottom_right_x": 618,
+          "bottom_right_y": 666,
+          "content": "# Armloch-Auflockerung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 155,
+          "top_left_y": 690,
+          "bottom_right_x": 776,
+          "bottom_right_y": 825,
+          "content": "1 Das vordere Armloch knapp oberhalb des Ärmelpunktes zum BrP einschneiden und wie gewünscht öffnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 152,
+          "top_left_y": 837,
+          "bottom_right_x": 773,
+          "bottom_right_y": 1021,
+          "content": "2 Am RT an der Schulterblattlinie eingeschneiden und öffnen. In den Beispielen hier werden die Abnäher komplett geschlossen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 206,
+          "top_left_y": 1050,
+          "bottom_right_x": 597,
+          "bottom_right_y": 1090,
+          "content": "# Schulterverbreiterung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 136,
+          "top_left_y": 1115,
+          "bottom_right_x": 770,
+          "bottom_right_y": 1409,
+          "content": "3 Vor dem Einzeichnen der Armlöcher die Schulter am VT um 1/10 Armloch-Verbreiterung verbreitern.\n4 Die hintere Schulternahltänge angleichen. Sie entspricht der vorderen SuNL + Einhalteweite (0,5 bis 1 cm).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 920,
+          "top_left_y": 494,
+          "bottom_right_x": 1302,
+          "bottom_right_y": 535,
+          "content": "# Armlöcher neu zeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 844,
+          "top_left_y": 543,
+          "bottom_right_x": 1430,
+          "bottom_right_y": 1327,
+          "content": "5 Die Brustbreite um mind. 1/4 Armloch-Verbreiterung am vorderen Armloch ausstellen (hier ergibt sie sich, bei der Formung über die Mitte der Öffnung).\n6 Durch das Öffnen am Armloch entsteht automatisch etwas Mehrwei-te oberhalb der Brust, wenn das neue Armloch über die Mitte der Öffnung verläuft. Das neue Armloch formen.\n7 Am hinteren Armloch wird die Rückenbreite vergrößert, wie auf Seite 191 beschrieben, um bis zu 1/4 der Armlochverbreiterung.\n8 Die Ärmelpunkte um 3/4 der Armlochvertiefung nach unten verschieben.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1538,
+          "top_left_y": 617,
+          "bottom_right_x": 1972,
+          "bottom_right_y": 658,
+          "content": "# Hintere Mitte und Seitennähte",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1476,
+          "top_left_y": 662,
+          "bottom_right_x": 2026,
+          "bottom_right_y": 1421,
+          "content": "9 Die hintere Mitte wird gerade gestellt wie auf Seite 192 gezeigt.\n10 Für gerade Seitennähte wird vorne an der Hüfte derselbe Betrag wie am vorderen Armloch ausgestellt und die Naht gerade zum Saum gezeichnet.\n11 Hinten wird an der Hüfte derselbe Betrag wie am hinteren Armloch + 1 cm ausgestellt und die Naht gerade gezeichnet.\n12 Die Länge der Seitennähte und den Saum wie auf Seite 192 kontrollieren und zeichnen.\n13 Eine leichte Taillierung der SN (hier gestrichelt dargestellt) erfolgt bei Bedarf erst nach der Geradestellung der SN.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2100,
+          "top_left_y": 625,
+          "bottom_right_x": 2170,
+          "bottom_right_y": 1127,
+          "content": "Legerer Mantel- (Jacken-) GS ohne und mit leichter Taillierung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 92,
+          "top_left_y": 1450,
+          "bottom_right_x": 884,
+          "bottom_right_y": 3651,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 844,
+          "top_left_y": 1450,
+          "bottom_right_x": 1378,
+          "bottom_right_y": 1654,
+          "content": "Auflistung der hier verwendeten Armlochvertiefung, Armloch-Verbreiterung und Armloch-Auflockerung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 844,
+          "top_left_y": 1654,
+          "bottom_right_x": 1413,
+          "bottom_right_y": 1964,
+          "content": "Für den legeren Jacken- bzw. Mantel-Grundschnitt wird hier der halbe Schnitt mit einer Armlochverbreiterung von 4 cm erweitert. Für den ganzen Schnitt beträgt die Erweiterung somit ca. 8 bis 8,5 cm, wenn man die Mehrweite an der hM hinzumisst.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 844,
+          "top_left_y": 1964,
+          "bottom_right_x": 1411,
+          "bottom_right_y": 2111,
+          "content": "Die Armlochvertiefung beträgt 2,5 cm. Die Armloch-Auflockerung vorne ist hier 2,5 cm und hinten 1,5 cm.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 844,
+          "top_left_y": 2132,
+          "bottom_right_x": 1161,
+          "bottom_right_y": 2177,
+          "content": "# Ärmelanpassungen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 844,
+          "top_left_y": 2177,
+          "bottom_right_x": 1413,
+          "bottom_right_y": 2393,
+          "content": "1. für eine Armloch-Vertiefung und Armloch-Verbreiterung siehe auf Seite 212\n2. für eine Armloch-Auflockerung siehe auf Seite 217.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 895,
+          "top_left_y": 2712,
+          "bottom_right_x": 1346,
+          "bottom_right_y": 2753,
+          "content": "# Optimierung der Saumform",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 814,
+          "top_left_y": 2773,
+          "bottom_right_x": 1430,
+          "bottom_right_y": 2973,
+          "content": "10 Die Saume werden rechtwinklig zur SN abgewinkelt, wobei die Kürzungen an VT und RT jeweils identisch sein müssen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 949,
+          "top_left_y": 2990,
+          "bottom_right_x": 1251,
+          "bottom_right_y": 3378,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 920,
+          "top_left_y": 3427,
+          "bottom_right_x": 1362,
+          "bottom_right_y": 3635,
+          "content": "Legerer Jacken-, Mantel-Grundschnitt mit Armloch-Vertiefung, -Verbreiterung und -Auflockerung sowie gerade gestellter Seitennah",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1375,
+          "top_left_y": 1544,
+          "bottom_right_x": 2110,
+          "bottom_right_y": 3578,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2186,
+          "top_left_y": 3512,
+          "bottom_right_x": 2254,
+          "bottom_right_y": 3561,
+          "content": "193",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3510316
+  }
+}

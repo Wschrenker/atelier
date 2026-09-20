@@ -1,0 +1,22 @@
+{
+  "page": "s191",
+  "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s191.jpg",
+  "orientation": "EXIF-Orientierung angewendet (Orientation 6)",
+  "upright_size": [3060, 4080],
+  "crop_box_in_upright_px": [330, 0, 3060, 4080],
+  "crop_hinweis": "Das Originalfoto zeigt eine Doppelseite (links anschnittsweise Seite 190, rechts Seite 191). Der Buchfalz wurde visuell geprüft; sein rechtester Punkt liegt bei ca. x=320 (bei y nahe 0, oben am Kopfsteg). Mit zunehmender Bildhöhe wandert der Falz sichtbar nach links (bis x≈190 am unteren Bildrand), sodass ein Zuschnitt bei x=330 an jeder Zeilenhöhe auf der sicheren (rechten) Seite des Falzes liegt. Es wurde nichts von Seite 191 abgeschnitten; von Seite 190 wurde nichts einbezogen.",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s191_skizze_01.png",
+      "origin": "mistral (+20 px Rand ergänzt)",
+      "bbox_mistral_reported_px": [0, 1123, 1511, 3684],
+      "bbox_saved_px": [0, 1103, 1531, 3704],
+      "bbox_bezug": "Pixel relativ zum OCR-Eingabebild (2730×4080 px, das ist bereits der oben beschriebene Zuschnitt ohne Seite 190).",
+      "beschreibung": "Eine zusammenhängende Prinzip-Abbildung über die gesamte untere Seitenbreite: links ein Vorderteil-Schnittteil (Label 'VT'), rechts spiegelbildlich ein Rückenteil-Schnittteil (Label 'RT'), beide mit eingezeichneter alter und neuer Armlochlinie. Am oberen Bildrand ragen vier Schulter-/Ärmelspitzen ins Bild (zwei je Seite), zwischen den beiden mittleren Spitzen ein blauer Doppelpfeil mit Kreiszahl '3' und Text 'Schulter-Verbreiterung um 1/10 der Armloch-Verbreiterung'. Darunter die neue (rote) Armlochkurve mit Kreiszahlen '4' ('die BrB um ca. 1/8 der Armloch-Verbreiterung vergrößern') und '5' ('die RüB um ca. 1/4 der Armloch-Verbreiterung vergrößern'), dazu blaue Bogenpfeile. Punktlabel 'vÄP' erscheint doppelt (ein grauer und ein roter Kreis übereinander) links am Armloch, ebenso 'hÄP' doppelt rechts. Beidseits davon je eine graue Textbox 'Ärmelpunkt um ¾ Armloch-Vertiefung nach unten verschieben' mit Kreiszahl '6' und grünem Abwärtspfeil. Mittig Kreiszahl '2' (zweimal, links und rechts) mit Text 'Armloch-Vertiefung um ½ bis ¾ der Armloch-Verbreiterung' und Abwärtspfeilen in die rote Kurve. Links Kreiszahl '1' bei '⅓ Armloch-Verbreiterung', rechts Kreiszahl '1' bei '⅔ Armloch-Verbreiterung', jeweils mit Pfeil zum roten Kurvenansatz. Punktlabel 'BrP' links auf der gestrichelten roten Linie 'neue Brustlinie' (Linie beidseits beschriftet). Beide Schnittteile verjüngen sich nach unten zu einer roten Seitennaht-Linie (rechts daneben eine gepunktete Linie), an der links und rechts je vertikal die Buchstaben 'SN' stehen; entlang dieser Linien Kreiszahl '7' (dreifach je Seite, mit blauem Doppelpfeil) und Kreiszahl '8' (zweifach je Seite, mit blauem Pfeil zur Saumecke). Zwischen VT und RT unten zwei grün gestrichelte Vertikallinien mit den Kleinbuchstaben-Labels 'üb' und 'me'. Unten links zwei übereinanderliegende Textblöcke 'Taill. OT-GS / G 38 / PK 3' (durchgestrichen mit blauem X) und darunter unverändert 'Taill. OT-GS / G 38 / PK 5 aus PK 3' (rot); rechts unten spiegelbildlich dieselben zwei Textblöcke, dort aber untereinander auf gleicher Spaltenbreite. Ganz unten links eine separate kleine Maßfigur: eine Körpersilhouette mit drei ovalen Ausgangsmaßen '88', '72', '97' (Pfeile nach rechts zu eckigen Ergänzungswerten '10', '8', '9') sowie einem senkrechten Maßstrich '168' links der Figur. Am linken und rechten roten Seitenrand stehen unten die kleinen Vertikal-Labels 'vM' bzw. 'hM'.",
+      "unsicher": "Bedeutung der Kürzel 'üb' und 'me' sowie 'vM'/'hM' und 'SN' nicht aus dem Bildausschnitt allein sicher; am Original bzw. im Buchglossar zu prüfen. Ob die doppelten Labelpaare 'vÄP'/'vÄP' und 'hÄP'/'hÄP' einen alten (grau) und einen neuen (rot) Punkt derselben Bezeichnung markieren oder zwei fachlich unterschiedliche Punkte, ist optisch naheliegend, aber nicht bestätigt."
+    }
+  ],
+  "hinweis": "Vollständiges Originalbild (Zuschnitt ohne Seite 190) gegen die automatisch erkannte Region geprüft; keine weitere von der OCR übersehene Zeichnung oder Tabelle auf dieser Seite gefunden. Die Bounding Box von Mistral deckte die Abbildung bereits an allen vier Rändern korrekt ab (visuell an Ober-, Unter- und rechter Kante kontrolliert); es wurde nur der übliche 20-px-Rand ergänzt."
+}

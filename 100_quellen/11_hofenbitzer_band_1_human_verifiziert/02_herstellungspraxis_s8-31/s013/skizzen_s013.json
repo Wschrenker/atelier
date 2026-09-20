@@ -18,7 +18,7 @@
         "7vTaH", "7hTaH", "8rTaH", "8lTaH", "Standebene"
       ],
       "zugehoerige_ocr_bildunterschrift": "☐2 Maße unterhalb der Taille",
-      "bestaetigt": false
+      "bestaetigt": true
     },
     {
       "datei": "skizzen/s013_skizze_02.png",
@@ -35,7 +35,7 @@
         "waagerechte Taille", "5BuU", "10gRüL"
       ],
       "zugehoerige_ocr_bildunterschrift": "☐3 Längenmaße oberhalb der Taille",
-      "bestaetigt": false
+      "bestaetigt": true
     }
   ]
 }
