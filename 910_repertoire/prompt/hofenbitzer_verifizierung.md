@@ -106,7 +106,8 @@ Nach einer eindeutigen Antwort:
    `tabellen_sXXX.md` berichtigen.
 3. Formelstellen nur in der dafür vorgesehenen Formeldatei berichtigen und die
    bestätigte Buchfassung von einer späteren fachlichen Normalisierung trennen.
-4. `ocr_sXXX_raw.json` und andere JSON-Rohdateien niemals verändern.
+4. Keine JSON-Datei verändern – auch `skizzen_sXXX.json` nicht. Bestätigungen
+   ausschließlich in `sXXX.md` dokumentieren.
 5. Den Prüfstatus und die erledigten beziehungsweise offenen Stellen in
    `sXXX.md` knapp und nachvollziehbar aktualisieren.
 
