@@ -1,0 +1,481 @@
+{
+  "stand": "2026-09-20",
+  "source": "jobs.ch",
+  "note": "Suchtreffer sind Momentaufnahmen und können Fehl-/Randtreffer enthalten; keine Arbeitsmarktstatistik.",
+  "queries": {
+    "Bekleidungsgestalterin": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Bekleidungsgestalterin",
+      "page_title": "2 Bekleidungsgestalterin Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 2 Wochen Modeberater:in Damen 80% (w/m/d) Arbeitsort : Bern Pensum : 80% LOEB AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9baeb736-15ba-44a8-9007-f1f5acaa102a/"
+        },
+        {
+          "text": "Vor 3 Tagen Bekleidungstechniker/in Arbeitsort : Menznau Pensum : 50 – 100% Vertragsart : Festanstellung fabric wear ag Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/b5b800ab-94fd-42e6-b02b-af6ddc1b25bc/"
+        }
+      ]
+    },
+    "Textiltechnologe": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Textiltechnologe",
+      "page_title": "1 Textiltechnologe Job - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 2 Wochen Produktentwickler / Produktentwicklerin Arbeitsort : Münchwilen Pensum : 100% swisstulle AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/19ac58b4-7597-48d8-99ae-d3789bf423c1/"
+        }
+      ]
+    },
+    "Polydesigner 3D": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Polydesigner%203D",
+      "page_title": "48 Polydesigner 3D Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 3 Wochen Apprentissage Polydesigner 3D \"Réalisation\" Arbeitsort : Lausanne Pensum : 100% Vertragsart : Lehrstelle COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2c3c83bb-3790-434e-875d-690d633100c1/"
+        },
+        {
+          "text": "Vor 3 Wochen Polydesigner 3D CFC «réalisation» Arbeitsort : Lausanne St. François Pensum : 100% Vertragsart : Lehrstelle COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/6cef89d5-aad6-41bc-a779-2a1f8e8ce362/"
+        },
+        {
+          "text": "Vor 3 Wochen Apprentissage de Polydesigner 3D Arbeitsort : Fusterie Pensum : 100% Vertragsart : Lehrstelle COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/97c475a5-cbd5-4d68-9230-c3b0d18419b0/"
+        },
+        {
+          "text": "Vor 3 Wochen Apprentissage de Polydesigner 3D Arbeitsort : Fribourg Pensum : 100% Vertragsart : Lehrstelle COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/1a3723a0-3a75-44a4-9c8f-96ab4be64732/"
+        },
+        {
+          "text": "Vor 3 Wochen Apprentissage de Polydesigner 3D CFC Arbeitsort : Meyrin Pensum : 100% Vertragsart : Lehrstelle COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/3e27f617-f538-4782-b287-af5595d0a070/"
+        },
+        {
+          "text": "Vor 2 Wochen Responsable Décoration de Surface & Anglage Touret H/F Arbeitsort : L'Orient Pensum : 10 – 20% Vertragsart : Festanstellung Montres Breguet SA",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/575cc2fb-8b3c-4c26-8d05-aecfb20e7440/"
+        },
+        {
+          "text": "Vor 4 Wochen Polydesigner/in 3D (m/w/d) 40–50 % Arbeitsort : Pfäffikon Pensum : 40 – 50% Vertragsart : Festanstellung XLCH AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/05839a77-8181-4bdd-8544-1a164038f3e4/"
+        },
+        {
+          "text": "Vor 3 Wochen Store Visual Merchandiser 100% (m/w/d) Arbeitsort : Biel/Bienne Pensum : 100% Vertragsart : Festanstellung Manor AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d5ebe608-4253-4713-9dcc-c29674188513/"
+        },
+        {
+          "text": "Vor 2 Wochen Lernende/-r Polydesigner/-in 3D EFZ Arbeitsort : Urdorf Pensum : 100% Vertragsart : Lehrstelle PKZ Burger-Kehl & Co. AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d65529bb-b840-4c3d-b0ca-1649b057b8df/"
+        },
+        {
+          "text": "Vor 3 Wochen Visual Merchandiser / Dekorateur/in Arbeitsort : Zürich Pensum : 100% Vertragsart : Festanstellung Blattner AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/3d2cfe17-37fb-4e87-bfa0-b99b6fb6a90c/"
+        },
+        {
+          "text": "Vor 2 Wochen Visual Merchandiser Swiss Market Arbeitsort : St Imier Pensum : 100% Vertragsart : Festanstellung Compagnie des Montres Longines, Francillon S.A.",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/20298769-e7fb-446a-85d8-4ac28a23adc5/"
+        },
+        {
+          "text": "Vor 2 Wochen Polydesigner 3D (w/m/d) Arbeitsort : Schaffhausen Pensum : 80 – 100% Vertragsart : Festanstellung Coop City",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/07e7549f-23da-4a39-ad37-e54fe8f718f7/"
+        },
+        {
+          "text": "Vor 2 Wochen Polydesigner 3D (w/m/d) Arbeitsort : Schaffhausen Pensum : 80 – 100% Vertragsart : Festanstellung Coop City",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/0570aebf-9a46-4bea-8a72-aa5586bfadb8/"
+        },
+        {
+          "text": "Letzten Monat Polydesigner 3D CFC «réalisation» Arbeitsort : Fribourg Pensum : 100% COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/ba8c73b1-4c73-4912-b479-ceaa8347b1ca/"
+        },
+        {
+          "text": "Vor 2 Monaten Polydesigner 3D (apprentissage) Arbeitsort : Meyrin Pensum : 100% Möbel Pfister AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4b9e18b7-911b-42e6-b4e6-b1f888edcdd3/"
+        },
+        {
+          "text": "Letzten Monat Polydesigner 3D CFC «réalisation» Arbeitsort : Fusterie Pensum : 100% COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8c0f4ec5-3f74-4bba-b315-e2a677072e40/"
+        },
+        {
+          "text": "Letzten Monat Polydesigner 3D CFC «réalisation» Arbeitsort : Meyrin Pensum : 100% COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/32c0b6fe-ab0d-4524-b9f4-1a8495fbdbdf/"
+        },
+        {
+          "text": "Vor 2 Wochen Polydesigner 3D (w/m/d) Arbeitsort : Schaffhausen Pensum : 80 – 100% Vertragsart : Festanstellung Coop City",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/456ba108-1057-496c-8f67-0de040610edb/"
+        },
+        {
+          "text": "Vor 2 Monaten Polydesigner 3D (apprentissage) Arbeitsort : Villeneuve Pensum : 100% Möbel Pfister AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/71945a6d-7907-4c5f-8289-c2d9a1f0081e/"
+        },
+        {
+          "text": "Letzten Monat Polydesigner 3D CFC «réalisation» Arbeitsort : Lausanne Pensum : 100% COOP",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/1a774e4e-85c8-4059-9467-59c581f297d3/"
+        }
+      ]
+    },
+    "Textilpflege": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Textilpflege",
+      "page_title": "9 Textilpflege Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 3 Wochen Lehrstelle als Fachfrau/-mann Textilpflege EFZ, Fachrichtung Wäscherei Arbeitsort : Bern Pensum : 100% Vertragsart : Lehrstelle Elis (Suisse) AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/69fa5297-896c-49e2-a822-b8810a9ebf66/"
+        },
+        {
+          "text": "Vor 3 Wochen Fachverantwortliche:r Wäscherei (80%) Arbeitsort : Schwarzenburg Pensum : 80% Vertragsart : Festanstellung Stiftung Bernaville",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/3a4410f3-06df-4bea-97e6-277c3a1474c8/"
+        },
+        {
+          "text": "Vor 5 Wochen Gebietsverkaufsleiter Nordostschweiz Arbeitsort : Worblaufen, Zürich Pensum : 100% Vertragsart : Festanstellung Chemie AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/3e1a0a85-bf64-4855-8b86-387ef88e2ee6/"
+        },
+        {
+          "text": "Vor 2 Wochen Mitarbeiter:in Wäscherei 50% Arbeitsort : Walkringen Pensum : 50% Vertragsart : Festanstellung Stiftung Rüttihubelbad",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/bd6fcea3-42f4-41c0-8ba0-1d9bf3b0fba8/"
+        },
+        {
+          "text": "Vor 2 Monaten Lehrstelle als Fachfrau/-mann Textilpflege EFZ, Fachrichtung Wäscherei Arbeitsort : Bern Pensum : 100% Vertragsart : Festanstellung Elis (Suisse) AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/38a33be9-e509-416a-a421-0d595ae1a2e9/"
+        },
+        {
+          "text": "Letzten Monat Fachperson Hotellerie - Hauswirtschaft Arbeitsort : Steffisburg Pensum : 100% Alterswohnen STS AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2b27edfd-2bc2-434d-99b6-2e3b785afbfa/"
+        },
+        {
+          "text": "Vor 2 Monaten Allrounder/In in der Textilreinigung, 100% Arbeitsort : Chur Pensum : 100% Vertragsart : Festanstellung Zentralwäscherei Chur AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a045181e-87c9-428a-a555-59fc3ae5bcd7/"
+        },
+        {
+          "text": "Vor 2 Jahren Lehrstelle 2024 Arbeitsort : Chur Pensum : 100% Vertragsart : Festanstellung Zentralwäscherei Chur AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4e547f71-d3cd-43b5-a96b-273e84406af4/"
+        },
+        {
+          "text": "Vor 3 Monaten Fachperson Hauswirtschaft EFZ (50-100%) Arbeitsort : Horw Pensum : 50 – 100% Spitex Horw",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/e132b846-cbfd-48b7-82ef-6eff80f80d39/"
+        }
+      ]
+    },
+    "Wohntextilgestalter": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Wohntextilgestalter",
+      "page_title": "1 Wohntextilgestalter Job - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 2 Monaten Wohntextilgestalter/in (Ausbildung) Arbeitsort : Thörishaus Pensum : 100% Pfister Vorhang Service AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/2390c48c-c67e-4c12-8354-c4da0e1dd47f/"
+        }
+      ]
+    },
+    "Laborant Textil": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Laborant%20Textil",
+      "page_title": "2 Laborant Textil Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Letzten Monat Lernende/r Laborant/in EFZ Fachrichtung Textil (a) Arbeitsort : St. Gallen Pensum : 100% Vertragsart : Lehrstelle EMPA",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/ba0b8a36-885d-4f24-8b15-12d6ed5efd95/"
+        },
+        {
+          "text": "Letzten Monat Lernende/r Laborant/in EFZ Fachrichtung Textil (a) Arbeitsort : St. Gallen Pensum : 100% Vertragsart : Lehrstelle Empa, Materials Science and Technology",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/300bd0f9-19ee-4ad6-b764-0d3943166b44/"
+        }
+      ]
+    },
+    "Detailhandel Textil": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Detailhandel%20Textil",
+      "page_title": "19 Detailhandel Textil Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Letzten Monat Lernende/r Detailhandel EFZ Textil 2027 Arbeitsort : Sursee Pensum : 100% Vertragsart : Lehrstelle hostettler moto ag",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/1e8b505f-f034-4c03-b887-165a6d37fc6d/"
+        },
+        {
+          "text": "Vor 5 Tagen Modeberaterin / Detailhandelsfachfrau EFZ Textil 60% Arbeitsort : Bern Pensum : 60% Vertragsart : Festanstellung Bürki Les Collections SA Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9118732a-dcc1-4105-aa96-24c780a60b84/"
+        },
+        {
+          "text": "Vor 3 Wochen Verkäufer:in im Aussendienst Arbeitsort : Sursee Pensum : 100% Vertragsart : Festanstellung Hug Personalberatung",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/6c9865f9-c935-455a-9c78-2cb7f32209c6/"
+        },
+        {
+          "text": "Letzten Monat Verkäuferin / Verkaufsberaterin (m/w/d) gesucht – Ab sofort in Festanstellung! Arbeitsort : Bern + 4 weitere Standorte Pensum : 20 – 100% Vertragsart : Festanstellung Bestpersonal Elkayam Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/524175f2-4045-468f-ab50-6dc3fb0687ef/"
+        },
+        {
+          "text": "Vor 2 Wochen Stellvertretung Fachleiter Blumen/Kundendienst Arbeitsort : Zürich Pensum : 80 – 100% Vertragsart : Festanstellung Migros Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/5391f607-be16-40c8-a80a-cf479f2451d8/"
+        },
+        {
+          "text": "Vor 2 Wochen Verkäufer*in Blumen und Kundendienst Arbeitsort : Uster Pensum : 50 – 70% Vertragsart : Festanstellung Migros Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/bff62d02-9303-4451-b105-8428e85fea1b/"
+        },
+        {
+          "text": "Vor 2 Wochen Verkäufer*in Blumen und Kundendienst Arbeitsort : Zürich Pensum : 60 – 80% Vertragsart : Festanstellung Migros Zürich",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d3d75b5c-e7c1-4105-869b-dd08682b46d0/"
+        },
+        {
+          "text": "Vor 3 Wochen Storemanager Assistant JEANS.CH (80-100%) Arbeitsort : Fällanden Pensum : 80 – 100% Vertragsart : Festanstellung JEANS.CH AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f7ad2560-88fb-42e7-80cd-c035de85966b/"
+        },
+        {
+          "text": "Vor 3 Wochen Leiterin oder Leiter Brockenstube 80 - 100% in Murten Arbeitsort : Murten Pensum : 80 – 100% Vertragsart : Festanstellung Verein HIOB - International Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9a4fbeff-6605-44c8-be95-ce4f1f484587/"
+        },
+        {
+          "text": "Gestern Produktmanager:in Textil Bergsport 80-100% Arbeitsort : Nänikon Pensum : 80 – 100% Bächli Bergsport AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/3b7ceea8-5ec7-46f6-bfb4-1bfc22de9d5f/"
+        },
+        {
+          "text": "Vor 4 Wochen Verkaufsberater:in Textil Arbeitsort : Olten Pensum : 20% Vertragsart : Festanstellung Coop City",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f66ab87a-1a9b-44d9-a36a-331b1a86b26a/"
+        },
+        {
+          "text": "Vor 4 Wochen Verkaufsberater:in Textil Arbeitsort : Olten Pensum : 20 – 50% Vertragsart : Festanstellung Coop City",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/294ab3c7-2467-4ec9-be09-ca1b70dbd1ec/"
+        },
+        {
+          "text": "Vor 4 Wochen Verkaufsberater:in Textil Arbeitsort : Olten Pensum : 20 – 50% Vertragsart : Festanstellung Coop City",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/6554f392-53fe-4e03-a77c-ba94168b5afa/"
+        },
+        {
+          "text": "Vor 4 Wochen Verkaufsberater:in Textil Arbeitsort : Olten Pensum : 20% Vertragsart : Festanstellung Coop City",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/5a1abe66-d556-4290-9ba8-83aa302fccdb/"
+        },
+        {
+          "text": "Vorgestern Flexible Aushilfe (w/m/d) Wintersport/Textil 60-80% Arbeitsort : St. Gallen Shopping Arena Pensum : 60 – 80% Dosenbach-Ochsner AG Schuhe und Sport",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8e7f2a09-e018-47ba-97c7-ab3398a93666/"
+        },
+        {
+          "text": "Letzten Monat Abteilungsleiter:in Textil 60% Arbeitsort : Schönenwerd Pensum : 60% Dosenbach-Ochsner AG Schuhe und Sport",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9c5782f8-28da-4f68-85b1-5364f44716f9/"
+        },
+        {
+          "text": "Vor 4 Wochen Abteilungsleiter:in Textil/Sport Arbeitsort : Zürich Pensum : 100% Vertragsart : Festanstellung OTTO'S AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/dc683f5c-7d91-41b0-87f2-ab8192c7de3d/"
+        },
+        {
+          "text": "Vor 2 Wochen Abteilungsleiter:in Textil/Sport Arbeitsort : Gamsen Pensum : 100% Vertragsart : Festanstellung OTTO'S AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/c8ac938e-2c6d-4594-8375-abcf77748337/"
+        },
+        {
+          "text": "Letztes Jahr Jobs - Sporttextil - Verkäufer*in - 100% Arbeitsort : Konolfingen Pensum : 100% Vertragsart : Festanstellung Berger Schuhe & Sport AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/c00c7a5e-56ae-4734-a3cf-c147753ed266/"
+        }
+      ]
+    },
+    "Industrienäher": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Industrien%C3%A4her",
+      "page_title": "221 Industrienäher Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vorgestern Industrienäher/in / Technische/r Konfektionär/in (m/w/d) 60–80% Arbeitsort : Zofingen Pensum : 60 – 80% Vertragsart : Festanstellung Opus Personal AG, Zweigniederlassung Zofingen Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/09d6d4d3-5cd7-47a3-8815-52c5dc9b8772/"
+        },
+        {
+          "text": "Vor 6 Stunden Werkzeugschleifer/in (m/w/d) Arbeitsort : Burg Pensum : 100% Vertragsart : Festanstellung Festo Gewindetriebe AG Neu",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/5f35252c-74e1-4c82-9728-dcb479336372/"
+        },
+        {
+          "text": "Gestern Verkaufsberater/in im Aussendienst 100% Arbeitsort : St. Gallen Pensum : 100% Vertragsart : Festanstellung Heliobus AG Einfach bewerben Neu",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4a4045a5-cc58-4062-a4da-a3e82ba082bc/"
+        },
+        {
+          "text": "Gestern Assistent/in der Geschäftsleitung 50-100% Arbeitsort : St. Gallen Pensum : 50 – 100% Vertragsart : Festanstellung Heliobus AG Einfach bewerben Neu",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/fa973a12-77a3-4f38-a7b3-c518018115cf/"
+        },
+        {
+          "text": "Vorgestern Mechatroniker/-in / Elektriker/-in (m/w/d) in der Produktion im 2-Schicht-Betrieb Arbeitsort : Burg Pensum : 100% Vertragsart : Festanstellung Festo Gewindetriebe AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a04de5fe-06c8-405f-9da5-5e0f702cb4aa/"
+        },
+        {
+          "text": "Vorgestern Dipl. Pflegefachperson sowie Berufsbildner:in 80% Arbeitsort : AG Seengen Pensum : 80% Vertragsart : Festanstellung Senevita",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/67393483-fb14-4039-a647-76d1480c7f62/"
+        },
+        {
+          "text": "Vorgestern Projektleiter - Schaltanlagenbau - 100% - Grossraum St. Gallen - m/w/d Arbeitsort : St. Gallen Pensum : 100% Vertragsart : Festanstellung Impirio Zürich AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/30e28c90-f82a-410b-8b18-1292107eaaa6/"
+        },
+        {
+          "text": "Vorgestern Servicefachperson 60% - 80% Arbeitsort : Langenthal Pensum : 60 – 100% Vertragsart : Festanstellung Haslibrunnen AG Kompetenzzentrum für das Alter Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/fe03be9d-d8a0-4bf7-b077-abeb78b827d4/"
+        },
+        {
+          "text": "Vorgestern Customer Care Advisor (DE/FR) Arbeitsort : Biel Pensum : 100% Vertragsart : Festanstellung Salt Mobile SA",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a300278e-10ca-4f12-ae70-b7b0037a10d5/"
+        },
+        {
+          "text": "Vorgestern Spitex: Fachperson Gesundheit (50-100%) Arbeitsort : Davos Platz Pensum : 50 – 100% Vertragsart : Festanstellung Spital Davos AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/6bfe36f0-5be9-418b-aa91-37812ddd1c33/"
+        },
+        {
+          "text": "Vor 3 Tagen Boutique Manager / Assistant oder Stv. Boutique Manager 80 - 100% - Zürich HB Arbeitsort : Zürich Pensum : 80 – 100% Vertragsart : Festanstellung Tea Retail GmbH Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/ee02c672-9351-4841-8e54-f94196eed7dc/"
+        },
+        {
+          "text": "Vor 3 Tagen IT Project & Operations Specialist Arbeitsort : Baden Pensum : 100% Vertragsart : Festanstellung Grand Casino Baden AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8953bf9d-e03d-4cc5-a2f7-6abc55cfd3d6/"
+        },
+        {
+          "text": "Vor 4 Tagen Detailhandelsfachperson Arbeitsort : Aarwangen Pensum : 40% Vertragsart : Festanstellung Dorfchäsi Hofer Aarwangen AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/9625dbdd-c032-48a1-93c8-af25110a1056/"
+        },
+        {
+          "text": "Vor 4 Tagen Mitarbeiter/-in Hauswirtschaft Aushilfe im Stundenlohn Arbeitsort : ZH Affoltern am Albis Pensum : 20 – 80% Vertragsart : Festanstellung Senevita",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d530bdfb-c288-49b3-9fe4-f4feef00f0c1/"
+        },
+        {
+          "text": "Vor 4 Tagen Filialleitung (m/w/d) Arbeitsort : Wallisellen Pensum : 100% Vertragsart : Festanstellung Detlev Louis AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/5f34907f-2268-4d20-a08f-7aaf44ef499a/"
+        },
+        {
+          "text": "Vor 4 Tagen VERKAUFSBERATER*IN IM AUSSENDIENST - 100% (m/w/d) Arbeitsort : Region Ostschweiz / GR / FL Pensum : 100% Vertragsart : Festanstellung Neoperl AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/e0469b0f-7697-46b3-ab97-d0faf1ddf631/"
+        },
+        {
+          "text": "Vor 4 Tagen Dipl. Pflegefachperson HF/FH 50-100 % Arbeitsort : Zürich Pensum : 50 – 100% Vertragsart : Festanstellung Universitätsklinik Balgrist",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/172eb881-ded0-44ab-a285-2827b5e17bbb/"
+        },
+        {
+          "text": "Vor 4 Tagen M365 & Power Plattform Engineer 80-100 % Arbeitsort : Winterthur Pensum : 80 – 100% Vertragsart : Festanstellung ZHAW",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/cc39cbd5-6e5d-4de3-a4d1-dd1bd9224ee4/"
+        },
+        {
+          "text": "Vor 4 Tagen Leiter:in Product & Business Development Digital Advertising Arbeitsort : Bern, Olten, Zürich Pensum : 70 – 100% Vertragsart : Festanstellung Lohn : CHF 151 600 - 166 600 /Jahr Die Schweizerische Post AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/8936e8c3-5bf1-4d27-a31f-41283a042ea4/"
+        },
+        {
+          "text": "Letzten Monat Technischer Berater / Projektleiter Kälte- & Klimatechnik (100%) Arbeitsort : Region Bern Pensum : 100% Vertragsart : Festanstellung ProPers Vermittlungen AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4433b782-194d-4880-a11c-2dc3183d4e78/"
+        }
+      ]
+    },
+    "Fashion Designer": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Fashion%20Designer",
+      "page_title": "7 Fashion Designer Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 2 Wochen Brand Content Designer*in Arbeitsort : Wädenswil Pensum : 60 – 80% Vertragsart : Festanstellung götti SWITZERLAND GmbH Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/38783f0e-3101-4f4b-be5b-b785c8b47bcd/"
+        },
+        {
+          "text": "Letzten Monat Associate Designer Arbeitsort : EMEA &gt; CHE &gt; Stabio &gt; VF Campus VF1 Pensum : 100% VF International Sagl",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d8c33ad7-6e7a-4a5d-8891-f204b7e74433/"
+        },
+        {
+          "text": "Vor 5 Wochen Sr. Specialist - VM Guideline Designer Arbeitsort : Zurich Pensum : 100% On AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/5c52b56f-4b80-456d-812c-1764340b6304/"
+        },
+        {
+          "text": "Letzten Monat Senior Designer, Global Apparel Arbeitsort : EMEA &gt; CHE &gt; Stabio &gt; VF Campus VF2 Pensum : 100% VF International Sagl",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/a1e3fc60-2f98-4163-9e59-aea5b968796b/"
+        },
+        {
+          "text": "Vor 2 Monaten Senior Specialist - 3D Footwear Modeller Arbeitsort : Zurich Pensum : 100% On AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d02eb137-74ab-4a0c-95d1-53ff793f42d9/"
+        },
+        {
+          "text": "Vor 3 Wochen Design & Material Intern Arbeitsort : EMEA &gt; CHE &gt; Stabio &gt; VF Campus VF1 Pensum : 100% VF International Sagl",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/26f3462a-d165-449c-927e-7595f980ce1e/"
+        },
+        {
+          "text": "Vor 3 Wochen Graphic Design Intern Arbeitsort : EMEA &gt; CHE &gt; Stabio &gt; VF Campus VF1 Pensum : 100% VF International Sagl",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/708414ac-5ae8-4353-ae66-9287a613b200/"
+        }
+      ]
+    },
+    "Bekleidungstechniker": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Bekleidungstechniker",
+      "page_title": "1 Bekleidungstechniker Job - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 3 Tagen Bekleidungstechniker/in Arbeitsort : Menznau Pensum : 50 – 100% Vertragsart : Festanstellung fabric wear ag Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/b5b800ab-94fd-42e6-b02b-af6ddc1b25bc/"
+        }
+      ]
+    },
+    "Visual Merchandiser": {
+      "url": "https://www.jobs.ch/de/stellenangebote/?term=Visual%20Merchandiser",
+      "page_title": "52 Visual Merchandiser Jobs - jobs.ch",
+      "results_first_page": [
+        {
+          "text": "Vor 2 Wochen Visual Merchandiser 40-50% Arbeitsort : Luzern Pensum : 40 – 50% Vertragsart : Nebenerwerb PKZ Burger-Kehl & Co. AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/0912f926-2c5f-4fdb-b910-b9dba6043183/"
+        },
+        {
+          "text": "Vor 3 Wochen Visual Merchandiser / Dekorateur/in Arbeitsort : Zürich Pensum : 100% Vertragsart : Festanstellung Blattner AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/3d2cfe17-37fb-4e87-bfa0-b99b6fb6a90c/"
+        },
+        {
+          "text": "Vorgestern Visual Merchandiser (m/w/d) -Flexibel für Bern und Thun (100% / 38.5 Wochenstunden) ) Arbeitsort : Thun Pensum : 100% Vertragsart : Festanstellung H&M Hennes & Mauritz AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/80901563-e424-459f-a72e-b2e3eac02240/"
+        },
+        {
+          "text": "Vor 2 Wochen Visual Merchandiser Swiss Market Arbeitsort : St Imier Pensum : 100% Vertragsart : Festanstellung Compagnie des Montres Longines, Francillon S.A.",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/20298769-e7fb-446a-85d8-4ac28a23adc5/"
+        },
+        {
+          "text": "Vor 3 Wochen Store Visual Merchandiser 100% (m/w/d) Arbeitsort : Biel/Bienne Pensum : 100% Vertragsart : Festanstellung Manor AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/d5ebe608-4253-4713-9dcc-c29674188513/"
+        },
+        {
+          "text": "Vor 2 Wochen Merchandiser/Brand Ambassador (m/w/d) für Roborock | Schweiz Arbeitsort : Zürich, Basel Pensum : 100% Vertragsart : Festanstellung JET Services Marketing GmbH & Co KG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/44513948-3d1d-4744-bb9e-f561296ffeb0/"
+        },
+        {
+          "text": "Vor 4 Wochen Merchandiserin Dekorativkosmetik in Teilzeit (40%) im Stundenlohn Arbeitsort : Zermatt, Brigg, Visp Pensum : 40% Vertragsart : Festanstellung SFM-Cosmos AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/92095953-56ea-4b43-919c-bce0268f10c9/"
+        },
+        {
+          "text": "Vor 5 Tagen Buyer (Women's Fashion) 100% (m/w/d) Arbeitsort : Basel Hauptsitz/Siège Pensum : 100% Vertragsart : Festanstellung Manor AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/090da77a-5cc7-4416-9110-71b40b6190ab/"
+        },
+        {
+          "text": "Vor 5 Tagen Buyer (Damenkonfektion) 100% (m/w/d) Arbeitsort : Basel Hauptsitz/Siège Pensum : 100% Vertragsart : Festanstellung Manor AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/bd51e183-cc8e-4c10-9f2f-ec9bf332b4c8/"
+        },
+        {
+          "text": "Vor 5 Tagen Project Assistant 60-80% Arbeitsort : Thalwil Pensum : 60 – 80% Vertragsart : Festanstellung USP Partner AG Einfach bewerben",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/60c91a4d-cd8f-4355-8352-7432ea4ef481/"
+        },
+        {
+          "text": "Letztes Quartal Store Visual Merchandiser (f/m/d) 60% in Olten Sälipark Arbeitsort : Olten Pensum : 60% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/83df2390-1e46-40da-841c-0f9195529e90/"
+        },
+        {
+          "text": "Vor 3 Wochen Store Visual Merchandiser (m/w/d) 80% für Basel Arbeitsort : Basel Pensum : 80% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/6efaa5f0-5189-4be7-80eb-c498bc204dcc/"
+        },
+        {
+          "text": "Letztes Quartal Store Visual Merchandiser (f/m/d) 60% in Regensdorf Arbeitsort : Regensdorf Pensum : 60% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f67374c4-86a7-44cf-929f-47593b14e04d/"
+        },
+        {
+          "text": "Vor 6 Tagen Store Visual Merchandiser (m/w/d) 80-100% für Emmen Arbeitsort : Emmenbrücke Pensum : 80 – 100% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/382b4c09-de2d-496e-a605-112c62cbd1be/"
+        },
+        {
+          "text": "Vor 3 Wochen Store Visual Merchandiser (m/w/d) 100% für Aarau Arbeitsort : Aarau Pensum : 100% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/4dc55504-9e66-496d-8d23-e44e44c4e922/"
+        },
+        {
+          "text": "Vor 2 Monaten Store Visual Merchandiser (m/w/d) 100% für St. Gallen Arena Arbeitsort : St. Gallen Pensum : 100% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/f103b1e4-c9ab-4907-a7ac-799110989411/"
+        },
+        {
+          "text": "Vor 2 Monaten Store Visual Merchandiser (m/w/d) 80% für St. Jakob Park Arbeitsort : Basel Pensum : 80% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/b26e982b-f2f2-4a18-a462-922ef0c0414c/"
+        },
+        {
+          "text": "Letztes Quartal Store Visual Merchandiser (f/m/d) 80-100% Chur Arbeitsort : Chur Pensum : 80 – 100% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/1f7400cb-1d6a-4446-b55d-3d90418e1990/"
+        },
+        {
+          "text": "Vor 4 Wochen Store Visual Merchandiser (m/w/d) 100% für Thun Arbeitsort : Thun Pensum : 100% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/157a9fa0-73f0-4528-b347-583fe9ac36d7/"
+        },
+        {
+          "text": "Letzten Monat Store Visual Merchandiser (m/w/d) 100% im Volkiland Arbeitsort : Volketswil Pensum : 100% Vertragsart : Festanstellung C&A Mode AG",
+          "url": "https://www.jobs.ch/de/stellenangebote/detail/879bb50e-a387-4308-83c2-17be0959db58/"
+        }
+      ]
+    }
+  }
+}
