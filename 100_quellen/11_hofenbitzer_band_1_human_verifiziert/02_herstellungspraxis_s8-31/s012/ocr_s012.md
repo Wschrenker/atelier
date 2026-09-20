@@ -2,13 +2,13 @@
 
 Einführung
 
-Körpermaße und Maßnahmen (1)
+Körpermaße und Maßnehmen (1)
 
-Körpermaße und Maßnahmen
+Körpermaße und Maßnehmen
 
-Das korrekte Maßnahmen und die Figurbeobachtung sind die Grundvoraussetzungen für einen gut passenden Schnitt.
+Das korrekte Maßnehmen und die Figurbeobachtung sind die Grundvoraussetzungen für einen gut passenden Schnitt.
 
-Allerdings wäre es ein Trugschluss zu meinen, man müsse nur genau Maßnahmen und nach diesen Maßen die Schnitte konstruieren, um einen passenden Maßschnitt zu erhalten.
+Allerdings wäre es ein Trugschluss zu meinen, man müsse nur genau Maßnehmen und nach diesen Maßen die Schnitte konstruieren, um einen passenden Maßschnitt zu erhalten.
 
 Ohne die Identifizierung und Berücksichtigung von Wuchs- und Haltungsabweichungen, wird ein Schnitt nicht immer optimal passen. Diese Schnitt-Anpassungen für eine Abweichung erfolgen oftmals erst nach der Grundschnittkonstruktion.
 
@@ -41,7 +41,7 @@ Die meisten Maße werden bei aufrecht stehender, natürlich-lockerer Körperhalt
 
 # 3 Taillenumfang waagerecht TaU
 
-☐1 Ein Taillenumfang wird knapp unterhalb der schmalsten Stelle des Körpers umgelegt, mittig zwischen unterem Rippenbogen und Hüftknochen (blau dargestellt). Es liegt seitlich an der engsten Stelle des Körpers und möglichst waagerecht zur Standebene. Der Taillenumfang wird abgelesen und das Taillenumfang bleibt bis zum Ende des Maßnehmens umgelegt.
+☐1 Ein Taillenmassband wird knapp unterhalb der schmalsten Stelle des Körpers umgelegt, mittig zwischen unterem Rippenbogen und Hüftknochen (blau dargestellt). Es liegt seitlich an der engsten Stelle des Körpers und möglichst waagerecht zur Standebene. Der Taillenumfang wird abgelesen und das Taillenmassband bleibt bis zum Ende des Maßnehmens umgelegt.
 
 Das Maßband liegt manchmal vorne oder hinten wenige Zentimeter höher bzw. tiefer - das ist zunächst akzeptabel.
 
@@ -51,7 +51,7 @@ Das Maßband liegt manchmal vorne oder hinten wenige Zentimeter höher bzw. tief
 
 # 5 Bundumfang
 
-# BüU
+# BuU
 
 ☐1 Das Maßband wird hinten oberhalb des Gesäßes an eine „der Kundin angenehme Position“ und (bei starken Figuren) vorne in der Bauchfalte umgelegt, bzw. dort, wo die Person üblicherweise den Rock- oder den Hosenbund zu tragen pflegt. Hier wird (insbesondere bei starken Figuren) der Bund figurbedingt immer zu liegen kommen.
 

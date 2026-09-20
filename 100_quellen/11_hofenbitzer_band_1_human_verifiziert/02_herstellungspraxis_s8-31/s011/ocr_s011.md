@@ -176,6 +176,6 @@ nicht sichtbar.
 Sichtlinien an einer Figurinenskizze
 und einer Liegeskizze im Vergleich
 
-2 8-teilige Figurine
+❑2 8-teilige Figurine
 
 Der menschliche Körper
