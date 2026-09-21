@@ -41,16 +41,16 @@ Die Taillennahtlängen entsprechen der halben Taillenweite.
 # 4 Markierung der SN
 
 5 4 Die vordere Taillennah (vTaN) von der vM nach links und nach rechts abtragen.
-6 Die Länge der hinteren Taillennah (TaN) von der hM aus abtragen.
+6 Die Länge der hinteren Taillennah (hTaN) von der hM aus abtragen.
 7 Der Überschneidungsbetrag ist die Taillenmehrweite und beträgt ca. 1 bis 1,5 cm.
 
 8 Genau in der Mitte dieser zwei Markierungen wird nun die Seitennaht (SN) markiert.
 
 # Kontrolle der Taillenmehrweite
 
-\(\mathrm{vTaN} + \mathrm{hTaN}\) TaU-2
-\(= 19.7 + 17.5cm - 36.0cm\)
-- 1,2 cm Einhalteweite
+\(= \mathrm{vTaN} + \mathrm{hTaN} - \mathrm{TaU} : 2\)
+\(= 19,7 + 17,5\,\mathrm{cm} - 36,0\,\mathrm{cm}\)
+\(= 1,2\,\mathrm{cm}\) Einhalteweite
 
 Sollte die Taillenmehrweite größer als 1,5 cm sein, kann dies ein Anzeichen für einen Fehler z.B. bei der Rock Konstruktion oder einer Fehlmessung sein. Der Fehler sollte unbedingt identifiziert und berichtigt werden.
 

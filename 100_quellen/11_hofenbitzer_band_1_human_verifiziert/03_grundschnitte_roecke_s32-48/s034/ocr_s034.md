@@ -23,7 +23,7 @@ Legt man um die Hüfte einen Stoffschlauch müssen an der Taille die hier abgebi
 Für eine normal ausgeprägte Hüftrundung verwendet man 1 cm Taillenerhöhung an der Seitenlinie. Sollte die Figur eine stärkere Hüftrundung haben, nimmt man eine Taillenerhöhung von bis zu 1,5 cm.
 
 Bei der Erhöhung für den vorderen Abnäher wählt man 0,5 bis 0,7 cm ca. \(1 / 2\) Erhöhung an der Seitenlinie
-und für den hinteren Abnäher 0,3 bis \(0,5\mathrm{cm}\pm 1 / 2\) der Erhöhung an der Seitenlinie.
+und für den hinteren Abnäher 0,3 bis 0,5 cm ≈ ⅓ der Erhöhung an der Seitenlinie.
 
 Die erhöhten Taillenlinien parallel über der Taillenlinie ausreichend lang zeichnen.
 
@@ -38,9 +38,9 @@ Beträgt der Inhalt für den hinteren Abnäher mehr als 4,5 cm, sollten zwei Abn
 15 ☐4+6 Die geschwungene Form des Hüftbogens an der Körperseite bezeichnet man als seitlichen Hüftabstich. Bei einer durchschnittlich geformten Hüftrundung trägt man den halben Taillenausfall ab (beachte Seite 37).
 
 Bei einer flachen Hüftrundung:
-TaAf :2 – 1 bis 1,5 cm
+TaAf : 2 − 1 bis −1,5 cm
 und bei einer starken Hüftrundung:
-TaAf :2 + 1 bis 1,5 cm
+TaAf : 2 + 1 bis +1,5 cm
 
 Die Formung für den Beckenknochen ergibt sich durch den vorderen Rockabnäher. Ist der Hüftknochen normal stark ausgeprügt, hat der vordere Abnäher ca. 2 cm Inhalt. Ist er schwach ausgeprügt, verzichtet man auf einen Abnäher oder verwendet 1 bis 1,5 cm Inhalt. Bei starker Ausprüfung (oft bei schlanken Figuren) wird er mit bis zu 2,5 cm Inhalt gezeichnet.
 Für die Formung des Gesäbes wird der Restbetrag für den bzw. die hintereren Rockabnäher verwendet (siehe \(\square 5 + 7\)).
@@ -48,11 +48,11 @@ Für die Formung des Gesäbes wird der Restbetrag für den bzw. die hintereren R
 # 5 Hüftbogen und Abnäher
 
 Hüftbogen: Auf der erhöhten Taillenlinie von P10 aus den halben Hüftabstich-Betrag jeweils nach rechts und nach links abtragen. Die Form der Hüftbogen richtet sich nach der Körperform (beachte Seite 36).
-Vorderer Abnäher: Die Abnährmitte TaU:10 vom vorderen Hufbogen auf die erhöhte Abnäherlinie abtragen und senkrecht nach unten die Abnäherlänge 8 bis 1 cm lang auswinkeln → Abnäherspitze.
+Vorderer Abnäher: Die Abnährmitte TaU:10 vom vorderen Hufbogen auf die erhöhte Abnäherlinie abtragen und senkrecht nach unten die Abnäherlänge 8 bis 10 cm lang auswinkeln → Abnäherspitze.
 
 Den vorderen Abnäherinhalt jeweils zur Hälfte nach rechts und links abtragen und die Abnäherschenkel zur Abnäherspitze gerade einzeichnen.
 
-16 Hinterer Abnäher: In der Abnähermitte zwischen hinterem Hüftbogen und der hinteren Mitte Abnähermitte markieren und bis 16 cm lang nach unten abwinkeln. Den Abnäherinhalt jeweils zur Hälfte nach rechts und in abtragen und die Abnäherschenkel gerade einzeichnen.
+16 Hinterer Abnäher: In der Abnähermitte zwischen hinterem Hüftbogen und der hinteren Mitte Abnähermitte markieren und 13 bis 16 cm lang nach unten abwinkeln. Den Abnäherinhalt jeweils zur Hälfte nach rechts und in abtragen und die Abnäherschenkel gerade einzeichnen.
 
 Das Zeichnen der Taillenningswirt wird in Schritt 7, ☐8+9 gezeichnet.
 

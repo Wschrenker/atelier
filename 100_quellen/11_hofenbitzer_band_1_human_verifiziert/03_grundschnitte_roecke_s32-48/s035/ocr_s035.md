@@ -7,7 +7,7 @@ Abnäher positionieren
 Da hier der Betrag für den hinteren Abnäher mehr als 4,5 cm beträgt, muss der Betrag auf zwei Abnäher im Rückteil aufgeteilt werden.
 
 ☐7 Der Inhalt des 2. h. Abnähers sollte ca. 0,5 bis 1 cm geringer sein als der Inhalt des (hinteren) 1. RT-Abnähers.
-Die Abnähermitte des 1. h. Abnähers liegt bei \( \frac{1}{3} \) der Hüftlinie + 0 bis 1 cm von der hM nach links abgetragen.
+Die Abnähermitte des 1. h. Abnähers liegt bei ca. ⅓ der Hüftlinie + 0 bis 1 cm von der hM nach links abgetragen.
 Die Erhöhung der Taillenlinie für den 2. h. Abnäher erfolgt wie für den vorderen Abnäher. Die Abnähermitte liegt in der Mitte zwischen Hüftbogen und Abnäherschenkel des 1. h. Abnähers.
 
 ![img-0.jpeg](img-0.jpeg)

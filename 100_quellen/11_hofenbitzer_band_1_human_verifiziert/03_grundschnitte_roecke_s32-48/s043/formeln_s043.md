@@ -14,5 +14,5 @@ menschlich geprüft** und keine fachlich normalisierten Formeln.
 
 ```text
 Öffnungsbetrag = gewünschte Saumerweiterung : Erweiterungsstellen
-Beispiel: = 48 cm : 6 = 8 cm
+Beispiel: 48 cm : 6 = 8 cm
 ```

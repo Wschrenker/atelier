@@ -12,7 +12,7 @@ Die neue SN verläuft gerade zum Hüftbogen, der Saum ist abgewinkelt und verlä
 
 Eine Verringerung der Saumweite durch Einstellen ist an beiden SN um bis zu 1,5 cm möglich.
 
-Die eingestellte SN zunächst ca. 4 cm senkrecht, dann schräg bis ca. 4 cm laterhalb der Hüftlinie zeichnen. Dann verliert der Rock für die Oberschminkel nicht zu viel Weite. Die rechten Winkel am Saum sorgen für einen harmonischen Saumerlauf. Anschließend können die Ecken an den SN ausgeformt werden.
+Die eingestellte SN zunächst ca. 4 cm senkrecht, dann schräg bis ca. 4 cm unterhalb der Hüftlinie zeichnen. Dann verliert der Rock für die Oberschminkel nicht zu viel Weite. Die rechten Winkel am Saum sorgen für einen harmonischen Saumerlauf. Anschließend können die Ecken an den SN ausgeformt werden.
 
 ![img-0.jpeg](img-0.jpeg)
 

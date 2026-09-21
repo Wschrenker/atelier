@@ -8,6 +8,6 @@ normalisierte Formel.
 
 ```text
 TaAf = Taillenabtrennung - 1 / 2 BuW
-= 5 0 7 cm - 4 3 cm
-= 7. 7 cm
+= 50,7 cm - 43 cm
+= 7,7 cm
 ```

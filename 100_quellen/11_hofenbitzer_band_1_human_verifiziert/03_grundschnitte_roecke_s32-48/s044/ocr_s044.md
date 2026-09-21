@@ -33,7 +33,7 @@ Echter Glockenrock (Tellerrock)
 2 \(\square 3 + 4\) : Je nach Stoffbreite und Rocklänge wird ein halber oder ein viertel Kreisring konstruiert und entsprechend der Stoff doppelt oder vierfach im Bruch gelegt. Man zeichnet auf Schnittpapier oder direkt auf den Stoff.
 3 \(\square 2\) Grundlinie des Kreises und Kreis-Mittelpunkt bestimmen.
 4 Einen Kreis mit dem inneren Radius \((r_{\mathrm{TaW}})\) zeichnen \(\rightarrow\) Taillenkreis.
-Ebenfalls um den Mittelpunkt einen Kreis mit dem äußerten Radius \((r_{\mathrm{taW}})\) zeichnen \(\rightarrow\) Saumkreis.
+Ebenfalls um den Mittelpunkt einen Kreis mit dem äußerten Radius \((r_{\mathrm{SaW}})\) zeichnen \(\rightarrow\) Saumkreis.
 Rechtwinklig durch den Mittelpunkt eine zweite Linie zum äußerten Kreisbogen zeichnen \(\rightarrow\) Seitenlinie.
 
 # 2 Zuschnitt

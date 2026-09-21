@@ -9,7 +9,7 @@
 ☐4 Hosenrock-Konstruktion aus einem geraden Rock-Grundschnitt
 
 1 \(\square 4 + 5\) Sitzhöhe 0 bis \(+2\) cm an vM und hM nach unten abtra- gen und nach außen abwinkeln.
-2 An der vM wird HuU:8-1,5 bis-2 cm nach außen und nach oben abgetragen.
+2 An der vM wird HüU : 8 − 1,5 bis −2 cm nach außen und nach oben abgetragen.
 
 3 An der hM wird HüU :8 + 2 bis + 3 cm nach außen und nach oben abgetragen.
 

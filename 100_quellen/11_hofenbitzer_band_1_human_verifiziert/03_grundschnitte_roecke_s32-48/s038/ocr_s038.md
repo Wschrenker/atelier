@@ -29,7 +29,7 @@ Die gesamte Taillenabtrennung (gestrichelt) messen und den Taillenausfall (TaAf)
 ### Berechnung des Taillenausfalls
 
 \[
-\begin{array}{l} \mathrm{TaAf} = \text { Taillenabtrennung } - 1 / 2 \mathrm{BuW} \\ = 5 0 7 \mathrm{cm} - 4 3 \mathrm{cm} \\ = 7. 7 \mathrm{cm} \\ \end{array}
+\begin{array}{l} \mathrm{TaAf} = \text { Taillenabtrennung } - 1 / 2 \mathrm{BuW} \\ = 50,7 \mathrm{cm} - 43 \mathrm{cm} \\ = 7,7 \mathrm{cm} \\ \end{array}
 \]
 
 ### Mögliche Verteilung des Taillenausfalls in diesem Beispiel:

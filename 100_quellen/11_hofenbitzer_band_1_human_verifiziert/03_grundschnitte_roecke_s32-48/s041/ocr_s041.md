@@ -23,7 +23,7 @@ Röcke und Kleider haben traditionell ihren Verschluss immer an der linken Seite
 
 Noch heute haben elegante Röcke und Damenhosen gelegentlich ihren Verschluss an der linken Seitennaht.
 
-1 □6 Den Bund so einteilen, dass nun die ISN am Bund-Ende ist. An der Stelle trennen, wo der Verschluss gewünscht ist, die anderen Enden zusammensetzen.
+1 □6 Den Bund so einteilen, dass nun die lSN am Bund-Ende ist. An der Stelle trennen, wo der Verschluss gewünscht ist, die anderen Enden zusammensetzen.
 Den Übertritt in gewündlicher Länge und Form einzeichnen und den Haken (oder das Knopfloch) markieren.
 Das Gegenstück zum Haken (Öse) (oder die Knopfposition) am Untertritt markieren. Der Abstand zum Haken entspricht dem TaU.
 

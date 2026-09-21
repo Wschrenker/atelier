@@ -10,7 +10,7 @@ Schnitt öffnen und fertigstellen
 Berechnung des Öffnungsbetrags für eine gewünschte Saumerweiterung:
 
 Öffnungsbetrag = gewünschte Saumerweiterung : Erweiterungsstellen
-Beispiel: = 48 cm : 6 = 8 cm
+Beispiel: 48 cm : 6 = 8 cm
 
 4 RT-Abnäher verschieben
 

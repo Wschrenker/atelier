@@ -24,7 +24,7 @@ Von P2 nach rechts die Saumlinie abwinkeln.
 
 Von P1 nach unten die Hüfttiefe (HüT) abtragen \(\rightarrow\) P3 und nach rechts die Hüftlinie abwinkeln.
 Auf der Taillenline von P1 die halbe Hüftweite (aus dem Maßsatz) abtragen \(\rightarrow\) P4.
-Auf der Saumlinie nach rechts ebenfalls \(1/2\) H\(\mathbf{u}\)W abtragen \(\rightarrow\) P5.
+Auf der Saumlinie nach rechts ebenfalls ½ HüW abtragen \(\rightarrow\) P5.
 
 P4 und P5 verbinden → hintere Mitte (hM).
 

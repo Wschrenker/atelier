@@ -6,8 +6,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   |   |  Datum |  |   | Modell | Gerader Rock  |   |   |   |
 |  Hauptmaße (Kennmaße) |   | Körpermaße | Zugaben |   | Proportionsmaße (Konstruktions-, Kontroll-, Hilfsmaße)  |   |   |   |   |
-|  HÜU | Hüftumfang | 97 | 2 3 | = | Hüftweite | HÜW | 100 | ½ 50 | ¼ 25  |
-|  TaU | Taillenumfang | 72 | 2 2 | = | Taillenweite | TaW | 74 | ½ 37 | ¼ 18,5  |
+|  HüU | Hüftumfang | 97 | +2–3; gewählt 3 | = | Hüftweite | HüW | 100 | ½ 50 | ¼ 25  |
+|  TaU | Taillenumfang | 72 | +1–2; gewählt 2 | = | Taillenweite | TaW | 74 | ½ 37 | ¼ 18,5  |
 |  TaAf | Taillenausfall | ½ HÜW - ½ TaW = |   |   |   |   |   | 13 | ½ 6,5  |
 |  gBuU | gem. Bundumfang | --- | + | --- = | Bundumfang | BuU | --- | ½ --- |   |
 

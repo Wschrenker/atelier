@@ -31,6 +31,6 @@ Der Produktionsschnitt enthält zusätzlich zur Grundschnitt-Fläche noch Nahtzu
 
 ![img-3.jpeg](img-3.jpeg)
 
-38
+36
 
 ☐2 Produktionsschnitt für den geraden Rock-Grundschnitt

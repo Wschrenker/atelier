@@ -3,17 +3,15 @@
 # Rock-Grundschnitte
 
 # Übersicht
-Konstruktionstabelle für den Rock Grundschnitt erstellen
+Konstruktionstabelle für den Rock-Grundschnitt erstellen 32
 
 # Rock-Grundschnitte
 
-Übersicht 32
-Gerader Rock: Konstruktionstabelle 33
-Gerader Rock: Grundgerüst 34
-Gerader Rock: Abnäher positionieren 35
-Gerader Rock: Rückteil mit zwei Abnähern
-Abnäherformen, Grundschnittschablone und
-Produktionsschnitt 36
+Übersicht
+Gerader Rock: Grundgerüst 33
+Gerader Rock: Abnäher positionieren 34
+Gerader Rock: Rückteil mit zwei RT-Abnähern 35
+Abnäherformen, Grundschnittschablone und Produktionsschnitt 36
 Proportionen von Hüfte und Taille 37
 Rock-Grundschnitt an natürlicher Taille 38
 Gerader Bund 39
