@@ -67,6 +67,13 @@ Beispiel:
   erfassen. Zahlen, Einheiten und Spaltenbedeutung einzeln prüfen.
 - Formeln zuerst fototreu festhalten. LaTeX darf die Lesbarkeit verbessern;
   die fachlich normalisierte Formel bleibt davon getrennt.
+- Für `03_grundschnitte_roecke_s32-48/`, `04_modelle_roecke_s49-105/` und
+  `07_grundschnitte_oberteile_s171-196/` gilt der
+  [Prompt für Formelextraktion und Normalisierung](../../910_repertoire/prompt/hofenbitzer_formelextraktion_normalisierung.md);
+  die fototreue Extraktion liegt seitenweise als `sNNN/formeln_sNNN.md`.
+  Keine leeren Formeldateien anlegen.
+- Erst nach der bestätigten Formel-/Codeprüfung normalisieren und dafür getrennt
+  `sNNN/formeln_sNNN_normalisiert.md` verwenden. OCR und Extrakt bleiben Belege.
 - Skizzen als verlinktes Original plus verlustfreie PNG-Ausschnitte erfassen.
   Labels, Maße und Beziehungen strukturiert festhalten, Unsicheres offenlassen.
 

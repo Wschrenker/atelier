@@ -31,4 +31,4 @@ Auch hier „�" unverändert aus der Mistral-Antwort übernommen. Im Originalf
 |  haAu | 22,5 | + haU | 24,5 | - hAu | 44,5 | + | 2,8  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
-Zeilenbeschriftung und ein Zahlenwert weichen im Rohtext auffällig vom Originalfoto ab: Im Foto steht „vAlU 22,5 + hAlU 24,8 – AraU 44,5 = 2,8“ (u. a. „24,8“ statt der hier erfassten „24,5“, und andere Kürzel als „haAu“/„haU“/„hAu“). Die zugehörige zweite Zeile „Sollwert der Mehrweite = 2 · Zugabe zur AlT (Toleranz +2 cm bis −1 cm) = 2,6 – Nur bei Oberteilen mit Brustabnäher!“ wurde von der OCR gar nicht als Tabellenzeile erfasst. Nicht still korrigiert, siehe „Bekannte auffällige Stellen im Rohtext“ in `s185.md`.
+Zeilenbeschriftung und ein Zahlenwert weichen im OCR-Rohtext vom Originalfoto ab. Werner bestätigte am Original: „vAlU 22,5 + hAlU 24,8 – AraU 44,5 = 2,8“. Die von der OCR nicht erfasste zweite Zeile lautet „Sollwert der Mehrweite = 2 · Zugabe zur AlT (Toleranz +2 cm bis −1 cm) = 2,6 – Nur bei Oberteilen mit Brustabnäher!“. Die OCR-Tabelle bleibt als Rohbeleg unverändert.

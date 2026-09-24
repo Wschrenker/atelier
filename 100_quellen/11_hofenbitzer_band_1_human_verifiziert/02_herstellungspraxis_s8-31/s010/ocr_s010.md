@@ -54,13 +54,13 @@ Der Erstschnitt im Konfektionsbetrieb wird in einer Basisgröße erstellt. Ausge
 
 # Methoden des Zuschnitts
 
-Der Produktionsschnitt besteht normalerweise aus mehreren Schnittteilen. Diese werden unter Beachtung verschiedener Regeln auf den Stoff gelegt. Danach werden die Stoffteile ausgeschnitten, markiert und zusammengenäht, so dass das gewünschte Kleidungsstück entsteht.
+Der Produktionsschnitt besteht normalerweise aus mehreren Schnittteilen. Diese werden unter Beachtung verschiedener Regeln auf den Stoff gelegt. Danach werden die Stoffteile aufgeschnitten, markiert und zusammengebend, so dass das gewünschte Kleidungsstück entsteht.
 
 Für die verschiedenen Fertigungsmethoden gibt es auch unterschiedliche Zuschneidemethoden:
 
 # Traditioneller Einzelzuschnitt
 
-Der Stoff wird doubliert (rechte auf rechte Warenseite) gelegt, die Modellschnittteile aufgesteckt. Der Nahtverlauf wird entlang des Schnittpapiers mit Schneiderkreide auf den Stoff gezeichnet. Dann werden parallel hierzu die Naht- und die Saumzugaben angezeichnet, an denen entlang ausgeschnitten wird. Nahtlinien und Markierungen werden mit Heftgarn übertragen bzw. "durchgeschlagen", das Stück wird zur Anprobe geheftet.
+Der Stoff wird doubliert (rechte auf rechte Warenseite) gelegt, die Modellschnittteile aufgesteckt. Der Nahtverlauf auf wird entlang des Schnittpapiers mit Schneiderkreide auf den Stoff gezeichnet. Dann werden parallel hierzu die Naht- und die Saumzugaben angezeichnet, an denen entlang ausgeschnitten wird. Nahtlinien und Markierungen werden mit Heftgarn übertragen bzw. "durchgeschlagen", das Stück wird zur Anprobe geheftet.
 
 # Rationelle handwerkliche Methode
 
@@ -68,7 +68,7 @@ Schnittschablonen werden mit oder ohne Nahtzugaben erstellt, auf den Stoff geleg
 
 # Industrielle Methoden
 
-Produktionsschnitte werden mit Nahtzugaben konstruiert. Für diese Schablonen wird ein optimiertes, Abfall sparendes Schnittbild erstellt. In der Regel werden mehrere Stofflagen auf einer langen Bahn ausgelegt. Auf diese Bahn wird das Schnittbild ausgelegt. Die Schnittteile werden mit Zuschneidemaschinen ausgeschnitten, Knipse und Bohrlöcher mit speziellen Geräten angebracht. Die einzelnen Schnittteile werden etikettiert, sortiert und in die Produktion transportiert.
+Produktionsschnitte werden mit Nahtzugaben konstruiert. Für diese Schablonen wird ein optimiertes, Abfall sparendes Schnittbild erstellt. In der Regel werden mehrere Stofflagen auf einer langen Bahn ausgelegt. Auf diese Bahn wird das Schnittbild ausgelegt. Die Schnittteile werden mit Zuschneidemaschinen ausgeschnitten, Knipse und Bohrlöcher mit speziellen Geräten angebracht. Die einzelnen Schnittteile werden etiketiert, sortiert und in die Produktion transportiert.
 
 Moderne Betriebe konstruieren ihre Schnitte mit einem CAD-Programm, optimieren die Schnittbild-Legung ebenfalls mit einem Computerprogramm und plotten (drucken) das Schnittbild auf einer breiten Papierbahn entsprechend der Stoffbahn aus. Zuschnitt und Markierung erfolgt wie oben erwähnt.
 

@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "1|<!-- Lokale KI-Bildtranskription; kein Mistral-OCR-Output -->\n2|\n3|Weite an erprobtem Oberteil-Grundschnitt hinzugeben (2)\n4|\n5|Schulter, Armlöcher und Seitennähte fertigstellen\n6|\n7|# 2 Schulternähte\n8|\n9|8 Die Schulternähte parallel zu den alten Schulternähten zeichnen, um den eigentlichen Schulterwinkel zu beizubehalten.\n10|\n11|Wenn die BrB und die RüB unterschiedlich erweitert werden, was bei großen Sprüngen zwischen den Passformklassen vorkommt, müssen die Längen der beiden Schulternähte korrigiert werden.\n12|\n13|Zugabe zur SuB:\n14|\n15|[tbl-0.md](tbl-0.md)\n16|\n17|9 Für die neue vordere Schulternaht den Wert aus der Maß- oder Größentabelle ablesen und die Differenz zur Schulterbreite addieren. Hier:\n18|\n19|neue vSuN = alte vSuN + Diff\n20|\n21|= 12,5 + 0,6 cm\n22|\n23|= 13,1 cm\n24|\n25|neue hSuN = neue vSuN + EW\n26|\n27|= 13,1 cm + 0,7 cm\n28|\n29|= 13,8 cm\n30|\n31|10 Man verwendet Einhalteweiten zwischen 0,5 und 1 cm.\n32|\n33|Beide Armlöcher neu zeichnen.\n34|\n35|# 3 Ärmelpunkte\n36|\n37|□4 Für einen eingesetzten Ärmel liegen die Ärmelpunkte nach der Vergrößerung der AlT zu hoch. Für das vergrößerte Armloch benötigt man neue Ärmelpunkte.\n38|\n39|11 Die Ärmelpunkte an beiden Armlöchern um ¾ der Vertiefung des Armlochs (= ¾ Vergrößerung der AlT) nach unten verschieben.\n40|\n41|![img-0.jpeg](img-0.jpeg)\n42|\n43|Zugabe zur TaW:\n44|\n45|[tbl-1.md](tbl-1.md)\n46|\n47|Taillenweiten-Korrektur\n48|\n49|½ TaW - (TaU + Zugabe) : 2\n50|\n51|= 44,6 cm - (72 cm + 16 cm) : 2\n52|\n53|= 44,6 cm - 44 cm\n54|\n55|= 0,6 cm Mehrbetrag\n56|\n57|12 Das bedeutet, dass am halben Schnitt 0,4 cm entfernt werden können. Alternativ kann die Weite auch am hinteren Abnäher entfernt werden.\n58|\n59|Zugabe zur HüW:\n60|\n61|[tbl-2.md](tbl-2.md)\n62|\n63|Hüftweiten-Korrektur\n64|\n65|½ HüW - (HüU + Zugabe) : 2\n66|\n67|= 56,1 cm - (97 cm + 12 cm) : 2\n68|\n69|= 56,1 cm - 54,5 cm\n70|\n71|= 1,6 cm Mehrbetrag\n72|\n73|13 Das bedeutet, dass am halben Schnitt 0,8 cm entfernt werden können.\n74|\n75|□4: Neue Schultern, neues Armloch, neue Seitennähte\n76|\n77|# 4 Taillen- und Hüftweite anpassen\n78|\n79|Taillen- und die Hüftweite wurden um die Brustweiten-Zugabe vergrößert.\n80|\n81|12 / 13 Nun können die Taillenweite und die Hüftweite kontrolliert werden und anschließend gleichmäßig reduziert werden. So bleiben die Form und die Längen der Seitennähte gleich.\n82|\n83|# 5 Ärmel anpassen\n84|\n85|In der Regel existiert für einen erprobten Oberteil-Grundschnitt auch ein passender Ärmel-Grundschnitt, der nun an das vergrößerte Armloch anzupassen ist (siehe ab Seite 212).\n86|\n87|Alternativ kann man natürlich auch einen neuen Ärmel für das neue Armloch konstruieren.\n88|\n89|190\n90|\n91|Rand-/Registerkennung: 195\n92|",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 350,
+          "top_left_y": 850,
+          "bottom_right_x": 2960,
+          "bottom_right_y": 3220,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  | Wert |\n| --- | --- |\n| PK 3 | 0,3 cm |\n| PK 9 | 0,9 cm |\n| Differenz = | 0,6 cm |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  | Wert |\n| --- | --- |\n| PK 3 | 4 cm |\n| PK 9 | 16 cm |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|  | Wert |\n| --- | --- |\n| PK 3 | 4 cm |\n| PK 9 | 12 cm |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": null,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": []
+    }
+  ],
+  "model": "local-vision-transcription",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3774372
+  },
+  "provenance": {
+    "mistral_response": false,
+    "source": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s195.jpg",
+    "coordinate_space": "EXIF-korrigierte aufrechte Ansicht 3060x4080",
+    "note": "Lokal aus dem Bild erstellt, weil Mistral OCR HTTP 429 Rate limit exceeded meldete. Keine Konfidenzwerte oder automatischen Layout-Blöcke vorhanden; noch nicht menschlich verifiziert."
+  }
+}

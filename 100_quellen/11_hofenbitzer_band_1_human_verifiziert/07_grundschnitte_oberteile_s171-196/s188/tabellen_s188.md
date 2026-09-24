@@ -42,10 +42,9 @@ engen Oberteil-GS in PK1` als gemeinsame Bildunterschrift.
   „Armüchtiefe" – OCR-Lesefehler.
 - Zeile „HUT | Hüftiefe": Bezeichnung im Foto „Hüfttiefe" (Doppel-t), OCR
   hat ein „t" verschluckt.
-- Zeile „hSuNL": OCR gibt die Formel als „SuNL = Einmalzweite 0,5 cm bis
-  1 cm" wieder; im Foto steht „SuNL + Einhalteweite 0,5 cm bis 1 cm" – sowohl
-  das Rechenzeichen (+ statt =) als auch das Wort („Einhalteweite" statt
-  „Einmalzweite") weichen ab. Am Original bestätigen.
+- Zeile „hSuNL": Werner bestätigte am Original
+  „SuNL + Einhalteweite 0,5 cm bis 1 cm". Die OCR-Zeile bleibt als Rohbeleg
+  unverändert.
 - Zeile „SuWI | Schulterwinkel": Die OCR liest die orange hinterlegte Zelle
   als „auf Körpfer"; im Foto steht dort „− Auflockerung". Deutlicher
   OCR-Fehler, am Original bestätigen.
@@ -116,8 +115,8 @@ Foto keine eigenen Wertespalten an dieser Stelle.
   Wort. Im Foto steht dort „gemessene TaB" bzw. „gemessene HüB". Deutlicher
   OCR-Fehler, am Original bestätigen.
 - Wieder „HuB"/„HuW" statt „HüB"/„HüW" (ü fehlt).
-- Zahlenwerte 44,3 / 36 / 8,6 sowie 43,8 / 48,5 / -4,7 im Stichvergleich mit
-  dem Foto unauffällig; am Original bestätigen.
+- Werner bestätigte für die Taillenzeile `44,6 − 36 = 8,6`. Die OCR-Zeile mit
+  `44,3` bleibt als Rohbeleg unverändert. Die Hüftzeile ist weiterhin offen.
 
 ## tbl-6 – Mehrweite im Armloch
 
@@ -127,14 +126,8 @@ Foto keine eigenen Wertespalten an dieser Stelle.
 
 **Auffällig:**
 
-- Die OCR gibt zwei Formelkürzel identisch als „+AU" wieder. Im Foto sind an
-  dieser Stelle zwei unterschiedliche Kürzel zu lesen, „vAlU" und „hAlU"
-  (vordere/hintere Armlochlänge o. Ä.) mit vorangestelltem „+" bzw. „−". Die
-  OCR hat die führenden Buchstaben „v"/„h" und das „l" verschluckt und beide
-  Zellen auf denselben Text reduziert. Am Original bestätigen, welches Kürzel
-  wo steht und ob das Vorzeichen „+" oder „−" ist.
-- „= 2 - Zugabe zur AIT": im Foto steht vermutlich ein Multiplikationspunkt
-  „= 2 · Zugabe zur AIT", von der OCR als Minus gelesen. Am Original
-  bestätigen.
+- Werner bestätigte am Original `vAlU + hAlU − AraU` und
+  `Sollwert = 2 · Zugabe zur AlT`. Die OCR-Zeilen bleiben als Rohbeleg
+  unverändert.
 - Sollwert-Zelle und die Zeile „- AraU | +" sind im Foto leer (nur Formel,
   kein eingetragener Zahlenwert); passt zur OCR-Ausgabe.

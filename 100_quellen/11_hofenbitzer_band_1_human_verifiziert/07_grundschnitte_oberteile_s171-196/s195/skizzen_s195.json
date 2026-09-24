@@ -1,0 +1,41 @@
+{
+  "seite": "s195",
+  "quelle_ocr_eingabe": "unverändertes Originalbild s195.jpg; für die lokale Sichtprüfung gemäß EXIF-Orientierung 6 aufrecht dargestellt",
+  "hinweis": "Kein Mistral-Ergebnis. Die Koordinaten beziehen sich auf die aufrecht gedrehte Ansicht mit Breite 3060 x Höhe 4080 px. Der Ausschnitt wurde lokal erzeugt. Alle sichtbaren Labels sind vorläufige KI-Ablesungen und noch nicht von Werner bestätigt.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s195_skizze_01.png",
+      "ocr_id": "img-0.jpeg",
+      "bounding_box_aufrechte_ansicht": {
+        "top_left_x": 350,
+        "top_left_y": 850,
+        "bottom_right_x": 2960,
+        "bottom_right_y": 3220
+      },
+      "beschreibung": "Technische Zeichnung zu Schulter-, Armloch-, Taillen- und Hüftweiten-Anpassungen. Dargestellt sind VT und RT mit alten und neuen Konturen, Schulter- und Armlochpunkten sowie Maß- und Korrekturangaben. Die Kreisnummern 8 bis 13 verweisen auf die Textpunkte der Seite.",
+      "sichtbare_labels": [
+        "VT",
+        "RT",
+        "BrP",
+        "vÄP",
+        "hÄP",
+        "üb",
+        "neue vSuN = 12,5 cm + 0,6 cm = 13,1 cm",
+        "Kontrolle: neue hSuN = neue vSuN + EW = 13,1 cm + 0,7 cm = 13,8 cm",
+        "Ärmelpunkte um ¾ der AlT-Differenz vertiefen",
+        "¾ von 2,7 cm = 2,0 cm",
+        "1 cm",
+        "-0,2 cm",
+        "-0,4 cm",
+        "½ Taillenweite",
+        "½ Hüftweite",
+        "messen",
+        "VM",
+        "HM",
+        "SN"
+      ],
+      "zugehoerige_bildunterschrift": "□4: Neue Schultern, neues Armloch, neue Seitennähte",
+      "bestaetigt": false
+    }
+  ]
+}

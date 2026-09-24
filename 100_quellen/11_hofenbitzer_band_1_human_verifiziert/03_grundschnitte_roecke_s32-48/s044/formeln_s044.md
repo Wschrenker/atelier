@@ -6,6 +6,8 @@ keine fachlich normalisierten Formeln.
 
 ## Berechnungen-Kasten (☐1, oben rechts auf der Seite)
 
+Quelle: [ocr_s044.md](ocr_s044.md), Zeilen 18–22.
+
 ```text
 r_TaW = TaW : (2 · π)
       = 72 cm : (2 · 3,14)
@@ -21,6 +23,8 @@ SaW = 2 · π · r_SaW
 ```
 
 ## Formel im Abschnitt „2 Zuschnitt"
+
+Quelle: [ocr_s044.md](ocr_s044.md), Zeile 44.
 
 ```text
 r_TaW = (TaW + 2 · NZg) : (2 · π)

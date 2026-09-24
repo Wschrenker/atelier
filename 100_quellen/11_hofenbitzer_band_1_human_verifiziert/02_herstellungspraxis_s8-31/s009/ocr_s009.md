@@ -1,22 +1,5 @@
 <!-- OCR-Seite 1 -->
 
-wen.
-n, Li.
-be-
-Fahr-
-mutig
-icke
-rma-
-eite
-von
-
-In-
-
-n-
-er
-r
-e
-
 Abkürzungen und Symbole
 
 Systematik, Eigenschaften, Beträge, Werte, Operanden, Aktionen

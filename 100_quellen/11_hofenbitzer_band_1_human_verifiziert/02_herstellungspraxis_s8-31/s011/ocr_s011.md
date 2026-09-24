@@ -1,47 +1,6 @@
 <!-- OCR-Seite 1 -->
 
-itts
 
-besteht norma.
-Schnittteilen,
-eachtung ver-
-den Stoff ge-
-Stoffteile aus-
-d zusammen-
-ünschte Klei-
-
-rtigungsme-
-schiedliche
-
-nitt
-
-e auf rech-
-e Modell-
-Nahtver-
-apiers mit
-gezeich-
-erzu die
-gezeich-
-chnitten
-en wer-
-n bzw.
-ird zur
-
-![img-0.jpeg](img-0.jpeg)
-
-ode
-
-er oh-
-Stoff
-rich-
-den
-tei-
-zu-
-ver-
-te
-ol-
-on
-e
 
 Der menschliche Körper
 
@@ -176,6 +135,6 @@ nicht sichtbar.
 Sichtlinien an einer Figurinenskizze
 und einer Liegeskizze im Vergleich
 
-❑2 8-teilige Figurine
+2 8-teilige Figurine
 
 Der menschliche Körper
