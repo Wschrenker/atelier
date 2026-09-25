@@ -1,0 +1,31 @@
+{
+  "seite": "s213",
+  "quelle": "ocr_s213_raw.json",
+  "hinweis_koordinaten": "bounding_box_raw in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s213_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [486, 1697, 1160, 2720],
+      "beschreibung": "Ärmelkugel-Silhouette mit roter neuer Kurve, gestrichelter ÄkLi-Hilfslinie und markiertem Bereich '1/6 Armloch-Verbreiterung'; Punkte 4 (vÄP) und 5",
+      "label_am_original": "☐3 Neue Ärmelkugel formen",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s213_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [1258, 1672, 1826, 2653],
+      "beschreibung": "Ärmelkugel-Silhouette mit zwei vÄP-Markierungen (rot/schwarz umrandet), grünem Pfeil 'tr' und Punkt 7",
+      "label_am_original": "☐4 Neuer vorderer Ärmelpunkt",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s213_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [2103, 1581, 3868, 2751],
+      "beschreibung": "Vollständiges Ärmelschnittteil mit neuen und alten Nahtlinien, Abnäher, Hilfslinien (Saum-Hilfslinie, Abnäher-Hilfslinie), Bezeichnung 'schmaler Ärmel G 38 PK 8' und durchnummerierten Punkten 8-18",
+      "label_am_original": "☐5 Neue Ärmelnähte, Ärmelmitte, Abnäher, Knipse",
+      "geprueft": false
+    }
+  ]
+}
