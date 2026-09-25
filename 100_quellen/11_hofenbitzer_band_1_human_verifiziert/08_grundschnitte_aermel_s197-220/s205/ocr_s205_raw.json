@@ -1,0 +1,217 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (2)\nGrundgerüst und Ärmelkugel\n\n# 1 Hilfslinien für die Ärmelkugel\n\n2 ☐ 2 Den Abstand vom vÄP zur Brustlinie messen und\n☐ 4 diesen Abstand (+ ¼ ArD+) am Ärmel von der Ärmelkugellinie nach oben abtragen.\n3 Denselben Abstand + 0,5 cm an der hinteren Mitte von P3 nach unten abtragen.\n4 Die bemaßten Abstände auf der Schulter- und der Ärmelkugellinie abtragen und alle Hilfslinien wie dargestellt zeichnen.\n\n# 4 Ärmelkugelformen\n\n☐ 5 Die vÄchsel kopieren, am vÄP anlegen, so dass das Ende auf die um 0,5 cm erhöhte Ärmelkugellinie zu liegen kommt → P10 = tP.\n☐ 6 Die obere Ärmelkugel (oÄk) und\n☐ 7 die untere Ärmelkugel (uÄk) mit Hilfe der Hilfslinien und Bemaßungen wie dargestellt formen. Dabei auf die korrekten Formen der Kurven achten!\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n☐ 4 Hilfslinien für die Ärmelkugel\n\nHiermit ist das Grundgerüst und die Ärmelkugel fertig gestellt\n\nDie Varianten von schmalen Ärmeln mit dieser hohen Ärmelkugel können hiermit weiterentwickelt werden. Sie werden auf den folgenden Seiten gezeigt.\n\n# Weiterentwicklungen für Ärmel-Varianten\n\nEinnaht-Ärmel mit gerader Ärmelnaht - mit Abnäher 206\n\nEinnaht-Ärmel mit gerader Ärmelnaht - ohne Abnäher 206\n\nEinnaht-Ärmel mit geformter Ärmelnaht - Vorlage für den Zweinaht-Ärmel 207\n\nBlazer-Ärmel mit geformter Ärmelnaht - Vorlage für den Zweinaht-Ärmel 208\n\nSchmaler Ärmel-Grundschnitt\n\n209",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 178,
+          "top_left_y": 1282,
+          "bottom_right_x": 1252,
+          "bottom_right_y": 2834,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1261,
+          "top_left_y": 1413,
+          "bottom_right_x": 2101,
+          "bottom_right_y": 2789,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2780
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 228,
+          "top_left_y": 229,
+          "bottom_right_x": 1653,
+          "bottom_right_y": 478,
+          "content": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (2)\nGrundgerüst und Ärmelkugel",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 228,
+          "top_left_y": 490,
+          "bottom_right_x": 807,
+          "bottom_right_y": 547,
+          "content": "# 1 Hilfslinien für die Ärmelkugel",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 225,
+          "top_left_y": 555,
+          "bottom_right_x": 1208,
+          "bottom_right_y": 972,
+          "content": "2 ☐ 2 Den Abstand vom vÄP zur Brustlinie messen und\n☐ 4 diesen Abstand (+ ¼ ArD+) am Ärmel von der Ärmelkugellinie nach oben abtragen.\n3 Denselben Abstand + 0,5 cm an der hinteren Mitte von P3 nach unten abtragen.\n4 Die bemaßten Abstände auf der Schulter- und der Ärmelkugellinie abtragen und alle Hilfslinien wie dargestellt zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1272,
+          "top_left_y": 588,
+          "bottom_right_x": 1633,
+          "bottom_right_y": 666,
+          "content": "# 4 Ärmelkugelformen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1266,
+          "top_left_y": 666,
+          "bottom_right_x": 2154,
+          "bottom_right_y": 1033,
+          "content": "☐ 5 Die vÄchsel kopieren, am vÄP anlegen, so dass das Ende auf die um 0,5 cm erhöhte Ärmelkugellinie zu liegen kommt → P10 = tP.\n☐ 6 Die obere Ärmelkugel (oÄk) und\n☐ 7 die untere Ärmelkugel (uÄk) mit Hilfe der Hilfslinien und Bemaßungen wie dargestellt formen. Dabei auf die korrekten Formen der Kurven achten!",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 178,
+          "top_left_y": 1282,
+          "bottom_right_x": 1252,
+          "bottom_right_y": 2834,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1261,
+          "top_left_y": 1413,
+          "bottom_right_x": 2101,
+          "bottom_right_y": 2789,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 417,
+          "top_left_y": 3504,
+          "bottom_right_x": 960,
+          "bottom_right_y": 3557,
+          "content": "☐ 4 Hilfslinien für die Ärmelkugel",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1595,
+          "top_left_y": 2810,
+          "bottom_right_x": 2285,
+          "bottom_right_y": 2912,
+          "content": "Hiermit ist das Grundgerüst und die Ärmelkugel fertig gestellt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1595,
+          "top_left_y": 2920,
+          "bottom_right_x": 2285,
+          "bottom_right_y": 3108,
+          "content": "Die Varianten von schmalen Ärmeln mit dieser hohen Ärmelkugel können hiermit weiterentwickelt werden. Sie werden auf den folgenden Seiten gezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1600,
+          "top_left_y": 3116,
+          "bottom_right_x": 2285,
+          "bottom_right_y": 3165,
+          "content": "# Weiterentwicklungen für Ärmel-Varianten",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1600,
+          "top_left_y": 3186,
+          "bottom_right_x": 2290,
+          "bottom_right_y": 3284,
+          "content": "Einnaht-Ärmel mit gerader Ärmelnaht - mit Abnäher 206",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1600,
+          "top_left_y": 3288,
+          "bottom_right_x": 2290,
+          "bottom_right_y": 3386,
+          "content": "Einnaht-Ärmel mit gerader Ärmelnaht - ohne Abnäher 206",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1600,
+          "top_left_y": 3394,
+          "bottom_right_x": 2290,
+          "bottom_right_y": 3496,
+          "content": "Einnaht-Ärmel mit geformter Ärmelnaht - Vorlage für den Zweinaht-Ärmel 207",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1600,
+          "top_left_y": 3500,
+          "bottom_right_x": 2290,
+          "bottom_right_y": 3598,
+          "content": "Blazer-Ärmel mit geformter Ärmelnaht - Vorlage für den Zweinaht-Ärmel 208",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2248,
+          "top_left_y": 1254,
+          "bottom_right_x": 2296,
+          "bottom_right_y": 1736,
+          "content": "Schmaler Ärmel-Grundschnitt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2318,
+          "top_left_y": 3614,
+          "bottom_right_x": 2402,
+          "bottom_right_y": 3663,
+          "content": "209",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3251526
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s205.jpg",
+    "orientation": "EXIF-Orientierung 6 angewendet (exif_transpose)",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      280,
+      0,
+      3060,
+      4080
+    ],
+    "cropped": true,
+    "note": "Bounding Boxes von Mistral beziehen sich auf das OCR-Eingabebild (den Zuschnitt), nicht auf die aufrechte Vollseite."
+  }
+}

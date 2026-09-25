@@ -1,0 +1,39 @@
+{
+  "seite": "s201",
+  "quelle": "ocr_s201_raw.json",
+  "hinweis_koordinaten": "bounding_box in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s201_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [690, 833, 1442, 1725],
+      "beschreibung": "Konstruktionsskizze der Ärmelkugel-Kurve mit zwei Kurvenrichtungspfeilen je Seite, Punkten (15), Bezeichnungen vÄk/hÄk und Hilfslinie ÄkLi.",
+      "label_am_original": "□5 Ärmelkugel",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s201_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [772, 1911, 3083, 2729],
+      "beschreibung": "Durchgehende Konstruktionszeichnung von der Ärmelkugel-Kurve (hAchsel/vAchsel, tP, vÄk/hÄk, SuP) bis zum Schnittteil mit Ärmelnähten (vAN/hAN) und Saum (jeweils ½ ÄSaW); Punkte 16, 17, 18, 19, 20 markiert.",
+      "label_am_original": "□6 Ärmelpunkte, Ärmelnähte und Saum",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s201_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [1548, 986, 2990, 1657],
+      "beschreibung": "Fertiges Schnittteil des engen Ärmels (vÄP/hÄP, SuP, Mittellinie mit Fadenlaufpfeil), Punkt 21 markiert.",
+      "label_am_original": "□7 Fertiger enger Ärmel",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s201_skizze_04.png",
+      "ocr_id": "img-3",
+      "bounding_box_raw": [1585, 655, 2528, 901],
+      "beschreibung": "Seitlich stehende Figurine (Kopf/Oberkörper im Profil) mit farbig hervorgehobenem Armbereich.",
+      "label_am_original": null,
+      "geprueft": false
+    }
+  ]
+}

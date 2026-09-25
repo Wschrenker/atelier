@@ -1,0 +1,245 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (1)\nGrundgerüst\n\nSchmaler\nGrundgerüst\n\n[tbl-0.md](tbl-0.md)\n\n![img-0.jpeg](img-0.jpeg)\n\n□1 Konstruktionstabelle mit Hilfe der Berechnungstabelle auf Seite 199 aufstellen\n\n# 1. Ärmloch ausmessen und Maßsatz ausfüllen\n\n□2 Die Teilstrecken des Armloschumfangs wie skizziert ausmessen und am Armloch und in der Konstruktionstabelle notieren.\n□1 In der Konstruktionstabelle die Ärmellänge, Oberarmweite, Armelsaumweite und die gewünschte Einhalteweite (EW) in % oder in cm für die Ärmelkugel bestimmen.\n\n# 2. Grundgerüst zeichnen\n\n□3 Die AL senkrecht abtragen \\(\\rightarrow\\) vordere Linie. Oben abwinkeln \\(\\rightarrow\\) Schulterlinie, unter abwinkeln \\(\\rightarrow\\) Saumlinie.\n60% der AL abtragen, Dort abwinkeln → Ellenbogenlinie.\nAuf der Schulterlinie \\(1/2\\) OaW \\(\\times 0,5\\) bis 0,7 abtragen ( \\(\\times 0,5\\) bis 0,7 cm ist ein Korrekturbetrag) \\(\\rightarrow\\) hintere Linie.\nAuf der vorderen Linie die AlH abtragen. Von Dort \\(1/2\\) AlH nach oben messen und ein weiteres Mal \\(1/2\\) AlH nach oben abtragen. Dies ist der Bereich der optimalen Armelkugellinie.\nRechts an der Schulterlinie auf die vordere Linie \\(1/2\\) AkU \\(\\sim 1\\) cm abtragen. Dort sollte die Armelkugellinie (AkLi) liegen. Mathematisch exakter ware es, \\(48\\%\\) AkU abzutragen.\n\nDie Achsellinie sollte im Kontrollbereich liegen (eine kleine Überschreitung der Grenzbereiche von wenigen Millimetern ist möglich).\n\nLiegt P5 Innerhalb des optimalen Bereichs, wird die ÄkLi abgewinkelt und aus P3 die hintere Linie abgewinkelt.\n\n# Mögliche Gründe für eine zu hohe ÄkLi (→ flache Kugel)\n\n1. Die Oberarmweite (OaW) wurde zu groß gewählt.\n2. Die Einhalteweite (EW) wurde zu Klein gewählt.\n3. Das Armloch am Oberteil ist zu Klein. Entweder ist der ArD zu Klein und passt nicht zum OaU oder die am Grundschnitt verwendete AlT ist zu Klein.\n\n# Hier eine sinnvoll, einhellenfolge zur Korrektur:\n\n1. OaU am Körper nachmessen und am Ärmel-GS korrigieren ggf. kann auch die Zugabe zur OaW reduziert werden. Die Hintere Linie am Ärmel nach vorne (links) verschieben, \\(1/2\\) AkU - 1 cm (Diagonale) neu abtragen \\(\\rightarrow\\) die AkLi wird tiefer.\n2. Entscheiden, ob eine größere EW sinnvoll oder möglich ist. Den AkI neu berechnen und die Diagonale am Ärmel neu abtragen \\(\\rightarrow\\) die AkLi wird tiefer.\n3. Armloch kontrollieren: ArD = OaU: 10 · 6 - 7,5 cm Das Armloch am Oberteil-Grundschnitt ggf. verbreitern (ArD nach messen und berechnen sowie die AlT am Körper nachmessen). Dann den AlU neu messen, den AkU neu berechnen und die Diagonale am Ärmel neu abtragen → die AkLi wird tiefer.\n\n![img-1.jpeg](img-1.jpeg)\n\nBei einer zu tiefen Ärmelkugellinie (ÄkLi) werden die hier beschriebenen Korrekturen umgeklemmt angewendet!\n\nSchmaler Ärmel-Grundschnitt\n\n2.0.0\n\n2 Den\n4 die\nmalkugel\nDenselbst\nP3 nach\nDie ben\nmelkugel\nstellt ze\n\nüb +\n2,7 cm",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 453,
+          "top_left_y": 407,
+          "bottom_right_x": 1078,
+          "bottom_right_y": 910,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1307,
+          "top_left_y": 414,
+          "bottom_right_x": 3484,
+          "bottom_right_y": 1259,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionstabelle |   | Name |  |   |   | Größe | 28  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  Wollengaben in cm Ärmel |   | Datum |  |   | Modell | Schmaler Ärmel | Pb 3  |\n|  AlH | Ärmischhöhe | 17,2 |  |   | Ärmischumfang | AlU | 41,2  |\n|   |  | Zugaben aus der Berechnungstabelle für Ärmelkonstruktionen  |   |   |   |   |   |\n|  ÄL | Ärmellänge | 60 | × | 10 | Ärmellänge | ÄL | 60  |\n|  OaU | Oberarmumfang | 28 | × | 2,5 | Oberarmweite | OaW | 30,5  |\n|  HgU | Handgelenkumfang | 16 | × | 5 | Saumweite | ÄSaW | 21  |\n|  EW in % | Einhalteweite in % | 8 % | Einhalteweite in cm × AlU · Einhalteweite in % |   |   | EW in cm | 3,3 cm  |\n|   |  |  | Ärmelkugelumfang × AlU · Einhalteweite in cm |   |   | ÄkU | 44,5  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 237,
+          "top_left_y": 766,
+          "bottom_right_x": 384,
+          "bottom_right_y": 2135,
+          "content": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (1)\nGrundgerüst",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 225,
+          "top_left_y": 3,
+          "bottom_right_x": 351,
+          "bottom_right_y": 233,
+          "content": "Schmaler\nGrundgerüst",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 474,
+          "top_left_y": 953,
+          "bottom_right_x": 956,
+          "bottom_right_y": 2362,
+          "content": "|  Konstruktionstabelle |   | Name |  |   |   | Größe | 28  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  Wollengaben in cm Ärmel |   | Datum |  |   | Modell | Schmaler Ärmel | Pb 3  |\n|  AlH | Ärmischhöhe | 17,2 |  |   | Ärmischumfang | AlU | 41,2  |\n|   |  | Zugaben aus der Berechnungstabelle für Ärmelkonstruktionen  |   |   |   |   |   |\n|  ÄL | Ärmellänge | 60 | × | 10 | Ärmellänge | ÄL | 60  |\n|  OaU | Oberarmumfang | 28 | × | 2,5 | Oberarmweite | OaW | 30,5  |\n|  HgU | Handgelenkumfang | 16 | × | 5 | Saumweite | ÄSaW | 21  |\n|  EW in % | Einhalteweite in % | 8 % | Einhalteweite in cm × AlU · Einhalteweite in % |   |   | EW in cm | 3,3 cm  |\n|   |  |  | Ärmelkugelumfang × AlU · Einhalteweite in cm |   |   | ÄkU | 44,5  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 453,
+          "top_left_y": 407,
+          "bottom_right_x": 1078,
+          "bottom_right_y": 910,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 980,
+          "top_left_y": 1237,
+          "bottom_right_x": 1017,
+          "bottom_right_y": 2383,
+          "content": "□1 Konstruktionstabelle mit Hilfe der Berechnungstabelle auf Seite 199 aufstellen",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 1127,
+          "top_left_y": 1639,
+          "bottom_right_x": 1168,
+          "bottom_right_y": 2322,
+          "content": "# 1. Ärmloch ausmessen und Maßsatz ausfüllen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1184,
+          "top_left_y": 1391,
+          "bottom_right_x": 1454,
+          "bottom_right_y": 2325,
+          "content": "□2 Die Teilstrecken des Armloschumfangs wie skizziert ausmessen und am Armloch und in der Konstruktionstabelle notieren.\n□1 In der Konstruktionstabelle die Ärmellänge, Oberarmweite, Armelsaumweite und die gewünschte Einhalteweite (EW) in % oder in cm für die Ärmelkugel bestimmen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1487,
+          "top_left_y": 1957,
+          "bottom_right_x": 1532,
+          "bottom_right_y": 2322,
+          "content": "# 2. Grundgerüst zeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1548,
+          "top_left_y": 1397,
+          "bottom_right_x": 2083,
+          "bottom_right_y": 2401,
+          "content": "□3 Die AL senkrecht abtragen \\(\\rightarrow\\) vordere Linie. Oben abwinkeln \\(\\rightarrow\\) Schulterlinie, unter abwinkeln \\(\\rightarrow\\) Saumlinie.\n60% der AL abtragen, Dort abwinkeln → Ellenbogenlinie.\nAuf der Schulterlinie \\(1/2\\) OaW \\(\\times 0,5\\) bis 0,7 abtragen ( \\(\\times 0,5\\) bis 0,7 cm ist ein Korrekturbetrag) \\(\\rightarrow\\) hintere Linie.\nAuf der vorderen Linie die AlH abtragen. Von Dort \\(1/2\\) AlH nach oben messen und ein weiteres Mal \\(1/2\\) AlH nach oben abtragen. Dies ist der Bereich der optimalen Armelkugellinie.\nRechts an der Schulterlinie auf die vordere Linie \\(1/2\\) AkU \\(\\sim 1\\) cm abtragen. Dort sollte die Armelkugellinie (AkLi) liegen. Mathematisch exakter ware es, \\(48\\%\\) AkU abzutragen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2091,
+          "top_left_y": 1409,
+          "bottom_right_x": 2218,
+          "bottom_right_y": 2346,
+          "content": "Die Achsellinie sollte im Kontrollbereich liegen (eine kleine Überschreitung der Grenzbereiche von wenigen Millimetern ist möglich).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2234,
+          "top_left_y": 1403,
+          "bottom_right_x": 2328,
+          "bottom_right_y": 2417,
+          "content": "Liegt P5 Innerhalb des optimalen Bereichs, wird die ÄkLi abgewinkelt und aus P3 die hintere Linie abgewinkelt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2377,
+          "top_left_y": 1507,
+          "bottom_right_x": 2426,
+          "bottom_right_y": 2417,
+          "content": "# Mögliche Gründe für eine zu hohe ÄkLi (→ flache Kugel)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2430,
+          "top_left_y": 1467,
+          "bottom_right_x": 2646,
+          "bottom_right_y": 2426,
+          "content": "1. Die Oberarmweite (OaW) wurde zu groß gewählt.\n2. Die Einhalteweite (EW) wurde zu Klein gewählt.\n3. Das Armloch am Oberteil ist zu Klein. Entweder ist der ArD zu Klein und passt nicht zum OaU oder die am Grundschnitt verwendete AlT ist zu Klein.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2663,
+          "top_left_y": 1651,
+          "bottom_right_x": 2712,
+          "bottom_right_y": 2426,
+          "content": "# Hier eine sinnvoll, einhellenfolge zur Korrektur:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2720,
+          "top_left_y": 1412,
+          "bottom_right_x": 3300,
+          "bottom_right_y": 2438,
+          "content": "1. OaU am Körper nachmessen und am Ärmel-GS korrigieren ggf. kann auch die Zugabe zur OaW reduziert werden. Die Hintere Linie am Ärmel nach vorne (links) verschieben, \\(1/2\\) AkU - 1 cm (Diagonale) neu abtragen \\(\\rightarrow\\) die AkLi wird tiefer.\n2. Entscheiden, ob eine größere EW sinnvoll oder möglich ist. Den AkI neu berechnen und die Diagonale am Ärmel neu abtragen \\(\\rightarrow\\) die AkLi wird tiefer.\n3. Armloch kontrollieren: ArD = OaU: 10 · 6 - 7,5 cm Das Armloch am Oberteil-Grundschnitt ggf. verbreitern (ArD nach messen und berechnen sowie die AlT am Körper nachmessen). Dann den AlU neu messen, den AkU neu berechnen und die Diagonale am Ärmel neu abtragen → die AkLi wird tiefer.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1307,
+          "top_left_y": 414,
+          "bottom_right_x": 3484,
+          "bottom_right_y": 1259,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 3304,
+          "top_left_y": 1412,
+          "bottom_right_x": 3414,
+          "bottom_right_y": 2444,
+          "content": "Bei einer zu tiefen Ärmelkugellinie (ÄkLi) werden die hier beschriebenen Korrekturen umgeklemmt angewendet!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1046,
+          "top_left_y": 2472,
+          "bottom_right_x": 1536,
+          "bottom_right_y": 2521,
+          "content": "Schmaler Ärmel-Grundschnitt",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3410,
+          "top_left_y": 2558,
+          "bottom_right_x": 3455,
+          "bottom_right_y": 2646,
+          "content": "2.0.0",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 453,
+          "top_left_y": 3,
+          "bottom_right_x": 890,
+          "bottom_right_y": 221,
+          "content": "2 Den\n4 die\nmalkugel\nDenselbst\nP3 nach\nDie ben\nmelkugel\nstellt ze",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1703,
+          "top_left_y": 3,
+          "bottom_right_x": 1789,
+          "bottom_right_y": 135,
+          "content": "üb +\n2,7 cm",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3817279
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "seite": "s203",
+  "quelle": "ocr_s203_raw.json",
+  "hinweis_koordinaten": "bounding_box in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s203_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [368, 1617, 2369, 2683],
+      "beschreibung": "Große Figurinenzeichnung (Seitenansicht) mit Ärmelkugel-Konstruktion oben (vÄP, hÄP, vÄchsel, hÄchsel, vÄk, hÄk, SuP, tP, Schritt-Callout ⑯) und Ärmelkörper darunter (vordere/hintere Ärmelnaht, Maßangabe ÄSaW = OaW = 37 cm); rechts unten die Bildunterschrift der Zeichnung.",
+      "label_am_original": "□6 Ärmelpunkte, Ärmelnähte und Saum",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s203_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [543, 747, 1911, 1541],
+      "beschreibung": "Figurinenzeichnung mit Ärmelkugel oben (vÄP, hÄP, SuP, ÄkLi, Kontrolle der Oberarmweite 35 cm) und trapezförmigem Ärmelkörper mit Saumreduzierung unten (½ ÄSaW links/rechts, ÄSaW = 22 cm, Schritt-Callouts ⑰⑱⑲).",
+      "label_am_original": "□7 Reduzierung der Ärmelsaumweite",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s203_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [1960, 662, 3431, 1522],
+      "beschreibung": "Figurinenzeichnung mit Ärmelkugel oben (vÄP, hÄP, SuP) und Ärmelkörper mit eingezeichnetem Schlitz unten (1 cm, 1,5 cm, ⅓ ÄSaW, Kurvenrichtungen, Schritt-Callouts ⑳㉑㉒).",
+      "label_am_original": "□8 Saum für weiten Hemdärmel",
+      "geprueft": false
+    }
+  ]
+}

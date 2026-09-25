@@ -1,0 +1,71 @@
+{
+  "seite": "s197",
+  "quelle": "ocr_s197_raw.json",
+  "hinweis_koordinaten": "bounding_box in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s197_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [1221, 2202, 2267, 2490],
+      "beschreibung": "Profilfigur 1 von 5 (ganz links), Übersichtsreihe der Ärmel-Grundschnittformen, oranger Ärmelbereich am Arm markiert",
+      "label_am_original": null,
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s197_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [1246, 1734, 2267, 2009],
+      "beschreibung": "Profilfigur 2 von 5, violetter Ärmelbereich am Arm markiert",
+      "label_am_original": null,
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s197_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [1278, 1415, 2271, 1669],
+      "beschreibung": "Profilfigur 3 von 5, violetter Ärmelbereich am Arm markiert",
+      "label_am_original": null,
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s197_skizze_04.png",
+      "ocr_id": "img-3",
+      "bounding_box_raw": [1307, 1106, 2271, 1354],
+      "beschreibung": "Profilfigur 4 von 5, violetter Ärmelbereich am Arm markiert",
+      "label_am_original": null,
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s197_skizze_05.png",
+      "ocr_id": "img-4",
+      "bounding_box_raw": [1331, 662, 2275, 907],
+      "beschreibung": "Profilfigur 5 von 5 (ganz rechts), blauer Ärmelbereich am Arm markiert",
+      "label_am_original": null,
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s197_skizze_06.png",
+      "ocr_id": "img-5",
+      "bounding_box_raw": [2373, 2058, 3631, 2628],
+      "beschreibung": "Flaches Schnittteil mit Ärmelkugel-Umfang, Armelnaht beidseitig, Saumlinie; Miniaturansicht eines engen Ärmels darüber eingeblendet",
+      "label_am_original": "□1 Enger Ärmel für Maschenware mit hoher Ärmelkugel",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s197_skizze_07.png",
+      "ocr_id": "img-6",
+      "bounding_box_raw": [2336, 1253, 3578, 2009],
+      "beschreibung": "Flaches Schnittteil mit Ärmelkugel-Linie und Ellbogen-Linie; Miniaturansicht eines weiten Ärmels mit Manschette darüber eingeblendet",
+      "label_am_original": "□2 Weiter Ärmel mit flacher Ärmelkugel",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s197_skizze_08.png",
+      "ocr_id": "img-7",
+      "bounding_box_raw": [2348, 410, 3520, 1182],
+      "beschreibung": "Zwei flache Schnittteile (vorderer/hinterer Ärmelbruch, Abnäher); Miniaturansicht eines Blazers mit schmalem Ärmel darüber eingeblendet",
+      "label_am_original": "□3 Schmaler Ärmel mit hoher Ärmelkugel",
+      "geprueft": false
+    }
+  ]
+}

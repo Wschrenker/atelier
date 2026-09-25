@@ -1,0 +1,63 @@
+{
+  "seite": "s216",
+  "quelle": "ocr_s216_raw.json",
+  "hinweis_koordinaten": "bounding_box_raw in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s216_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [163, 444, 792, 873],
+      "beschreibung": "☐3 Foto: Ohne das Schulterpolster von Nadel zu Nadel messen (gelbes Maßband über Schulter, kein Polster untergelegt)",
+      "label_am_original": "☐3 Ohne das Polster von Nadel zu Nadel messen",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s216_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [204, 1875, 809, 2285],
+      "beschreibung": "☐1 Foto: Schulterpolster auflegen und mit zwei Nadeln an der Büste markieren",
+      "label_am_original": "☐1 Schulterpolster auflegen und Nadeln stecken",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s216_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [184, 1130, 800, 1553],
+      "beschreibung": "☐2 Foto: Über das aufgelegte Schulterpolster von Nadel zu Nadel messen (gelbes Maßband)",
+      "label_am_original": "☐2 Über das Schulterpolster von Nadel zu Nadel messen",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s216_skizze_04.png",
+      "ocr_id": "img-3",
+      "bounding_box_raw": [225, 1875, 809, 2285],
+      "beschreibung": "Doppelerkennung derselben Bildregion wie img-1 (☐1-Foto); keine eigenständige zusätzliche Skizze",
+      "label_am_original": "☐1 Schulterpolster auflegen und Nadeln stecken (Duplikat der OCR-Erkennung)",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s216_skizze_05.png",
+      "ocr_id": "img-4",
+      "bounding_box_raw": [948, 1216, 1662, 2487],
+      "beschreibung": "☐4 Flaches Schnittteil VT/RT mit geringer Schulterpolster-Erhöhung: Kreismarkierung 1, Teilstrecken 1/3 (Erhöhung vorne) und 2/3 (Erhöhung hinten)",
+      "label_am_original": "☐4 Geringe Schulterpolster-Erhöhung",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s216_skizze_06.png",
+      "ocr_id": "img-5",
+      "bounding_box_raw": [948, 0, 1679, 1170],
+      "beschreibung": "☐5 Flaches Schnittteil VT/RT/VT mit größerer Schulterpolster-Erhöhung und Schulterverbreiterung: Kreismarkierungen 1–3, Teilstrecken 1/3 und 2/3",
+      "label_am_original": "☐5 Größere Schulterpolster-Erhöhung mit Schulterverbreiterung",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s216_skizze_07.png",
+      "ocr_id": "img-6",
+      "bounding_box_raw": [1834, 270, 3602, 1204],
+      "beschreibung": "☐6 Ärmelkopf-Konstruktion für Schulterpolster-Erhöhung: Kreismarkierungen 4–8, Maß „ca. 5 cm“, Scherensymbole, Öffnungsmaße 1/3 und 1/6 Schulterpolster-Erhöhung (= 1/2 Polsterdicke), Beschriftungen vÄP, „schmaler Ärmel G 38 PK 3“, üb/me-Saumerweiterung",
+      "label_am_original": "☐6 Ärmelanpassung für eine Schulterpolster-Erhöhung",
+      "geprueft": false
+    }
+  ]
+}

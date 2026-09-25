@@ -1,0 +1,729 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "aus PK 3\n\n[tbl-0.md](tbl-0.md)\n\n[tbl-1.md](tbl-1.md)\n\n[tbl-2.md](tbl-2.md)\n\n[tbl-3.md](tbl-3.md)\n\n[tbl-4.md](tbl-4.md)\n\nRüB:\n\n0,5 cm\n\n0 cm\n\n0,5 cm\n\nRT\n\nkurz ALT:\n\n1,3 cm\n\n0 cm\n\nz = 1,3 cm\n\nschreiben\n\n3d\n\nmit 1/6\n\nlignewolte\n\nvergrößert\n\nTW\n\n4,0 cm\n\nlignewolte\n\nvergrößert\n\nTWA\n\n9,2 cm\n\n# Übersicht\n\n# Ärmel-Grundschnittformen (1)\n\n# Übersicht\n\nÄrmel-Grundschnittformen\n\nÄrmelmaße\n\nKonstruktionstabelle und Berechnungstabelle\n\nEnger Ärmel-Grundschnitt\n\nWeiter Ärmel-Grundschnitt\n\nSchmaler Ärmel - Grundgerüst\n\n- Schmaler Ärmel gerader Einnahtärmel\n\n- Schmaler Ärmel für natürliche Armform\n\n- Schmaler Ärmel Blazerärmel\n\n197\n\n199\n\n200\n\n202\n\n204\n\n206\n\n207\n\n208\n\nÄrmelanpassungen\n\n- Oberarmweite vergrößern\n- Weiter Ärmel aus schmalem Ärmel\n- Saumweite am Ärmel verändern\n- Einhalteweite an der Ärmelkugel anpassen\n- Anpassung nach Armlochvertiefung und\n- Verbreiterung\n- Ärmelanpassung nach Armlochvertiefung und -\nVerbreiterung am Blazer\n- nach Schulterpolstererhöhung\n- nach Armlochauflockerung\n- Ärmelanpassung mit Einstellung der Einhalteweite\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\n![img-7.jpeg](img-7.jpeg)\n\n□1\n\nEnger Ärmel für Maschenware\n\nmit hoher Ärmelkugel\n\n□2\n\nWeiter Ärmel mit flacher Ärmelkugel\n\n□3\n\nSchmaler Ärmel mit hoher Ärmelkugel\n\nÜbersicht\nund Ärmel-Grundschnittformen\n\n97",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 1221,
+          "top_left_y": 2202,
+          "bottom_right_x": 2267,
+          "bottom_right_y": 2490,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1246,
+          "top_left_y": 1734,
+          "bottom_right_x": 2267,
+          "bottom_right_y": 2009,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1278,
+          "top_left_y": 1415,
+          "bottom_right_x": 2271,
+          "bottom_right_y": 1669,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 1307,
+          "top_left_y": 1106,
+          "bottom_right_x": 2271,
+          "bottom_right_y": 1354,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 1331,
+          "top_left_y": 662,
+          "bottom_right_x": 2275,
+          "bottom_right_y": 907,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 2373,
+          "top_left_y": 2058,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2628,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 2336,
+          "top_left_y": 1253,
+          "bottom_right_x": 3578,
+          "bottom_right_y": 2009,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-7.jpeg",
+          "top_left_x": 2348,
+          "top_left_y": 410,
+          "bottom_right_x": 3520,
+          "bottom_right_y": 1182,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|   | Größe | 2d  |\n| --- | --- | --- |\n|  50-60 | 2d | 2  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  47  |\n| --- |\n|  38  |\n|  30,5  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-2.md",
+          "content": "|   | 09  |\n| --- | --- |\n|   | 2,5  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-3.md",
+          "content": "|  0,7 | 16 | 3,6  |\n| --- | --- | --- |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-4.md",
+          "content": "|  Außergewöhnlich in mm  |   |\n| --- | --- |\n|  0,7 | 0,5  |\n|  0,4 | 0  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 274,
+          "top_left_y": 2870,
+          "bottom_right_x": 335,
+          "bottom_right_y": 3060,
+          "content": "aus PK 3",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 462,
+          "top_left_y": 2784,
+          "bottom_right_x": 629,
+          "bottom_right_y": 3060,
+          "content": "|   | Größe | 2d  |\n| --- | --- | --- |\n|  50-60 | 2d | 2  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 649,
+          "top_left_y": 2968,
+          "bottom_right_x": 792,
+          "bottom_right_y": 3060,
+          "content": "|  47  |\n| --- |\n|  38  |\n|  30,5  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 849,
+          "top_left_y": 2809,
+          "bottom_right_x": 956,
+          "bottom_right_y": 3060,
+          "content": "|   | 09  |\n| --- | --- |\n|   | 2,5  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-2.md"
+        },
+        {
+          "top_left_x": 1013,
+          "top_left_y": 2815,
+          "bottom_right_x": 1066,
+          "bottom_right_y": 3060,
+          "content": "|  0,7 | 16 | 3,6  |\n| --- | --- | --- |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-3.md"
+        },
+        {
+          "top_left_x": 1495,
+          "top_left_y": 2839,
+          "bottom_right_x": 1703,
+          "bottom_right_y": 3060,
+          "content": "|  Außergewöhnlich in mm  |   |\n| --- | --- |\n|  0,7 | 0,5  |\n|  0,4 | 0  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-4.md"
+        },
+        {
+          "top_left_x": 1772,
+          "top_left_y": 2962,
+          "bottom_right_x": 1817,
+          "bottom_right_y": 3060,
+          "content": "RüB:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1846,
+          "top_left_y": 2873,
+          "bottom_right_x": 1887,
+          "bottom_right_y": 3008,
+          "content": "0,5 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1895,
+          "top_left_y": 2910,
+          "bottom_right_x": 1932,
+          "bottom_right_y": 3008,
+          "content": "0 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1940,
+          "top_left_y": 2870,
+          "bottom_right_x": 1981,
+          "bottom_right_y": 3008,
+          "content": "0,5 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2205,
+          "top_left_y": 2950,
+          "bottom_right_x": 2263,
+          "bottom_right_y": 3032,
+          "content": "RT",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2316,
+          "top_left_y": 2910,
+          "bottom_right_x": 2365,
+          "bottom_right_y": 3060,
+          "content": "kurz ALT:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2389,
+          "top_left_y": 2846,
+          "bottom_right_x": 2430,
+          "bottom_right_y": 2977,
+          "content": "1,3 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2442,
+          "top_left_y": 2849,
+          "bottom_right_x": 2479,
+          "bottom_right_y": 2944,
+          "content": "0 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2487,
+          "top_left_y": 2846,
+          "bottom_right_x": 2528,
+          "bottom_right_y": 3060,
+          "content": "z = 1,3 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2618,
+          "top_left_y": 2934,
+          "bottom_right_x": 2659,
+          "bottom_right_y": 3060,
+          "content": "schreiben",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2765,
+          "top_left_y": 2904,
+          "bottom_right_x": 2814,
+          "bottom_right_y": 2944,
+          "content": "3d",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3026,
+          "top_left_y": 2925,
+          "bottom_right_x": 3067,
+          "bottom_right_y": 3060,
+          "content": "mit 1/6",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3071,
+          "top_left_y": 2925,
+          "bottom_right_x": 3108,
+          "bottom_right_y": 3060,
+          "content": "lignewolte",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3112,
+          "top_left_y": 2925,
+          "bottom_right_x": 3145,
+          "bottom_right_y": 3060,
+          "content": "vergrößert",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3186,
+          "top_left_y": 2974,
+          "bottom_right_x": 3222,
+          "bottom_right_y": 3060,
+          "content": "TW",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3226,
+          "top_left_y": 2934,
+          "bottom_right_x": 3259,
+          "bottom_right_y": 3060,
+          "content": "4,0 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3606,
+          "top_left_y": 2944,
+          "bottom_right_x": 3643,
+          "bottom_right_y": 3060,
+          "content": "lignewolte",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3647,
+          "top_left_y": 2944,
+          "bottom_right_x": 3684,
+          "bottom_right_y": 3060,
+          "content": "vergrößert",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3712,
+          "top_left_y": 2944,
+          "bottom_right_x": 3749,
+          "bottom_right_y": 3060,
+          "content": "TWA",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3753,
+          "top_left_y": 2944,
+          "bottom_right_x": 3786,
+          "bottom_right_y": 3060,
+          "content": "9,2 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 225,
+          "top_left_y": 2245,
+          "bottom_right_x": 290,
+          "bottom_right_y": 2512,
+          "content": "# Übersicht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 294,
+          "top_left_y": 1679,
+          "bottom_right_x": 412,
+          "bottom_right_y": 2512,
+          "content": "# Ärmel-Grundschnittformen (1)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 482,
+          "top_left_y": 2334,
+          "bottom_right_x": 527,
+          "bottom_right_y": 2506,
+          "content": "# Übersicht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 535,
+          "top_left_y": 2043,
+          "bottom_right_x": 576,
+          "bottom_right_y": 2506,
+          "content": "Ärmel-Grundschnittformen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 588,
+          "top_left_y": 2313,
+          "bottom_right_x": 629,
+          "bottom_right_y": 2506,
+          "content": "Ärmelmaße",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 633,
+          "top_left_y": 1731,
+          "bottom_right_x": 674,
+          "bottom_right_y": 2506,
+          "content": "Konstruktionstabelle und Berechnungstabelle",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 678,
+          "top_left_y": 1731,
+          "bottom_right_x": 719,
+          "bottom_right_y": 2506,
+          "content": "Enger Ärmel-Grundschnitt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 727,
+          "top_left_y": 2043,
+          "bottom_right_x": 772,
+          "bottom_right_y": 2506,
+          "content": "Weiter Ärmel-Grundschnitt",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 784,
+          "top_left_y": 1991,
+          "bottom_right_x": 833,
+          "bottom_right_y": 2506,
+          "content": "Schmaler Ärmel - Grundgerüst",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 837,
+          "top_left_y": 1795,
+          "bottom_right_x": 882,
+          "bottom_right_y": 2506,
+          "content": "- Schmaler Ärmel gerader Einnahtärmel",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 886,
+          "top_left_y": 1770,
+          "bottom_right_x": 931,
+          "bottom_right_y": 2506,
+          "content": "- Schmaler Ärmel für natürliche Armform",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 939,
+          "top_left_y": 1963,
+          "bottom_right_x": 988,
+          "bottom_right_y": 2506,
+          "content": "- Schmaler Ärmel Blazerärmel",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 604,
+          "top_left_y": 1510,
+          "bottom_right_x": 645,
+          "bottom_right_y": 1568,
+          "content": "197",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 694,
+          "top_left_y": 1510,
+          "bottom_right_x": 735,
+          "bottom_right_y": 1568,
+          "content": "199",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 1510,
+          "bottom_right_x": 788,
+          "bottom_right_y": 1568,
+          "content": "200",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 796,
+          "top_left_y": 1510,
+          "bottom_right_x": 837,
+          "bottom_right_y": 1568,
+          "content": "202",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 845,
+          "top_left_y": 1510,
+          "bottom_right_x": 886,
+          "bottom_right_y": 1568,
+          "content": "204",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 894,
+          "top_left_y": 1510,
+          "bottom_right_x": 935,
+          "bottom_right_y": 1568,
+          "content": "206",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 943,
+          "top_left_y": 1510,
+          "bottom_right_x": 984,
+          "bottom_right_y": 1568,
+          "content": "207",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 992,
+          "top_left_y": 1510,
+          "bottom_right_x": 1037,
+          "bottom_right_y": 1568,
+          "content": "208",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 621,
+          "top_left_y": 1167,
+          "bottom_right_x": 690,
+          "bottom_right_y": 1461,
+          "content": "Ärmelanpassungen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 694,
+          "top_left_y": 557,
+          "bottom_right_x": 1258,
+          "bottom_right_y": 1461,
+          "content": "- Oberarmweite vergrößern\n- Weiter Ärmel aus schmalem Ärmel\n- Saumweite am Ärmel verändern\n- Einhalteweite an der Ärmelkugel anpassen\n- Anpassung nach Armlochvertiefung und\n- Verbreiterung\n- Ärmelanpassung nach Armlochvertiefung und -\nVerbreiterung am Blazer\n- nach Schulterpolstererhöhung\n- nach Armlochauflockerung\n- Ärmelanpassung mit Einstellung der Einhalteweite",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1221,
+          "top_left_y": 2202,
+          "bottom_right_x": 2267,
+          "bottom_right_y": 2490,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1246,
+          "top_left_y": 1734,
+          "bottom_right_x": 2267,
+          "bottom_right_y": 2009,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1278,
+          "top_left_y": 1415,
+          "bottom_right_x": 2271,
+          "bottom_right_y": 1669,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1307,
+          "top_left_y": 1106,
+          "bottom_right_x": 2271,
+          "bottom_right_y": 1354,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1331,
+          "top_left_y": 662,
+          "bottom_right_x": 2275,
+          "bottom_right_y": 907,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 2373,
+          "top_left_y": 2058,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2628,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 2336,
+          "top_left_y": 1253,
+          "bottom_right_x": 3578,
+          "bottom_right_y": 2009,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 2348,
+          "top_left_y": 410,
+          "bottom_right_x": 3520,
+          "bottom_right_y": 1182,
+          "content": "![img-7.jpeg](img-7.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-7.jpeg"
+        },
+        {
+          "top_left_x": 3647,
+          "top_left_y": 2552,
+          "bottom_right_x": 3684,
+          "bottom_right_y": 2601,
+          "content": "□1",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3692,
+          "top_left_y": 2141,
+          "bottom_right_x": 3733,
+          "bottom_right_y": 2601,
+          "content": "Enger Ärmel für Maschenware",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3737,
+          "top_left_y": 2276,
+          "bottom_right_x": 3794,
+          "bottom_right_y": 2601,
+          "content": "mit hoher Ärmelkugel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3696,
+          "top_left_y": 1948,
+          "bottom_right_x": 3737,
+          "bottom_right_y": 2003,
+          "content": "□2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3737,
+          "top_left_y": 1430,
+          "bottom_right_x": 3774,
+          "bottom_right_y": 2003,
+          "content": "Weiter Ärmel mit flacher Ärmelkugel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3627,
+          "top_left_y": 1167,
+          "bottom_right_x": 3663,
+          "bottom_right_y": 1213,
+          "content": "□3",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3663,
+          "top_left_y": 662,
+          "bottom_right_x": 3692,
+          "bottom_right_y": 1213,
+          "content": "Schmaler Ärmel mit hoher Ärmelkugel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1217,
+          "top_left_y": 368,
+          "bottom_right_x": 1740,
+          "bottom_right_y": 447,
+          "content": "Übersicht\nund Ärmel-Grundschnittformen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3655,
+          "top_left_y": 319,
+          "bottom_right_x": 3704,
+          "bottom_right_y": 392,
+          "content": "97",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3671407
+  }
+}

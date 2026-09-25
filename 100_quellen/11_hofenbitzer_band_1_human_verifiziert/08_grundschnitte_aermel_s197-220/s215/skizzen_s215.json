@@ -1,0 +1,67 @@
+{
+  "source": "s215.jpg",
+  "source_orientation": "EXIF-Orientierung 6, aufgerichtet (exif_transpose)",
+  "source_size_px": [
+    3060,
+    4080
+  ],
+  "bbox_bezug": "Pixel der aufrechten Vollseite (bbox_upright_px); bbox_ocr_input_px bezieht sich auf den temporaeren OCR-Zuschnitt",
+  "ocr_eingabe": "temporaerer Zuschnitt (200,0,3060,4080) der aufrechten Vollseite, zum Ausschluss der links sichtbaren Nachbarseite 214",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s215_skizze_01.png",
+      "bbox_upright_px": [
+        366,
+        347,
+        1388,
+        1969
+      ],
+      "bbox_ocr_input_px": [
+        166,
+        347,
+        1188,
+        1969
+      ],
+      "herkunft": "von Mistral OCR erkannt",
+      "beschreibung": "obere Zeichnung: Ärmelkugel mit Punkten 4,7,5,vÄP,11,12,13,9,10,14,15,8, Beschriftung 'Verschiebung der neuen Ärmelmitten, Abnäher und Ärmelnähte parallel zu den alten'"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s215_skizze_02.png",
+      "bbox_upright_px": [
+        343,
+        2103,
+        1425,
+        3823
+      ],
+      "bbox_ocr_input_px": [
+        143,
+        2103,
+        1225,
+        3823
+      ],
+      "herkunft": "von Mistral OCR erkannt",
+      "beschreibung": "untere linke Zeichnung, Bildunterschrift im Original '☐5 Neue vorverlegte Ärmelnaht bestimmen und abtrennen' (Checkbox+Ziffer fehlt im OCR-Fließtext)"
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s215_skizze_03.png",
+      "bbox_upright_px": [
+        1588,
+        2095,
+        2496,
+        3614
+      ],
+      "bbox_ocr_input_px": [
+        1388,
+        2095,
+        2296,
+        3614
+      ],
+      "herkunft": "von Mistral OCR erkannt",
+      "beschreibung": "untere rechte Zeichnung, Bildunterschrift im Original '☐6 Fertigstellung des Blazerärmels' (Checkbox+Ziffer fehlt im OCR-Fließtext)"
+    }
+  ]
+}

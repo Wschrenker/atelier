@@ -1,0 +1,229 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ärmelanpassung nach Armloch-Vertiefung und -Verbreiterung (4)\nhier an einem schmalen Ärmel mit vorverlegter Ärmelnaht (Blazerärmel)\n\n![img-0.jpeg](img-0.jpeg)\n\nÄrmelanpassung wie ab Seite 212\n\n# 2 Ärmelanpassung durchführen\n\n☐3+4 Alle weiteren Schritte der Ärmelanpassung sind identisch mit den auf den Seiten 212 und 213 gezeigten Anpassung. Sie sind hier mit denselben blauen Punkten markiert, wie dort. Auf die Beschreibung der Arbeitsschritte wurde verzichtet. Das Markieren der Knipse (P17 und P18) kann entfallen, wenn die Ärmelnaht noch verschoben wird.\n\nNach der Anpassung ☐4 erfolgt (bei Bedarf) dasselbe Verfahren zur Vorverlegung der Ärmelnaht wie bereits auf Seite 209 gezeigt.\n\n# 3 Ärmelnaht und Knipse anzeichnen\n\n1 ☐5 Eine neue Ärmelnaht im Abstand von 1,5 bis 2,5 cm vom vÄBr entfernt einzeichnen.\n4 An die neue Ärmelnaht Knipse im Anstand von 6 bis 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.\n5 Die Schnittfläche an der neuen Ärmelnaht abschneiden und am Ellenbogen durchtrennen.\n\n# 4 Ärmelflächen verschieben\n\n6 ☐6 Die beiden abgetrennten Schnittfläche an die hintere Ärmelnaht verschieben.\n7 Dort am tiefsten Punkt (tP) und am Saum passend anlegen.\n8 Die Lücke an der hinteren Ärmelnaht entspricht dem Dehnbetrag an der vorderen Ärmelnaht. Die neue hintere Ärmelnaht schließen.\n\nDen hinteren Ärmeleinsetzpunkt (hÄP) und den Schulterpunkt (SuP) neu bestimmen, siehe Seite 208.\n\nL11\n\nÄrmelanpassung nach Armloch-Vertiefung, und -Verbreiterung\n\nL28\n\n![img-1.jpeg](img-1.jpeg)\n\nNeue vorverlegte Ärmelnaht bestimmen und abtrennen\n\n![img-2.jpeg](img-2.jpeg)\n\nFertigstellung des Blazerärmels\n\n215",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 166,
+          "top_left_y": 347,
+          "bottom_right_x": 1188,
+          "bottom_right_y": 1969,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 143,
+          "top_left_y": 2103,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 3823,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1388,
+          "top_left_y": 2095,
+          "bottom_right_x": 2296,
+          "bottom_right_y": 3614,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2860
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 166,
+          "top_left_y": 147,
+          "bottom_right_x": 1975,
+          "bottom_right_y": 486,
+          "content": "# Ärmelanpassung nach Armloch-Vertiefung und -Verbreiterung (4)\nhier an einem schmalen Ärmel mit vorverlegter Ärmelnaht (Blazerärmel)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 166,
+          "top_left_y": 347,
+          "bottom_right_x": 1188,
+          "bottom_right_y": 1969,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 163,
+          "top_left_y": 1985,
+          "bottom_right_x": 804,
+          "bottom_right_y": 2026,
+          "content": "Ärmelanpassung wie ab Seite 212",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1260,
+          "top_left_y": 502,
+          "bottom_right_x": 1795,
+          "bottom_right_y": 604,
+          "content": "# 2 Ärmelanpassung durchführen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1260,
+          "top_left_y": 604,
+          "bottom_right_x": 2167,
+          "bottom_right_y": 878,
+          "content": "☐3+4 Alle weiteren Schritte der Ärmelanpassung sind identisch mit den auf den Seiten 212 und 213 gezeigten Anpassung. Sie sind hier mit denselben blauen Punkten markiert, wie dort. Auf die Beschreibung der Arbeitsschritte wurde verzichtet. Das Markieren der Knipse (P17 und P18) kann entfallen, wenn die Ärmelnaht noch verschoben wird.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1263,
+          "top_left_y": 845,
+          "bottom_right_x": 2173,
+          "bottom_right_y": 984,
+          "content": "Nach der Anpassung ☐4 erfolgt (bei Bedarf) dasselbe Verfahren zur Vorverlegung der Ärmelnaht wie bereits auf Seite 209 gezeigt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 1013,
+          "bottom_right_x": 1887,
+          "bottom_right_y": 1095,
+          "content": "# 3 Ärmelnaht und Knipse anzeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 1074,
+          "bottom_right_x": 2193,
+          "bottom_right_y": 1405,
+          "content": "1 ☐5 Eine neue Ärmelnaht im Abstand von 1,5 bis 2,5 cm vom vÄBr entfernt einzeichnen.\n4 An die neue Ärmelnaht Knipse im Anstand von 6 bis 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.\n5 Die Schnittfläche an der neuen Ärmelnaht abschneiden und am Ellenbogen durchtrennen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1283,
+          "top_left_y": 1409,
+          "bottom_right_x": 1778,
+          "bottom_right_y": 1466,
+          "content": "# 4 Ärmelflächen verschieben",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1280,
+          "top_left_y": 1470,
+          "bottom_right_x": 2219,
+          "bottom_right_y": 1830,
+          "content": "6 ☐6 Die beiden abgetrennten Schnittfläche an die hintere Ärmelnaht verschieben.\n7 Dort am tiefsten Punkt (tP) und am Saum passend anlegen.\n8 Die Lücke an der hinteren Ärmelnaht entspricht dem Dehnbetrag an der vorderen Ärmelnaht. Die neue hintere Ärmelnaht schließen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1288,
+          "top_left_y": 1850,
+          "bottom_right_x": 2224,
+          "bottom_right_y": 1944,
+          "content": "Den hinteren Ärmeleinsetzpunkt (hÄP) und den Schulterpunkt (SuP) neu bestimmen, siehe Seite 208.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2236,
+          "top_left_y": 609,
+          "bottom_right_x": 2296,
+          "bottom_right_y": 649,
+          "content": "L11",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2285,
+          "top_left_y": 1148,
+          "bottom_right_x": 2385,
+          "bottom_right_y": 1674,
+          "content": "Ärmelanpassung nach Armloch-Vertiefung, und -Verbreiterung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2322,
+          "top_left_y": 1895,
+          "bottom_right_x": 2382,
+          "bottom_right_y": 1936,
+          "content": "L28",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 143,
+          "top_left_y": 2103,
+          "bottom_right_x": 1225,
+          "bottom_right_y": 3823,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 166,
+          "top_left_y": 3823,
+          "bottom_right_x": 1168,
+          "bottom_right_y": 3888,
+          "content": "Neue vorverlegte Ärmelnaht bestimmen und abtrennen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1388,
+          "top_left_y": 2095,
+          "bottom_right_x": 2296,
+          "bottom_right_y": 3614,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1569,
+          "top_left_y": 3639,
+          "bottom_right_x": 2107,
+          "bottom_right_y": 3729,
+          "content": "Fertigstellung des Blazerärmels",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2439,
+          "top_left_y": 3623,
+          "bottom_right_x": 2522,
+          "bottom_right_y": 3676,
+          "content": "215",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 2911315
+  }
+}

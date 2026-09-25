@@ -1,0 +1,230 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (4)\nEinnaht-Ärmel für die natürliche Armform (einfache Variante)\n\n# Saum, Ärmelnaht, Ärmelbrüche und Abnäher\n\n6 Weiterentwicklung von Seite 205: An der Saumlinie 2 bis 3 cm hochmessen und \\(1/2\\) ASaW zur Saumlinie abtragen \\(\\rightarrow\\) Saum.\nAn der Ellenbogenlinie hinten (rechts) 0,5 bis 1 cm einstellen. Von P8 über die Einstellung weiter zum Saum zeichnen \\(\\rightarrow\\) hinterer Ärmelbruch.\n\nAn der Ellenbogenlinie vorne 0,5 bis 1 cm für die Formung des Arzum VAP und zum vorderen Saum zeichnen.\nDie Armelnaht (AN) parallel zum VABr durch den TP zum Saum zeichnen (einfache Form).\n7 Nahtmarkierungen (Knipse) an die Ärmelnaht 6 bis 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n6 Ärmelnaht, Abnäher und Saum\n\n7 Darstellung der Inneren (gefärbten) Ärmelflächen\n\n8 Unterärmel-Flächen spiegeln (einfache Variante), Ärmelpunkte markieren und Oberarmweite kontrollieren\n\n![img-3.jpeg](img-3.jpeg)\n\n# 6 Ärmelflächen spiegeln\n\n7+8 Die Armelflachen an vABr und hABr nach außen spiegeln.\n8 Am vABr entsteht bei thisem Ärmel ein großer Überschneidungsbetrag an der Ellenbogenlinie. Um diese Strecke ist die vAN kürzer als die hAN.\n\nHier muss der zugeschnittene Ärmel zwischen den Knipsen stark gedehnt werden. Dieser Dohnbetrag ist umso größer. Je weiter die Ärmelnaht vom vÄBr entfernt ist und je größer die Einstellung am vÄBr (bei P15) ist.\n\nBeim Näher muss die Ärmelnaht glatt sein und die Knipse exakt passen!\n\n# Ärmelpunkte und Oberarmweite\n\nDen gesamten vAU auf der vorderen Armelkugel abtragen und oben einen Strich markieren.\nDie hAchsel an der hinteren Armelkugel \\(\\cdot\\) EW (0,5 cm bis 1 cm) übertragen. Bei kleiner EW ist 0,5 cm, bei großer EW ist 1 cm, bei mittlerer ist 0,7 cm zu addieren.\nVon Dort die Nahtlänge zwischen hAP und SuP an der hinteren oberen Armelkugel abtragen und auch hier einen Strich markieren.\nDen SuP bei \\(1 / 2\\) im vorderen Bereich markieren. Somit ist hinten \\(1 / 2\\), also mehr EW vorhanden.\nEin zweiter Knips wird 1 cm oberhalb des hAP markiert. Damit ist der hintere Ärmelbereich eindeutig definiert.\nDie Oberarmweite (OaW) auf der Hälfte zwischen SuP und Ellenbogenlinie waagerecht kontrollieren.\n\n107",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 600,
+          "top_left_y": 588,
+          "bottom_right_x": 2610,
+          "bottom_right_y": 1323,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1115,
+          "top_left_y": 1872,
+          "bottom_right_x": 2651,
+          "bottom_right_y": 2610,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1180,
+          "top_left_y": 1421,
+          "bottom_right_x": 2622,
+          "bottom_right_y": 1807,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2646,
+          "top_left_y": 527,
+          "bottom_right_x": 3651,
+          "bottom_right_y": 772,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 196,
+          "top_left_y": 1041,
+          "bottom_right_x": 523,
+          "bottom_right_y": 2573,
+          "content": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (4)\nEinnaht-Ärmel für die natürliche Armform (einfache Variante)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 453,
+          "top_left_y": 1933,
+          "bottom_right_x": 535,
+          "bottom_right_y": 2515,
+          "content": "# Saum, Ärmelnaht, Ärmelbrüche und Abnäher",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 564,
+          "top_left_y": 1924,
+          "bottom_right_x": 972,
+          "bottom_right_y": 2576,
+          "content": "6 Weiterentwicklung von Seite 205: An der Saumlinie 2 bis 3 cm hochmessen und \\(1/2\\) ASaW zur Saumlinie abtragen \\(\\rightarrow\\) Saum.\nAn der Ellenbogenlinie hinten (rechts) 0,5 bis 1 cm einstellen. Von P8 über die Einstellung weiter zum Saum zeichnen \\(\\rightarrow\\) hinterer Ärmelbruch.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 494,
+          "top_left_y": 1268,
+          "bottom_right_x": 1082,
+          "bottom_right_y": 1865,
+          "content": "An der Ellenbogenlinie vorne 0,5 bis 1 cm für die Formung des Arzum VAP und zum vorderen Saum zeichnen.\nDie Armelnaht (AN) parallel zum VABr durch den TP zum Saum zeichnen (einfache Form).\n7 Nahtmarkierungen (Knipse) an die Ärmelnaht 6 bis 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 600,
+          "top_left_y": 588,
+          "bottom_right_x": 2610,
+          "bottom_right_y": 1323,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1115,
+          "top_left_y": 1872,
+          "bottom_right_x": 2651,
+          "bottom_right_y": 2610,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1180,
+          "top_left_y": 1421,
+          "bottom_right_x": 2622,
+          "bottom_right_y": 1807,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2704,
+          "top_left_y": 2049,
+          "bottom_right_x": 2749,
+          "bottom_right_y": 2619,
+          "content": "6 Ärmelnaht, Abnäher und Saum",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2651,
+          "top_left_y": 1455,
+          "bottom_right_x": 2732,
+          "bottom_right_y": 1875,
+          "content": "7 Darstellung der Inneren (gefärbten) Ärmelflächen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2630,
+          "top_left_y": 793,
+          "bottom_right_x": 2740,
+          "bottom_right_y": 1375,
+          "content": "8 Unterärmel-Flächen spiegeln (einfache Variante), Ärmelpunkte markieren und Oberarmweite kontrollieren",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2646,
+          "top_left_y": 527,
+          "bottom_right_x": 3651,
+          "bottom_right_y": 772,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2883,
+          "top_left_y": 2144,
+          "bottom_right_x": 2941,
+          "bottom_right_y": 2625,
+          "content": "# 6 Ärmelflächen spiegeln",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2949,
+          "top_left_y": 1872,
+          "bottom_right_x": 3324,
+          "bottom_right_y": 2628,
+          "content": "7+8 Die Armelflachen an vABr und hABr nach außen spiegeln.\n8 Am vABr entsteht bei thisem Ärmel ein großer Überschneidungsbetrag an der Ellenbogenlinie. Um diese Strecke ist die vAN kürzer als die hAN.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3341,
+          "top_left_y": 1884,
+          "bottom_right_x": 3655,
+          "bottom_right_y": 2631,
+          "content": "Hier muss der zugeschnittene Ärmel zwischen den Knipsen stark gedehnt werden. Dieser Dohnbetrag ist umso größer. Je weiter die Ärmelnaht vom vÄBr entfernt ist und je größer die Einstellung am vÄBr (bei P15) ist.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3659,
+          "top_left_y": 1887,
+          "bottom_right_x": 3778,
+          "bottom_right_y": 2631,
+          "content": "Beim Näher muss die Ärmelnaht glatt sein und die Knipse exakt passen!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2843,
+          "top_left_y": 1152,
+          "bottom_right_x": 2896,
+          "bottom_right_y": 1697,
+          "content": "# Ärmelpunkte und Oberarmweite",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2900,
+          "top_left_y": 824,
+          "bottom_right_x": 3712,
+          "bottom_right_y": 1770,
+          "content": "Den gesamten vAU auf der vorderen Armelkugel abtragen und oben einen Strich markieren.\nDie hAchsel an der hinteren Armelkugel \\(\\cdot\\) EW (0,5 cm bis 1 cm) übertragen. Bei kleiner EW ist 0,5 cm, bei großer EW ist 1 cm, bei mittlerer ist 0,7 cm zu addieren.\nVon Dort die Nahtlänge zwischen hAP und SuP an der hinteren oberen Armelkugel abtragen und auch hier einen Strich markieren.\nDen SuP bei \\(1 / 2\\) im vorderen Bereich markieren. Somit ist hinten \\(1 / 2\\), also mehr EW vorhanden.\nEin zweiter Knips wird 1 cm oberhalb des hAP markiert. Damit ist der hintere Ärmelbereich eindeutig definiert.\nDie Oberarmweite (OaW) auf der Hälfte zwischen SuP und Ellenbogenlinie waagerecht kontrollieren.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3598,
+          "top_left_y": 386,
+          "bottom_right_x": 3647,
+          "bottom_right_y": 466,
+          "content": "107",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3802853
+  }
+}

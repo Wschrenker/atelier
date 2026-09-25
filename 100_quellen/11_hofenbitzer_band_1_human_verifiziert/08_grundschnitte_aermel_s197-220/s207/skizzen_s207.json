@@ -1,0 +1,51 @@
+{
+  "seite": "s207",
+  "quelle": "ocr_s207_raw.json",
+  "hinweis_koordinaten": "bounding_box_raw bezieht sich auf die Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060, EXIF-Orientierung 6); die gespeicherten PNGs sind bereits aus dem Raw-Crop 90° im Uhrzeigersinn aufrecht gedreht.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s207_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [600, 588, 2610, 1323],
+      "beschreibung": "Großes flaches Schnittteil (Unterärmel gespiegelt) mit Ärmelkugel, EW-Berechnung, Punkten 18-24, Beschriftung 'schmaler Ärmel G 38 PK 3'",
+      "zugehoerige_ocr_bildunterschrift": "□8 Unterärmel-Flächen spiegeln (einfache Variante), Ärmelpunkte markieren und Oberarmweite kontrollieren",
+      "sichtbare_labels": [
+        "vÄP", "hÄchsel", "tP", "EW = 2,6 cm + 0,7 cm = 3,3 cm", "SuP",
+        "vÄBr", "hÄBr (hinterer Ärmelbruch)", "OaW", "hÄP",
+        "vordere Ärmelnaht (ÄN)", "hintere Ärmelnaht (ÄN)",
+        "vorderer Ärmelbruch", "schmaler Ärmel G 38 PK 3"
+      ],
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s207_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [1115, 1872, 2651, 2610],
+      "beschreibung": "Flaches Schnittteil (hinterer Ärmelbruch/Abnäherschenkel) mit Punkten 8, 10, 13-16, Bemaßung 0,5-1 cm und 1/2 ÄSaW",
+      "zugehoerige_ocr_bildunterschrift": "□6 Ärmelnaht, Abnäher und Saum",
+      "sichtbare_labels": [
+        "vÄP", "tP", "ÄkLi", "vÄBr", "Ärmelnaht (ÄN)",
+        "hÄBr (= Abnäherschenkel)", "1/2 ÄsW"
+      ],
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s207_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [1180, 1421, 2622, 1807],
+      "beschreibung": "Flaches Schnittteil (innere/gefärbte Ärmelfläche) mit zwei Knipsmarkierungen Punkt 17, Bemaßung 6 bis 8 cm oberhalb/unterhalb der Ellenbogenlinie",
+      "zugehoerige_ocr_bildunterschrift": "□7 Darstellung der inneren (gefärbten) Ärmelflächen",
+      "sichtbare_labels": ["vÄP", "tP", "ÄN", "hÄBr", "vÄBr", "6 bis 8 cm"],
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s207_skizze_04.png",
+      "ocr_id": "img-3",
+      "bounding_box_raw": [2646, 527, 3651, 772],
+      "beschreibung": "Kleine Profilfigur (Seitenansicht Kopf/Oberkörper/Arm) mit blau markiertem Ärmelbereich zur Textstelle 'Ärmelpunkte und Oberarmweite'; keine eigene Bildunterschrift mit Kästchen-Nummer",
+      "zugehoerige_ocr_bildunterschrift": null,
+      "sichtbare_labels": [],
+      "geprueft": false
+    }
+  ]
+}

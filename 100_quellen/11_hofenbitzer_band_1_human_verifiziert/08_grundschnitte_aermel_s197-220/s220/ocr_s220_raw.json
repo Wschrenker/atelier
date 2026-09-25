@@ -1,0 +1,179 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Ärmel-\nVariationen\n\nÜbersicht\nWahl des passenden Ärmel-Grundschnitts\n\nÜbersicht\n\n[tbl-0.md](tbl-0.md)\n\n[tbl-1.md](tbl-1.md)\n\nÜbersicht\nWahl des passenden Ärmel-Gr.\n\n![img-0.jpeg](img-0.jpeg)\n\n220\n\nKurze\n\nC21\n\nKurze\n\nC22\n\nC23\n\nC24",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 2209,
+          "top_left_y": 270,
+          "bottom_right_x": 3459,
+          "bottom_right_y": 2490,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Wahl des passenden Ärmel-Grundschnitts |   | 220  |\n| --- | --- | --- |\n|  1-3 | Kurze Blusen- und Kleiderärmel | 221  |\n|  4 | Weiter Bündchenärmel | 222  |\n|  5 | Hemd-Blusen-Ärmel mit Falten, Schlitz und Manschette | 223  |\n|  6-11 | Kurze Ärmel mit Erweiterungen | 224  |\n|  12-15 | Weite Ärmel und Form-Manschetten | 226  |\n|  16-17 | Keulenärmel | 228  |\n|  18-19 | Schmaler Ärmel in 7/8-Länge mit offenem Schlitz, Trompetenärmel | 229  |\n|  20-27 | Festlich-elegante Ärmel | 230  |\n|  28 | Einnaht-Ärmel für Jacken und Mäntel + Futter | 234  |\n|  29 | Zweinaht-Ärmel aus dem Einnaht-Ärmel | 236  |\n|  30 | Blazer-Ärmel mit verdecktem Schlitz | 237  |\n|  31 | Imitierter Ärmel-Schlitz | 237  |\n|  Futterschnitte für Zweinaht-Ärmel |   | 238  |\n|  32 | Zweinaht-Ärmel mit offenem Schlitz, Briefecken und Futter | 240  |\n|  33 | Zweinaht-Ärmel mit gerundetem offenem Schlitz, Saumbeleg und Futter | 241  |\n|  34 | Zweinaht-Ärmel mit Blende und Futter | 242  |\n|  35-36 | Zweinaht-Ärmel und Einnaht-Ärmel mit dekorativ geformten Blenden | 243  |\n|  37 | Zweinaht-Ärmel mit schmaler Schlitz-Blende an verdecktem Schlitz | 244  |\n|  38 | Einnaht-Ärmel mit angeschnittenem Saumaufschlag | 245  |\n|  40-41 | Zweinaht-Ärmel mit Saumaufschlägen | 246  |\n|  42 | Ärmel mit Oberarmnaht | 248  |\n|  43 | Ärmel mit Oberarmnaht mit hinterer Teilungsnaht und Ärmelgurt | 249  |\n|  Vorbereitungen für eine Ärmelanlage |   | 250  |\n|  Ärmelanlage mit korrektem Ärmelfall, einfach |   | 251  |\n|  Ärmelanlage mit korrektem Ärmelfall, aufgelockert |   | 252  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  Ärmelanlage mit korrektem Ärmelfall, aufgelockert mit Armlochvertiefung und Schulterpolstererhöhung |   | 254  |\n| --- | --- | --- |\n|  Legere Ärmelanlage mit großer Hebelänge |   | 256  |\n|  44 | Legere Ärmelanlage, Halbraglan | 257  |\n|  45 | Legere Ärmelanlage, überschnittener Ärmel | 258  |\n|  46 | Legere Ärmelanlage, hoch angesetzter Ärmel | 259  |\n|  Raglan-Abtrennungen: |   | 260  |\n|  47-50 | Passen-, Fantasie-, Zungen-Raglan | 260  |\n|  Varianten mit Jackenfutter mit Raglanärmel |   | 263  |\n|  Kimono-Abtrennungen mit Teilungsnähten |   | 264  |\n|  Verschiedene Nahtformen im Rumpfeil: |   |   |\n|  51 | Kimono mit Wiener Haht | 264  |\n|  52-53 | Kimono mit Flankennaht und Fantasienähten | 265  |\n|  Verschiedene Nahtformen am Ärmel: |   |   |\n|  54-55 | Varianten überschnittene Ärmel | 266  |\n|  Verschiedene Nahtformen und Saumabschlüsse am Ärmel: |   |   |\n|  56-58 | Varianten mit Unterarmabtrennung und Trompetenärmel | 267  |\n|  59 | Drachenkeil-Kimono | 268  |\n|  60 | Seitenstreifen-Kimono | 268  |\n|  61 | Seitenteil-Kimono mit Unterarmkeil | 272  |\n|  62 | Flankenteil-Kimono | 274  |\n|  63 | Unterarm-Kimono | 276  |\n|  64-67 | Abtrennungen zum Kimono mit Kellecke aus der Drachenkeil-Variante | 278  |\n|   | Überschnittener Ärmel | 278  |\n|   | Halbraglan, Fantasieraglan, Kimonoabtrennung | 279  |\n|  68 | Dulman-Ärmel-Anlage | 280  |\n|  69 | Fledermaus-Ärmel, Grundprinzip | 282  |\n|  70-71 | Fledermaus-Ärmel, mit mehr Auflockerung, Mehrweite, Unterarmnaht | 285  |\n|  72 | Fledermaus-Ärmel, mit Schulterpolster und Vergrößerung der Hebelänge | 286  |\n|  73 | Fledermaus-Ärmel aus dem Unisex-Oberteil | 288  |\n|  74-76 | Fledermaus-Ärmel, kurze Formen | 289  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 245,
+          "top_left_y": 2187,
+          "bottom_right_x": 359,
+          "bottom_right_y": 2490,
+          "content": "Ärmel-\nVariationen",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 229,
+          "top_left_y": 1023,
+          "bottom_right_x": 351,
+          "bottom_right_y": 2071,
+          "content": "Übersicht\nWahl des passenden Ärmel-Grundschnitts",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 466,
+          "top_left_y": 2120,
+          "bottom_right_x": 506,
+          "bottom_right_y": 2285,
+          "content": "Übersicht",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 515,
+          "top_left_y": 1372,
+          "bottom_right_x": 2124,
+          "bottom_right_y": 2300,
+          "content": "|  Wahl des passenden Ärmel-Grundschnitts |   | 220  |\n| --- | --- | --- |\n|  1-3 | Kurze Blusen- und Kleiderärmel | 221  |\n|  4 | Weiter Bündchenärmel | 222  |\n|  5 | Hemd-Blusen-Ärmel mit Falten, Schlitz und Manschette | 223  |\n|  6-11 | Kurze Ärmel mit Erweiterungen | 224  |\n|  12-15 | Weite Ärmel und Form-Manschetten | 226  |\n|  16-17 | Keulenärmel | 228  |\n|  18-19 | Schmaler Ärmel in 7/8-Länge mit offenem Schlitz, Trompetenärmel | 229  |\n|  20-27 | Festlich-elegante Ärmel | 230  |\n|  28 | Einnaht-Ärmel für Jacken und Mäntel + Futter | 234  |\n|  29 | Zweinaht-Ärmel aus dem Einnaht-Ärmel | 236  |\n|  30 | Blazer-Ärmel mit verdecktem Schlitz | 237  |\n|  31 | Imitierter Ärmel-Schlitz | 237  |\n|  Futterschnitte für Zweinaht-Ärmel |   | 238  |\n|  32 | Zweinaht-Ärmel mit offenem Schlitz, Briefecken und Futter | 240  |\n|  33 | Zweinaht-Ärmel mit gerundetem offenem Schlitz, Saumbeleg und Futter | 241  |\n|  34 | Zweinaht-Ärmel mit Blende und Futter | 242  |\n|  35-36 | Zweinaht-Ärmel und Einnaht-Ärmel mit dekorativ geformten Blenden | 243  |\n|  37 | Zweinaht-Ärmel mit schmaler Schlitz-Blende an verdecktem Schlitz | 244  |\n|  38 | Einnaht-Ärmel mit angeschnittenem Saumaufschlag | 245  |\n|  40-41 | Zweinaht-Ärmel mit Saumaufschlägen | 246  |\n|  42 | Ärmel mit Oberarmnaht | 248  |\n|  43 | Ärmel mit Oberarmnaht mit hinterer Teilungsnaht und Ärmelgurt | 249  |\n|  Vorbereitungen für eine Ärmelanlage |   | 250  |\n|  Ärmelanlage mit korrektem Ärmelfall, einfach |   | 251  |\n|  Ärmelanlage mit korrektem Ärmelfall, aufgelockert |   | 252  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 486,
+          "top_left_y": 368,
+          "bottom_right_x": 2205,
+          "bottom_right_y": 1314,
+          "content": "|  Ärmelanlage mit korrektem Ärmelfall, aufgelockert mit Armlochvertiefung und Schulterpolstererhöhung |   | 254  |\n| --- | --- | --- |\n|  Legere Ärmelanlage mit großer Hebelänge |   | 256  |\n|  44 | Legere Ärmelanlage, Halbraglan | 257  |\n|  45 | Legere Ärmelanlage, überschnittener Ärmel | 258  |\n|  46 | Legere Ärmelanlage, hoch angesetzter Ärmel | 259  |\n|  Raglan-Abtrennungen: |   | 260  |\n|  47-50 | Passen-, Fantasie-, Zungen-Raglan | 260  |\n|  Varianten mit Jackenfutter mit Raglanärmel |   | 263  |\n|  Kimono-Abtrennungen mit Teilungsnähten |   | 264  |\n|  Verschiedene Nahtformen im Rumpfeil: |   |   |\n|  51 | Kimono mit Wiener Haht | 264  |\n|  52-53 | Kimono mit Flankennaht und Fantasienähten | 265  |\n|  Verschiedene Nahtformen am Ärmel: |   |   |\n|  54-55 | Varianten überschnittene Ärmel | 266  |\n|  Verschiedene Nahtformen und Saumabschlüsse am Ärmel: |   |   |\n|  56-58 | Varianten mit Unterarmabtrennung und Trompetenärmel | 267  |\n|  59 | Drachenkeil-Kimono | 268  |\n|  60 | Seitenstreifen-Kimono | 268  |\n|  61 | Seitenteil-Kimono mit Unterarmkeil | 272  |\n|  62 | Flankenteil-Kimono | 274  |\n|  63 | Unterarm-Kimono | 276  |\n|  64-67 | Abtrennungen zum Kimono mit Kellecke aus der Drachenkeil-Variante | 278  |\n|   | Überschnittener Ärmel | 278  |\n|   | Halbraglan, Fantasieraglan, Kimonoabtrennung | 279  |\n|  68 | Dulman-Ärmel-Anlage | 280  |\n|  69 | Fledermaus-Ärmel, Grundprinzip | 282  |\n|  70-71 | Fledermaus-Ärmel, mit mehr Auflockerung, Mehrweite, Unterarmnaht | 285  |\n|  72 | Fledermaus-Ärmel, mit Schulterpolster und Vergrößerung der Hebelänge | 286  |\n|  73 | Fledermaus-Ärmel aus dem Unisex-Oberteil | 288  |\n|  74-76 | Fledermaus-Ärmel, kurze Formen | 289  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 1634,
+          "top_left_y": 2405,
+          "bottom_right_x": 2136,
+          "bottom_right_y": 2490,
+          "content": "Übersicht\nWahl des passenden Ärmel-Gr.",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2209,
+          "top_left_y": 270,
+          "bottom_right_x": 3459,
+          "bottom_right_y": 2490,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 3422,
+          "top_left_y": 2441,
+          "bottom_right_x": 3471,
+          "bottom_right_y": 2530,
+          "content": "220",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 196,
+          "top_left_y": 3,
+          "bottom_right_x": 257,
+          "bottom_right_y": 190,
+          "content": "Kurze",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1066,
+          "top_left_y": 110,
+          "bottom_right_x": 1127,
+          "bottom_right_y": 162,
+          "content": "C21",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1066,
+          "top_left_y": 3,
+          "bottom_right_x": 1127,
+          "bottom_right_y": 64,
+          "content": "Kurze",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1327,
+          "top_left_y": 3,
+          "bottom_right_x": 1781,
+          "bottom_right_y": 138,
+          "content": "C22",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2030,
+          "top_left_y": 3,
+          "bottom_right_x": 2561,
+          "bottom_right_y": 175,
+          "content": "C23",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2822,
+          "top_left_y": 3,
+          "bottom_right_x": 3451,
+          "bottom_right_y": 150,
+          "content": "C24",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3853193
+  }
+}

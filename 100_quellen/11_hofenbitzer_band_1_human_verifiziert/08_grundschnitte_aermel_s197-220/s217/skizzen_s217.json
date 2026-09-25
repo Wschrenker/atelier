@@ -1,0 +1,45 @@
+{
+  "source": "s217.jpg (Originalbild, EXIF-Orientierung 6)",
+  "ocr_eingabe": "Vollseite, unverändertes Originalbild (Rohdaten, nicht vorgedreht)",
+  "bbox_bezug": "Pixel der OCR-Eingabe (Rohorientierung, 4080 × 3060 px)",
+  "ausschnitte": "aus dem Rohbild geschnitten und anschließend 90° im Uhrzeigersinn aufrecht gedreht (entsprechend EXIF-Orientierung 6)",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s217_skizze_01.png",
+      "bbox_raw_pixels": [388, 1709, 948, 1994],
+      "herkunft": "von der OCR als Bildregion erkannt, Bildunterschrift von der OCR korrekt übernommen",
+      "beschreibung": "□1 Armlochauflockerung: Vorderansicht Rumpf mit vorderem und hinterem Armloch, zwei rote Pfeile zeigen die Auflockerungsrichtung am Armloch"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s217_skizze_02.png",
+      "bbox_raw_pixels": [1115, 1645, 1895, 2821],
+      "herkunft": "von der OCR als Bildregion erkannt, Bildunterschrift von der OCR korrekt übernommen",
+      "beschreibung": "□2 Armlochauflockerung am Schnitt: VT (links) und RT (rechts) mit Kreispunkt 1, Maßangaben 0,5 bis 1,5 cm und 1 bis 2,5 cm am vorderen Abnäher"
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s217_skizze_03.png",
+      "bbox_raw_pixels": [2067, 588, 3802, 1443],
+      "herkunft": "von der OCR als Bildregion erkannt, aber in der Lesereihenfolge des OCR-Markdowns direkt nach img-1.jpeg und vor der Bildunterschrift „☐2 Armlochauflockerung am Schnitt\" eingeordnet – tatsächlich gehört diese Zeichnung nicht zu Bildunterschrift ☐2, sondern zur eigenständigen Bildunterschrift „☐5 Ärmelanpassung\" weiter unten auf der Seite. Diese Bildunterschrift „☐5 Ärmelanpassung\" wurde von der OCR an keiner Stelle in den Markdown-Fließtext übernommen (im Rohtext fehlt sie vollständig). Die Zuordnung hier beruht auf meiner eigenen visuellen Lesung des Originalfotos, nicht auf der OCR.",
+      "beschreibung": "□5 Ärmelanpassung (Bildunterschrift von der OCR nicht erfasst, eigene Lesung): Ärmelkugel-Aufriss mit Kreispunkten 4, 5, 6, 7, 8, 9, 10, Beschriftungen „Kugelerhöhung um ca. ¼ bis ⅓ der gesamten Armlochauflockerung\", „ca. 5 cm\", „öffnen um ⅙ bis ⅓ der gesamten Armlochauflockerung\", Beispielangabe „schmaler Ärmel / G 38 / PK 3\", „max. wie oben öffnen für Saum-Erweiterung\", „ggf. Ärmel am Saum um die Kugelerhöhung kürzen\""
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s217_skizze_04.png",
+      "bbox_raw_pixels": [2026, 1770, 2871, 2475],
+      "herkunft": "von der OCR als Bildregion erkannt, Bildunterschrift von der OCR korrekt übernommen",
+      "beschreibung": "□3 Alternative Armlochauflockerung hinten: RT mit Kreispunkt 2, Schulterblatt-Linie, Maßangabe 0,5 bis 1,5 cm"
+    },
+    {
+      "id": "img-4.jpeg",
+      "file": "skizzen/s217_skizze_05.png",
+      "bbox_raw_pixels": [3051, 1645, 3941, 2720],
+      "herkunft": "von der OCR als Bildregion erkannt, Bildunterschrift von der OCR korrekt übernommen",
+      "beschreibung": "□4 Schulterabnäher durch die Armlochauflockerung entfernen: RT mit Kreispunkt 3, Schulterblatt-Linie, Maßangabe 1 bis 1,5 cm, Begleittext „Restabnäher am Armloch entfernen. Oder die Schulterverbreiterung als Weite im Schnitt belassen, wenn damit die Einhalteweite nicht zu groß wird.\""
+    }
+  ],
+  "anmerkung": "Alle fünf von der OCR erkannten Bildregionen wurden gegen das vollständige Originalbild geprüft; keine zusätzliche Zeichnung der Besitzerseite wurde übersehen. Die OCR hat jedoch die Lesereihenfolge von img-2.jpeg (□5-Zeichnung) falsch in den Fließtext einsortiert und die Bildunterschrift „☐5 Ärmelanpassung\" gar nicht transkribiert; siehe Anmerkungen in s217.md. Keine Tabelle auf dieser Seite erkannt (tables: [])."
+}

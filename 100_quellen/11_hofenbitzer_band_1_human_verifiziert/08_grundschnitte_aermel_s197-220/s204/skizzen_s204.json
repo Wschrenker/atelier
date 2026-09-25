@@ -1,0 +1,23 @@
+{
+  "seite": "s204",
+  "quelle": "ocr_s204_raw.json",
+  "hinweis_koordinaten": "bounding_box_raw in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind mit 15 px Rand aus dem Rohbild geschnitten und anschließend gemäß EXIF-Orientierung 6 um 90° im Uhrzeigersinn aufrecht gedreht.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s204_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [453, 407, 1078, 910],
+      "beschreibung": "Kleine Skizze (Schritt 7 markiert), Bildunterschrift ❑2 'Armloch eines taillierten Oberteil-Grundschnitt'; Armloch-Kurvenzug mit Beschriftungen vAllU 14,4 cm, hAllU 13,8 cm (Lesung unsicher, evtl. vAlU/hAlU), AlH 17,2 cm, vÄP, hÄP, vAchsel 4,5 cm, hAchsel 8,5 cm, me = 2,7 cm, tP, zwei mit SN beschriftete gestrichelte Linien.",
+      "label_am_original": null,
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s204_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [1307, 414, 3484, 1259],
+      "beschreibung": "Großes Konstruktionsdiagramm, Bildunterschrift ❑3 'Grundgerüst'; rechteckiges Grundgerüst mit Schulterlinie, Ellenbogenlinie, Saumlinie, vorderer und hinterer Linie, Maßlinien AlH (hier 17,2 cm), 1/10 AlH (hier 1,7 cm), 60% ÄL, ÄL, 60 cm, 60 cm · 0,60 = 36 cm, ½ OaW + 0,5 bis 0,7 (hier 15,9), grün gestrichelte Diagonale '½ ÄkU – 1 cm, exakter: 48% ÄkU = 44,5 cm · 0,48 = 21,4 cm', Beschriftung Ärmelkugellinie (ÄkLi); sechs blaue Schrittmarken ①–⑥, die die Konstruktionsschritte aus Abschnitt '2 Grundgerüst zeichnen' den Punkten im Diagramm zuordnen.",
+      "label_am_original": null,
+      "geprueft": false
+    }
+  ]
+}

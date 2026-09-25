@@ -1,0 +1,24 @@
+{
+  "seite": "s212",
+  "quelle": "ocr_s212_raw.json",
+  "hinweis_koordinaten": "bounding_box in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "hinweis_ocr": "Mistral OCR hat für diese Seite nur eine einzige, sehr grobe Bildregion (img-0) gemeldet, die praktisch den gesamten Inhaltsbereich der Seite abdeckt (Fließtext-Kästen und beide Zeichnungen zusammen). Diese Region wurde deshalb NICHT unverändert als Skizzenausschnitt übernommen, sondern manuell in die beiden tatsächlich getrennten Zeichnungen aufgeteilt.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s212_skizze_01.png",
+      "ocr_id": "img-0 (Teilbereich, manuell abgegrenzt)",
+      "bounding_box_raw": [300, 159, 2210, 2559],
+      "herkunft": "OCR-Bildregion war zu grob; Ausschnitt manuell auf dieses Schnittpaar eingegrenzt",
+      "beschreibung": "Textkasten \"Passformklassen-Anpassung\" mit Fließtext, ACHTUNG-Kasten (Verweis auf Seite 208/214) und das VT/RT-Schnittpaar (Vorderteil links, Rückteil rechts) zur Passformklassen-Anpassung PK3→PK8 mit Beschriftungen VT, RT, BrP, vAP, hAP, Armloch-Vertiefung, neue BrLi, 1/3, 2/3, Taill. OT-GS (durchgestrichen), Taillierter OT-GS, ½ Taillenweite/Hüftweite messen, ½ TaW = 44,6, ½ HüW = 56,1, Bildunterschrift □1 (unterer Rand teilweise angeschnitten).",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s212_skizze_02.png",
+      "ocr_id": "img-0 (Teilbereich, manuell abgegrenzt)",
+      "bounding_box_raw": [2000, 309, 3600, 2059],
+      "herkunft": "OCR-Bildregion war zu grob; Ausschnitt manuell auf diese Zeichnung eingegrenzt",
+      "beschreibung": "Ärmelgrundschnitt: Ärmelkugel mit SuP, vAP, hAP, neue ÄkLi, Punkten ①/②/③, \"½ Armloch-Verbreiterung\" / \"die ganze Armlochverbreiterung\", darunter das Schnittteil \"schmaler Ärmel G38 PK3\"; Bildunterschrift □2 \"Neue Kugelhöhe am Ärmelgrundschnitt\". Am linken Rand bleiben Textfragmente des benachbarten Absatzes \"① Bemerkung zur Vertiefung der neuen Ärmelkugellinie\" sichtbar (nicht Teil dieser Zeichnung).",
+      "geprueft": false
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ärmelanpassung mit gleichzeitiger Einstellung der Einhalteweite (1) für einen Ärmel mit Schulterpolstererhöhung und Armlochauflockerung\n\n![img-0.jpeg](img-0.jpeg)\n\n2\n\nÄrmelanpassung mit gleichzeitiger Kontrolle der Einhalteweite\n\nSehr oft gibt es für einen vorliegenden Oberteil-Grundschnitt einen passenden Ärmel-Grundschnitt. Wird nun der Oberteilgrundschnitt z.B. für eine Modellabwandlung am Armloch vergrößert, passt der jeweilige Ärmel nicht mehr in das Armloch (plus notwendiger Einhalteweite). In unserem Beispiel ist der Armlochumfang (50,2 cm) sogar deutlich größer als der Ärmelkugelumfang (48,5 cm).\n\n4 Wurde allerdings das Armloch zusätzlich vertieft, muss unbedingt zuvor die Ärmelanpassung wie ab-Seite 212 vorgenommen werden!\n\nGrundsätzlich kann für das neue Armloch immer auch ein neuer Ärmel konstruiert werden.\n\nDer Vorteil zu den zuvor gezeigten Anpassungen ist die gleichzeitige Einstellung der gewünschten Einhalteweite an der neuen Ärmelkugel.\n\n# 1 Neues Armloch und die Ärmelkugel des vorhandenen Ärmels ausmessen\n\n1 Armlockkurven des erweiterten neuen Armlochs (AlU) messen (Messungen notieren):\n\nAlU = vorderes Armloch + hinteres Armloch\n\nhier = 24,2 cm + 26 cm = 50,2 cm\n\n2 Den Ärmelkugelumfang (ÄkUAC) des vorhandenen Ärmels messen und am Ärmel notieren:\n\nhier ÄkUACT = 48,5 cm\n\n# 2 Neuen Ärmelkugel-Umfang berechnen\n\nDie gewünschte Einhalteweite (EW) entsprechend der Stoffqualität prozentual bestimmen (hier wird eine EW von 7 % verwendet). Alternativ kann die Einhalteweite auch in cm bestimmt werden.\n\nDa der neue Ärmel in das neue Armloch genäht werden soll, wird nun die EW zum neuen Armlochumfang (AlU) hinzu gerechnet, um den neuen Ärmelkugelumfang (ÄkUADC) zu erhalten:\n\nÄkUABC = AlU · (100% + EW in %) : 100%\nhier = 50,2 cm · (100% + 7%) : 100%\n= 50,2 cm · 1,07\nÄkUABC = 53,7 cm\n\n# 3 Fehlweite berechnen\n\nzwischen alter Ärmelkugel (ÄkUACT) und neuem Ärmelkugelumfang (ÄkUADC)\n\nFehlweite = ÄkUACT - ÄkUABC\nhier = 48,5 cm - 53,7 cm\n= -5,2 cm → Fehlweite = 5,2 cm\n\n# 4 Einschrittinien in den Ärmel zeichnen\n\n2 Die Armelkugel bei ca. 5 cm kappen und\nwie dargestellt, bis zum Saum einschneiden.\n\n# 5 Schulterpolster-Öffnung an der Ärmelkugel\n\n3 Die Kugel wird waagerecht um ca. ⅓ der Polstererhöhung geöffnet.\n\nhier Öffnung = 2,5 cm : 3 = 0,8 cm\n\nDiese Öffnung erzielt insgesamt ca. die doppelte Mehrweite an der linken und an der rechten Ärmelkugel:\n\nhier\n\n2 · ⅓ SuPoE = ⅔ SuPoE → ⅔ von 2,5 cm = ca. 1,7 cm\n\n![img-1.jpeg](img-1.jpeg)\n\n2 Ärmelanpassung für Armlochauflockerung und Schulterpolstererhöhung\n\n218\n\nA\nf\n\n4\nDie\nwe\nun\nhie\n2\n4",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 363,
+          "top_left_y": 224,
+          "bottom_right_x": 1197,
+          "bottom_right_y": 1538,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1764,
+          "top_left_y": 230,
+          "bottom_right_x": 3406,
+          "bottom_right_y": 1167,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 118,
+          "top_left_y": 248,
+          "bottom_right_x": 261,
+          "bottom_right_y": 2046,
+          "content": "# Ärmelanpassung mit gleichzeitiger Einstellung der Einhalteweite (1) für einen Ärmel mit Schulterpolstererhöhung und Armlochauflockerung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 363,
+          "top_left_y": 224,
+          "bottom_right_x": 1197,
+          "bottom_right_y": 1538,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 372,
+          "top_left_y": 2383,
+          "bottom_right_x": 462,
+          "bottom_right_y": 2450,
+          "content": "2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 903,
+          "top_left_y": 2414,
+          "bottom_right_x": 1507,
+          "bottom_right_y": 2503,
+          "content": "Ärmelanpassung mit gleichzeitiger Kontrolle der Einhalteweite",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 376,
+          "top_left_y": 1654,
+          "bottom_right_x": 841,
+          "bottom_right_y": 2300,
+          "content": "Sehr oft gibt es für einen vorliegenden Oberteil-Grundschnitt einen passenden Ärmel-Grundschnitt. Wird nun der Oberteilgrundschnitt z.B. für eine Modellabwandlung am Armloch vergrößert, passt der jeweilige Ärmel nicht mehr in das Armloch (plus notwendiger Einhalteweite). In unserem Beispiel ist der Armlochumfang (50,2 cm) sogar deutlich größer als der Ärmelkugelumfang (48,5 cm).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 854,
+          "top_left_y": 1675,
+          "bottom_right_x": 1033,
+          "bottom_right_y": 2310,
+          "content": "4 Wurde allerdings das Armloch zusätzlich vertieft, muss unbedingt zuvor die Ärmelanpassung wie ab-Seite 212 vorgenommen werden!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1050,
+          "top_left_y": 1672,
+          "bottom_right_x": 1180,
+          "bottom_right_y": 2319,
+          "content": "Grundsätzlich kann für das neue Armloch immer auch ein neuer Ärmel konstruiert werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1197,
+          "top_left_y": 1672,
+          "bottom_right_x": 1385,
+          "bottom_right_y": 2322,
+          "content": "Der Vorteil zu den zuvor gezeigten Anpassungen ist die gleichzeitige Einstellung der gewünschten Einhalteweite an der neuen Ärmelkugel.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1340,
+          "top_left_y": 291,
+          "bottom_right_x": 1389,
+          "bottom_right_y": 1611,
+          "content": "# 1 Neues Armloch und die Ärmelkugel des vorhandenen Ärmels ausmessen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 956,
+          "bottom_right_x": 1544,
+          "bottom_right_y": 1620,
+          "content": "1 Armlockkurven des erweiterten neuen Armlochs (AlU) messen (Messungen notieren):",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1556,
+          "top_left_y": 999,
+          "bottom_right_x": 1646,
+          "bottom_right_y": 1623,
+          "content": "AlU = vorderes Armloch + hinteres Armloch",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1646,
+          "top_left_y": 974,
+          "bottom_right_x": 1695,
+          "bottom_right_y": 1623,
+          "content": "hier = 24,2 cm + 26 cm = 50,2 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1397,
+          "top_left_y": 251,
+          "bottom_right_x": 1536,
+          "bottom_right_y": 897,
+          "content": "2 Den Ärmelkugelumfang (ÄkUAC) des vorhandenen Ärmels messen und am Ärmel notieren:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1556,
+          "top_left_y": 478,
+          "bottom_right_x": 1609,
+          "bottom_right_y": 897,
+          "content": "hier ÄkUACT = 48,5 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1764,
+          "top_left_y": 1605,
+          "bottom_right_x": 1817,
+          "bottom_right_y": 2322,
+          "content": "# 2 Neuen Ärmelkugel-Umfang berechnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1834,
+          "top_left_y": 1332,
+          "bottom_right_x": 2009,
+          "bottom_right_y": 2340,
+          "content": "Die gewünschte Einhalteweite (EW) entsprechend der Stoffqualität prozentual bestimmen (hier wird eine EW von 7 % verwendet). Alternativ kann die Einhalteweite auch in cm bestimmt werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2030,
+          "top_left_y": 1339,
+          "bottom_right_x": 2197,
+          "bottom_right_y": 2346,
+          "content": "Da der neue Ärmel in das neue Armloch genäht werden soll, wird nun die EW zum neuen Armlochumfang (AlU) hinzu gerechnet, um den neuen Ärmelkugelumfang (ÄkUADC) zu erhalten:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2218,
+          "top_left_y": 1375,
+          "bottom_right_x": 2406,
+          "bottom_right_y": 2352,
+          "content": "ÄkUABC = AlU · (100% + EW in %) : 100%\nhier = 50,2 cm · (100% + 7%) : 100%\n= 50,2 cm · 1,07\nÄkUABC = 53,7 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2442,
+          "top_left_y": 1853,
+          "bottom_right_x": 2491,
+          "bottom_right_y": 2352,
+          "content": "# 3 Fehlweite berechnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2512,
+          "top_left_y": 1348,
+          "bottom_right_x": 2606,
+          "bottom_right_y": 2368,
+          "content": "zwischen alter Ärmelkugel (ÄkUACT) und neuem Ärmelkugelumfang (ÄkUADC)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2622,
+          "top_left_y": 1400,
+          "bottom_right_x": 2781,
+          "bottom_right_y": 2371,
+          "content": "Fehlweite = ÄkUACT - ÄkUABC\nhier = 48,5 cm - 53,7 cm\n= -5,2 cm → Fehlweite = 5,2 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2806,
+          "top_left_y": 1611,
+          "bottom_right_x": 2859,
+          "bottom_right_y": 2371,
+          "content": "# 4 Einschrittinien in den Ärmel zeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2871,
+          "top_left_y": 1532,
+          "bottom_right_x": 3010,
+          "bottom_right_y": 2380,
+          "content": "2 Die Armelkugel bei ca. 5 cm kappen und\nwie dargestellt, bis zum Saum einschneiden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3034,
+          "top_left_y": 1550,
+          "bottom_right_x": 3100,
+          "bottom_right_y": 2380,
+          "content": "# 5 Schulterpolster-Öffnung an der Ärmelkugel",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3104,
+          "top_left_y": 1354,
+          "bottom_right_x": 3210,
+          "bottom_right_y": 2386,
+          "content": "3 Die Kugel wird waagerecht um ca. ⅓ der Polstererhöhung geöffnet.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3222,
+          "top_left_y": 1669,
+          "bottom_right_x": 3292,
+          "bottom_right_y": 2389,
+          "content": "hier Öffnung = 2,5 cm : 3 = 0,8 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3296,
+          "top_left_y": 1354,
+          "bottom_right_x": 3410,
+          "bottom_right_y": 2392,
+          "content": "Diese Öffnung erzielt insgesamt ca. die doppelte Mehrweite an der linken und an der rechten Ärmelkugel:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3406,
+          "top_left_y": 2319,
+          "bottom_right_x": 3447,
+          "bottom_right_y": 2392,
+          "content": "hier",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3455,
+          "top_left_y": 1378,
+          "bottom_right_x": 3549,
+          "bottom_right_y": 2395,
+          "content": "2 · ⅓ SuPoE = ⅔ SuPoE → ⅔ von 2,5 cm = ca. 1,7 cm",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1764,
+          "top_left_y": 230,
+          "bottom_right_x": 3406,
+          "bottom_right_y": 1167,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 3484,
+          "top_left_y": 361,
+          "bottom_right_x": 3582,
+          "bottom_right_y": 1167,
+          "content": "2 Ärmelanpassung für Armlochauflockerung und Schulterpolstererhöhung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3492,
+          "top_left_y": 2509,
+          "bottom_right_x": 3545,
+          "bottom_right_y": 2604,
+          "content": "218",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 135,
+          "top_left_y": 3,
+          "bottom_right_x": 270,
+          "bottom_right_y": 55,
+          "content": "A\nf",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 380,
+          "top_left_y": 3,
+          "bottom_right_x": 1168,
+          "bottom_right_y": 55,
+          "content": "4\nDie\nwe\nun\nhie\n2\n4",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3736458
+  }
+}

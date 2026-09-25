@@ -1,0 +1,266 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (6)\nNachträgliche Verschiebung der Ärmelnaht\n\n2. Die nachträgliche Entwicklung der vorverlegten Ärmelnaht mit der einfachen Variante des schmalen Ärmel-Grundschnitts von Seite 207.\n\n![img-0.jpeg](img-0.jpeg)\n\n□1 Neue Ärmelnaht an fertigem Ärmel mit geringerem Abstand zum vÄBr einzeichnen\n\n![img-1.jpeg](img-1.jpeg)\n\n□3 Abgetrennte Ärmelflächen ansetzen\n\n## 1 Neue Ärmelnaht bestimmen\n\nHäufig entscheidet man sich für einen (schlecht dehnbaren) Stoff erst nach der Konstruktion eines Ärmels. Liegt die einfache Variante des schmalen Ärmels vor, wird diese Ärmelnaht-Verschiebung empfohlen:\n\n### Blazerärmel\n\n□1 Um den Dehnbetrag an der vorderen Ärmelnaht für schlecht dehnbare Stoffe zu verringern, wird die Ärmelnaht weiter in Richtung vÄBr vorverlegt:\n\n1 Hierzu eine neue Ärmelnaht im Abstand von 1,5 bis 2,5 cm vom vÄBr entfernt als Abtrennlinie einzeichnen.\n\n□2 Abgetrennte Ärmelflächen verschieben\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n2 An die neue Ärmelnaht Knipse im Anstand von 6 bis 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.\n3 Dann die Schnittfläche an der neuen Ärmelnaht abschneiden und am Ellenbogen durchtrennen.\n\n## 2 Ärmelflächen verschieben\n\n4 Die beiden abgetrennten Schnittflächen an die hintere Ärmelnaht verschieben.\n5 Dort am tiefsten Punkt (tP) und am Saum passend anlegen.\n6 Die Lücke an der hinteren Ärmelnaht entspricht dem Dehnbetrag an der vorderen Ärmelnaht. Die neue hintere Ärmelnaht neu zeichnen.\n\nMan sieht hier sehr deutlich, wie stark der Dehnbetrag durch das Verschieben der Ärmelnaht reduziert wird. Für diese Variante des schmalen Ärmels sind spezielle Ärmelanpassungen notwendig (siehe Seite 214).\n\n207\n\nSchmaler Ärmel-Grundschnitt\nBlazer-Ärmel\n\n210\n\n209",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 134,
+          "top_left_y": 702,
+          "bottom_right_x": 1016,
+          "bottom_right_y": 2348,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 203,
+          "top_left_y": 2618,
+          "bottom_right_x": 493,
+          "bottom_right_y": 3802,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1478,
+          "top_left_y": 988,
+          "bottom_right_x": 2282,
+          "bottom_right_y": 2446,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 757,
+          "top_left_y": 2275,
+          "bottom_right_x": 1603,
+          "bottom_right_y": 3937,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 2780
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 161,
+          "top_left_y": 159,
+          "bottom_right_x": 1675,
+          "bottom_right_y": 396,
+          "content": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (6)\nNachträgliche Verschiebung der Ärmelnaht",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 173,
+          "top_left_y": 441,
+          "bottom_right_x": 835,
+          "bottom_right_y": 637,
+          "content": "2. Die nachträgliche Entwicklung der vorverlegten Ärmelnaht mit der einfachen Variante des schmalen Ärmel-Grundschnitts von Seite 207.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 134,
+          "top_left_y": 702,
+          "bottom_right_x": 1016,
+          "bottom_right_y": 2348,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 161,
+          "top_left_y": 2389,
+          "bottom_right_x": 760,
+          "bottom_right_y": 2512,
+          "content": "□1 Neue Ärmelnaht an fertigem Ärmel mit geringerem Abstand zum vÄBr einzeichnen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 203,
+          "top_left_y": 2618,
+          "bottom_right_x": 493,
+          "bottom_right_y": 3802,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 173,
+          "top_left_y": 3892,
+          "bottom_right_x": 687,
+          "bottom_right_y": 3998,
+          "content": "□3 Abgetrennte Ärmelflächen ansetzen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 918,
+          "top_left_y": 474,
+          "bottom_right_x": 1472,
+          "bottom_right_y": 576,
+          "content": "## 1 Neue Ärmelnaht bestimmen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 918,
+          "top_left_y": 543,
+          "bottom_right_x": 1561,
+          "bottom_right_y": 862,
+          "content": "Häufig entscheidet man sich für einen (schlecht dehnbaren) Stoff erst nach der Konstruktion eines Ärmels. Liegt die einfache Variante des schmalen Ärmels vor, wird diese Ärmelnaht-Verschiebung empfohlen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1887,
+          "top_left_y": 425,
+          "bottom_right_x": 2196,
+          "bottom_right_y": 494,
+          "content": "### Blazerärmel",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1608,
+          "top_left_y": 568,
+          "bottom_right_x": 2212,
+          "bottom_right_y": 788,
+          "content": "□1 Um den Dehnbetrag an der vorderen Ärmelnaht für schlecht dehnbare Stoffe zu verringern, wird die Ärmelnaht weiter in Richtung vÄBr vorverlegt:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1617,
+          "top_left_y": 796,
+          "bottom_right_x": 2218,
+          "bottom_right_y": 956,
+          "content": "1 Hierzu eine neue Ärmelnaht im Abstand von 1,5 bis 2,5 cm vom vÄBr entfernt als Abtrennlinie einzeichnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1219,
+          "top_left_y": 1895,
+          "bottom_right_x": 1494,
+          "bottom_right_y": 2009,
+          "content": "□2 Abgetrennte Ärmelflächen verschieben",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1478,
+          "top_left_y": 988,
+          "bottom_right_x": 2282,
+          "bottom_right_y": 2446,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 757,
+          "top_left_y": 2275,
+          "bottom_right_x": 1603,
+          "bottom_right_y": 3937,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 1684,
+          "top_left_y": 2602,
+          "bottom_right_x": 2357,
+          "bottom_right_y": 2920,
+          "content": "2 An die neue Ärmelnaht Knipse im Anstand von 6 bis 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.\n3 Dann die Schnittfläche an der neuen Ärmelnaht abschneiden und am Ellenbogen durchtrennen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1706,
+          "top_left_y": 2936,
+          "bottom_right_x": 2229,
+          "bottom_right_y": 2981,
+          "content": "## 2 Ärmelflächen verschieben",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1703,
+          "top_left_y": 2998,
+          "bottom_right_x": 2363,
+          "bottom_right_y": 3492,
+          "content": "4 Die beiden abgetrennten Schnittflächen an die hintere Ärmelnaht verschieben.\n5 Dort am tiefsten Punkt (tP) und am Saum passend anlegen.\n6 Die Lücke an der hinteren Ärmelnaht entspricht dem Dehnbetrag an der vorderen Ärmelnaht. Die neue hintere Ärmelnaht neu zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1731,
+          "top_left_y": 3492,
+          "bottom_right_x": 2368,
+          "bottom_right_y": 3827,
+          "content": "Man sieht hier sehr deutlich, wie stark der Dehnbetrag durch das Verschieben der Ärmelnaht reduziert wird. Für diese Variante des schmalen Ärmels sind spezielle Ärmelanpassungen notwendig (siehe Seite 214).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2293,
+          "top_left_y": 617,
+          "bottom_right_x": 2351,
+          "bottom_right_y": 653,
+          "content": "207",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2338,
+          "top_left_y": 1205,
+          "bottom_right_x": 2446,
+          "bottom_right_y": 1723,
+          "content": "Schmaler Ärmel-Grundschnitt\nBlazer-Ärmel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2468,
+          "top_left_y": 3455,
+          "bottom_right_x": 2532,
+          "bottom_right_y": 3500,
+          "content": "210",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2499,
+          "top_left_y": 3753,
+          "bottom_right_x": 2582,
+          "bottom_right_y": 3802,
+          "content": "209",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3656012
+  }
+}

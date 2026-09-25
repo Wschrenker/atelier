@@ -1,0 +1,347 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ärmel-Grundschnittformen (2)\n\nÄrmel-Grundschnittformen\n\n![img-0.jpeg](img-0.jpeg)\n\n☐1\nJackenärmel von hinten\nbetrachtet\n\n☐2\nEnger Ärmel\nund\nnatürliche\nArmhaltung\n\n☐3\nSchmaler\nÄrmel\nmit geringer\nWeite\n\n☐4\nSchmaler\nÄrmel\nmit mäßiger\nWeite\n\n# Ärmelgrundformen\n\nDie drei Ärmel-Grundschnitt-Formen und Abwandlungen sind hier zum Vergleich am Körper und an den Rumpfschnitten dargestellt.\n\n![img-1.jpeg](img-1.jpeg)\n\n☐6\nWalter Ärmel\nmit großer\nSäumweite\n\n☐7\nHemdenärmel\naus dem\nweiten Ärmel\nmit Falten und\nMarschette\n\n![img-2.jpeg](img-2.jpeg)\n\n☐8 Enger Ärmel\nEnge Ärmel mit hoher Kugel sitzen nahezu ohne Einhalteweite im Armloch.\nDie Bewegungsfreiheit des Arms ist bei Flexibilität des zu verwendenden Materials stets gewährleistet.\n\nFür Enge Shirt- und Wäschemodelle.\n\nFür Blusen-, Kleider-, Jacken- und Mantelmodelle. Grundschnitt für die meisten Abwandlungen.\n\n☐10 Wetter Ärmel\n\nEin Ärmel mit flacher Kugel sitzt abstehender im Armloch. Die Bewegungsfreiheit des Arms nach oben hin ist somit größer. Am hängenden Arm bilden sich am Ärmel und u.U am Armloch Falten.\n\nFür Hemden und Blusen sowie für liegere Shirt- und Kleidermodelle, z.B. T-Shirts.\n\n![img-3.jpeg](img-3.jpeg)\n\n☐11 Schmaler Ärmel\nDer schmale Ärmel mit hoher Kugel besitzt mehr Einhalteweite für die Formung einer eleganten Kugel und für ausreichende Wette am Oberarm. Die von der Seite aus sichtbare (dunkle) Fläche des Ärmels erhält durch den Abnäher eine natürlich gebogene Armform und ist schmaler.\n\n198\n\nÄrmel\n\n10 ArD+\nVT\n\n☐1 Au\n\nAllgen\n\n• Für d\nder\nbei V\nRT U\nprinzip\n• Ein Ä\nhand\nGröß\n\nKon\nMallan\nAhH\n\nÄL\nOaU\nHgU\nEW\n\nBe\nSchm\nEnger\nWette\n\n* PK",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 331,
+          "top_left_y": 1571,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 2472,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 596,
+          "top_left_y": 386,
+          "bottom_right_x": 1266,
+          "bottom_right_y": 1568,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1532,
+          "top_left_y": 398,
+          "bottom_right_x": 2267,
+          "bottom_right_y": 2588,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2504,
+          "top_left_y": 334,
+          "bottom_right_x": 3484,
+          "bottom_right_y": 2196,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 172,
+          "top_left_y": 1326,
+          "bottom_right_x": 241,
+          "bottom_right_y": 2120,
+          "content": "# Ärmel-Grundschnittformen (2)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1033,
+          "top_left_y": 2481,
+          "bottom_right_x": 1495,
+          "bottom_right_y": 2530,
+          "content": "Ärmel-Grundschnittformen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 331,
+          "top_left_y": 1571,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 2472,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1266,
+          "top_left_y": 2052,
+          "bottom_right_x": 1364,
+          "bottom_right_y": 2392,
+          "content": "☐1\nJackenärmel von hinten\nbetrachtet",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 1669,
+          "bottom_right_x": 1446,
+          "bottom_right_y": 1850,
+          "content": "☐2\nEnger Ärmel\nund\nnatürliche\nArmhaltung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 1403,
+          "bottom_right_x": 1442,
+          "bottom_right_y": 1581,
+          "content": "☐3\nSchmaler\nÄrmel\nmit geringer\nWeite",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 1176,
+          "bottom_right_x": 1442,
+          "bottom_right_y": 1354,
+          "content": "☐4\nSchmaler\nÄrmel\nmit mäßiger\nWeite",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 408,
+          "top_left_y": 1127,
+          "bottom_right_x": 453,
+          "bottom_right_y": 1458,
+          "content": "# Ärmelgrundformen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 466,
+          "top_left_y": 395,
+          "bottom_right_x": 555,
+          "bottom_right_y": 1473,
+          "content": "Die drei Ärmel-Grundschnitt-Formen und Abwandlungen sind hier zum Vergleich am Körper und an den Rumpfschnitten dargestellt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 596,
+          "top_left_y": 386,
+          "bottom_right_x": 1266,
+          "bottom_right_y": 1568,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 677,
+          "bottom_right_x": 1442,
+          "bottom_right_y": 879,
+          "content": "☐6\nWalter Ärmel\nmit großer\nSäumweite",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1274,
+          "top_left_y": 404,
+          "bottom_right_x": 1487,
+          "bottom_right_y": 622,
+          "content": "☐7\nHemdenärmel\naus dem\nweiten Ärmel\nmit Falten und\nMarschette",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1532,
+          "top_left_y": 398,
+          "bottom_right_x": 2267,
+          "bottom_right_y": 2588,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2160,
+          "top_left_y": 1966,
+          "bottom_right_x": 2361,
+          "bottom_right_y": 2536,
+          "content": "☐8 Enger Ärmel\nEnge Ärmel mit hoher Kugel sitzen nahezu ohne Einhalteweite im Armloch.\nDie Bewegungsfreiheit des Arms ist bei Flexibilität des zu verwendenden Materials stets gewährleistet.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2373,
+          "top_left_y": 2065,
+          "bottom_right_x": 2418,
+          "bottom_right_y": 2542,
+          "content": "Für Enge Shirt- und Wäschemodelle.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2352,
+          "top_left_y": 1143,
+          "bottom_right_x": 2450,
+          "bottom_right_y": 1755,
+          "content": "Für Blusen-, Kleider-, Jacken- und Mantelmodelle. Grundschnitt für die meisten Abwandlungen.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2128,
+          "top_left_y": 649,
+          "bottom_right_x": 2160,
+          "bottom_right_y": 922,
+          "content": "☐10 Wetter Ärmel",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2160,
+          "top_left_y": 410,
+          "bottom_right_x": 2332,
+          "bottom_right_y": 1063,
+          "content": "Ein Ärmel mit flacher Kugel sitzt abstehender im Armloch. Die Bewegungsfreiheit des Arms nach oben hin ist somit größer. Am hängenden Arm bilden sich am Ärmel und u.U am Armloch Falten.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2332,
+          "top_left_y": 414,
+          "bottom_right_x": 2401,
+          "bottom_right_y": 1063,
+          "content": "Für Hemden und Blusen sowie für liegere Shirt- und Kleidermodelle, z.B. T-Shirts.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2504,
+          "top_left_y": 334,
+          "bottom_right_x": 3484,
+          "bottom_right_y": 2196,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 3083,
+          "top_left_y": 2000,
+          "bottom_right_x": 3402,
+          "bottom_right_y": 2481,
+          "content": "☐11 Schmaler Ärmel\nDer schmale Ärmel mit hoher Kugel besitzt mehr Einhalteweite für die Formung einer eleganten Kugel und für ausreichende Wette am Oberarm. Die von der Seite aus sichtbare (dunkle) Fläche des Ärmels erhält durch den Abnäher eine natürlich gebogene Armform und ist schmaler.",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3382,
+          "top_left_y": 2588,
+          "bottom_right_x": 3431,
+          "bottom_right_y": 2671,
+          "content": "198",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 204,
+          "top_left_y": 3,
+          "bottom_right_x": 270,
+          "bottom_right_y": 135,
+          "content": "Ärmel",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 421,
+          "top_left_y": 3,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 187,
+          "content": "10 ArD+\nVT",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1376,
+          "top_left_y": 3,
+          "bottom_right_x": 1413,
+          "bottom_right_y": 126,
+          "content": "☐1 Au",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1532,
+          "top_left_y": 3,
+          "bottom_right_x": 1576,
+          "bottom_right_y": 119,
+          "content": "Allgen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1593,
+          "top_left_y": 3,
+          "bottom_right_x": 1960,
+          "bottom_right_y": 119,
+          "content": "• Für d\nder\nbei V\nRT U\nprinzip\n• Ein Ä\nhand\nGröß",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2152,
+          "top_left_y": 3,
+          "bottom_right_x": 2348,
+          "bottom_right_y": 107,
+          "content": "Kon\nMallan\nAhH",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2430,
+          "top_left_y": 3,
+          "bottom_right_x": 2736,
+          "bottom_right_y": 113,
+          "content": "ÄL\nOaU\nHgU\nEW",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2961,
+          "top_left_y": 3,
+          "bottom_right_x": 3410,
+          "bottom_right_y": 119,
+          "content": "Be\nSchm\nEnger\nWette",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3455,
+          "top_left_y": 3,
+          "bottom_right_x": 3500,
+          "bottom_right_y": 119,
+          "content": "* PK",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3754413
+  }
+}

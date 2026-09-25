@@ -1,0 +1,264 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Weiter Ärmel-Grundschnitt (1) für legere Modelle\n\n# Konstruktion\n\n![img-0.jpeg](img-0.jpeg)\n\n[tbl-0.md](tbl-0.md)\n\n☐1 Ärmloch eines legeren Oberteil-Grundschnitts\n\n☐2 Konstruktionstabelle mit Hilfe der Berechnungstabelle auf Seite 199 aufstellen\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n# 1 Ärmloch ausmessen und Konstruktionstabelle ausfüllen\n\n1 Die Teilstrecken des Armlochumfangs ausmessen und am Schnitt notieren: vAIU und hAIU jeweils vom tP hoch zur Schulter messen. Die vAchsel vom tP zum vAP und die hAchsel vom tP zum hAP messen.\n2 In der Konstruktionstabelle die Ärmellänge, Oberarmweite, Ärmelsaumweite und die gewünschte Einhalteweite (EW) in % für die Einhalteweite an der Ärmelku-gel bestimmen.\n\n# 2 Grundgerüst zeichnen\n\n3 Die OaW + 0 bis 2 cm waagerecht abtragen.\n4 Vorne den vAIU - 0 cm bis - 1 cm als Kreisbogen zeichnen.\n5 Die hintere Linie mit hAIU - 0 bis - 1 cm auf den Bogen abtragen und zeichnen. Dann vorne die vordere Linie auf den Schnittpunkt zeichnen.\n\n6 Vom Schnittpunkt (SuP) die ÅL\n7 und 60% der ÅL abtragen.\n8 Rechtwinklig die Saum-, Ellenbogen- und Seitenlinien abwinkeln.\n\n# 3 Hilfslinien für die Ärmelkugel\n\n9 ☐4 Die ÄkLi messen → = OaW + Zugabe\n10 und ÄkLi : 8 vom SuP nach vorne (links) abtragen.\n11 ÄkLi : 5 nach hinten (rechts) abtragen.\n12 Vorne auf der ÄkLi die ÄkLi : 12 markieren und zu P10 und\n13 hinten ÄkLi : 14 abtragen und Hilfslinien zu P11 zeichnen.\n14 Von P10 und P11 auf die unteren Linien abwinkeln.\n\n# 4 Ärmelkugelformen\n\n15 ☐S Die vordere (vÄk) und hintere (hÄk) Ärmelkugel\nungefähr über die Nitten der Winkellinien und mit Hilfe\nder Kurvenrichtungen formen.\n\nWeiter Ärmel für legere Modelle\n\n202\n\nWe\nKon\nStruktur (vÄl)\n\n4,5\n\n4,5",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 551,
+          "top_left_y": 1908,
+          "bottom_right_x": 1078,
+          "bottom_right_y": 2374,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1184,
+          "top_left_y": 1498,
+          "bottom_right_x": 2683,
+          "bottom_right_y": 2414,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1201,
+          "top_left_y": 285,
+          "bottom_right_x": 2626,
+          "bottom_right_y": 1351,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionstabelle Reifungsform 19 x cm Ärmel | Name |  |   |   |   | Größe | 28  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | Weiter Ärmel | PN | 5  |\n|  AbH | Ärmlochhöhe | --- |  |   | Ärmlochumfang |   | ÄIU | 43,5  |\n|   |   |   | Zugaben aus der Berechnungstabelle für Ärmelkonstruktionen  |   |   |   |   |   |\n|  ÄL | Ärmellänge | 60 | ± | 0 | = | Ärmellänge | ÄL | 60  |\n|  OaU | Oberarmumfang | 28 | + | 9 | = | Oberarmweite | OaW | 37  |\n|  HgU | Handgelenkumfang | 16 | + | --- | = | Saumweite | ÄSaW | - OaW  |\n|  EW in % | Einhalteweite in % | 3 % | Einhalteweite in cm = ÄIU |   | - Einhalteweite in % |   | EW in cm | 1,3 cm  |\n|   |  |  | Ärmelkugelumfang = ÄIU + Einhalteweite in cm |   |   |   | ÄKLI | 44,6  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 302,
+          "top_left_y": 812,
+          "bottom_right_x": 380,
+          "bottom_right_y": 2107,
+          "content": "# Weiter Ärmel-Grundschnitt (1) für legere Modelle",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 408,
+          "top_left_y": 1783,
+          "bottom_right_x": 466,
+          "bottom_right_y": 2107,
+          "content": "# Konstruktion",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 551,
+          "top_left_y": 1908,
+          "bottom_right_x": 1078,
+          "bottom_right_y": 2374,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 531,
+          "top_left_y": 343,
+          "bottom_right_x": 1062,
+          "bottom_right_y": 1844,
+          "content": "|  Konstruktionstabelle Reifungsform 19 x cm Ärmel | Name |  |   |   |   | Größe | 28  |   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  |   | Modell | Weiter Ärmel | PN | 5  |\n|  AbH | Ärmlochhöhe | --- |  |   | Ärmlochumfang |   | ÄIU | 43,5  |\n|   |   |   | Zugaben aus der Berechnungstabelle für Ärmelkonstruktionen  |   |   |   |   |   |\n|  ÄL | Ärmellänge | 60 | ± | 0 | = | Ärmellänge | ÄL | 60  |\n|  OaU | Oberarmumfang | 28 | + | 9 | = | Oberarmweite | OaW | 37  |\n|  HgU | Handgelenkumfang | 16 | + | --- | = | Saumweite | ÄSaW | - OaW  |\n|  EW in % | Einhalteweite in % | 3 % | Einhalteweite in cm = ÄIU |   | - Einhalteweite in % |   | EW in cm | 1,3 cm  |\n|   |  |  | Ärmelkugelumfang = ÄIU + Einhalteweite in cm |   |   |   | ÄKLI | 44,6  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 1099,
+          "top_left_y": 1957,
+          "bottom_right_x": 1168,
+          "bottom_right_y": 2355,
+          "content": "☐1 Ärmloch eines legeren Oberteil-Grundschnitts",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1078,
+          "top_left_y": 441,
+          "bottom_right_x": 1111,
+          "bottom_right_y": 1682,
+          "content": "☐2 Konstruktionstabelle mit Hilfe der Berechnungstabelle auf Seite 199 aufstellen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1184,
+          "top_left_y": 1498,
+          "bottom_right_x": 2683,
+          "bottom_right_y": 2414,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1201,
+          "top_left_y": 285,
+          "bottom_right_x": 2626,
+          "bottom_right_y": 1351,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 2769,
+          "top_left_y": 1430,
+          "bottom_right_x": 2826,
+          "bottom_right_y": 2395,
+          "content": "# 1 Ärmloch ausmessen und Konstruktionstabelle ausfüllen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2834,
+          "top_left_y": 1403,
+          "bottom_right_x": 3222,
+          "bottom_right_y": 2411,
+          "content": "1 Die Teilstrecken des Armlochumfangs ausmessen und am Schnitt notieren: vAIU und hAIU jeweils vom tP hoch zur Schulter messen. Die vAchsel vom tP zum vAP und die hAchsel vom tP zum hAP messen.\n2 In der Konstruktionstabelle die Ärmellänge, Oberarmweite, Ärmelsaumweite und die gewünschte Einhalteweite (EW) in % für die Einhalteweite an der Ärmelku-gel bestimmen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3259,
+          "top_left_y": 1957,
+          "bottom_right_x": 3312,
+          "bottom_right_y": 2411,
+          "content": "# 2 Grundgerüst zeichnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3324,
+          "top_left_y": 1403,
+          "bottom_right_x": 3659,
+          "bottom_right_y": 2420,
+          "content": "3 Die OaW + 0 bis 2 cm waagerecht abtragen.\n4 Vorne den vAIU - 0 cm bis - 1 cm als Kreisbogen zeichnen.\n5 Die hintere Linie mit hAIU - 0 bis - 1 cm auf den Bogen abtragen und zeichnen. Dann vorne die vordere Linie auf den Schnittpunkt zeichnen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2687,
+          "top_left_y": 303,
+          "bottom_right_x": 2928,
+          "bottom_right_y": 1345,
+          "content": "6 Vom Schnittpunkt (SuP) die ÅL\n7 und 60% der ÅL abtragen.\n8 Rechtwinklig die Saum-, Ellenbogen- und Seitenlinien abwinkeln.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2969,
+          "top_left_y": 735,
+          "bottom_right_x": 3026,
+          "bottom_right_y": 1342,
+          "content": "# 3 Hilfslinien für die Ärmelkugel",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3034,
+          "top_left_y": 322,
+          "bottom_right_x": 3447,
+          "bottom_right_y": 1345,
+          "content": "9 ☐4 Die ÄkLi messen → = OaW + Zugabe\n10 und ÄkLi : 8 vom SuP nach vorne (links) abtragen.\n11 ÄkLi : 5 nach hinten (rechts) abtragen.\n12 Vorne auf der ÄkLi die ÄkLi : 12 markieren und zu P10 und\n13 hinten ÄkLi : 14 abtragen und Hilfslinien zu P11 zeichnen.\n14 Von P10 und P11 auf die unteren Linien abwinkeln.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3476,
+          "top_left_y": 919,
+          "bottom_right_x": 3529,
+          "bottom_right_y": 1342,
+          "content": "# 4 Ärmelkugelformen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 3541,
+          "top_left_y": 294,
+          "bottom_right_x": 3700,
+          "bottom_right_y": 1345,
+          "content": "15 ☐S Die vordere (vÄk) und hintere (hÄk) Ärmelkugel\nungefähr über die Nitten der Winkellinien und mit Hilfe\nder Kurvenrichtungen formen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1123,
+          "top_left_y": 2457,
+          "bottom_right_x": 1679,
+          "bottom_right_y": 2503,
+          "content": "Weiter Ärmel für legere Modelle",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 3623,
+          "top_left_y": 2530,
+          "bottom_right_x": 3676,
+          "bottom_right_y": 2622,
+          "content": "202",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 306,
+          "top_left_y": 3,
+          "bottom_right_x": 433,
+          "bottom_right_y": 89,
+          "content": "We\nKon\nStruktur (vÄl)",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1119,
+          "top_left_y": 3,
+          "bottom_right_x": 1160,
+          "bottom_right_y": 58,
+          "content": "4,5",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 1907,
+          "top_left_y": 3,
+          "bottom_right_x": 2205,
+          "bottom_right_y": 28,
+          "content": "4,5",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3750144
+  }
+}

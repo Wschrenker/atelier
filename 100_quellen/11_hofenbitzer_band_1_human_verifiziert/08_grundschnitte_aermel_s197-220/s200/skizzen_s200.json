@@ -1,0 +1,31 @@
+{
+  "seite": "s200",
+  "quelle": "ocr_s200_raw.json",
+  "hinweis_koordinaten": "bounding_box in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s200_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [433, 1881, 923, 2319],
+      "beschreibung": "□1 Armloch eines engen Oberteil-Grundschnitts: Armlochkurve mit Teilstrecken vAlU (18,9 cm) und hAlU (22,1 cm), Achselmaßen vAchsel (4,1 cm) und hAchsel (7,3 cm), Punkten tP, vÄP, hÄP",
+      "label_am_original": "□1 Ärmloch eines engen Oberteil-Grundschnitts",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s200_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [1139, 1571, 2663, 2337],
+      "beschreibung": "□3 Grundgerüst: Rechteck mit Ärmelkugellinie, ÄkLi, Ellenbogenlinie, ÄL-Linie, Seiten- und Saumlinie, Kreismarkierungen 3–8, darüber die Spitzenkonstruktion mit vAlU/hAlU-Strecken und Kreismarkierungen 4–5",
+      "label_am_original": "□3 Grundgerüst",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s200_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [1168, 303, 2050, 1323],
+      "beschreibung": "□4 Hilfslinien: Dreieckskonstruktion mit SuP, ÄkLi-Teilungen (:8, :5, :12, :9), Kreismarkierungen 9–14",
+      "label_am_original": "□4 Hilfslinien",
+      "geprueft": false
+    }
+  ]
+}

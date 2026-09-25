@@ -1,0 +1,81 @@
+{
+  "source": "s209.jpg",
+  "source_orientation": "EXIF-aufgerichtet (Hochformat)",
+  "source_size_px": [
+    3060,
+    4080
+  ],
+  "bbox_bezug": "Pixel der aufrechten Vollseite (s209.jpg zentral, nach EXIF-Aufrichtung)",
+  "ocr_eingabe": "temporaerer Zuschnitt [280,0,3060,4080] der aufrechten Vollseite (Nachbarseite 208 links ausgeschlossen)",
+  "status": "OCR-Rohfassung - noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s209_skizze_01.png",
+      "bbox_upright_full_page_px": [
+        414,
+        702,
+        1296,
+        2348
+      ],
+      "bbox_ocr_input_px": [
+        134,
+        702,
+        1016,
+        2348
+      ],
+      "herkunft": "von Mistral OCR erkannt"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s209_skizze_02.png",
+      "bbox_upright_full_page_px": [
+        483,
+        2618,
+        773,
+        3802
+      ],
+      "bbox_ocr_input_px": [
+        203,
+        2618,
+        493,
+        3802
+      ],
+      "herkunft": "von Mistral OCR erkannt"
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s209_skizze_03.png",
+      "bbox_upright_full_page_px": [
+        1758,
+        988,
+        2562,
+        2446
+      ],
+      "bbox_ocr_input_px": [
+        1478,
+        988,
+        2282,
+        2446
+      ],
+      "herkunft": "von Mistral OCR erkannt"
+    },
+    {
+      "id": "img-3.jpeg",
+      "file": "skizzen/s209_skizze_04.png",
+      "bbox_upright_full_page_px": [
+        1037,
+        2275,
+        1883,
+        3937
+      ],
+      "bbox_ocr_input_px": [
+        757,
+        2275,
+        1603,
+        3937
+      ],
+      "herkunft": "von Mistral OCR erkannt"
+    }
+  ]
+}

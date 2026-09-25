@@ -1,0 +1,47 @@
+{
+  "source": "s205.jpg",
+  "source_orientation": "EXIF-Orientierung 6, aufgerichtet (exif_transpose)",
+  "source_size_px": [
+    3060,
+    4080
+  ],
+  "bbox_bezug": "Pixel der aufrechten Vollseite (bbox_upright_px); bbox_ocr_input_px bezieht sich auf den temporaeren OCR-Zuschnitt",
+  "ocr_eingabe": "temporaerer Zuschnitt (280,0,3060,4080) der aufrechten Vollseite, zum Ausschluss der links sichtbaren Nachbarseite 204",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s205_skizze_01.png",
+      "bbox_upright_px": [
+        458,
+        1282,
+        1532,
+        2834
+      ],
+      "bbox_ocr_input_px": [
+        178,
+        1282,
+        1252,
+        2834
+      ],
+      "herkunft": "von Mistral OCR erkannt"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s205_skizze_02.png",
+      "bbox_upright_px": [
+        1541,
+        1413,
+        2381,
+        2789
+      ],
+      "bbox_ocr_input_px": [
+        1261,
+        1413,
+        2101,
+        2789
+      ],
+      "herkunft": "von Mistral OCR erkannt"
+    }
+  ]
+}

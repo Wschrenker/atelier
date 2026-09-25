@@ -1,0 +1,31 @@
+{
+  "source": "s202.jpg (Originalbild, EXIF-Orientierung 6)",
+  "ocr_eingabe": "Vollseite, unverändertes Originalbild (Rohdaten, nicht vorgedreht)",
+  "bbox_bezug": "Pixel der OCR-Eingabe (Rohorientierung, 4080 × 3060 px)",
+  "ausschnitte": "aus dem Rohbild geschnitten und anschließend 90° im Uhrzeigersinn aufrecht gedreht (entsprechend EXIF-Orientierung 6)",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s202_skizze_01.png",
+      "bbox_raw_pixels": [551, 1908, 1078, 2374],
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "beschreibung": "□1 Ärmloch eines legeren Oberteil-Grundschnitts: Armlochkurve mit vAP/hAP, vAlU 19,6 cm, hAlU 23,9 cm, vAchsel 4,5 cm, hAchsel 8,6 cm, tP"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s202_skizze_02.png",
+      "bbox_raw_pixels": [1184, 1498, 2683, 2414],
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "beschreibung": "□3 Grundgerüst: Dreieck mit vAlU/hAlU-Schrägen (Punkte 4, 5), Rechteck mit ÄkLi/Ärmelkugellinie (37 cm), 60 % ÄL = 36 cm, Ellenbogenlinie, Saumlinie, Seitenlinien"
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s202_skizze_03.png",
+      "bbox_raw_pixels": [1201, 285, 2626, 1351],
+      "herkunft": "von der OCR als eine gemeinsame Bildregion erkannt (enthält zwei Teilabbildungen)",
+      "beschreibung": "□4 Hilfslinien (ÄkLi :8 = 4,6 cm, ÄkLi :5 = 7,4 cm, ÄkLi :12 = 3,1 cm, ÄkLi :14 = 2,4 cm, SuP, Punkte 9–14) und darunter □5 Ärmelkugel (vÄk, hÄk, Kurvenrichtungen, SuP, Punkte 15)"
+    }
+  ],
+  "anmerkung": "Alle drei von der OCR erkannten Bildregionen wurden gegen das vollständige Originalbild geprüft; keine zusätzliche Zeichnung oder Beschriftung der Besitzerseite wurde übersehen. Die Konstruktionstabelle oben rechts wurde von der OCR als Tabelle (tbl-0.md), nicht als Bildregion erkannt; siehe tabellen_s202.md."
+}

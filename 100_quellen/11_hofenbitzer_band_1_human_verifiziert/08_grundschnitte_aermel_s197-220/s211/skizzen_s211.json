@@ -1,0 +1,47 @@
+{
+  "seite": "s211",
+  "quelle": "ocr_s211_raw.json",
+  "hinweis_koordinaten": "OCR (mistral-ocr-latest) hat auf dieser Seite keine Bildregionen erkannt (images: [] in beiden Aufrufen, voller Auflösung und halber Auflösung). Alle fünf Skizzenausschnitte sind daher manuell abgegrenzt, nicht von der OCR gemeldet. bounding_box_raw bezieht sich auf die Pixelorientierung der unrotierten Originaldatei (4080x3060, EXIF-Orientierung 6); die gespeicherten PNGs sind bereits aufrecht (90° im Uhrzeigersinn aus dem Rohbild gedreht).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s211_skizze_01.png",
+      "ocr_id": null,
+      "bounding_box_raw": [240, 2039, 1780, 2909],
+      "beschreibung": "Linke von drei Ärmelkugel-Silhouetten (schmaler Ärmel mit Abnäher am Saum), Variante 'ÄSaW verringern' mit rot markierter schmalerer Abnäherlinie",
+      "label_am_original": "□1 ÄSaW verringern",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s211_skizze_02.png",
+      "ocr_id": null,
+      "bounding_box_raw": [240, 1229, 1780, 2039],
+      "beschreibung": "Mittlere Ärmelkugel-Silhouette, Variante 'ÄSaW vergrößern' mit rot markierter breiterer Abnäherlinie",
+      "label_am_original": "□2 ÄSaW vergrößern",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s211_skizze_03.png",
+      "ocr_id": null,
+      "bounding_box_raw": [240, 439, 1780, 1229],
+      "beschreibung": "Rechte Ärmelkugel-Silhouette, Variante 'ÄSaW maximieren' ohne Abnäher (durchgestrichen/entfernt, als X markiert)",
+      "label_am_original": "□3 ÄSaW maximieren",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s211_skizze_04.png",
+      "ocr_id": null,
+      "bounding_box_raw": [2700, 1559, 4080, 2859],
+      "beschreibung": "Flaches Schnittteil 'schmaler Ärmel G38 PK3' mit geöffneter/aufgeschnittener Ärmelkugel (Punkte 1-4, Scherensymbole, ZP-Markierungen), Vergrößerung der Einhalteweite",
+      "label_am_original": "□4 Ärmel vergrößern",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s211_skizze_05.png",
+      "ocr_id": null,
+      "bounding_box_raw": [2700, 409, 4080, 1459],
+      "beschreibung": "Flaches Schnittteil 'schmaler Ärmel G38 PK3' mit verkürzter/zugelegter Ärmelkugel (Punkte 1-4, Scherensymbole, ZP-Markierungen), Verkleinerung der Einhalteweite",
+      "label_am_original": "□5 Ärmel verkleinern",
+      "geprueft": false
+    }
+  ]
+}

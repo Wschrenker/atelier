@@ -1,0 +1,17 @@
+{
+  "source": "s220.jpg (Originalbild, EXIF-Orientierung 6)",
+  "ocr_eingabe": "Vollseite, unverändertes Originalbild (Rohdaten, nicht vorgedreht)",
+  "bbox_bezug": "Pixel der OCR-Eingabe (Rohorientierung, 4080 × 3060 px)",
+  "ausschnitte": "aus dem Rohbild geschnitten und anschließend 90° im Uhrzeigersinn aufrecht gedreht (entsprechend EXIF-Orientierung 6)",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s220_skizze_01.png",
+      "bbox_raw_pixels": [2209, 270, 3459, 2490],
+      "herkunft": "von der OCR als eine gemeinsame Bildregion erkannt (enthält Fließtext und zwei Teilabbildungen mit Beschriftungen)",
+      "beschreibung": "□1 Weiter Ärmel mit flacher Ärmelkugel (→ Falten am hängenden Ärmel) und □2 Schmaler Ärmel mit hoher Ärmelkugel (→ Falten am angehobenen Ärmel): links/rechts je eine Modellfigur mit rotem Pfeil auf die Ärmelkugel-Problemzone, in der Mitte zwei schematische Ärmelschablonen mit Ärmelkugelkontur, Punktlabels (vAP, hAP, SuP), Maßlinien „Oberarm-Weite\" und „Höhe der Ärmelkugeln\"; darüber der Kapiteltext „Wahl des passenden Ärmel-Grundschnitts\" mit Fließtext; darunter Bildunterschriften zu □1 und □2 sowie zwei Fließtextabsätze („Unterschiedlich hohe Ärmelkugeln …\" links, „Schlitz und Abnäher …\" rechts)"
+    }
+  ],
+  "anmerkung": "Die einzige von der OCR erkannte Bildregion wurde gegen das vollständige Originalbild geprüft; keine zusätzliche Zeichnung oder Beschriftung der Besitzerseite wurde übersehen. Die zwei Inhaltsverzeichnis-Tabellen wurden von der OCR als Tabellen (tbl-0.md, tbl-1.md), nicht als Bildregion erkannt; siehe tabellen_s220.md. Am rechten Bildrand des Originalfotos ist zusätzlich ein schmaler Streifen der rechten Nachbarseite (221) mitfotografiert (Kopfzeile „Kurze…\" sowie Labels „C21\"/„C22\"/„C23\"/„C24\"); dieser Streifen gehört nicht zu Seite 220 und wurde nicht als eigene Bildregion erfasst."
+}

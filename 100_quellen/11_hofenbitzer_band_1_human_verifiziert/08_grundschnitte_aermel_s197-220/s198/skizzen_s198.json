@@ -1,0 +1,39 @@
+{
+  "seite": "s198",
+  "quelle": "ocr_s198_raw.json",
+  "hinweis_koordinaten": "bounding_box in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s198_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [331, 1571, 1262, 2472],
+      "beschreibung": "Zwei Körperfiguren mit Ärmelüberlagerung (Rückansicht mit blauem Ärmel, Vorder-/Seitenansicht mit orangefarbenem Ärmel) und Maßlinien Schulterhöhe / Ellenbogen an Taillenhöhe / Handgelenk an Schritthöhe",
+      "label_am_original": "☐1 Jackenärmel von hinten betrachtet; ☐2 Enger Ärmel und natürliche Armhaltung",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s198_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [596, 386, 1266, 1568],
+      "beschreibung": "Fünf isolierte Ärmelsilhouetten in einer Reihe (drei hellblau, zwei violett, die beiden violetten mit angedeuteten Manschetten-/Faltenlinien am Handgelenk)",
+      "label_am_original": "☐3 Schmaler Ärmel mit geringer Weite; ☐4 Schmaler Ärmel mit mäßiger Weite; ☐5 Schmaler Ärmel mit großer Weite (vermutet, siehe Anmerkungen); ☐6 Weiter Ärmel mit großer Saumweite; ☐7 Hemdenärmel aus dem weiten Ärmel mit Falten und Manschette",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s198_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [1532, 398, 2267, 2588],
+      "beschreibung": "Drei flache Ärmel-Schnittteile mit RT-Rumpfschnitten zum Vergleich (orange, blau, violett), Diagonale als Fadenlaufmarkierung; bei der mittleren (blauen) Zeichnung ist die Bildunterschrift ☐9 direkt im Bildbereich mit eingedruckt",
+      "label_am_original": "☐8 Enger Ärmel; ☐9 Schmaler Ärmel; ☐10 Weiter Ärmel",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s198_skizze_04.png",
+      "ocr_id": "img-3",
+      "bounding_box_raw": [2504, 334, 3484, 2196],
+      "beschreibung": "Zwei flache Ärmel-Schnittteile mit RT/VT-Rumpfschnitten (blau, violett) und Prozentangaben zur Einhalteweite an der Ärmelkugel; bei der rechten (violetten) Zeichnung ist die Bildunterschrift ☐12 direkt im Bildbereich mit eingedruckt",
+      "label_am_original": "☐11 Schmaler Ärmel; ☐12 Weiter Ärmel",
+      "geprueft": false
+    }
+  ]
+}

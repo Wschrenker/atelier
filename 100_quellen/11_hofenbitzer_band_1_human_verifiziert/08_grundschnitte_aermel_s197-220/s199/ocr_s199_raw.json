@@ -1,0 +1,531 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "Ärmelmaße\n\nngen sind hier\ndargestellt.\n\n![img-0.jpeg](img-0.jpeg)\n\n□7\n\nRennberärmel\n\naus dem\n\nweiten Ärmel\n\nmit Falten und\n\nManschette\n\nRT\n\ngel sitzt abste-\n\nregungsfreiheit\n\nröber. Am hän-\n\nnd u. U am Arm-\n\nir legere Shirt-\n\nRT\n\n![img-1.jpeg](img-1.jpeg)\n\n□1 Ausmessen des Armlochs\n\n## Ärmelmaße am fertigen\nOberteil-Ärmloch bestimmen\n\nÄrmlochumfang (AlU) messen:\n\n□1 Am VT (vAlU) und am RT (hAlU) mit\n\nhochstehendem Maßbind von der Schüt-\nter zum tiefsten Punkt (tP) messen.\n\nÄrmlochhöhe (AlH) messen:\n\nDie Ärmlochhöhe (AlH) von der Hälfte\nzwischen den Schütierenden senkrecht\nzur Brustlinie messen.\n\n- Die Ärmlänge (ArL) Ärmellänge (ÄL)\n- der Oberärmumfang (OaU)\n- die Handgelenkumfang (HgU)\nwerden am Körper gemessen oder aus\nder Größentabelle entnommen.\n\n- Die Oberärmweite (OaW)\n\n- die Ärmelsaumweite (ÄSaW)\n\n- die Einhalteweite (EW)\nsind unbedingt mit den Angaben der\nunten abgebildeten Berechnungssta-\nbelle zu bestimmen.\n\nWahl der Einhalteweite (EW):\n\nSehr geringe EW 0% bis 3%\n\nfür spröde Materialien wie Kunst-\n\nleder, Laminate, Leder, Leinen, Rips,\nTaft, Ottoman, Popeline...\n\nGeringe EW 3% bis 5%\n\nfür dichte Stoffe: Alcantara, Canvas,\nDenim, Drape, Duplon, Fresko,\nGabardine, Glacé, Serge, Lüster,\nVelveton, Whipcord, diverse Wickel-\ndenstoffe wie Daupion, Shantung...\n\nMittlere EW 5% bis 7%\n\nz.B. feste Materialien, Cheviot, Char-\nmelaine, Cripe, Duvetrie, Fil à fil,\nGebirgette, Foute, Fresko, Frisé,\nLoden, Lüster, Ratine, Saint, Vogel-\nauge, Shantung, Webstrickware...\n\nGröße EW 7% bis 10%\n\nfür locker gewekte, weiche Stoffe,\nz.B. Streichgarn-Stoffe, Baurettesei-\nde, Chenille, Loup, Denegal, Fianell,\nFlausch, Tweed, Panama, Volours...\n\n### Allgemeine Informationen für Ärmelkonstruktionen\n\n- Für diese Ärmel-Konstruktionen soll\nder tiefste Punkt (tP) am Ärmloch\nbei ½ ArD am VT und bei ½ ArD am\nRT liegen (siehe □1). Die SN kann\nprinzipiell auch woanders liegen.\n- Ein Ärmel kann also nur für ein vor-\nhandenes Ärmloch in ausreichender\nGröße konstruiert werden.\n\n- Der Ärmdurchmesser (ohne Zugabe)\nmuss zum gemessenen Oberärmum-\nfang (OaU) passen. Sicherheitshalber\nden ArD aus dem OaU berechnen (siehe Seite 14): OaU : 10 · 6 - 7,5 cm\n- Vor dem Ausmessen des Ärmlochum-\nfangs und der Ärmlochhöhe müssen\ndie im Ärmloch befindlichen Absä-\nher zugelegt werden.\n\n### Passformklasse (PK) ermitteln:\n\nFür einen Ärmel-Grundschnitt müssen\ndie Zugaben zur (Brut-) Welle des\njeweiligen Oberteil-Grundschnitts\npassen. Die Passformklasse (PK)\nentspricht der verwendeten Zugabe\nzur halben Brustweite am Oberteil-\nGrundschnitt. Berechnung der PK:\n\nIn Umlenkung (Anregal) mit Oberteil\nminus ½ Brutumfang (Körperteil)\n\n[tbl-0.md](tbl-0.md)\n\n[tbl-1.md](tbl-1.md)\n\n* PK = BrW-Zugabe zum ½ Grundschnitt\n\noder\n\n½ BrW (½ gemessene BrW am Schnitt)\n\n- ½ BrU (½ gemesser BrU am Körper)\n\n199\n\nÄrmelmaße",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 609,
+          "top_left_y": 2815,
+          "bottom_right_x": 1282,
+          "bottom_right_y": 3060,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 429,
+          "top_left_y": 1927,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 2588,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  Konstruktionstabelle Maßangaben in cm Ärmel | Name |  |   |   | Größe |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  | Modell |  | PK |   |\n|  AhH | Ärmlochhöhe |  |  | Ärmlochumfang |   | AlU |   |\n|   |  |  | Zugaben aus der Berechnungstabelle für Ärmelkonstruktionen:  |   |   |   |   |\n|  ÄL | Ärmellänge |  | ± | = | Ärmellänge | ÄL |   |\n|  OaU | Oberärmumfang |  | + | = | Oberärmweite | OaW |   |\n|  HgU | Handgelenkumfang |  | + | = | Saumweite | ÄSaW |   |\n|  EW in % | Einhalteweite in % | % | Einhalteweite in cm = AlU + Einhalteweite in % |   |   | EW in cm | cm  |\n|   |  |  | Ärmelkugelumfang = AlU + Einhalteweite in cm |   |   | ÄKU |   |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        },
+        {
+          "id": "tbl-1.md",
+          "content": "|  Berechnungstabelle für Ärmel-Konstruktionen |   |   | Einhalteweite in %  |\n| --- | --- | --- | --- |\n|   | Oberärmweite (OaW) | Ärmelsaumweite (ÄSaW) |   |\n|  Schmaler Ärmel | OaU + 0,7 bis 1 · PK* des Oberteils | HgU + 1 bis 2 · PK* des Oberteils | + 3% bis + 10% des AlU  |\n|  Enger Ärmel | OaU + 0,5 bis 1 · PK* des Oberteils | HgU + 0 bis 1,5 · PK* des Oberteils | 0 % bis + 3% des AlU  |\n|  Welter Ärmel | OaU + 1 bis 2,5 · PK* des Oberteils | entsteht automatisch | - 1% bis + 3% des AlU  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 200,
+          "top_left_y": 2227,
+          "bottom_right_x": 265,
+          "bottom_right_y": 2527,
+          "content": "Ärmelmaße",
+          "confidence_scores": null,
+          "type": "header"
+        },
+        {
+          "top_left_x": 466,
+          "top_left_y": 2821,
+          "bottom_right_x": 555,
+          "bottom_right_y": 3060,
+          "content": "ngen sind hier\ndargestellt.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 609,
+          "top_left_y": 2815,
+          "bottom_right_x": 1282,
+          "bottom_right_y": 3060,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 1295,
+          "top_left_y": 3023,
+          "bottom_right_x": 1327,
+          "bottom_right_y": 3060,
+          "content": "□7",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1331,
+          "top_left_y": 2867,
+          "bottom_right_x": 1364,
+          "bottom_right_y": 3060,
+          "content": "Rennberärmel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1368,
+          "top_left_y": 2944,
+          "bottom_right_x": 1397,
+          "bottom_right_y": 3060,
+          "content": "aus dem",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1401,
+          "top_left_y": 2867,
+          "bottom_right_x": 1429,
+          "bottom_right_y": 3060,
+          "content": "weiten Ärmel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1434,
+          "top_left_y": 2839,
+          "bottom_right_x": 1462,
+          "bottom_right_y": 3060,
+          "content": "mit Falten und",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1466,
+          "top_left_y": 2910,
+          "bottom_right_x": 1495,
+          "bottom_right_y": 3060,
+          "content": "Manschette",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1654,
+          "top_left_y": 2849,
+          "bottom_right_x": 1715,
+          "bottom_right_y": 2934,
+          "content": "RT",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2197,
+          "top_left_y": 2849,
+          "bottom_right_x": 2230,
+          "bottom_right_y": 3060,
+          "content": "gel sitzt abste-",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2234,
+          "top_left_y": 2849,
+          "bottom_right_x": 2263,
+          "bottom_right_y": 3060,
+          "content": "regungsfreiheit",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2267,
+          "top_left_y": 2849,
+          "bottom_right_x": 2295,
+          "bottom_right_y": 3060,
+          "content": "röber. Am hän-",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2299,
+          "top_left_y": 2849,
+          "bottom_right_x": 2332,
+          "bottom_right_y": 3060,
+          "content": "nd u. U am Arm-",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2373,
+          "top_left_y": 2852,
+          "bottom_right_x": 2410,
+          "bottom_right_y": 3060,
+          "content": "ir legere Shirt-",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2716,
+          "top_left_y": 2980,
+          "bottom_right_x": 2777,
+          "bottom_right_y": 3060,
+          "content": "RT",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 429,
+          "top_left_y": 1927,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 2588,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1380,
+          "top_left_y": 2101,
+          "bottom_right_x": 1417,
+          "bottom_right_y": 2545,
+          "content": "□1 Ausmessen des Armlochs",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 494,
+          "top_left_y": 1314,
+          "bottom_right_x": 629,
+          "bottom_right_y": 1783,
+          "content": "## Ärmelmaße am fertigen\nOberteil-Ärmloch bestimmen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 588,
+          "top_left_y": 1385,
+          "bottom_right_x": 678,
+          "bottom_right_y": 1853,
+          "content": "Ärmlochumfang (AlU) messen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 653,
+          "top_left_y": 1385,
+          "bottom_right_x": 686,
+          "bottom_right_y": 1853,
+          "content": "□1 Am VT (vAlU) und am RT (hAlU) mit",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 690,
+          "top_left_y": 1283,
+          "bottom_right_x": 817,
+          "bottom_right_y": 1853,
+          "content": "hochstehendem Maßbind von der Schüt-\nter zum tiefsten Punkt (tP) messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 784,
+          "top_left_y": 1430,
+          "bottom_right_x": 862,
+          "bottom_right_y": 1853,
+          "content": "Ärmlochhöhe (AlH) messen:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 841,
+          "top_left_y": 1277,
+          "bottom_right_x": 992,
+          "bottom_right_y": 1853,
+          "content": "Die Ärmlochhöhe (AlH) von der Hälfte\nzwischen den Schütierenden senkrecht\nzur Brustlinie messen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1013,
+          "top_left_y": 1277,
+          "bottom_right_x": 1246,
+          "bottom_right_y": 1853,
+          "content": "- Die Ärmlänge (ArL) Ärmellänge (ÄL)\n- der Oberärmumfang (OaU)\n- die Handgelenkumfang (HgU)\nwerden am Körper gemessen oder aus\nder Größentabelle entnommen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1237,
+          "top_left_y": 1391,
+          "bottom_right_x": 1299,
+          "bottom_right_y": 1853,
+          "content": "- Die Oberärmweite (OaW)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1299,
+          "top_left_y": 1391,
+          "bottom_right_x": 1331,
+          "bottom_right_y": 1853,
+          "content": "- die Ärmelsaumweite (ÄSaW)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1331,
+          "top_left_y": 1277,
+          "bottom_right_x": 1499,
+          "bottom_right_y": 1853,
+          "content": "- die Einhalteweite (EW)\nsind unbedingt mit den Angaben der\nunten abgebildeten Berechnungssta-\nbelle zu bestimmen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 600,
+          "top_left_y": 809,
+          "bottom_right_x": 670,
+          "bottom_right_y": 1213,
+          "content": "Wahl der Einhalteweite (EW):",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 662,
+          "top_left_y": 766,
+          "bottom_right_x": 702,
+          "bottom_right_y": 1213,
+          "content": "Sehr geringe EW 0% bis 3%",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 702,
+          "top_left_y": 766,
+          "bottom_right_x": 735,
+          "bottom_right_y": 1213,
+          "content": "für spröde Materialien wie Kunst-",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 735,
+          "top_left_y": 714,
+          "bottom_right_x": 829,
+          "bottom_right_y": 1213,
+          "content": "leder, Laminate, Leder, Leinen, Rips,\nTaft, Ottoman, Popeline...",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 829,
+          "top_left_y": 766,
+          "bottom_right_x": 866,
+          "bottom_right_y": 1213,
+          "content": "Geringe EW 3% bis 5%",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 866,
+          "top_left_y": 705,
+          "bottom_right_x": 1082,
+          "bottom_right_y": 1213,
+          "content": "für dichte Stoffe: Alcantara, Canvas,\nDenim, Drape, Duplon, Fresko,\nGabardine, Glacé, Serge, Lüster,\nVelveton, Whipcord, diverse Wickel-\ndenstoffe wie Daupion, Shantung...",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1082,
+          "top_left_y": 766,
+          "bottom_right_x": 1123,
+          "bottom_right_y": 1213,
+          "content": "Mittlere EW 5% bis 7%",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1123,
+          "top_left_y": 698,
+          "bottom_right_x": 1323,
+          "bottom_right_y": 1213,
+          "content": "z.B. feste Materialien, Cheviot, Char-\nmelaine, Cripe, Duvetrie, Fil à fil,\nGebirgette, Foute, Fresko, Frisé,\nLoden, Lüster, Ratine, Saint, Vogel-\nauge, Shantung, Webstrickware...",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1331,
+          "top_left_y": 729,
+          "bottom_right_x": 1372,
+          "bottom_right_y": 1213,
+          "content": "Größe EW 7% bis 10%",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1372,
+          "top_left_y": 692,
+          "bottom_right_x": 1536,
+          "bottom_right_y": 1213,
+          "content": "für locker gewekte, weiche Stoffe,\nz.B. Streichgarn-Stoffe, Baurettesei-\nde, Chenille, Loup, Denegal, Fianell,\nFlausch, Tweed, Panama, Volours...",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1536,
+          "top_left_y": 1663,
+          "bottom_right_x": 1597,
+          "bottom_right_y": 2539,
+          "content": "### Allgemeine Informationen für Ärmelkonstruktionen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1601,
+          "top_left_y": 1917,
+          "bottom_right_x": 1969,
+          "bottom_right_y": 2539,
+          "content": "- Für diese Ärmel-Konstruktionen soll\nder tiefste Punkt (tP) am Ärmloch\nbei ½ ArD am VT und bei ½ ArD am\nRT liegen (siehe □1). Die SN kann\nprinzipiell auch woanders liegen.\n- Ein Ärmel kann also nur für ein vor-\nhandenes Ärmloch in ausreichender\nGröße konstruiert werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1625,
+          "top_left_y": 1277,
+          "bottom_right_x": 2022,
+          "bottom_right_y": 1841,
+          "content": "- Der Ärmdurchmesser (ohne Zugabe)\nmuss zum gemessenen Oberärmum-\nfang (OaU) passen. Sicherheitshalber\nden ArD aus dem OaU berechnen (siehe Seite 14): OaU : 10 · 6 - 7,5 cm\n- Vor dem Ausmessen des Ärmlochum-\nfangs und der Ärmlochhöhe müssen\ndie im Ärmloch befindlichen Absä-\nher zugelegt werden.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1597,
+          "top_left_y": 747,
+          "bottom_right_x": 1646,
+          "bottom_right_y": 1213,
+          "content": "### Passformklasse (PK) ermitteln:",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1658,
+          "top_left_y": 668,
+          "bottom_right_x": 1936,
+          "bottom_right_y": 1213,
+          "content": "Für einen Ärmel-Grundschnitt müssen\ndie Zugaben zur (Brut-) Welle des\njeweiligen Oberteil-Grundschnitts\npassen. Die Passformklasse (PK)\nentspricht der verwendeten Zugabe\nzur halben Brustweite am Oberteil-\nGrundschnitt. Berechnung der PK:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1948,
+          "top_left_y": 662,
+          "bottom_right_x": 2034,
+          "bottom_right_y": 1210,
+          "content": "In Umlenkung (Anregal) mit Oberteil\nminus ½ Brutumfang (Körperteil)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2156,
+          "top_left_y": 640,
+          "bottom_right_x": 2871,
+          "bottom_right_y": 2548,
+          "content": "|  Konstruktionstabelle Maßangaben in cm Ärmel | Name |  |   |   | Größe |   |   |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|   |   |  Datum |  | Modell |  | PK |   |\n|  AhH | Ärmlochhöhe |  |  | Ärmlochumfang |   | AlU |   |\n|   |  |  | Zugaben aus der Berechnungstabelle für Ärmelkonstruktionen:  |   |   |   |   |\n|  ÄL | Ärmellänge |  | ± | = | Ärmellänge | ÄL |   |\n|  OaU | Oberärmumfang |  | + | = | Oberärmweite | OaW |   |\n|  HgU | Handgelenkumfang |  | + | = | Saumweite | ÄSaW |   |\n|  EW in % | Einhalteweite in % | % | Einhalteweite in cm = AlU + Einhalteweite in % |   |   | EW in cm | cm  |\n|   |  |  | Ärmelkugelumfang = AlU + Einhalteweite in cm |   |   | ÄKU |   |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-0.md"
+        },
+        {
+          "top_left_x": 2900,
+          "top_left_y": 619,
+          "bottom_right_x": 3484,
+          "bottom_right_y": 2555,
+          "content": "|  Berechnungstabelle für Ärmel-Konstruktionen |   |   | Einhalteweite in %  |\n| --- | --- | --- | --- |\n|   | Oberärmweite (OaW) | Ärmelsaumweite (ÄSaW) |   |\n|  Schmaler Ärmel | OaU + 0,7 bis 1 · PK* des Oberteils | HgU + 1 bis 2 · PK* des Oberteils | + 3% bis + 10% des AlU  |\n|  Enger Ärmel | OaU + 0,5 bis 1 · PK* des Oberteils | HgU + 0 bis 1,5 · PK* des Oberteils | 0 % bis + 3% des AlU  |\n|  Welter Ärmel | OaU + 1 bis 2,5 · PK* des Oberteils | entsteht automatisch | - 1% bis + 3% des AlU  |",
+          "confidence_scores": null,
+          "type": "table",
+          "table_id": "tbl-1.md"
+        },
+        {
+          "top_left_x": 3492,
+          "top_left_y": 1893,
+          "bottom_right_x": 3545,
+          "bottom_right_y": 2555,
+          "content": "* PK = BrW-Zugabe zum ½ Grundschnitt",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 3451,
+          "top_left_y": 1752,
+          "bottom_right_x": 3508,
+          "bottom_right_y": 1826,
+          "content": "oder",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3451,
+          "top_left_y": 1133,
+          "bottom_right_x": 3496,
+          "bottom_right_y": 1697,
+          "content": "½ BrW (½ gemessene BrW am Schnitt)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3451,
+          "top_left_y": 622,
+          "bottom_right_x": 3496,
+          "bottom_right_y": 1133,
+          "content": "- ½ BrU (½ gemesser BrU am Körper)",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3386,
+          "top_left_y": 432,
+          "bottom_right_x": 3439,
+          "bottom_right_y": 512,
+          "content": "199",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 1438,
+          "top_left_y": 545,
+          "bottom_right_x": 1621,
+          "bottom_right_y": 582,
+          "content": "Ärmelmaße",
+          "confidence_scores": null,
+          "type": "aside_text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3929083
+  }
+}

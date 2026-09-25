@@ -1,0 +1,47 @@
+{
+  "seite": "s206",
+  "quelle": "ocr_s206_raw.json",
+  "hinweis_koordinaten": "bounding_box_raw in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind Crops aus dem Rohbild (mit 15px Rand), danach gemäß EXIF-Orientierung 6 um 90° im Uhrzeigersinn aufrecht gedreht.",
+  "skizzen": [
+    {
+      "datei": "skizzen/s206_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [400, 1774, 1764, 2389],
+      "beschreibung": "Konstruktionsschema mit Punkten 8, 10, tP, 13, 14, 15; Linien vÄBr/hÄBr, ÄkLi, Ellenbogenlinie, Ärmelnaht (ÄN), hÄBr (= Abnäherschenkel), Maßangaben 0,5 bis 1 cm, 2 bis 3 cm, 1/2 ÄsW 13 cm",
+      "label_am_original": "□6 Ärmelnaht, Abnäher und Saum",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s206_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [400, 1204, 1764, 1774],
+      "beschreibung": "Einteiliges Ärmelflächenschema (blau/beige schattiert) mit vÄP, vier Labels 16, mittlerer und unterer Querlinie",
+      "label_am_original": "□7 Darstellung der inneren Ärmelflächen",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s206_skizze_03.png",
+      "ocr_id": "img-2",
+      "bounding_box_raw": [400, 395, 1764, 1139],
+      "beschreibung": "Gespiegeltes, breiteres Ärmelflächenschema mit vÄP, vier Labels 16, sichtbarem Abnäher (spitz zulaufende Linien) im unteren Bereich",
+      "label_am_original": "□8 Innere Ärmelflächen spiegeln, fertiger Einnaht-Ärmel mit gerader Ärmelnaht und Abnäher",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s206_skizze_04.png",
+      "ocr_id": "img-3",
+      "bounding_box_raw": [1924, 303, 3410, 1149],
+      "beschreibung": "Großes fertiges Ärmelschnittteil mit vÄP, ÄkLi, Beschriftung 'schmaler Ärmel / G 38 / PK 3', Punkten 17, 18 (x2), 19, 20, Maßangabe max. 4 cm beidseitig, Pfeilen 'übertragen' und 'messen'",
+      "label_am_original": "□9 Einnaht-Ärmel mit gerader Ärmelnaht ohne Abnäher",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s206_skizze_05.png",
+      "ocr_id": "img-4",
+      "bounding_box_raw": [2332, 1277, 3349, 1544],
+      "beschreibung": "Seitliche Figurskizze (Kopf/Oberkörper im Profil) mit blau schattiertem Ärmelbereich am angewinkelten Arm und pinkfarbener Ellenbogen-Markierung; keine eigene Bildunterschrift im Fließtext gefunden",
+      "label_am_original": null,
+      "geprueft": false
+    }
+  ]
+}

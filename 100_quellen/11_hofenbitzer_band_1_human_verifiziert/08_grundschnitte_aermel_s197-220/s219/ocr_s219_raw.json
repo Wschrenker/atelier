@@ -1,0 +1,334 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "weite (1)\nlockerung\n\nRT\n\nsmessen\n\nng (ÄkU\\( _{0,1} \\))\nmessen und\n\n= 48,5 cm\n\nnd\n\n# Ärmelanpassung mit gleichzeitiger Einstellung der Einhalteweite (2) für einen Ärmel mit Schulterpolstererhöhung und Armlochauflockerung\n\n## 1 Senkrechten Öffnungsbetrag berechnen\n\nDiese bei der waagerechten Öffnung hinzu gekommene Mehr- weite wird nun von der berechneten Fehlweite abgezogen und ergibt den senkrechten Öffnungsbetrag:\n\n\\[\n\\begin{array}{r l} \\text {   Öffnung   } & = \\text {   Fehlweite   } - \\frac {2 / 3 \\text {   SuPoE   }}{5 , 2 \\text {   cm   }} - 1, 7 \\text {   cm   } = 4, 5 \\text {   cm   } \\\\ \\text {   hier   } & \\end{array}\n\\]\n\n## 2 Ärmel anpassen\n\nA □3 Nach links und nach rechts ca.  \\( \\frac{1}{3} \\)  oder  \\( \\frac{1}{2} \\)  der berechneten senkrechten Öffnung öffnen.\n\nBei  \\( \\frac{1}{2} \\)  Öffnung - also mehr Öffnung - entsteht mehr Oberarmweite und eine geringere Ärmelkugelhöhe.\n\nBei  \\( \\frac{1}{3} \\)  Öffnung - also weniger Öffnung - entsteht weniger Oberarmweite und eine höhere Ärmelkugelhöhe.\n\n7 Die neue Oberarmweite kontrollieren, wenn ok, dann fortfahren. Ggf. kann die Öffnung noch etwas verändert werden.\n\n## 1 Kontrolle des neuen Ärmelkugel-Umfangs\n\nA □3 Jetzt den gesamten neuen Ärmelkugel-Umfang über die Öffnungen hinweg nachmessen und mit dem gewünschten neuen Ärmelkugelumfang vergleichen. Fehlbetrag = ÄkU\\( _{min} \\) - nachgemessene neue ÄkU\n\n\\[\n\\text { hier } = 5 3, 7 \\mathrm{cm} - 5 2, 5 \\mathrm{cm} = 1, 2 \\mathrm{cm}\n\\]\n\n## 1 Korrektur der neuen Ärmelkugel-Höhe\n\nA □4 Die Ärmelkugel oben um  \\( \\frac{1}{2} \\)  Fehlbetrag erhöhen und die Ärmelkugel wie skizziert formen,\n\ndabei oben die neue Ärmelkugel parallel zur alten Ärmel-kugel formen und seitlich wenige Millimeter nach innen zeichnen. Jetzt müsste der neuen Ärmelkugel-umfang ungefähr die gewünschte Nahtlänge besitzen.\n\nUm  \\( \\frac{1}{2} \\)  des Fehlbetragssollte der Ärmel am Saum gekürzt und geformt sowie ggf. der Abnäher angehoben werden.\n\nOptional kann die Saumweite am Abnäher noch vergrößert werden (siehe auch Seite 211).\nAnschließend sollten noch der hintere Ärmelpunkt und der Schulterpunkt markiert werden (siehe Seite 207).\n\n207\n208\n\nÄrmelanpassung mit gleichzeitiger Kontrolle der Einhalteweite\n207\n\n![img-0.jpeg](img-0.jpeg)\n\nÄrmelanpassung für Armlochauflockerung und Schulterpolstererhöhung\n\n![img-1.jpeg](img-1.jpeg)\n\n□4 Neue Ärmelkugel\n\n219",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 435,
+          "top_left_y": 1871,
+          "bottom_right_x": 1483,
+          "bottom_right_y": 3639,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1639,
+          "top_left_y": 1879,
+          "bottom_right_x": 2579,
+          "bottom_right_y": 3659,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 155,
+          "bottom_right_x": 279,
+          "bottom_right_y": 319,
+          "content": "weite (1)\nlockerung",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 490,
+          "bottom_right_x": 297,
+          "bottom_right_y": 1266,
+          "content": "RT",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1474,
+          "bottom_right_x": 162,
+          "bottom_right_y": 1523,
+          "content": "smessen",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 1544,
+          "bottom_right_x": 217,
+          "bottom_right_y": 1646,
+          "content": "ng (ÄkU\\( _{0,1} \\))\nmessen und",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 2169,
+          "bottom_right_x": 230,
+          "bottom_right_y": 2226,
+          "content": "= 48,5 cm",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 0,
+          "top_left_y": 3786,
+          "bottom_right_x": 43,
+          "bottom_right_y": 3827,
+          "content": "nd",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 163,
+          "bottom_right_x": 2264,
+          "bottom_right_y": 527,
+          "content": "# Ärmelanpassung mit gleichzeitiger Einstellung der Einhalteweite (2) für einen Ärmel mit Schulterpolstererhöhung und Armlochauflockerung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 429,
+          "bottom_right_x": 1290,
+          "bottom_right_y": 506,
+          "content": "## 1 Senkrechten Öffnungsbetrag berechnen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 506,
+          "bottom_right_x": 1522,
+          "bottom_right_y": 658,
+          "content": "Diese bei der waagerechten Öffnung hinzu gekommene Mehr- weite wird nun von der berechneten Fehlweite abgezogen und ergibt den senkrechten Öffnungsbetrag:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 658,
+          "bottom_right_x": 1513,
+          "bottom_right_y": 800,
+          "content": "\\[\n\\begin{array}{r l} \\text {   Öffnung   } & = \\text {   Fehlweite   } - \\frac {2 / 3 \\text {   SuPoE   }}{5 , 2 \\text {   cm   }} - 1, 7 \\text {   cm   } = 4, 5 \\text {   cm   } \\\\ \\text {   hier   } & \\end{array}\n\\]",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 788,
+          "bottom_right_x": 833,
+          "bottom_right_y": 837,
+          "content": "## 2 Ärmel anpassen",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 487,
+          "top_left_y": 862,
+          "bottom_right_x": 1516,
+          "bottom_right_y": 972,
+          "content": "A □3 Nach links und nach rechts ca.  \\( \\frac{1}{3} \\)  oder  \\( \\frac{1}{2} \\)  der berechneten senkrechten Öffnung öffnen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 536,
+          "top_left_y": 980,
+          "bottom_right_x": 1516,
+          "bottom_right_y": 1115,
+          "content": "Bei  \\( \\frac{1}{2} \\)  Öffnung - also mehr Öffnung - entsteht mehr Oberarmweite und eine geringere Ärmelkugelhöhe.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 536,
+          "top_left_y": 1103,
+          "bottom_right_x": 1507,
+          "bottom_right_y": 1225,
+          "content": "Bei  \\( \\frac{1}{3} \\)  Öffnung - also weniger Öffnung - entsteht weniger Oberarmweite und eine höhere Ärmelkugelhöhe.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 475,
+          "top_left_y": 1225,
+          "bottom_right_x": 1516,
+          "bottom_right_y": 1360,
+          "content": "7 Die neue Oberarmweite kontrollieren, wenn ok, dann fortfahren. Ggf. kann die Öffnung noch etwas verändert werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1584,
+          "top_left_y": 531,
+          "bottom_right_x": 2294,
+          "bottom_right_y": 666,
+          "content": "## 1 Kontrolle des neuen Ärmelkugel-Umfangs",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 666,
+          "bottom_right_x": 2490,
+          "bottom_right_y": 825,
+          "content": "A □3 Jetzt den gesamten neuen Ärmelkugel-Umfang über die Öffnungen hinweg nachmessen und mit dem gewünschten neuen Ärmelkugelumfang vergleichen. Fehlbetrag = ÄkU\\( _{min} \\) - nachgemessene neue ÄkU",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 825,
+          "bottom_right_x": 2481,
+          "bottom_right_y": 923,
+          "content": "\\[\n\\text { hier } = 5 3, 7 \\mathrm{cm} - 5 2, 5 \\mathrm{cm} = 1, 2 \\mathrm{cm}\n\\]",
+          "confidence_scores": null,
+          "type": "equation"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 923,
+          "bottom_right_x": 2270,
+          "bottom_right_y": 980,
+          "content": "## 1 Korrektur der neuen Ärmelkugel-Höhe",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 980,
+          "bottom_right_x": 2481,
+          "bottom_right_y": 1095,
+          "content": "A □4 Die Ärmelkugel oben um  \\( \\frac{1}{2} \\)  Fehlbetrag erhöhen und die Ärmelkugel wie skizziert formen,",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 1095,
+          "bottom_right_x": 2487,
+          "bottom_right_y": 1291,
+          "content": "dabei oben die neue Ärmelkugel parallel zur alten Ärmel-kugel formen und seitlich wenige Millimeter nach innen zeichnen. Jetzt müsste der neuen Ärmelkugel-umfang ungefähr die gewünschte Nahtlänge besitzen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 1270,
+          "bottom_right_x": 2499,
+          "bottom_right_y": 1413,
+          "content": "Um  \\( \\frac{1}{2} \\)  des Fehlbetragssollte der Ärmel am Saum gekürzt und geformt sowie ggf. der Abnäher angehoben werden.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1581,
+          "top_left_y": 1389,
+          "bottom_right_x": 2506,
+          "bottom_right_y": 1625,
+          "content": "Optional kann die Saumweite am Abnäher noch vergrößert werden (siehe auch Seite 211).\nAnschließend sollten noch der hintere Ärmelpunkt und der Schulterpunkt markiert werden (siehe Seite 207).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2570,
+          "top_left_y": 666,
+          "bottom_right_x": 2628,
+          "bottom_right_y": 747,
+          "content": "207\n208",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 2591,
+          "top_left_y": 1168,
+          "bottom_right_x": 2680,
+          "bottom_right_y": 1801,
+          "content": "Ärmelanpassung mit gleichzeitiger Kontrolle der Einhalteweite\n207",
+          "confidence_scores": null,
+          "type": "aside_text"
+        },
+        {
+          "top_left_x": 435,
+          "top_left_y": 1871,
+          "bottom_right_x": 1483,
+          "bottom_right_y": 3639,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 435,
+          "top_left_y": 3725,
+          "bottom_right_x": 919,
+          "bottom_right_y": 3884,
+          "content": "Ärmelanpassung für Armlochauflockerung und Schulterpolstererhöhung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1639,
+          "top_left_y": 1879,
+          "bottom_right_x": 2579,
+          "bottom_right_y": 3659,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1577,
+          "top_left_y": 3729,
+          "bottom_right_x": 1911,
+          "bottom_right_y": 3790,
+          "content": "□4 Neue Ärmelkugel",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2656,
+          "top_left_y": 3680,
+          "bottom_right_x": 2745,
+          "bottom_right_y": 3737,
+          "content": "219",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3823497
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s219.jpg",
+    "orientation": "EXIF-Orientierung angewendet",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      0,
+      0,
+      3060,
+      4080
+    ],
+    "cropped": false,
+    "note": "Bounding Boxes der OCR-Antwort beziehen sich auf das OCR-Eingabebild."
+  }
+}

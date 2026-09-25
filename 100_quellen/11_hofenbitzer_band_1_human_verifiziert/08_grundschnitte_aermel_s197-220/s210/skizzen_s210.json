@@ -1,0 +1,23 @@
+{
+  "seite": "s210",
+  "quelle": "ocr_s210_raw.json",
+  "hinweis_koordinaten": "bounding_box in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung 6 aufrecht gedreht (raw-Crop, danach 90° im Uhrzeigersinn rotiert).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s210_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [319, 270, 2009, 1259],
+      "beschreibung": "Ärmelkugel-Skizze zu □1 (Oberarmweite vergrößern, unveränderte Einhalteweite): Öffnung des schmalen Ärmels um je 1 cm, neue Ärmelkugel mit Hochstellung der Ärmelnähte um 1 cm, Punkte SuP/vÄP/hÄP, Maßlinie ÄkLi und nach Wunsch vergrößerte Oberarmweite eingezeichnet.",
+      "label_am_original": "□1 Oberarmweite vergrößern",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s210_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [1695, 1339, 3349, 2325],
+      "beschreibung": "Ärmelkugel-Skizze zu □2 (Oberarmweite vergrößern, verringerte Einhalteweite): wie □1, zusätzlich Ärmelnähte um 1 cm plus 3 cm Verringerung der Einhalteweite nach oben verlängert; schmaler Ärmel G38/PK3, Ärmellänge (ÄL) eingezeichnet.",
+      "label_am_original": "□2 Oberarmweite vergrößern und Einhalteweite verringern",
+      "geprueft": false
+    }
+  ]
+}

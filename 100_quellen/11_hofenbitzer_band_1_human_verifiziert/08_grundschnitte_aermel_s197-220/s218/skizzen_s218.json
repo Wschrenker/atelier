@@ -1,0 +1,25 @@
+{
+  "seite": "s218",
+  "quelle": "ocr_s218_raw.json",
+  "hinweis_koordinaten": "bounding_box_raw in Pixelorientierung der OCR-Eingabe (raw, unrotiert, 4080x3060, EXIF-Orientierung 6); die gespeicherten PNGs sind bereits gemäß EXIF-Orientierung aufrecht gedreht (Crop aus der aufrechten Vollseite 3060x4080, per Koordinatentransformation aus der raw-Bounding-Box berechnet).",
+  "skizzen": [
+    {
+      "datei": "skizzen/s218_skizze_01.png",
+      "ocr_id": "img-0",
+      "bounding_box_raw": [363, 224, 1197, 1538],
+      "bounding_box_aufrecht": [1522, 363, 2836, 1197],
+      "beschreibung": "Zwei nebeneinanderstehende Schnittteile VT (Vorderteil) und RT (Rückenteil) mit eingezeichneter Armlochauflockerung und Schulterpolstererhöhung. Am VT: '⅓ Schulterpolster-Erhöhung vorne hier 0,8 cm', blauer Punkt ① bei 'hier 24,2 cm', rote Kurve mit 'AlU = 24,2 cm + 26 cm = 50,2 cm', grüner Pfeil 'Armlochauflockerung hier 1,5 cm', Punktmarke vÄP. Am RT: '⅔ Schulterpolster-Erhöhung hinten hier 1,7 cm', blauer Punkt ① bei 'hier 26 cm', orangefarbene Kurve, 'hier 0,7 cm', Punktmarke hÄP. Oben mittig 'Schulterpolster-Erhöhung = 2,5 cm'. Bildunterschrift unter der Zeichnung: '□1 Armlochauflockerung und Schulterpolstererhöhung'.",
+      "label_am_original": "□1 Armlochauflockerung und Schulterpolstererhöhung",
+      "geprueft": false
+    },
+    {
+      "datei": "skizzen/s218_skizze_02.png",
+      "ocr_id": "img-1",
+      "bounding_box_raw": [1764, 230, 3406, 1167],
+      "bounding_box_aufrecht": [1893, 1764, 2830, 3406],
+      "beschreibung": "Ärmel-Grundschnitt (schmaler Ärmel) mit Ärmelkugel. Oben rechts 'ÄkU_ALT messen = 48,5 cm', blauer Punkt ②. An der Kugel blauer Punkt ③ mit Schere-Symbol und 'ca. 5 cm' (senkrechter Pfeil), Punktmarke vÄP. Mittig Beschriftung 'anzupassender schmaler Ärmel passend zum Oberteil-Grundschnitt'. Unten zwei Scheresymbole mit blauen Punkten ④ an gestrichelten Linien; am unteren Rand Pfeile 'üb' (links) und 'me' sowie '½ ½' (rechts).",
+      "label_am_original": "□2 Ärmelanpassung für Armlochauflockerung und Schulterpolstererhöhung (Bildunterschrift steht separat als Fließtext unter der Zeichnung, außerhalb dieses Ausschnitts, und ist bereits in ocr_s218.md enthalten)",
+      "geprueft": false
+    }
+  ]
+}

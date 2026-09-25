@@ -1,0 +1,335 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (5)\n\n# Einnaht-Ärmel für schlecht dehnbare Stoffe Blazerärmel\n\nC08\n\nFür schlecht dehnbare Stoffe muss der Dehnbetrag an der vorderen Ärmelnaht so gering wie möglich sein. Je näher die Ärmelnaht am vorderen Ärmelbruch (vÄBr) liegt, desto geringer ist der Dehnbetrag. Damit die Ärmelnaht wenig sichtbar bleibt, sollte der Abstand zum vÄBr mindestens 1,5 cm betragen.\n\nAuf dieser Doppelseite sind beide Konstruktionsvarianten gezeigt:\n\n1. Die Grundschnitt-Konstruktion:\n\n1. Saum, Ärmelnaht, Ärmelbrüche und Abnäher\n\nE □6 Weiterentwicklung von Seite 205: An der Saumlinie 2 bis 3 cm hochmessen und \\( \\frac{1}{2} \\) ASaW zur Saumlinie abtragen → Saum.\nAn der Ellenbogenlinie hinten (rechts) 0,5 bis 1 cm einstellen. Von P8 über die Einstellung weiter zum Saum zeichnen → hinterer Ärmelbruch.\n\n![img-0.jpeg](img-0.jpeg)\n\nSchmaler Ärmel-Grundschnitt Blazer Ärmel\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n□6\n\nÄrmelnaht, Abnäher und Saum\n\n□7\n\nDarstellung der inneren (gefärbten) Ärmelflächen\n\n□8\n\nUnterärmel-Flächen spiegeln (mit vorverlegter Ärmelnaht), Ärmelpunkte markieren und Oberarmweite kontrollieren\n\nAn der Ellenbogenlinie vorne 0,5 bis 1 cm für die Formung des Ärmels einstellen → vÄBr. Von Dort zum vÄP und zum vorderen Saum zeichnen.\nDie Armelnaht (AN) 1,5 bis 2,5 cm parallel zum vABr zeichnen.\n7 Nahtmarkierungen an die Armelnaht ca. 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.\n\n6 Ärmelflächen spiegeln\n\n7+8 Die Armelflächen an vAbr und hAbr nach außen spiegeln.\nA Am vABr entsteht bei die sem Ärmel ein sehr geringer Überschneidungsbetrag an der Ellenbogenlinie. Um diese Strecke ist die\n\nvÄN kürzer als die hÄN.\n\nHier muss der zugeschnittene Ärmel zwischen den Knipsen weniger gedehnt werden. Dieser Dehnbetrag ist so klein, weil die Ärmelnaht (bei P16) so nah beim vÄBr verläuft.\n\nBeim Nähen muss die Ärmelnaht glatt sein und die Knipse exakt passen!\n\n7 Ärmelpunkte und Oberarmweite\n\nA □8 Den gesamten vAlu auf der vorderen Armelkugel abtragen und oben einen Strich markieren.\nDie hAchsel an der hinteren Armelkugel + EW (0,5 cm bis 1 cm) übertragen. Bei kleiner EW ist 0,5 cm, bei\n\ngroßer EW ist 1 cm, bei mittlerer ist 0,7 cm zu addieren.\n\nVon Dort die Armloch-Nahtlänge zwischen hAp und SuP an der hinteren oberen Armelkugel abtragen und auch hier einen Strich markieren.\nDen SuP bei \\(1 / 2\\) im vorderen Bereich markieren. Somit ist hinten \\(1 / 2\\), also mehr EW vorhanden.\nEin zweiter Knips wird 1 cm oberhalb des hAP markiert. Damit ist der hintere Armelbereich eindeutig definiert.\nDie Oberamweite (OaW) auf der Hälfte zwischen SuP und Ellenbogenlinie waagerecht kontrollieren.\n\n208",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 2012,
+          "top_left_y": 221,
+          "bottom_right_x": 2846,
+          "bottom_right_y": 2442,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 662,
+          "top_left_y": 919,
+          "bottom_right_x": 1388,
+          "bottom_right_y": 2389,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 1440,
+          "top_left_y": 931,
+          "bottom_right_x": 1902,
+          "bottom_right_y": 2401,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 4080,
+        "width": 3060
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 999,
+          "top_left_y": 20,
+          "bottom_right_x": 2512,
+          "bottom_right_y": 90,
+          "content": "# Schmaler Ärmel-Grundschnitt mit hoher Ärmelkugel (5)",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 999,
+          "top_left_y": 90,
+          "bottom_right_x": 2518,
+          "bottom_right_y": 151,
+          "content": "# Einnaht-Ärmel für schlecht dehnbare Stoffe Blazerärmel",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 588,
+          "top_left_y": 261,
+          "bottom_right_x": 652,
+          "bottom_right_y": 302,
+          "content": "C08",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 747,
+          "top_left_y": 274,
+          "bottom_right_x": 1366,
+          "bottom_right_y": 666,
+          "content": "Für schlecht dehnbare Stoffe muss der Dehnbetrag an der vorderen Ärmelnaht so gering wie möglich sein. Je näher die Ärmelnaht am vorderen Ärmelbruch (vÄBr) liegt, desto geringer ist der Dehnbetrag. Damit die Ärmelnaht wenig sichtbar bleibt, sollte der Abstand zum vÄBr mindestens 1,5 cm betragen.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 735,
+          "top_left_y": 678,
+          "bottom_right_x": 1348,
+          "bottom_right_y": 772,
+          "content": "Auf dieser Doppelseite sind beide Konstruktionsvarianten gezeigt:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 735,
+          "top_left_y": 784,
+          "bottom_right_x": 1320,
+          "bottom_right_y": 833,
+          "content": "1. Die Grundschnitt-Konstruktion:",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1452,
+          "top_left_y": 274,
+          "bottom_right_x": 2095,
+          "bottom_right_y": 363,
+          "content": "1. Saum, Ärmelnaht, Ärmelbrüche und Abnäher",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1430,
+          "top_left_y": 380,
+          "bottom_right_x": 2092,
+          "bottom_right_y": 751,
+          "content": "E □6 Weiterentwicklung von Seite 205: An der Saumlinie 2 bis 3 cm hochmessen und \\( \\frac{1}{2} \\) ASaW zur Saumlinie abtragen → Saum.\nAn der Ellenbogenlinie hinten (rechts) 0,5 bis 1 cm einstellen. Von P8 über die Einstellung weiter zum Saum zeichnen → hinterer Ärmelbruch.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2012,
+          "top_left_y": 221,
+          "bottom_right_x": 2846,
+          "bottom_right_y": 2442,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 512,
+          "top_left_y": 878,
+          "bottom_right_x": 597,
+          "bottom_right_y": 1405,
+          "content": "Schmaler Ärmel-Grundschnitt Blazer Ärmel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 662,
+          "top_left_y": 919,
+          "bottom_right_x": 1388,
+          "bottom_right_y": 2389,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 1440,
+          "top_left_y": 931,
+          "bottom_right_x": 1902,
+          "bottom_right_y": 2401,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 643,
+          "top_left_y": 2422,
+          "bottom_right_x": 695,
+          "bottom_right_y": 2463,
+          "content": "□6",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 732,
+          "top_left_y": 2426,
+          "bottom_right_x": 1195,
+          "bottom_right_y": 2471,
+          "content": "Ärmelnaht, Abnäher und Saum",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1363,
+          "top_left_y": 2414,
+          "bottom_right_x": 1415,
+          "bottom_right_y": 2455,
+          "content": "□7",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1430,
+          "top_left_y": 2414,
+          "bottom_right_x": 1795,
+          "bottom_right_y": 2499,
+          "content": "Darstellung der inneren (gefärbten) Ärmelflächen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2015,
+          "top_left_y": 2446,
+          "bottom_right_x": 2068,
+          "bottom_right_y": 2483,
+          "content": "□8",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2083,
+          "top_left_y": 2450,
+          "bottom_right_x": 2741,
+          "bottom_right_y": 2581,
+          "content": "Unterärmel-Flächen spiegeln (mit vorverlegter Ärmelnaht), Ärmelpunkte markieren und Oberarmweite kontrollieren",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 600,
+          "top_left_y": 2573,
+          "bottom_right_x": 1290,
+          "bottom_right_y": 3051,
+          "content": "An der Ellenbogenlinie vorne 0,5 bis 1 cm für die Formung des Ärmels einstellen → vÄBr. Von Dort zum vÄP und zum vorderen Saum zeichnen.\nDie Armelnaht (AN) 1,5 bis 2,5 cm parallel zum vABr zeichnen.\n7 Nahtmarkierungen an die Armelnaht ca. 8 cm oberhalb und unterhalb der Ellenbogenlinie anbringen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 606,
+          "top_left_y": 3055,
+          "bottom_right_x": 1078,
+          "bottom_right_y": 3112,
+          "content": "6 Ärmelflächen spiegeln",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 597,
+          "top_left_y": 3116,
+          "bottom_right_x": 1262,
+          "bottom_right_y": 3439,
+          "content": "7+8 Die Armelflächen an vAbr und hAbr nach außen spiegeln.\nA Am vABr entsteht bei die sem Ärmel ein sehr geringer Überschneidungsbetrag an der Ellenbogenlinie. Um diese Strecke ist die",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1363,
+          "top_left_y": 2618,
+          "bottom_right_x": 1761,
+          "bottom_right_y": 2675,
+          "content": "vÄN kürzer als die hÄN.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1351,
+          "top_left_y": 2687,
+          "bottom_right_x": 2003,
+          "bottom_right_y": 2936,
+          "content": "Hier muss der zugeschnittene Ärmel zwischen den Knipsen weniger gedehnt werden. Dieser Dehnbetrag ist so klein, weil die Ärmelnaht (bei P16) so nah beim vÄBr verläuft.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1348,
+          "top_left_y": 2945,
+          "bottom_right_x": 1997,
+          "bottom_right_y": 3055,
+          "content": "Beim Nähen muss die Ärmelnaht glatt sein und die Knipse exakt passen!",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1335,
+          "top_left_y": 3083,
+          "bottom_right_x": 1997,
+          "bottom_right_y": 3145,
+          "content": "7 Ärmelpunkte und Oberarmweite",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1317,
+          "top_left_y": 3149,
+          "bottom_right_x": 2003,
+          "bottom_right_y": 3476,
+          "content": "A □8 Den gesamten vAlu auf der vorderen Armelkugel abtragen und oben einen Strich markieren.\nDie hAchsel an der hinteren Armelkugel + EW (0,5 cm bis 1 cm) übertragen. Bei kleiner EW ist 0,5 cm, bei",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2077,
+          "top_left_y": 2655,
+          "bottom_right_x": 2754,
+          "bottom_right_y": 2753,
+          "content": "großer EW ist 1 cm, bei mittlerer ist 0,7 cm zu addieren.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2058,
+          "top_left_y": 2769,
+          "bottom_right_x": 2751,
+          "bottom_right_y": 3500,
+          "content": "Von Dort die Armloch-Nahtlänge zwischen hAp und SuP an der hinteren oberen Armelkugel abtragen und auch hier einen Strich markieren.\nDen SuP bei \\(1 / 2\\) im vorderen Bereich markieren. Somit ist hinten \\(1 / 2\\), also mehr EW vorhanden.\nEin zweiter Knips wird 1 cm oberhalb des hAP markiert. Damit ist der hintere Armelbereich eindeutig definiert.\nDie Oberamweite (OaW) auf der Hälfte zwischen SuP und Ellenbogenlinie waagerecht kontrollieren.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 386,
+          "top_left_y": 3394,
+          "bottom_right_x": 478,
+          "bottom_right_y": 3447,
+          "content": "208",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 4187715
+  },
+  "_atelier_input": {
+    "original": "../../../20_hofenbitzer_band_1_bilder/01_Photos_hofenb_ba1_total/s208.jpg",
+    "orientation": "EXIF-Orientierung angewendet",
+    "upright_size": [
+      3060,
+      4080
+    ],
+    "crop_box_in_upright_px": [
+      0,
+      0,
+      3060,
+      4080
+    ],
+    "cropped": false,
+    "note": "Bounding Boxes der OCR-Antwort beziehen sich auf das OCR-Eingabebild."
+  }
+}

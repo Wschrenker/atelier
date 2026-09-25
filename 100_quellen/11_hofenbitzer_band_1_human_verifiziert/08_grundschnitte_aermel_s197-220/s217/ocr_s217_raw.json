@@ -1,0 +1,258 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ärmelanpassung nach Armlochauflockerung\n\n![img-0.jpeg](img-0.jpeg)\n\nLiegt das Armloch eines Schnittes sehr eng am Körper an, z.B. bei engen Oberteilgrundschnitten mit Brustabnäher, kann in das vordere und hintere Armloch etwas Mehrweite geben werden, z.B. wenn ein Pullover unter dem Kleidungsstück getragen werden soll.\n\nGrundsätzlich sollten die Auflockerungsbeträge vorne eher etwas größer sein als hinten.\n\nModelle ohne Ärmel erhalten in der Regel keine Armlochauflockerung.\n\n☐1 Armlochauflockerung\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n☐2 Armlochauflockerung am Schnitt\n\n![img-3.jpeg](img-3.jpeg)\n\n☐3 Alternative Armlochauflockerung hinten\n\n![img-4.jpeg](img-4.jpeg)\n\n☐4 Schulterabnäher durch die Armlochauflockerung entfernen\n\n# 1 Armlochauflockerung\n\n1 ☐2 Die Armlocher oberhalb der Ärmelpunkte zu den Abnäherspitzen einschneiden und wie skizziert formen.\n2 ☐3 Alternativ kann auch der Einschnitt zur Schulterblatt-Linie verlängert werden.\n3 ☐4 Ist die Armlochauflockerung größer, kann der Schulterabnäher auch entfallen.\n\n# 2 Ärmelanpassung\n\n4 ☐5 Eine Hilfslinie ca. 5 cm unterhalb der Kugel einzeichnen und von deren Enden,\n5 wie dargestellt, bis zum Saum einschneiden.\n6 Den Ärmel vorne und hinten wie skizziert längs durchschneiden und vorne und hinten ¼ bis ½ der gesamten Armlochauflockerung öffnen. Durch eine kleinere Öffnung verringert sich die Einhalteweite.\n7 Für eine harmonische Ärmelform sollte am Saum ebenfalls geöffnet werden.\n8 Anschließend die Kugel um ¼ bis ½ der gesamten Armlochauflockerung erhöhen. Durch eine kleinere Erhöhung verringert sich die Einhalteweite.\n9 Die Kugelnaht ca. mittig an der Öffnung neu formen, so dass die Kugel ausreichend - aber nicht zu breit wird.\n10 Die Ärmellänge am Saum sollte um die Erhöhung an der Kugel wieder gekürzt und geformt werden. Die Ärmelsaumwerte wird am Abnäher reguliert (siehe Seite 211).\n\nSinnvollerweise sollten der SuP und der hAP neu markiert werden (siehe Seite 207).\n\nÄrmelanpassung nach Armloch-Auflockerung\n\n217",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 388,
+          "top_left_y": 1709,
+          "bottom_right_x": 948,
+          "bottom_right_y": 1994,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 1115,
+          "top_left_y": 1645,
+          "bottom_right_x": 1895,
+          "bottom_right_y": 2821,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 2067,
+          "top_left_y": 588,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 1443,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 2026,
+          "top_left_y": 1770,
+          "bottom_right_x": 2871,
+          "bottom_right_y": 2475,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 3051,
+          "top_left_y": 1645,
+          "bottom_right_x": 3941,
+          "bottom_right_y": 2720,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 172,
+          "top_left_y": 1495,
+          "bottom_right_x": 359,
+          "bottom_right_y": 2729,
+          "content": "# Ärmelanpassung nach Armlochauflockerung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 388,
+          "top_left_y": 1709,
+          "bottom_right_x": 948,
+          "bottom_right_y": 1994,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 437,
+          "top_left_y": 2028,
+          "bottom_right_x": 780,
+          "bottom_right_y": 2729,
+          "content": "Liegt das Armloch eines Schnittes sehr eng am Körper an, z.B. bei engen Oberteilgrundschnitten mit Brustabnäher, kann in das vordere und hintere Armloch etwas Mehrweite geben werden, z.B. wenn ein Pullover unter dem Kleidungsstück getragen werden soll.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 784,
+          "top_left_y": 2028,
+          "bottom_right_x": 943,
+          "bottom_right_y": 2729,
+          "content": "Grundsätzlich sollten die Auflockerungsbeträge vorne eher etwas größer sein als hinten.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 952,
+          "top_left_y": 2028,
+          "bottom_right_x": 1070,
+          "bottom_right_y": 2729,
+          "content": "Modelle ohne Ärmel erhalten in der Regel keine Armlochauflockerung.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 984,
+          "top_left_y": 1669,
+          "bottom_right_x": 1082,
+          "bottom_right_y": 1951,
+          "content": "☐1 Armlochauflockerung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 1115,
+          "top_left_y": 1645,
+          "bottom_right_x": 1895,
+          "bottom_right_y": 2821,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 2067,
+          "top_left_y": 588,
+          "bottom_right_x": 3802,
+          "bottom_right_y": 1443,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 1915,
+          "top_left_y": 2101,
+          "bottom_right_x": 1960,
+          "bottom_right_y": 2723,
+          "content": "☐2 Armlochauflockerung am Schnitt",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 2026,
+          "top_left_y": 1770,
+          "bottom_right_x": 2871,
+          "bottom_right_y": 2475,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 2887,
+          "top_left_y": 1743,
+          "bottom_right_x": 2936,
+          "bottom_right_y": 2506,
+          "content": "☐3 Alternative Armlochauflockerung hinten",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3051,
+          "top_left_y": 1645,
+          "bottom_right_x": 3941,
+          "bottom_right_y": 2720,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 3949,
+          "top_left_y": 1642,
+          "bottom_right_x": 4019,
+          "bottom_right_y": 2695,
+          "content": "☐4 Schulterabnäher durch die Armlochauflockerung entfernen",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 531,
+          "top_left_y": 1170,
+          "bottom_right_x": 625,
+          "bottom_right_y": 1599,
+          "content": "# 1 Armlochauflockerung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 625,
+          "top_left_y": 677,
+          "bottom_right_x": 939,
+          "bottom_right_y": 1599,
+          "content": "1 ☐2 Die Armlocher oberhalb der Ärmelpunkte zu den Abnäherspitzen einschneiden und wie skizziert formen.\n2 ☐3 Alternativ kann auch der Einschnitt zur Schulterblatt-Linie verlängert werden.\n3 ☐4 Ist die Armlochauflockerung größer, kann der Schulterabnäher auch entfallen.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 948,
+          "top_left_y": 1256,
+          "bottom_right_x": 1013,
+          "bottom_right_y": 1590,
+          "content": "# 2 Ärmelanpassung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1013,
+          "top_left_y": 619,
+          "bottom_right_x": 1928,
+          "bottom_right_y": 1590,
+          "content": "4 ☐5 Eine Hilfslinie ca. 5 cm unterhalb der Kugel einzeichnen und von deren Enden,\n5 wie dargestellt, bis zum Saum einschneiden.\n6 Den Ärmel vorne und hinten wie skizziert längs durchschneiden und vorne und hinten ¼ bis ½ der gesamten Armlochauflockerung öffnen. Durch eine kleinere Öffnung verringert sich die Einhalteweite.\n7 Für eine harmonische Ärmelform sollte am Saum ebenfalls geöffnet werden.\n8 Anschließend die Kugel um ¼ bis ½ der gesamten Armlochauflockerung erhöhen. Durch eine kleinere Erhöhung verringert sich die Einhalteweite.\n9 Die Kugelnaht ca. mittig an der Öffnung neu formen, so dass die Kugel ausreichend - aber nicht zu breit wird.\n10 Die Ärmellänge am Saum sollte um die Erhöhung an der Kugel wieder gekürzt und geformt werden. Die Ärmelsaumwerte wird am Abnäher reguliert (siehe Seite 211).",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 1944,
+          "top_left_y": 606,
+          "bottom_right_x": 2042,
+          "bottom_right_y": 1568,
+          "content": "Sinnvollerweise sollten der SuP und der hAP neu markiert werden (siehe Seite 207).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1258,
+          "top_left_y": 450,
+          "bottom_right_x": 1736,
+          "bottom_right_y": 536,
+          "content": "Ärmelanpassung nach Armloch-Auflockerung",
+          "confidence_scores": null,
+          "type": "caption"
+        },
+        {
+          "top_left_x": 3717,
+          "top_left_y": 312,
+          "bottom_right_x": 3774,
+          "bottom_right_y": 395,
+          "content": "217",
+          "confidence_scores": null,
+          "type": "footer"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3724724
+  }
+}

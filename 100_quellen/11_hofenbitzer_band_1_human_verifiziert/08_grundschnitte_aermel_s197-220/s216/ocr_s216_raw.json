@@ -1,0 +1,368 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Ärmelanpassung nach Schulterpolster-Erhöhung\n\n![img-0.jpeg](img-0.jpeg)\n\n![img-1.jpeg](img-1.jpeg)\n\n![img-2.jpeg](img-2.jpeg)\n\n![img-3.jpeg](img-3.jpeg)\n\n![img-4.jpeg](img-4.jpeg)\n\n![img-5.jpeg](img-5.jpeg)\n\n![img-6.jpeg](img-6.jpeg)\n\nÄrmelanpassung\nnach Schulterpolster-Erhöhung\n\n☐1\n\nSchulterpolster auflegen\nund Nadeln stecken\n\n☐2\n\nÜber das Schulterpolster von\nNadel zu Nadel messen\n\n☐3\n\nOhne das Polster von\nNadel zu Nadel messen\n\n☐4 Geringe Schulterpolster-Erhöhung\n\n☐5\n\nGrößere Schulterpolster-Erhöhung mit Schulterverbreiterung\n\n# 1 Bestimmung der Schulterpolster-Erhöhung\n\n☐1-3 Zur Bestimmung des Betrags, um den die Schulter erhöht werden muss, wird ein Schulterpolster auf eine Büste gesteckt und unterhalb der Enden vorne und hinten mit zwei Nadeln an der Büste markiert. Über das Schulterpolster wird von Nadel zu Nadel gemessen. Dann nimmt man das Schulterpolster ab und misst dieselbe Strecke ohne Schulterpolster. Die Differenz beider Maße ist die benötigte Schulterpolster-Erhöhung.\n\n# 2 Schulterpolster-Erhöhung am Schnitt\n\n4 Die Schultern wie skizziert erhöhen und die Schulternahnt leicht 5-förmig bis zum Abnaher zeichnen.\nD5 Bei einer größeren Erhöhung kann gleichzeitig eine leichte Schulter-Verbreiterung von wenigen Millimetern am VT und am RT identisch vorgenommen werden.\nDie hintere Schulternaht wird bei großer Schulter-Erhöhung schöner, wenn die Naht bis kurz vor das Halsloch geformt wird.\n\n# 3 Ärmelanpassung für identische Einhalteweite\n\n4 6 Die Armelkugel bei ca. 5 cm kappen und\nwie dargestellt, bis zum Saum einschneiden.\nAn der waagerechten Öffnungen um ca. \\(1/2\\) Schulterpolster-Erhöhung = ungebahre Polsterdicke öffnen.\nFur einen proportional ausgewogenen Armel jeweils die halbe waagerechte Öffnung \\(1/2\\) Polsterdicke auch senkrecht öffnen. Am Saum kann (wie auf folgender Seite) derselbe Betrag geöffnet werden (hier allerdings ohne Öffnung dargestellt).\nDie Kugelnaht außen über die Öffnungen formen. Die Kugel erhält für das Polster die nötige Breite und Mehrlänge.\n\nSinnvollerweise sollten der SuP und der hAP neu markiert werden (siehe Seite 207).\n\n☐6 Ärmelanpassung für eine Schulterpolster-Erhöhung\n\nFRM\n\n216\n\nLiegt\neng\nteilg\nkann\nloch\nz.B.\ndung\nGrun\nrung\nsein\nNod\ngel\n\nDer\nOb\nder\nder\nne",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 163,
+          "top_left_y": 444,
+          "bottom_right_x": 792,
+          "bottom_right_y": 873,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-1.jpeg",
+          "top_left_x": 204,
+          "top_left_y": 1875,
+          "bottom_right_x": 809,
+          "bottom_right_y": 2285,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-2.jpeg",
+          "top_left_x": 184,
+          "top_left_y": 1130,
+          "bottom_right_x": 800,
+          "bottom_right_y": 1553,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-3.jpeg",
+          "top_left_x": 225,
+          "top_left_y": 1875,
+          "bottom_right_x": 809,
+          "bottom_right_y": 2285,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-4.jpeg",
+          "top_left_x": 948,
+          "top_left_y": 1216,
+          "bottom_right_x": 1662,
+          "bottom_right_y": 2487,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-5.jpeg",
+          "top_left_x": 948,
+          "top_left_y": 0,
+          "bottom_right_x": 1679,
+          "bottom_right_y": 1170,
+          "image_base64": null,
+          "image_annotation": null
+        },
+        {
+          "id": "img-6.jpeg",
+          "top_left_x": 1834,
+          "top_left_y": 270,
+          "bottom_right_x": 3602,
+          "bottom_right_y": 1204,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 200,
+        "height": 3060,
+        "width": 4080
+      },
+      "confidence_scores": null,
+      "blocks": [
+        {
+          "top_left_x": 0,
+          "top_left_y": 812,
+          "bottom_right_x": 98,
+          "bottom_right_y": 2187,
+          "content": "# Ärmelanpassung nach Schulterpolster-Erhöhung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 163,
+          "top_left_y": 444,
+          "bottom_right_x": 792,
+          "bottom_right_y": 873,
+          "content": "![img-0.jpeg](img-0.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-0.jpeg"
+        },
+        {
+          "top_left_x": 204,
+          "top_left_y": 1875,
+          "bottom_right_x": 809,
+          "bottom_right_y": 2285,
+          "content": "![img-1.jpeg](img-1.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-1.jpeg"
+        },
+        {
+          "top_left_x": 184,
+          "top_left_y": 1130,
+          "bottom_right_x": 800,
+          "bottom_right_y": 1553,
+          "content": "![img-2.jpeg](img-2.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-2.jpeg"
+        },
+        {
+          "top_left_x": 225,
+          "top_left_y": 1875,
+          "bottom_right_x": 809,
+          "bottom_right_y": 2285,
+          "content": "![img-3.jpeg](img-3.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-3.jpeg"
+        },
+        {
+          "top_left_x": 948,
+          "top_left_y": 1216,
+          "bottom_right_x": 1662,
+          "bottom_right_y": 2487,
+          "content": "![img-4.jpeg](img-4.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-4.jpeg"
+        },
+        {
+          "top_left_x": 948,
+          "top_left_y": 0,
+          "bottom_right_x": 1679,
+          "bottom_right_y": 1170,
+          "content": "![img-5.jpeg](img-5.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-5.jpeg"
+        },
+        {
+          "top_left_x": 1834,
+          "top_left_y": 270,
+          "bottom_right_x": 3602,
+          "bottom_right_y": 1204,
+          "content": "![img-6.jpeg](img-6.jpeg)",
+          "confidence_scores": null,
+          "type": "image",
+          "image_id": "img-6.jpeg"
+        },
+        {
+          "top_left_x": 911,
+          "top_left_y": 2570,
+          "bottom_right_x": 1487,
+          "bottom_right_y": 2674,
+          "content": "Ärmelanpassung\nnach Schulterpolster-Erhöhung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 825,
+          "top_left_y": 2325,
+          "bottom_right_x": 862,
+          "bottom_right_y": 2374,
+          "content": "☐1",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 825,
+          "top_left_y": 1914,
+          "bottom_right_x": 898,
+          "bottom_right_y": 2285,
+          "content": "Schulterpolster auflegen\nund Nadeln stecken",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 813,
+          "top_left_y": 1587,
+          "bottom_right_x": 854,
+          "bottom_right_y": 1639,
+          "content": "☐2",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 813,
+          "top_left_y": 1087,
+          "bottom_right_x": 886,
+          "bottom_right_y": 1553,
+          "content": "Über das Schulterpolster von\nNadel zu Nadel messen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 805,
+          "top_left_y": 904,
+          "bottom_right_x": 845,
+          "bottom_right_y": 956,
+          "content": "☐3",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 805,
+          "top_left_y": 484,
+          "bottom_right_x": 882,
+          "bottom_right_y": 864,
+          "content": "Ohne das Polster von\nNadel zu Nadel messen",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1699,
+          "top_left_y": 1599,
+          "bottom_right_x": 1748,
+          "bottom_right_y": 2202,
+          "content": "☐4 Geringe Schulterpolster-Erhöhung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1699,
+          "top_left_y": 1247,
+          "bottom_right_x": 1744,
+          "bottom_right_y": 1305,
+          "content": "☐5",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1699,
+          "top_left_y": 270,
+          "bottom_right_x": 1752,
+          "bottom_right_y": 1210,
+          "content": "Größere Schulterpolster-Erhöhung mit Schulterverbreiterung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 1903,
+          "top_left_y": 1611,
+          "bottom_right_x": 1956,
+          "bottom_right_y": 2487,
+          "content": "# 1 Bestimmung der Schulterpolster-Erhöhung",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 1973,
+          "top_left_y": 1348,
+          "bottom_right_x": 2308,
+          "bottom_right_y": 2509,
+          "content": "☐1-3 Zur Bestimmung des Betrags, um den die Schulter erhöht werden muss, wird ein Schulterpolster auf eine Büste gesteckt und unterhalb der Enden vorne und hinten mit zwei Nadeln an der Büste markiert. Über das Schulterpolster wird von Nadel zu Nadel gemessen. Dann nimmt man das Schulterpolster ab und misst dieselbe Strecke ohne Schulterpolster. Die Differenz beider Maße ist die benötigte Schulterpolster-Erhöhung.",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2344,
+          "top_left_y": 1721,
+          "bottom_right_x": 2393,
+          "bottom_right_y": 2503,
+          "content": "# 2 Schulterpolster-Erhöhung am Schnitt",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2410,
+          "top_left_y": 1354,
+          "bottom_right_x": 2814,
+          "bottom_right_y": 2524,
+          "content": "4 Die Schultern wie skizziert erhöhen und die Schulternahnt leicht 5-förmig bis zum Abnaher zeichnen.\nD5 Bei einer größeren Erhöhung kann gleichzeitig eine leichte Schulter-Verbreiterung von wenigen Millimetern am VT und am RT identisch vorgenommen werden.\nDie hintere Schulternaht wird bei großer Schulter-Erhöhung schöner, wenn die Naht bis kurz vor das Halsloch geformt wird.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 2847,
+          "top_left_y": 1574,
+          "bottom_right_x": 2904,
+          "bottom_right_y": 2524,
+          "content": "# 3 Ärmelanpassung für identische Einhalteweite",
+          "confidence_scores": null,
+          "type": "title"
+        },
+        {
+          "top_left_x": 2912,
+          "top_left_y": 1360,
+          "bottom_right_x": 3529,
+          "bottom_right_y": 2542,
+          "content": "4 6 Die Armelkugel bei ca. 5 cm kappen und\nwie dargestellt, bis zum Saum einschneiden.\nAn der waagerechten Öffnungen um ca. \\(1/2\\) Schulterpolster-Erhöhung = ungebahre Polsterdicke öffnen.\nFur einen proportional ausgewogenen Armel jeweils die halbe waagerechte Öffnung \\(1/2\\) Polsterdicke auch senkrecht öffnen. Am Saum kann (wie auf folgender Seite) derselbe Betrag geöffnet werden (hier allerdings ohne Öffnung dargestellt).\nDie Kugelnaht außen über die Öffnungen formen. Die Kugel erhält für das Polster die nötige Breite und Mehrlänge.",
+          "confidence_scores": null,
+          "type": "list"
+        },
+        {
+          "top_left_x": 3529,
+          "top_left_y": 1363,
+          "bottom_right_x": 3631,
+          "bottom_right_y": 2548,
+          "content": "Sinnvollerweise sollten der SuP und der hAP neu markiert werden (siehe Seite 207).",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3627,
+          "top_left_y": 291,
+          "bottom_right_x": 3692,
+          "bottom_right_y": 1210,
+          "content": "☐6 Ärmelanpassung für eine Schulterpolster-Erhöhung",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3529,
+          "top_left_y": 2659,
+          "bottom_right_x": 3574,
+          "bottom_right_y": 2748,
+          "content": "FRM",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 3614,
+          "top_left_y": 2668,
+          "bottom_right_x": 3668,
+          "bottom_right_y": 2766,
+          "content": "216",
+          "confidence_scores": null,
+          "type": "footer"
+        },
+        {
+          "top_left_x": 306,
+          "top_left_y": 0,
+          "bottom_right_x": 894,
+          "bottom_right_y": 98,
+          "content": "Liegt\neng\nteilg\nkann\nloch\nz.B.\ndung\nGrun\nrung\nsein\nNod\ngel",
+          "confidence_scores": null,
+          "type": "text"
+        },
+        {
+          "top_left_x": 2789,
+          "top_left_y": 0,
+          "bottom_right_x": 2990,
+          "bottom_right_y": 52,
+          "content": "Der\nOb\nder\nder\nne",
+          "confidence_scores": null,
+          "type": "text"
+        }
+      ]
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 3761896
+  }
+}
