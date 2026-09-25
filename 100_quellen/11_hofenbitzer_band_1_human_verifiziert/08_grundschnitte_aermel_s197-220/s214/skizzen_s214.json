@@ -1,0 +1,38 @@
+{
+  "source": "s214.jpg (Originalbild, EXIF-Orientierung 6, 4080 × 3060 px)",
+  "ocr_eingabe": "Vollseite, unverändertes Originalbild (Rohdaten, nicht vorgedreht)",
+  "bbox_bezug": "Pixel der OCR-Eingabe (Rohorientierung, 4080 × 3060 px)",
+  "ausschnitte": "aus dem Rohbild geschnitten und anschließend 90° im Uhrzeigersinn aufrecht gedreht (entsprechend EXIF-Orientierung 6)",
+  "status": "OCR-Rohfassung – noch nicht menschlich verifiziert",
+  "regions": [
+    {
+      "id": "img-0.jpeg",
+      "file": "skizzen/s214_skizze_01.png",
+      "bbox_raw_pixels": [462, 285, 1180, 977],
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "beschreibung": "Obere rechte Skizze (ohne eigene □-Bildunterschrift, gehört zum Abschnitt „1 Ärmelnaht an den tP verlegen“): Vorderteil-Musterstück mit zwei überlagerten Konturen, Labels hÄP (zweifach), neue BrLi, Armloch-Vertiefung, SN 2/3"
+    },
+    {
+      "id": "img-1.jpeg",
+      "file": "skizzen/s214_skizze_02.png",
+      "bbox_raw_pixels": [1470, 1697, 2961, 2570],
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "beschreibung": "□2: Ärmelschnittteil in zwei Teilen mit SuP, vÄP, hÄP, Beschriftungen „verschieben“/„nicht spiegeln!“, Scherensymbolen, vordere/hintere Ärmelnaht, tP, schmaler Ärmel G 38 PK 3, Kreismarkierungen 1/2"
+    },
+    {
+      "id": "img-2.jpeg",
+      "file": "skizzen/s214_skizze_03.png",
+      "bbox_raw_pixels": [1948, 285, 3500, 1630],
+      "herkunft": "von der OCR als Bildregion erkannt",
+      "beschreibung": "□3: Ärmelschnittteil mit SuP, vÄP, hÄP, neue ÄkLi, Beschriftungen ½ bis ganze Armlochvertiefung (Normwert = ¾), ½ der Armloch-Verbreiterung, ganze Armloch-Verbreiterung, vÄBr, hÄBr, schmaler Ärmel G 38 PK 3, Kreismarkierungen 1/2/3, Ausrufezeichen-Marke"
+    },
+    {
+      "id": "manuell-01",
+      "file": "skizzen/s214_skizze_04.png",
+      "bbox_raw_pixels": [370, 1660, 1210, 2460],
+      "herkunft": "von der OCR nicht als Bildregion erkannt, manuell ergänzt",
+      "beschreibung": "□1: Grundschnitt (VT) mit vertieftem und verbreitertem Armloch (ab Seite 191): Labels VM, VT, BrP, vÄP (zweifach), Armloch-Vertiefung, neue BrLi, SN, 1/3; oben links Verweiskachel „208“; am rechten Rand beginnt eine grün/schwarze Verbindungslinie mit blauer Kreismarkierung „6“ zur benachbarten Skizze (skizze_01), die im Ausschnitt nicht vollständig enthalten ist"
+    }
+  ],
+  "anmerkung": "Vier Zeichnungen liegen auf dieser Seite: drei wurden von der OCR als Bildregionen erkannt (skizze_01–skizze_03), die vierte (□1-Grundschnitt oben links) wurde von der OCR nicht erkannt und ist manuell als skizze_04 ergänzt. Alle vier wurden gegen das vollständige Originalbild geprüft; keine weitere Zeichnung der Besitzerseite wurde übersehen. Diese Seite enthält keine Tabelle."
+}
